@@ -1,0 +1,24 @@
+{
+    "novels":{
+        "filename1":{
+            "title":"",
+            "year":0,
+            "month":0
+        },
+        "filename2":{}
+    },
+    "collections":{
+        "collection_1":{
+            "title":"",
+            "stories":{
+                "filename1":{
+                    "title":"",
+                    "year":0,
+                    "month":0
+                },
+                "filename2":{}
+            }
+        },
+        "collection_2":{}
+    }
+}
