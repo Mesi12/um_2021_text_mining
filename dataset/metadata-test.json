@@ -1,4 +1,26 @@
 {
+    "collections": {
+        "1_the_adventures_of_sherlock_holmes": {
+            "stories": "the_man_with_the_twisted_lip",
+            "title": "The Adventures of Sherlock Holmes"
+        },
+        "2_the_memoirs_of_sherlock_holmes": {
+            "stories": "the_yellow_face",
+            "title": "The Memoirs of Sherlock Holmes"
+        },
+        "3_the_return_of_sherlock_holmes": {
+            "stories": "the_adventure_of_the_solitary_cyclist",
+            "title": "The Return of Sherlock Holmes"
+        },
+        "4_his_last_bow": {
+            "stories": "the_adventure_of_wisteria_lodge",
+            "title": "His Last Bow"
+        },
+        "5_the_case_book_of_sherlock_holmes": {
+            "stories": "the_adventure_of_the_veiled_lodger",
+            "title": "The Case-Book of Sherlock Holmes"
+        }
+    },
     "novels": {
         "a_study_in_scarlet": {
             "title": "A STUDY IN SCARLET"
@@ -12,6 +34,5 @@
         "the_valley_of_fear": {
             "title": "THE VALLEY OF FEAR"
         }
-    },
-    "stories": {}
+    }
 }
