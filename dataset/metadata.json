@@ -1,24 +1,211 @@
 {
-    "novels":{
-        "filename1":{
-            "title":"",
-            "year":0,
-            "month":0
-        },
-        "filename2":{}
-    },
-    "collections":{
-        "collection_1":{
-            "title":"",
-            "stories":{
-                "filename1":{
-                    "title":"",
-                    "year":0,
-                    "month":0
+    "collections": {
+        "1_the_adventures_of_sherlock_holmes": {
+            "stories": {
+                "a_case_of_identity": {
+                    "title": "A CASE OF IDENTITY"
                 },
-                "filename2":{}
-            }
+                "a_scandal_in_bohemia": {
+                    "title": "A SCANDAL IN BOHEMIA"
+                },
+                "the_adventure_of_the_beryl_coronet": {
+                    "title": "THE ADVENTURE OF THE BERYL CORONET"
+                },
+                "the_adventure_of_the_blue_carbuncle": {
+                    "title": "THE ADVENTURE OF THE BLUE CARBUNCLE"
+                },
+                "the_adventure_of_the_copper_beeches": {
+                    "title": "THE ADVENTURE OF THE COPPER BEECHES"
+                },
+                "the_adventure_of_the_engineers_thumb": {
+                    "title": "THE ADVENTURE OF THE ENGINEER'S THUMB"
+                },
+                "the_adventure_of_the_noble_bachelor": {
+                    "title": "THE ADVENTURE OF THE NOBLE BACHELOR"
+                },
+                "the_adventure_of_the_speckled_band": {
+                    "title": "THE ADVENTURE OF THE SPECKLED BAND"
+                },
+                "the_boscombe_valley_mystery": {
+                    "title": "THE BOSCOMBE VALLEY MYSTERY"
+                },
+                "the_five_orange_pips": {
+                    "title": "THE FIVE ORANGE PIPS"
+                },
+                "the_man_with_the_twisted_lip": {
+                    "title": "THE MAN WITH THE TWISTED LIP"
+                },
+                "the_red_headed_league": {
+                    "title": "THE RED-HEADED LEAGUE"
+                }
+            },
+            "title": "The Adventures of Sherlock Holmes"
         },
-        "collection_2":{}
+        "2_the_memoirs_of_sherlock_holmes": {
+            "stories": {
+                "silver_blaze": {
+                    "title": "SILVER BLAZE"
+                },
+                "the_crooked_man": {
+                    "title": "THE CROOKED MAN"
+                },
+                "the_final_problem": {
+                    "title": "THE FINAL PROBLEM"
+                },
+                "the_gloria_scott": {
+                    "title": "THE \"GLORIA SCOTT\""
+                },
+                "the_greek_interpreter": {
+                    "title": "THE GREEK INTERPRETER"
+                },
+                "the_musgrave_ritual": {
+                    "title": "THE MUSGRAVE RITUAL"
+                },
+                "the_naval_treaty": {
+                    "title": "THE NAVAL TREATY"
+                },
+                "the_reigate_squires": {
+                    "title": "THE REIGATE SQUIRES"
+                },
+                "the_resident_patient": {
+                    "title": "THE RESIDENT PATIENT"
+                },
+                "the_stock_brokers_clerk": {
+                    "title": "THE STOCK-BROKER'S CLERK"
+                },
+                "the_yellow_face": {
+                    "title": "THE YELLOW FACE"
+                }
+            },
+            "title": "The Memoirs of Sherlock Holmes"
+        },
+        "3_the_return_of_sherlock_holmes": {
+            "stories": {
+                "the_adventure_of_black_peter": {
+                    "title": "THE ADVENTURE OF BLACK PETER"
+                },
+                "the_adventure_of_charles_augustus_milverton": {
+                    "title": "THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON"
+                },
+                "the_adventure_of_the_abbey_grange": {
+                    "title": "THE ADVENTURE OF THE ABBEY GRANGE"
+                },
+                "the_adventure_of_the_dancing_men": {
+                    "title": "THE ADVENTURE OF THE DANCING MEN"
+                },
+                "the_adventure_of_the_empty_house": {
+                    "title": "THE ADVENTURE OF THE EMPTY HOUSE"
+                },
+                "the_adventure_of_the_golden_pince_nez": {
+                    "title": "THE ADVENTURE OF THE GOLDEN PINCE-NEZ"
+                },
+                "the_adventure_of_the_missing_three_quarter": {
+                    "title": "THE ADVENTURE OF THE MISSING THREE-QUARTER"
+                },
+                "the_adventure_of_the_norwood_builder": {
+                    "title": "THE ADVENTURE OF THE NORWOOD BUILDER"
+                },
+                "the_adventure_of_the_priory_school": {
+                    "title": "THE ADVENTURE OF THE PRIORY SCHOOL"
+                },
+                "the_adventure_of_the_second_stain": {
+                    "title": "THE ADVENTURE OF THE SECOND STAIN"
+                },
+                "the_adventure_of_the_six_napoleons": {
+                    "title": "THE ADVENTURE OF THE SIX NAPOLEONS"
+                },
+                "the_adventure_of_the_solitary_cyclist": {
+                    "title": "THE ADVENTURE OF THE SOLITARY CYCLIST"
+                },
+                "the_adventure_of_the_three_students": {
+                    "title": "THE ADVENTURE OF THE THREE STUDENTS"
+                }
+            },
+            "title": "The Return of Sherlock Holmes"
+        },
+        "4_his_last_bow": {
+            "stories": {
+                "his_last_bow_an_epilogue_of_sherlock_holmes": {
+                    "title": "HIS LAST BOW An Epilogue of Sherlock Holmes"
+                },
+                "the_adventure_of_the_bruce_partington_plans": {
+                    "title": "THE ADVENTURE OF THE BRUCE-PARTINGTON PLANS"
+                },
+                "the_adventure_of_the_cardboard_box": {
+                    "title": "THE ADVENTURE OF THE CARDBOARD BOX"
+                },
+                "the_adventure_of_the_devils_foot": {
+                    "title": "THE ADVENTURE OF THE DEVIL'S FOOT"
+                },
+                "the_adventure_of_the_dying_detective": {
+                    "title": "THE ADVENTURE OF THE DYING DETECTIVE"
+                },
+                "the_adventure_of_the_red_circle": {
+                    "title": "THE ADVENTURE OF THE RED CIRCLE"
+                },
+                "the_adventure_of_wisteria_lodge": {
+                    "title": "THE ADVENTURE OF WISTERIA LODGE"
+                },
+                "the_disappearance_of_lady_frances_carfax": {
+                    "title": "THE DISAPPEARANCE OF LADY FRANCES CARFAX"
+                }
+            },
+            "title": "His Last Bow"
+        },
+        "5_the_case_book_of_sherlock_holmes": {
+            "stories": {
+                "the_adventure_of_shoscombe_old_place": {
+                    "title": "THE ADVENTURE OF SHOSCOMBE OLD PLACE"
+                },
+                "the_adventure_of_the_creeping_man": {
+                    "title": "THE ADVENTURE OF THE CREEPING MAN"
+                },
+                "the_adventure_of_the_lions_mane": {
+                    "title": "THE ADVENTURE OF THE LION'S MANE"
+                },
+                "the_adventure_of_the_mazarin_stone": {
+                    "title": "THE ADVENTURE OF THE MAZARIN STONE"
+                },
+                "the_adventure_of_the_retired_colourman": {
+                    "title": "THE ADVENTURE OF THE RETIRED COLOURMAN"
+                },
+                "the_adventure_of_the_sussex_vampire": {
+                    "title": "THE ADVENTURE OF THE SUSSEX VAMPIRE"
+                },
+                "the_adventure_of_the_three_gables": {
+                    "title": "THE ADVENTURE OF THE THREE GABLES"
+                },
+                "the_adventure_of_the_three_garridebs": {
+                    "title": "THE ADVENTURE OF THE THREE GARRIDEBS"
+                },
+                "the_adventure_of_the_veiled_lodger": {
+                    "title": "THE ADVENTURE OF THE VEILED LODGER"
+                },
+                "the_blanched_soldier": {
+                    "title": "THE BLANCHED SOLDIER"
+                },
+                "the_illustrious_client": {
+                    "title": "THE ILLUSTRIOUS CLIENT"
+                },
+                "the_problem_of_thor_bridge": {
+                    "title": "THE PROBLEM OF THOR BRIDGE"
+                }
+            },
+            "title": "The Case-Book of Sherlock Holmes"
+        }
+    },
+    "novels": {
+        "a_study_in_scarlet": {
+            "title": "A STUDY IN SCARLET"
+        },
+        "the_hound_of_the_baskervilles": {
+            "title": "THE HOUND OF THE BASKERVILLES"
+        },
+        "the_sign_of_the_four": {
+            "title": "THE SIGN OF THE FOUR"
+        },
+        "the_valley_of_fear": {
+            "title": "THE VALLEY OF FEAR"
+        }
     }
 }

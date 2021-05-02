@@ -8,7 +8,7 @@ PATH_INPUT = "original"
 PATH_OUTPUT = "processed"
 PATH_NOVELS = "novels"
 PATH_STORIES = "stories"
-FILENAME_METADATA = "metadata-test.json"
+FILENAME_METADATA = "metadata.json"
 METADATA = {
     "novels": {},
     "collections": {}
@@ -50,8 +50,19 @@ def read_collections():
     FOLDER_PATH = os.path.join(PATH_INPUT, PATH_STORIES)
     for collection in os.listdir(FOLDER_PATH):
         PATH_COLLECTION = os.path.join(FOLDER_PATH,collection)
-        collection_title = make_title(collection)
-        print(f"Process file: {collection_title}")
+        try:
+            collection_title = make_title(collection)
+        except NameError:
+            continue
+
+        print(f"Process collection: {collection_title}")
+        
+        # set metadata for collection
+        METADATA["collections"][collection] = {}
+        METADATA["collections"][collection]["title"] = collection_title
+        METADATA["collections"][collection]["stories"] = {}
+
+
         for f in os.listdir(PATH_COLLECTION):
             #print(f)
             filepath = os.path.join(PATH_COLLECTION,f)
@@ -74,18 +85,8 @@ def read_collections():
                     export_file(clean_title, export_path, content)
 
                     # put into metadata
-                    METADATA["collections"][collection] = {}
-                    METADATA["collections"][collection]["title"] = collection_title
-                    METADATA["collections"][collection]["stories"] = clean_title
-
-
-#put stories into METADATA
-#this is how I tried, but it does not work: says: 'str' object does not support item assignment
-#METADATA["collections"][collection] = {}
-#METADATA["collections"][collection]["title"] = collection_title
-#METADATA["collections"][collection]["stories"] = clean_title
-#METADATA["collections"][collection]["stories"][clean_title] = {}
-#METADATA["collections"][collection]["stories"][clean_title]["title"] = title
+                    METADATA["collections"][collection]["stories"][clean_title] = {}
+                    METADATA["collections"][collection]["stories"][clean_title]["title"] = title
 
 
 def make_title(collection):
@@ -99,6 +100,8 @@ def make_title(collection):
         original_title = "His Last Bow"
     elif collection == "5_the_case_book_of_sherlock_holmes":
         original_title = "The Case-Book of Sherlock Holmes"
+    else:
+        raise NameError(f"Provided name {collection} is not valid. Skip it.")
     return original_title
 
 
