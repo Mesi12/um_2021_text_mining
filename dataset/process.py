@@ -45,7 +45,7 @@ def process_novels():
 
 def read_collections():
     """
-    Handles novels to be processed.
+    Handles stories to be processed.
     """
     FOLDER_PATH = os.path.join(PATH_INPUT, PATH_STORIES)
     for collection in os.listdir(FOLDER_PATH):
@@ -78,6 +78,7 @@ def read_collections():
                     #remove header and footer
                     content = remove_header(content,"story")
                     content = remove_footer(content)
+                    content = cleanup_stories(content)
 
                     # rename file with copy to processed
                     export_path = os.path.join(PATH_OUTPUT, PATH_STORIES, collection)
@@ -152,6 +153,35 @@ def remove_footer(content):
         pos_footer_start = content.find(footer.group(1))
         content = content[:pos_footer_start]
     return content
+
+def cleanup_stories(data):
+    clean_data = []
+
+    chapters = re.split(" {10}chapter[^\n]+", data, flags = re.IGNORECASE)
+    print(len(chapters))
+    for i, chapter in enumerate(chapters):
+        print(f"{i} - {len(chapter)}")
+
+        # put each paragraph into seperate line
+        chapter = re.sub(r"(?<=.)\n(?!\n)", " ", chapter)
+
+        # remove whitespaces in front of paragraphs
+        chapter = re.sub(r"^ {5}", "", chapter, flags = re.MULTILINE)
+
+        # clean up multiple whitespaces / new lines
+        chapter = re.sub(r"\n{3,}", "\n\n", chapter)
+        chapter = re.sub(r" {2,}", " ", chapter)
+
+        # clean up before and after chapter
+        chapter = chapter.strip("\n").strip(" ")
+
+        clean_data.append(chapter)
+
+
+    if clean_data[0] == "":
+        clean_data.pop(0)
+
+    return "\n\n".join(clean_data)
 
 
 def save_metadata():
