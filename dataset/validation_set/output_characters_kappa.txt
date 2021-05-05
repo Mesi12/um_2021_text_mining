@@ -1,0 +1,2 @@
+agreed: 0.98, by chance 0.53
+kappa: 0.96
