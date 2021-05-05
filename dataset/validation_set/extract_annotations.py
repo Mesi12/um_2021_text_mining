@@ -79,13 +79,35 @@ def add_sentences(dfs):
         if os.path.isfile(filepath) and f.endswith(".txt"):
             with open(filepath, "r") as fp:
                 sentences.append([f.split(".")[0], fp.read()])
-
+    
     df_sentences = pd.DataFrame(sentences, columns=["doc","sentences"])
 
     for entity_class in dfs.keys():
-        dfs[entity_class] = pd.merge(dfs[entity_class], df_sentences, on='doc')
-        
+        if dfs[entity_class].shape[0] == 0:
+            continue
+        dfs[entity_class] = pd.merge(dfs[entity_class], df_sentences, on='doc', how="right")
+
     return dfs
+
+
+def calculate_kappa(df):
+    # Observed proportion of the times the judges agreed
+    p_a = sum(df.judge1 == df.judge2) / df.shape[0]
+
+    # Pooled marginals
+    p_0 = (sum(df.judge1 == 0) + sum(df.judge2 == 0)) / (2*df.shape[0])
+    p_1 = (sum(df.judge1 == 1) + sum(df.judge2 == 1)) / (2*df.shape[0])
+
+    # Probability that the two judges agreed by chance
+    p_e = p_0**2 + p_1**2
+
+    # Kappa statistic
+    k = (p_a - p_e) / (1 - p_e)
+
+    k_measure = f"agreed: {p_a:.2f}, by chance {p_e:.2f}\nkappa: {k:.2f}"
+
+    print(k_measure)
+    return k_measure
 
 
 if __name__ == "__main__":
@@ -97,6 +119,26 @@ if __name__ == "__main__":
     dfs = transform_to_dataframe(legend, annotations)
 
     dfs_output = add_sentences(dfs)
+
+    df_characters = dfs_output['character']
+    df_characters['judge1'] = df_characters['Mesi']
+    df_characters['judge2'] = df_characters['accordionmonkey']
+    df_characters['judge1'].fillna('0', inplace=True)
+    df_characters['judge2'].fillna('0', inplace=True)
+    df_characters.loc[df_characters['judge1'] != "0", "judge1"] = "1"
+    df_characters.loc[df_characters['judge2'] != "0", "judge2"] = "1"
+    df_characters = df_characters.astype({"judge1":int, "judge2":int})
+
+    cols = ['doc', 'sentences', 'Mesi', 'accordionmonkey', 'judge1', 'judge2']
+    df_characters = df_characters[cols]
+
+    
+    k_measure = calculate_kappa(df_characters)
+
+    print("export to output_characters.csv")
+    df_characters.to_csv("output_characters.csv", index=False)
+    with open("output_characters_kappa.txt", "w") as fp:
+        fp.write(k_measure)
 
     #exporting overview table
     #df_overview = pd.concat(dfs, axis=1, keys=entity_classes)

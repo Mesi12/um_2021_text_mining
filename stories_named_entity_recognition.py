@@ -4,7 +4,7 @@ import re
 import nltk
 import json
 import pandas as pd
-#%%
+
 #config
 PATH_DATASET = "dataset"
 PATH_INPUT = "processed"
@@ -109,7 +109,7 @@ def make_title(collection):
     else:
         raise NameError(f"Provided name {collection} is not valid. Skip it.")
     return original_title
-#%%
+
 def find_named_entities(parsed):
     named_entities = []
     for chunk in parsed:
@@ -119,7 +119,7 @@ def find_named_entities(parsed):
             named_entities.append(entity)
     return named_entities
 
-#%%
+
 def extract_entities(entities,tp):
     """
     Possible tp values: "person", "facility", "organization", "gpe", "gsp", "location"
@@ -170,7 +170,7 @@ def extract_entities(entities,tp):
             print("Locations: ", locations)
             return locations
 
-#%%
+
 def save_characters(CHARACTERS):
     """
     Saves metadata into the json file.
@@ -193,10 +193,10 @@ for f in os.listdir(PATH_TAGTOG_DOCS):
         with open(filepath, "r") as fp:
             sentences.append([f.split(".")[0], fp.read()])
 
-df_sentences = pd.DataFrame(sentences, columns=["doc","sentences"])
+df_nltk = pd.DataFrame(sentences, columns=["doc","sentences"])
 
 tagtog_characters = []
-for sentence in df_sentences["sentences"]:
+for sentence in df_nltk["sentences"]:
     token = nltk.tokenize.word_tokenize(sentence)
     postag = nltk.pos_tag(token)
     parsed = nltk.chunk.ne_chunk(postag)
@@ -206,10 +206,44 @@ for sentence in df_sentences["sentences"]:
         chars = " | ".join(sorted(chars))
     tagtog_characters.append(chars)
 #print(tagtog_characters)
-df_sentences["NLTK NER"] = tagtog_characters
-print(df_sentences)
+df_nltk["nltk_characters"] = tagtog_characters
+print(df_nltk.shape)
 
 
 # %%
+df_val = pd.read_csv("dataset/validation_set/output_characters.csv")
+# merge with nltk output
+df_val = pd.merge(df_val, df_nltk[['doc', 'nltk_characters']], on="doc", how="left")
+# remove rows with agreement False
+df_val = df_val[df_val.judge1 == df_val.judge2]
+# translate nltk into 0/1
+df_val['nltk_text'] = df_val.nltk_characters
+df_val.nltk_characters.fillna("0", inplace=True)
+df_val.loc[df_val['nltk_characters'] != "0", "nltk_characters"] = "1"
+df_val = df_val.astype({"nltk_characters":int})
+# actual: judge vs predicted: nltk
+# 1.1 -> TP
+TP = len(df_val[(df_val.judge1 == 1) & (df_val.nltk_characters == 1)])
+# 0.0 -> TN
+TN = len(df_val[(df_val.judge1 == 0) & (df_val.nltk_characters == 0)])
+# 1.0 -> FN
+FN = len(df_val[(df_val.judge1 == 1) & (df_val.nltk_characters == 0)])
+# 0.1 -> FP
+FP = len(df_val[(df_val.judge1 == 0) & (df_val.nltk_characters == 1)])
+# precision
+precision = TP / (TP + FP)
+# recall
+recall = TP / (TP + FN)
+# f1 scores
+f1_score = 2 * (recall * precision) / (recall + precision)
+
+df_val.to_csv("output_nltk_characters.csv", index=False)
+with open("output_nltk_characters_quality.txt", "w") as fp:
+    fp.write(f"Precision: {precision:.3f}\nrecall: {recall:.3f}\nf1 score: {f1_score:.3f}")
+
+
+print(f"Precision: {precision:.3f}")
+print(f"recall: {recall:.3f}")
+print(f"f1 score: {f1_score:.3f}")
 
 # %%
