@@ -1,145 +1,68 @@
+#%%
 import pandas as pd
 import os
 import random
 import re
 import nltk
+import string
 
+def collect_stories_by_collection(collections):
+    """
+    Returns text from all stories of given collections.
+    """
+    stories = []
 
-# todo  how should the final validation set look like?
-#       i.e. how will we use it later on?
+    for collection in collections:
 
-"""
-kappa distance
--   measures the distance of different judges' opinions on the
-    relevance of documents to a query.
--   κ = (P(A) − P(E))/(1 − P(E))
+        FOLDER_PATH = os.path.join("..", "processed", "stories", collection)
+        for f in os.listdir(FOLDER_PATH):
+            filepath = os.path.join(FOLDER_PATH,f)
+            if os.path.isfile(filepath) and f.endswith(".txt"):
 
-"""
-
-def calculation_trial_binary():
-#%%
-
-    # example from book
-    # 0 not relevant
-    # 1 relevant
-
-    df_bad = pd.DataFrame(
-        data=[
-            [1, 0, 0],
-            [2, 0, 0],
-            [3, 1, 1],
-            [4, 1, 1],
-            [5, 1, 0],
-            [6, 1, 0],
-            [7, 1, 0],
-            [8, 1, 0],
-            [9, 0, 1],
-            [10, 0, 1],
-            [11, 0, 1],
-            [12, 0, 1],
-            ],
-        columns=["doc", "judge1", "judge2"])
-
-    df_good = pd.DataFrame(
-        data=[
-            [1, 0, 0],
-            [2, 0, 0],
-            [3, 1, 1],
-            [4, 1, 1],
-            [5, 0, 0],
-            [6, 0, 0],
-            [7, 1, 1],
-            [8, 1, 0],
-            [9, 0, 1],
-            [10, 1, 1],
-            [11, 1, 1],
-            [12, 1, 1],
-            ],
-        columns=["doc", "judge1", "judge2"])
+                with open(filepath, "r") as fp:
+                    stories.append(fp.read())
     
-    df = df_good
-    print(df)
-
-    # Observed proportion of the times the judges agreed
-    p_a = sum(df.judge1 == df.judge2) / df.shape[0]
-
-    # Pooled marginals
-    p_0 = (sum(df.judge1 == 0) + sum(df.judge2 == 0)) / (2*df.shape[0])
-    p_1 = (sum(df.judge1 == 1) + sum(df.judge2 == 1)) / (2*df.shape[0])
-
-    # Probability that the two judges agreed by chance
-    p_e = p_0**2 + p_1**2
-
-    # Kappa statistic
-    k = (p_a - p_e) / (1 - p_e)
-
-    print(f"agreed: {p_a:.2f}, by chance {p_e:.2f}")
-    print(f"kappa: {k:.2f}")
-#%%
-
-def calculation_trial_multiclass():
-#%%
-    import pandas as pd
-
-    # example from book
-    # 0 not relevant
-    # 1 relevant
-
-    df = pd.DataFrame(
-        data=[
-            [1, 0, 0],
-            [2, 0, 0],
-            [3, 1, 1],
-            [4, 1, 1],
-            [5, 1, 0],
-            [6, 1, 0],
-            [7, 1, 0],
-            [8, 1, 0],
-            [9, 0, 1],
-            [10, 0, 1],
-            [11, 0, 1],
-            [12, 0, 2],
-            ],
-        columns=["doc", "judge1", "judge2"])
-    
-    print(df)
-
-    # Observed proportion of the times the judges agreed
-    p_a = sum(df.judge1 == df.judge2) / df.shape[0]
-
-    # Pooled marginals
-    p_0 = (sum(df.judge1 == 0) + sum(df.judge2 == 0)) / (2*df.shape[0])
-    p_1 = (sum(df.judge1 == 1) + sum(df.judge2 == 1)) / (2*df.shape[0])
-    p_2 = (sum(df.judge1 == 2) + sum(df.judge2 == 2)) / (2*df.shape[0])
-
-    # Probability that the two judges agreed by chance
-    p_e = p_0**2 + p_1**2 + p_2**2
-
-    # Kappa statistic
-    k = (p_a - p_e) / (1 - p_e)
-
-    print(k)
-#%%    
+    return stories
 
 
 
 if __name__ == "__main__":
 
-    # import all data
-    with open("../original/novels/stud.txt") as fp:
-        data = fp.read()
+    # copyright footer: https://sherlock-holm.es/ascii/
+    copyright_safe_collections = [
+        '1_the_adventures_of_sherlock_holmes',
+        '2_the_memoirs_of_sherlock_holmes',
+        '3_the_return_of_sherlock_holmes',
+        '4_his_last_bow']
+    EXPORT_PATH = "tagtog_docs"
+    
+    # prepare random selection of sentences
+    print("collect sentences...")
+    stories = collect_stories_by_collection(copyright_safe_collections)
+    full_text = "\n".join(stories).replace("\n", "")
+    print("tokenize...")
+    sentences = nltk.tokenize.sent_tokenize(full_text)
+    print("filter...")
+    
+    print(f"{len(sentences)} - sentences total")
+    sentences = [sent for sent in sentences if len(nltk.tokenize.word_tokenize(sent)) >= 10]
+    print(f"{len(sentences)} - sentences after deleting sentences < 9 words incl. punctuation")
+    sentences = [sent for sent in sentences if len([word for word in nltk.tokenize.word_tokenize(sent) if not word in string.punctuation]) >= 10]
+    print(f"{len(sentences)} - sentences after deleting sentences < 9 words ignoring punctuation")
 
-    data = data.replace("\n", " ")
-    data = re.sub(r" +", " ", data)
-    sent = nltk.tokenize.sent_tokenize(data)
+    print("shuffle...")
+    random.shuffle(sentences)
+    chosen_sentences = sentences[:50]
 
-    # prepare export
-    random.Random().shuffle(sent)
-    judging_on = "character, location, weapon, sentiment:negative, sentiment:neutral, sentiment:positive".split(", ")
-    export = pd.DataFrame(sent[:10], columns=["doc"])
-    export[judging_on] = ""
+    with open("tmp.txt", "w") as fp:
+        fp.write("\n".join(chosen_sentences))
 
-    # export random validation set
-    export_file = "./validaiton_set.csv"
-    export.to_csv(export_file)
-    print(f"created validation file at {export_file}")
+    # export sentences for tagtog
+    print("export...")
+    os.makedirs(EXPORT_PATH, exist_ok=True)
+    for i, sentence in enumerate(chosen_sentences):
+        sentence = sentence.strip('""')
+        with open(os.path.join(EXPORT_PATH, f"doc_{i+1:02.0f}.txt"), "w") as fp:
+            fp.write(sentence)
+
+# %%
