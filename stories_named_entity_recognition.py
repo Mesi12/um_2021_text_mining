@@ -2,11 +2,17 @@
 import os
 import re
 import nltk
+import json
+import pandas as pd
 #%%
 #config
 PATH_DATASET = "dataset"
 PATH_INPUT = "processed"
 PATH_STORIES = "stories"
+PATH_VALIDATION = "validation_set"
+FILENAME_CHARACTERS = "story_characters.json"
+CHARACTERS = {}
+
 #%%
 
 def story_named_entities():
@@ -32,7 +38,7 @@ def story_named_entities():
                 with open(filepath, "r") as fp:
                     content = fp.read()
                     #Tokenize content
-                    content_sent = nltk.tokenize.sent_tokenize(content)
+                    #content_sent = nltk.tokenize.sent_tokenize(content)
                     content_word = nltk.tokenize.word_tokenize(content)
 
                     #Pos tagging
@@ -45,7 +51,11 @@ def story_named_entities():
                     named_entities = find_named_entities(parsed_content)
 
                     #find characters
-                    locations = extract_entities(named_entities,"location")
+                    characters = extract_entities(named_entities,"person")
+
+                    #save to characters dictionary
+                    filename = f.replace('.txt','')
+                    CHARACTERS[filename] = characters
                 
             else:
                 print('File not found.')
@@ -105,8 +115,8 @@ def find_named_entities(parsed):
     for chunk in parsed:
         if hasattr(chunk, 'label'):
             entity = chunk.label(), ' '.join(c[0] for c in chunk)
-            if entity not in named_entities:
-                named_entities.append(entity)
+            #if entity not in named_entities:
+            named_entities.append(entity)
     return named_entities
 
 #%%
@@ -159,10 +169,47 @@ def extract_entities(entities,tp):
         if locations:
             print("Locations: ", locations)
             return locations
-    
+
+#%%
+def save_characters(CHARACTERS):
+    """
+    Saves metadata into the json file.
+    """
+    with open(FILENAME_CHARACTERS, "w") as fp:
+        parsed = json.dumps(CHARACTERS, indent=4, sort_keys=True)
+        fp.write(parsed)
+
 #%%
 if __name__ == "__main__":
     print("start")
     story_named_entities()
-    #todo save results to some output file???
+    save_characters(CHARACTERS)
+# %%
+PATH_TAGTOG_DOCS = os.path.join(PATH_DATASET,PATH_VALIDATION,"tagtog_docs")
+sentences = []
+for f in os.listdir(PATH_TAGTOG_DOCS):
+    filepath = os.path.join(PATH_TAGTOG_DOCS, f)
+    if os.path.isfile(filepath) and f.endswith(".txt"):
+        with open(filepath, "r") as fp:
+            sentences.append([f.split(".")[0], fp.read()])
+
+df_sentences = pd.DataFrame(sentences, columns=["doc","sentences"])
+
+tagtog_characters = []
+for sentence in df_sentences["sentences"]:
+    token = nltk.tokenize.word_tokenize(sentence)
+    postag = nltk.pos_tag(token)
+    parsed = nltk.chunk.ne_chunk(postag)
+    ne = find_named_entities(parsed)
+    chars = extract_entities(ne,"person")
+    if chars: 
+        chars = " | ".join(sorted(chars))
+    tagtog_characters.append(chars)
+#print(tagtog_characters)
+df_sentences["NLTK NER"] = tagtog_characters
+print(df_sentences)
+
+
+# %%
+
 # %%
