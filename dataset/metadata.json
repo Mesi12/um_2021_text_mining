@@ -3,40 +3,64 @@
         "1_the_adventures_of_sherlock_holmes": {
             "stories": {
                 "a_case_of_identity": {
-                    "title": "A CASE OF IDENTITY"
+                    "title": "A CASE OF IDENTITY",
+                    "year": "1891",
+                    "month": "September"
                 },
                 "a_scandal_in_bohemia": {
-                    "title": "A SCANDAL IN BOHEMIA"
+                    "title": "A SCANDAL IN BOHEMIA",
+                    "year": "1891",
+                    "month": "June"
                 },
                 "the_adventure_of_the_beryl_coronet": {
-                    "title": "THE ADVENTURE OF THE BERYL CORONET"
+                    "title": "THE ADVENTURE OF THE BERYL CORONET",
+                    "year": "1892",
+                    "month": "May" 
                 },
                 "the_adventure_of_the_blue_carbuncle": {
-                    "title": "THE ADVENTURE OF THE BLUE CARBUNCLE"
+                    "title": "THE ADVENTURE OF THE BLUE CARBUNCLE",
+                    "year": "1892",
+                    "month": "January" 
                 },
                 "the_adventure_of_the_copper_beeches": {
-                    "title": "THE ADVENTURE OF THE COPPER BEECHES"
+                    "title": "THE ADVENTURE OF THE COPPER BEECHES",
+                    "year": "1892",
+                    "month": "June"
                 },
                 "the_adventure_of_the_engineers_thumb": {
-                    "title": "THE ADVENTURE OF THE ENGINEER'S THUMB"
+                    "title": "THE ADVENTURE OF THE ENGINEER'S THUMB",
+                    "year": "1892",
+                    "month": "March"
                 },
                 "the_adventure_of_the_noble_bachelor": {
-                    "title": "THE ADVENTURE OF THE NOBLE BACHELOR"
+                    "title": "THE ADVENTURE OF THE NOBLE BACHELOR",
+                    "year": "1892",
+                    "month": "April"
                 },
                 "the_adventure_of_the_speckled_band": {
-                    "title": "THE ADVENTURE OF THE SPECKLED BAND"
+                    "title": "THE ADVENTURE OF THE SPECKLED BAND",
+                    "year": "1892",
+                    "month": "February"
                 },
                 "the_boscombe_valley_mystery": {
-                    "title": "THE BOSCOMBE VALLEY MYSTERY"
+                    "title": "THE BOSCOMBE VALLEY MYSTERY",
+                    "year": "1891",
+                    "month": "October"
                 },
                 "the_five_orange_pips": {
-                    "title": "THE FIVE ORANGE PIPS"
+                    "title": "THE FIVE ORANGE PIPS",
+                    "year": "1891",
+                    "month": "November"
                 },
                 "the_man_with_the_twisted_lip": {
-                    "title": "THE MAN WITH THE TWISTED LIP"
+                    "title": "THE MAN WITH THE TWISTED LIP",
+                    "year": "1891",
+                    "month": "December"
                 },
                 "the_red_headed_league": {
-                    "title": "THE RED-HEADED LEAGUE"
+                    "title": "THE RED-HEADED LEAGUE",
+                    "year": "1891",
+                    "month": "August"
                 }
             },
             "title": "The Adventures of Sherlock Holmes"
@@ -44,37 +68,59 @@
         "2_the_memoirs_of_sherlock_holmes": {
             "stories": {
                 "silver_blaze": {
-                    "title": "SILVER BLAZE"
+                    "title": "SILVER BLAZE",
+                    "year": "1892",
+                    "month": "December"
                 },
                 "the_crooked_man": {
-                    "title": "THE CROOKED MAN"
+                    "title": "THE CROOKED MAN",
+                    "year": "1893",
+                    "month": "July"
                 },
                 "the_final_problem": {
-                    "title": "THE FINAL PROBLEM"
+                    "title": "THE FINAL PROBLEM",
+                    "year": "1893",
+                    "month": "December"
                 },
                 "the_gloria_scott": {
-                    "title": "THE \"GLORIA SCOTT\""
+                    "title": "THE \"GLORIA SCOTT\"",
+                    "year": "1893",
+                    "month": "April"
                 },
                 "the_greek_interpreter": {
-                    "title": "THE GREEK INTERPRETER"
+                    "title": "THE GREEK INTERPRETER",
+                    "year": "1893",
+                    "month": "September"
                 },
                 "the_musgrave_ritual": {
-                    "title": "THE MUSGRAVE RITUAL"
+                    "title": "THE MUSGRAVE RITUAL",
+                    "year": "1893",
+                    "month": "May"
                 },
                 "the_naval_treaty": {
-                    "title": "THE NAVAL TREATY"
+                    "title": "THE NAVAL TREATY",
+                    "year": "1893",
+                    "month": "November"
                 },
                 "the_reigate_squires": {
-                    "title": "THE REIGATE SQUIRES"
+                    "title": "THE REIGATE SQUIRES",
+                    "year": "1893",
+                    "month": "June"
                 },
                 "the_resident_patient": {
-                    "title": "THE RESIDENT PATIENT"
+                    "title": "THE RESIDENT PATIENT",
+                    "year": "1893",
+                    "month": "August"
                 },
                 "the_stock_brokers_clerk": {
-                    "title": "THE STOCK-BROKER'S CLERK"
+                    "title": "THE STOCK-BROKER'S CLERK",
+                    "year": "1893",
+                    "month": "March"
                 },
                 "the_yellow_face": {
-                    "title": "THE YELLOW FACE"
+                    "title": "THE YELLOW FACE",
+                    "year": "1893",
+                    "month": "February"
                 }
             },
             "title": "The Memoirs of Sherlock Holmes"
@@ -82,43 +128,69 @@
         "3_the_return_of_sherlock_holmes": {
             "stories": {
                 "the_adventure_of_black_peter": {
-                    "title": "THE ADVENTURE OF BLACK PETER"
+                    "title": "THE ADVENTURE OF BLACK PETER",
+                    "year": "1904",
+                    "month": "March"
                 },
                 "the_adventure_of_charles_augustus_milverton": {
-                    "title": "THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON"
+                    "title": "THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON",
+                    "year": "1904",
+                    "month": "April"
                 },
                 "the_adventure_of_the_abbey_grange": {
-                    "title": "THE ADVENTURE OF THE ABBEY GRANGE"
+                    "title": "THE ADVENTURE OF THE ABBEY GRANGE",
+                    "year": "1904",
+                    "month": "September"
                 },
                 "the_adventure_of_the_dancing_men": {
-                    "title": "THE ADVENTURE OF THE DANCING MEN"
+                    "title": "THE ADVENTURE OF THE DANCING MEN",
+                    "year": "1903",
+                    "month": "December"
                 },
                 "the_adventure_of_the_empty_house": {
-                    "title": "THE ADVENTURE OF THE EMPTY HOUSE"
+                    "title": "THE ADVENTURE OF THE EMPTY HOUSE",
+                    "year": "1903",
+                    "month": "October"
                 },
                 "the_adventure_of_the_golden_pince_nez": {
-                    "title": "THE ADVENTURE OF THE GOLDEN PINCE-NEZ"
+                    "title": "THE ADVENTURE OF THE GOLDEN PINCE-NEZ",
+                    "year": "1904",
+                    "month": "July"
                 },
                 "the_adventure_of_the_missing_three_quarter": {
-                    "title": "THE ADVENTURE OF THE MISSING THREE-QUARTER"
+                    "title": "THE ADVENTURE OF THE MISSING THREE-QUARTER",
+                    "year": "1904",
+                    "month": "August"
                 },
                 "the_adventure_of_the_norwood_builder": {
-                    "title": "THE ADVENTURE OF THE NORWOOD BUILDER"
+                    "title": "THE ADVENTURE OF THE NORWOOD BUILDER",
+                    "year": "1903",
+                    "month": "November"
                 },
                 "the_adventure_of_the_priory_school": {
-                    "title": "THE ADVENTURE OF THE PRIORY SCHOOL"
+                    "title": "THE ADVENTURE OF THE PRIORY SCHOOL",
+                    "year": "1904",
+                    "month": "February"
                 },
                 "the_adventure_of_the_second_stain": {
-                    "title": "THE ADVENTURE OF THE SECOND STAIN"
+                    "title": "THE ADVENTURE OF THE SECOND STAIN",
+                    "year": "1904",
+                    "month": "December"
                 },
                 "the_adventure_of_the_six_napoleons": {
-                    "title": "THE ADVENTURE OF THE SIX NAPOLEONS"
+                    "title": "THE ADVENTURE OF THE SIX NAPOLEONS",
+                    "year": "1904",
+                    "month": "May"
                 },
                 "the_adventure_of_the_solitary_cyclist": {
-                    "title": "THE ADVENTURE OF THE SOLITARY CYCLIST"
+                    "title": "THE ADVENTURE OF THE SOLITARY CYCLIST",
+                    "year": "1904",
+                    "month": "January"
                 },
                 "the_adventure_of_the_three_students": {
-                    "title": "THE ADVENTURE OF THE THREE STUDENTS"
+                    "title": "THE ADVENTURE OF THE THREE STUDENTS",
+                    "year": "1904",
+                    "month": "June"
                 }
             },
             "title": "The Return of Sherlock Holmes"
@@ -126,28 +198,44 @@
         "4_his_last_bow": {
             "stories": {
                 "his_last_bow_an_epilogue_of_sherlock_holmes": {
-                    "title": "HIS LAST BOW An Epilogue of Sherlock Holmes"
+                    "title": "HIS LAST BOW An Epilogue of Sherlock Holmes",
+                    "year": "1917",
+                    "month": "September "
                 },
                 "the_adventure_of_the_bruce_partington_plans": {
-                    "title": "THE ADVENTURE OF THE BRUCE-PARTINGTON PLANS"
+                    "title": "THE ADVENTURE OF THE BRUCE-PARTINGTON PLANS",
+                    "year": "1908",
+                    "month": "December"
                 },
                 "the_adventure_of_the_cardboard_box": {
-                    "title": "THE ADVENTURE OF THE CARDBOARD BOX"
+                    "title": "THE ADVENTURE OF THE CARDBOARD BOX",
+                    "year": "1893",
+                    "month": "January"
                 },
                 "the_adventure_of_the_devils_foot": {
-                    "title": "THE ADVENTURE OF THE DEVIL'S FOOT"
+                    "title": "THE ADVENTURE OF THE DEVIL'S FOOT",
+                    "year": "1910",
+                    "month": "December"
                 },
                 "the_adventure_of_the_dying_detective": {
-                    "title": "THE ADVENTURE OF THE DYING DETECTIVE"
+                    "title": "THE ADVENTURE OF THE DYING DETECTIVE",
+                    "year": "1913",
+                    "month": "November "
                 },
                 "the_adventure_of_the_red_circle": {
-                    "title": "THE ADVENTURE OF THE RED CIRCLE"
+                    "title": "THE ADVENTURE OF THE RED CIRCLE",
+                    "year": "1911",
+                    "month": "April"
                 },
                 "the_adventure_of_wisteria_lodge": {
-                    "title": "THE ADVENTURE OF WISTERIA LODGE"
+                    "title": "THE ADVENTURE OF WISTERIA LODGE",
+                    "year": "1908",
+                    "month": "August"
                 },
                 "the_disappearance_of_lady_frances_carfax": {
-                    "title": "THE DISAPPEARANCE OF LADY FRANCES CARFAX"
+                    "title": "THE DISAPPEARANCE OF LADY FRANCES CARFAX",
+                    "year": "1911",
+                    "month": "December "
                 }
             },
             "title": "His Last Bow"
@@ -155,40 +243,64 @@
         "5_the_case_book_of_sherlock_holmes": {
             "stories": {
                 "the_adventure_of_shoscombe_old_place": {
-                    "title": "THE ADVENTURE OF SHOSCOMBE OLD PLACE"
+                    "title": "THE ADVENTURE OF SHOSCOMBE OLD PLACE",
+                    "year": "1927",
+                    "month": "March"
                 },
                 "the_adventure_of_the_creeping_man": {
-                    "title": "THE ADVENTURE OF THE CREEPING MAN"
+                    "title": "THE ADVENTURE OF THE CREEPING MAN",
+                    "year": "1923",
+                    "month": "March"
                 },
                 "the_adventure_of_the_lions_mane": {
-                    "title": "THE ADVENTURE OF THE LION'S MANE"
+                    "title": "THE ADVENTURE OF THE LION'S MANE",
+                    "year": "1926",
+                    "month": "November"
                 },
                 "the_adventure_of_the_mazarin_stone": {
-                    "title": "THE ADVENTURE OF THE MAZARIN STONE"
+                    "title": "THE ADVENTURE OF THE MAZARIN STONE",
+                    "year": "1921",
+                    "month": "October"
                 },
                 "the_adventure_of_the_retired_colourman": {
-                    "title": "THE ADVENTURE OF THE RETIRED COLOURMAN"
+                    "title": "THE ADVENTURE OF THE RETIRED COLOURMAN",
+                    "year": "1926",
+                    "month": "December"
                 },
                 "the_adventure_of_the_sussex_vampire": {
-                    "title": "THE ADVENTURE OF THE SUSSEX VAMPIRE"
+                    "title": "THE ADVENTURE OF THE SUSSEX VAMPIRE",
+                    "year": "1924",
+                    "month": "January"
                 },
                 "the_adventure_of_the_three_gables": {
-                    "title": "THE ADVENTURE OF THE THREE GABLES"
+                    "title": "THE ADVENTURE OF THE THREE GABLES",
+                    "year": "1926",
+                    "month": "September"
                 },
                 "the_adventure_of_the_three_garridebs": {
-                    "title": "THE ADVENTURE OF THE THREE GARRIDEBS"
+                    "title": "THE ADVENTURE OF THE THREE GARRIDEBS",
+                    "year": "1924",
+                    "month": "October"
                 },
                 "the_adventure_of_the_veiled_lodger": {
-                    "title": "THE ADVENTURE OF THE VEILED LODGER"
+                    "title": "THE ADVENTURE OF THE VEILED LODGER",
+                    "year": "1927",
+                    "month": "January"
                 },
                 "the_blanched_soldier": {
-                    "title": "THE BLANCHED SOLDIER"
+                    "title": "THE BLANCHED SOLDIER",
+                    "year": "1926",
+                    "month": "October"
                 },
                 "the_illustrious_client": {
-                    "title": "THE ILLUSTRIOUS CLIENT"
+                    "title": "THE ILLUSTRIOUS CLIENT",
+                    "year": "1924",
+                    "month": "November"
                 },
                 "the_problem_of_thor_bridge": {
-                    "title": "THE PROBLEM OF THOR BRIDGE"
+                    "title": "THE PROBLEM OF THOR BRIDGE",
+                    "year": "1922",
+                    "month": "February"
                 }
             },
             "title": "The Case-Book of Sherlock Holmes"
@@ -196,16 +308,24 @@
     },
     "novels": {
         "a_study_in_scarlet": {
-            "title": "A STUDY IN SCARLET"
+            "title": "A STUDY IN SCARLET",
+            "year": "1887",
+            "month": "December"
         },
         "the_hound_of_the_baskervilles": {
-            "title": "THE HOUND OF THE BASKERVILLES"
+            "title": "THE HOUND OF THE BASKERVILLES",
+            "year": "1902",
+            "month": "April"
         },
         "the_sign_of_the_four": {
-            "title": "THE SIGN OF THE FOUR"
+            "title": "THE SIGN OF THE FOUR",
+            "year": "1890",
+            "month": "February"
         },
         "the_valley_of_fear": {
-            "title": "THE VALLEY OF FEAR"
+            "title": "THE VALLEY OF FEAR",
+            "year": "1915",
+            "month": "May"
         }
     }
 }
