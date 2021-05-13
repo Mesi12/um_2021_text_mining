@@ -1,3 +1,4 @@
+# %%
 import os
 import re
 import json
@@ -21,35 +22,36 @@ def process_novels():
     """
     FOLDER_PATH = os.path.join(PATH_INPUT, PATH_NOVELS)
     for f in os.listdir(FOLDER_PATH):
-        filepath = os.path.join(FOLDER_PATH,f)
+        filepath = os.path.join(FOLDER_PATH, f)
         if os.path.isfile(filepath) and f.endswith(".txt"):
             print(f"Process file: {filepath}")
 
             with open(filepath, "r") as fp:
                 content = fp.read()
                 title = get_title(content, "novel")
-                
+
                 # clean content
                 content = remove_header(content, "novel")
                 content = remove_footer(content)
+                content = cleanup_novels(content)
 
                 # rename file with copy to processed
                 export_path = os.path.join(PATH_OUTPUT, PATH_NOVELS)
                 clean_title = title.lower().replace(" ", "_")
-                export_file(clean_title, export_path, content)
+                export_file_json(clean_title, export_path, content)
 
                 # put into metadata
                 METADATA["novels"][clean_title] = {}
                 METADATA["novels"][clean_title]["title"] = title
 
 
-def read_collections():
+def process_collections():
     """
     Handles stories to be processed.
     """
     FOLDER_PATH = os.path.join(PATH_INPUT, PATH_STORIES)
     for collection in os.listdir(FOLDER_PATH):
-        PATH_COLLECTION = os.path.join(FOLDER_PATH,collection)
+        PATH_COLLECTION = os.path.join(FOLDER_PATH, collection)
         try:
             collection_title = make_title(collection)
         except NameError:
@@ -62,27 +64,25 @@ def read_collections():
         METADATA["collections"][collection]["title"] = collection_title
         METADATA["collections"][collection]["stories"] = {}
 
-
         for f in os.listdir(PATH_COLLECTION):
-            #print(f)
-            filepath = os.path.join(PATH_COLLECTION,f)
+            filepath = os.path.join(PATH_COLLECTION, f)
             if os.path.isfile(filepath) and f.endswith(".txt"):
                 print(f"Process file: {filepath}")
 
                 with open(filepath, "r") as fp:
                     content = fp.read()
 
-                    #get title of story
-                    title = get_title(content,"story")
+                    # get title of story
+                    title = get_title(content, "story")
 
-                    #remove header and footer
-                    content = remove_header(content,"story")
+                    # remove header and footer
+                    content = remove_header(content, "story")
                     content = remove_footer(content)
                     content = cleanup_stories(content)
 
                     # rename file with copy to processed
                     export_path = os.path.join(PATH_OUTPUT, PATH_STORIES, collection)
-                    clean_title = title.lower().replace(" ", "_").replace("-","_").replace('"',"").replace("'","")
+                    clean_title = title.lower().replace(" ", "_").replace("-", "_").replace('"', "").replace("'", "")
                     export_file(clean_title, export_path, content)
 
                     # put into metadata
@@ -115,7 +115,7 @@ def get_title(content, tp):
             print(f".. {title}")
             
     elif tp == "story":
-        re_grep_title =  '(.*)\n *\n +(.+)\n\n +Arthur Conan Doyle'
+        re_grep_title = '(.*)\n *\n +(.+)\n\n +Arthur Conan Doyle'
         parts = re.search(re_grep_title, content, re.IGNORECASE)
 
         if parts:
@@ -130,6 +130,13 @@ def export_file(title, export_path, content):
     os.makedirs(export_path, exist_ok=True)
     with open(os.path.join(export_path, new_name), "w") as fp_new:
         fp_new.write(content)
+
+
+def export_file_json(title, export_path, content):
+    new_name = title + ".json"
+    os.makedirs(export_path, exist_ok=True)
+    with open(os.path.join(export_path, new_name), "w") as fp_new:
+        json.dump(content, fp_new)
 
 
 def remove_header(content, tp):
@@ -154,10 +161,11 @@ def remove_footer(content):
         content = content[:pos_footer_start]
     return content
 
+
 def cleanup_stories(data):
     clean_data = []
 
-    chapters = re.split(" {10}chapter[^\n]+", data, flags = re.IGNORECASE)
+    chapters = re.split(" {10}chapter[^\n]+", data, flags=re.IGNORECASE)
     print(len(chapters))
     for i, chapter in enumerate(chapters):
         print(f"{i} - {len(chapter)}")
@@ -166,7 +174,7 @@ def cleanup_stories(data):
         chapter = re.sub(r"(?<=.)\n(?!\n)", " ", chapter)
 
         # remove whitespaces in front of paragraphs
-        chapter = re.sub(r"^ {5}", "", chapter, flags = re.MULTILINE)
+        chapter = re.sub(r"^ {5}", "", chapter, flags=re.MULTILINE)
 
         # clean up multiple whitespaces / new lines
         chapter = re.sub(r"\n{3,}", "\n\n", chapter)
@@ -177,12 +185,68 @@ def cleanup_stories(data):
 
         clean_data.append(chapter)
 
-
     if clean_data[0] == "":
         clean_data.pop(0)
 
     return "\n\n".join(clean_data)
 
+
+# functions for novels
+
+def extract_chapter_title(chapter):
+    re_grep_title = '\n +([^\n]+)+\n\n'
+    parts = re.search(re_grep_title, chapter, re.IGNORECASE)
+    if parts:
+        match = parts.group(0)
+        title = parts.group(1).strip()
+        print(f".. {title}")
+    return (title, match)
+
+
+def cleanup_chapter(chapter):
+    print(f"{len(chapter)}")
+
+    # put each paragraph into seperate line
+    chapter = re.sub(r"(?<=.)\n(?!\n)", " ", chapter)
+
+    # remove whitespaces in front of paragraphs
+    chapter = re.sub(r"^ {5}", "", chapter, flags=re.MULTILINE)
+
+    # clean up multiple whitespaces / new lines
+    chapter = re.sub(r"\n{3,}", "\n\n", chapter)
+    chapter = re.sub(r" {2,}", " ", chapter)
+
+    # clean up before and after chapter
+    chapter = chapter.strip("\n").strip(" ")
+
+    return chapter
+
+
+def cleanup_novels(content):
+    clean_data = {}
+
+    parts = re.split(" {38}part i[^\n]+", content, flags=re.IGNORECASE)
+    print(f"Novel contains {len(parts)} part(s)")
+
+    for p, part in enumerate(parts):
+        clean_data[p] = {}
+        chapters = re.split(" {10}chapter[^\n]+", part, flags=re.IGNORECASE)
+        
+        print(f"Part {p+1} has {len(chapters)} chapters.")
+        for c, chapter in enumerate(chapters):
+            if c == 0:
+                # skip first regex group. Not a chapter.
+                continue
+            clean_data[p][c] = {}
+            (chapter_title, chapter_title_match) = extract_chapter_title(chapter)
+            chapter = chapter[len(chapter_title_match):]
+            clean_data[p][c]['subtitle'] = chapter_title.replace("\n", " ").strip(" ")
+            clean_data[p][c]['text'] = cleanup_chapter(chapter)
+
+    return clean_data
+
+
+# meta
 
 def save_metadata():
     """
@@ -193,9 +257,8 @@ def save_metadata():
         fp.write(parsed)
 
 
-
 if __name__ == "__main__":
     print("start")
     process_novels()
-    read_collections()
-    save_metadata()
+    #process_collections()
+    #save_metadata()
