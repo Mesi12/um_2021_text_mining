@@ -2,6 +2,8 @@
 import os
 import json
 import subprocess
+import pandas as pd
+from pandas.core.arrays import boolean
 
 
 class HolmesReader:
@@ -23,7 +25,7 @@ class HolmesReader:
             parsed = json.load(fp)
         return parsed
 
-    def get_collections(self):
+    def get_collections(self, as_dataframe=False):
         collections = self.metadata['collections'].copy()
 
         for collection_id, collection in collections.items():
@@ -35,6 +37,16 @@ class HolmesReader:
                 if os.path.isfile(filepath):
                     with open(filepath, "r") as fp:
                         story['text'] = fp.read()
+        if as_dataframe:
+            coll_ids = []
+            frames = []
+            for coll_id, coll in collections.items():
+                coll_ids.append(coll_id)
+                frames.append(pd.DataFrame.from_dict(coll['stories'], orient="index"))
+            df = pd.concat(frames, keys=coll_ids)
+            df = df.reset_index()
+            df = df.rename({"level_0":"collection", "level_1":"story"}, axis=1).drop("title", axis=1)
+            return df
 
         return collections
 
