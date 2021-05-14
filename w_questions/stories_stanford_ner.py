@@ -3,17 +3,12 @@ import os
 import nltk
 import json
 
-# https://stackoverflow.com/questions/22081209/find-the-root-of-the-git-repository-where-the-file-lives#comment44778829_22081487
 import sys, subprocess
 repo_dir = subprocess.Popen(['git', 'rev-parse', '--show-toplevel'], stdout=subprocess.PIPE).communicate()[0].rstrip().decode('utf-8')
 sys.path.insert(1, os.path.join(sys.path[0], repo_dir))
 from helper.HolmesReader import HolmesReader
 
 # config
-PATH_DATASET = "dataset"
-PATH_INPUT = "processed"
-PATH_STORIES = "stories"
-PATH_VALIDATION = "validation_set"
 FILENAME_NAMED_ENTITIES = "story_named_entities.json"
 PATH_STANFORD_NER = os.path.join(
     '..', "libraries", "stanford-ner-4.2.0", "stanford-ner-2020-11-17")
@@ -24,26 +19,22 @@ classifier = os.path.join(PATH_STANFORD_NER, "classifiers",
 jar = os.path.join(PATH_STANFORD_NER, "stanford-ner.jar")
 st = nltk.tag.StanfordNERTagger(classifier, jar, encoding='utf-8')
 
-# helper for reading stories & novels
-holmesReader = HolmesReader()
-
-# %%
 
 
 def named_entities():
     """
     Finds named entities in stories. 
     """
-    NAMED_ENTITIES = {}
+    named_entities = {}
 
+    # helper for reading stories & novels
+    holmesReader = HolmesReader()
     collections = holmesReader.get_collections()
 
     for collection_id, collection in collections.items():
-        if len(NAMED_ENTITIES.keys()) > 0:
-            continue
+
         for story_id, story in collection['stories'].items():
-            if len(NAMED_ENTITIES.keys()) > 0:
-                continue
+
             print(f"Collection {collection_id}: story {story_id}")
             content = story['text']
 
@@ -60,11 +51,11 @@ def named_entities():
             # extract named entities (persons, locations, times)
             [person, location, time] = get_entities(tree)
             # save named entites to dictionary
-            NAMED_ENTITIES[story_id] = {}
-            NAMED_ENTITIES[story_id]["characters"] = person
-            NAMED_ENTITIES[story_id]["locations"] = location
-            NAMED_ENTITIES[story_id]["dates and times"] = time
-    return NAMED_ENTITIES
+            named_entities[story_id] = {}
+            named_entities[story_id]["characters"] = person
+            named_entities[story_id]["locations"] = location
+            named_entities[story_id]["dates and times"] = time
+    return named_entities
 
 
 def get_entities(tree):
@@ -108,12 +99,12 @@ def IOB_to_tree(iob_tagged):
     return root
 
 
-def save_entities(ENTITIES):
+def save_entities(entities):
     """
     Saves named entities into the json file.
     """
     with open(FILENAME_NAMED_ENTITIES, "w") as fp:
-        parsed = json.dumps(ENTITIES, indent=4, sort_keys=True)
+        parsed = json.dumps(entities, indent=4, sort_keys=True)
         fp.write(parsed)
 
 
