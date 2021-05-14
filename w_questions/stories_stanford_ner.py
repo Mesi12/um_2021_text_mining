@@ -82,6 +82,8 @@ def IOB_to_tree(iob_tagged):
     """
     From the given tuples (entity name, POS tag, entity type) creates a tree.
     """
+    #credit: https://stackoverflow.com/questions/27629130/chunking-stanford-named-entity-recognizer-ner-outputs-from-nltk-format
+    
     root = nltk.Tree('S', [])
     for token in iob_tagged:
         if token[2] == 'O':
