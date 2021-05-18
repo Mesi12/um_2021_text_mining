@@ -1,119 +1,90 @@
-# %%
-import os
+#%%
 import nltk
-import json
+from nltk.parse import CoreNLPParser
+from nltk.parse.corenlp import CoreNLPDependencyParser
+#%%
+server_url = 'http://localhost:9100'
 
-import sys, subprocess
-repo_dir = subprocess.Popen(['git', 'rev-parse', '--show-toplevel'], stdout=subprocess.PIPE).communicate()[0].rstrip().decode('utf-8')
-sys.path.insert(1, os.path.join(sys.path[0], repo_dir))
-from helper.HolmesReader import HolmesReader
+# Lexical Parser
+parser = CoreNLPParser(url=server_url)
+# POS tagger
+pos_tagger = CoreNLPParser(url=server_url, tagtype='pos')
+# NER Tagger
+ner_tagger = CoreNLPParser(url=server_url, tagtype='ner')
+# Neural Dependency Parser
+dep_parser = CoreNLPDependencyParser(url=server_url)
 
-# config
-FILENAME_NAMED_ENTITIES = "story_named_entities.json"
-PATH_STANFORD_NER = os.path.join(
-    '..', "libraries", "stanford-ner-4.2.0", "stanford-ner-2020-11-17")
+#%%
+# sentence as example
+sentence = "John and Jane Smith lives in New York and works at the Central Bank of America."
+print(sentence)
 
-# define the Stanford NER tagger
-classifier = os.path.join(PATH_STANFORD_NER, "classifiers",
-                          "english.muc.7class.distsim.crf.ser.gz")
-jar = os.path.join(PATH_STANFORD_NER, "stanford-ner.jar")
-st = nltk.tag.StanfordNERTagger(classifier, jar, encoding='utf-8')
+tokens = list(parser.tokenize(sentence))
 
+pos_tags = list(pos_tagger.tag(tokens))
 
+ner_tags = list(ner_tagger.tag(tokens))
+print(ner_tags)
 
-def named_entities():
+#%%
+def mymagic(ner_tags):
     """
-    Finds named entities in stories. 
+    Joins entites that belong together and returns all named entities.
     """
-    named_entities = {}
+    previous_tag = 'O'
+    previous_entity = ''
+    combined_entity = ''
+    named_entites = []
+ 
+    for entity in ner_tags:
+        if entity[1] != "O":
+            if entity[1] == previous_tag:
+                if combined_entity:
+                    combined_entity.append(entity[0])              
+                else:
+                    combined_entity = [previous_entity, entity[0]]           
+        else:
+            if combined_entity:
+                joined_entity = ' '.join(combined_entity)
+                named_entites.append((joined_entity,previous_tag))
+                combined_entity = ''
+            elif previous_tag !='O':
+                named_entites.append((previous_entity,previous_tag))
 
-    # helper for reading stories & novels
-    holmesReader = HolmesReader()
-    collections = holmesReader.get_collections()
+        previous_entity = entity[0]
+        previous_tag  = entity[1]
 
-    for collection_id, collection in collections.items():
+    print(f"Named entites: {named_entites}")
 
-        for story_id, story in collection['stories'].items():
+    [person,location,organization,time] = classify_entity(named_entites)
+    
+    return person,location,organization,time
 
-            print(f"Collection {collection_id}: story {story_id}")
-            content = story['text']
-
-            # tokenize text by words
-            tokenized_content = nltk.tokenize.word_tokenize(content)
-            # tag content by Stanford NER tool
-            tagged_content = st.tag(tokenized_content)
-            # POS tagging
-            pos_tags = nltk.pos_tag(tokenized_content)
-            # join info about POS tag and named entity tag
-            triples = [[name, pos, tp[1]] for (name, pos), tp in zip(pos_tags, tagged_content)]
-            # create tree from the tuples
-            tree = IOB_to_tree(triples)
-            # extract named entities (persons, locations, times)
-            [person, location, time] = get_entities(tree)
-            # save named entites to dictionary
-            named_entities[story_id] = {}
-            named_entities[story_id]["characters"] = person
-            named_entities[story_id]["locations"] = location
-            named_entities[story_id]["dates and times"] = time
-    return named_entities
-
-
-def get_entities(tree):
+# %%
+def classify_entity(named_entites):
     """
-    Finds named entities of the tree created from the tagged content.
+    Classifies the named entites into different predefined categories.
     """
-
     person = []
     location = []
+    organization = []
     time = []
+    for entity,tag in named_entites:
+        if tag == "PERSON":
+            person.append(entity)
+        elif tag == "ORGANIZATION":
+            organization.append(entity)
+        elif tag == "STATE_OR_PROVINCE":
+            location.append(entity)
+        elif (tag == "DATE" or tag == "TIME"):
+            time.append(entity)
+    return(person,location,organization,time)
 
-    for chunk in tree:
-        if hasattr(chunk, 'label'):
-            entity = " ".join(part[0] for part in chunk.leaves())
-            if chunk.label() == "PERSON":
-                person.append(entity)
-            elif chunk.label() == "LOCATION":
-                location.append(entity)
-            elif (chunk.label() == "DATE") or (chunk.label() == "TIME"):
-                time.append(entity)
+#%%
+[person,location,organization,time] = mymagic(ner_tags)
+print("person:",person)
+print("location:",location)
+print("organization:",organization)
+print("time:",time)
 
-    return person, location, time
-
-
-def IOB_to_tree(iob_tagged):
-    """
-    From the given tuples (entity name, POS tag, entity type) creates a tree.
-    """
-    #credit: https://stackoverflow.com/questions/27629130/chunking-stanford-named-entity-recognizer-ner-outputs-from-nltk-format
-    
-    root = nltk.Tree('S', [])
-    for token in iob_tagged:
-        if token[2] == 'O':
-            root.append((token[0], token[1]))
-        else:
-            try:
-                if root[-1].label() == token[2]:
-                    root[-1].append((token[0], token[1]))
-                else:
-                    root.append(nltk.Tree(token[2], [(token[0], token[1])]))
-            except:
-                root.append(nltk.Tree(token[2], [(token[0], token[1])]))
-    return root
-
-
-def save_entities(entities):
-    """
-    Saves named entities into the json file.
-    """
-    with open(FILENAME_NAMED_ENTITIES, "w") as fp:
-        parsed = json.dumps(entities, indent=4, sort_keys=True)
-        fp.write(parsed)
-
-
-# %%
-if __name__ == "__main__":
-    print("start")
-    entities = named_entities()
-    save_entities(entities)
-    print("done")
 # %%
