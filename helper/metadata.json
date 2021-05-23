@@ -5,7 +5,11 @@
                 "a_case_of_identity": {
                     "title": "A CASE OF IDENTITY",
                     "year": "1891",
-                    "month": "September"
+                    "month": "September",
+                    "plot":{
+                        "start_date": "YYYY-MM",
+                        "end_date": "YYYY-MM"
+                    }
                 },
                 "a_scandal_in_bohemia": {
                     "title": "A SCANDAL IN BOHEMIA",
