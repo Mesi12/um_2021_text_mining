@@ -82,7 +82,7 @@ occurence,speaker,canonicalSpeaker,text
 80,Holmes,Sherlock Holmes,One more question. How did your mother take the matter?
 81,Holmes,Sherlock Holmes,"She was angry, and said that I was never to speak of the matter again."
 82,Holmes,Sherlock Holmes,And your father? Did you tell him?
-83,him,She,"Yes; and he seemed to think, with me, that something had happened, and that I should hear of Hosmer again. As he said, what interest could anyone have in bringing me to the doors of the church, and then leaving me? Now, if he had borrowed my money, or if he had married me and got my money settled on him, there might be some reason, but Hosmer was very independent about money and never would look at a shilling of mine. And yet, what could have happened? And why could he not write? Oh, it drives me half-mad to think of it, and I can't sleep a wink at night."
+83,him,Mother,"Yes; and he seemed to think, with me, that something had happened, and that I should hear of Hosmer again. As he said, what interest could anyone have in bringing me to the doors of the church, and then leaving me? Now, if he had borrowed my money, or if he had married me and got my money settled on him, there might be some reason, but Hosmer was very independent about money and never would look at a shilling of mine. And yet, what could have happened? And why could he not write? Oh, it drives me half-mad to think of it, and I can't sleep a wink at night."
 84,Holmes,Holmes,"I shall glance into the case for you,"
 85,Holmes,Holmes,"and I have no doubt that we shall reach some definite result. Let the weight of the matter rest upon me now, and do not let your mind dwell upon it further. Above all, try to let Mr. Hosmer Angel vanish from your memory, as he has done from your life."
 86,Holmes,Holmes,Then you don't think I'll see him again?
@@ -113,11 +113,11 @@ occurence,speaker,canonicalSpeaker,text
 111,her,Sherlock Holmes,"As to the letters,"
 112,Hosmer Angel,Sherlock Holmes,"they are very commonplace. Absolutely no clue in them to Mr. Angel, save that he quotes Balzac once. There is one remarkable point, however, which will no doubt strike you."
 113,Hosmer Angel,Sherlock Holmes,"They are typewritten,"
-114,Unknown,Sherlock Holmes,"Not only that, but the signature is typewritten. Look at the neat little 'Hosmer Angel' at the bottom. There is a date, you see, but no superscription except Leadenhall Street, which is rather vague. The point about the signature is very suggestive--in fact, we may call it conclusive."
+114,Balzac,Sherlock Holmes,"Not only that, but the signature is typewritten. Look at the neat little 'Hosmer Angel' at the bottom. There is a date, you see, but no superscription except Leadenhall Street, which is rather vague. The point about the signature is very suggestive--in fact, we may call it conclusive."
 115,Hosmer Angel,Sherlock Holmes,Of what?
-116,Hosmer Angel,Sherlock Holmes,"My dear fellow, is it possible you do not see how strongly it bears upon the case?"
+116,Balzac,Sherlock Holmes,"My dear fellow, is it possible you do not see how strongly it bears upon the case?"
 117,Hosmer Angel,Sherlock Holmes,I cannot say that I do unless it were that he wished to be able to deny his signature if an action for breach of promise were instituted.
-118,Hosmer Angel,Sherlock Holmes,"No, that was not the point. However, I shall write two letters, which should settle the matter. One is to a firm in the City, the other is to the young lady's stepfather, Mr. Windibank, asking him whether he could meet us here at six o'clock tomorrow evening. It is just as well that we should do business with the male relatives. And now, Doctor, we can do nothing until the answers to those letters come, so we may put our little problem upon the shelf for the interim."
+118,Balzac,Sherlock Holmes,"No, that was not the point. However, I shall write two letters, which should settle the matter. One is to a firm in the City, the other is to the young lady's stepfather, Mr. Windibank, asking him whether he could meet us here at six o'clock tomorrow evening. It is just as well that we should do business with the male relatives. And now, Doctor, we can do nothing until the answers to those letters come, so we may put our little problem upon the shelf for the interim."
 119,his,Unknown,"Well, have you solved it?"
 120,Holmes,Unknown,Yes. It was the bisulphate of baryta.
 121,Holmes,Unknown,"No, no, the mystery!"

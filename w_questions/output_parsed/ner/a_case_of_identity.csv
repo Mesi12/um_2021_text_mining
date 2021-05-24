@@ -1,12 +1,9 @@
 text,ner,normalizedner
 Sherlock Holmes,PERSON,
+Baker Street,LOCATION,
 his,PERSON,
 Holmes,PERSON,
-three,NUMBER,3.0
-morning,TIME,TMO
-first,ORDINAL,1.0
 his,PERSON,
-one,NUMBER,1.0
 Holmes,PERSON,
 his,PERSON,
 Dundas,PERSON,
@@ -16,25 +13,16 @@ his,PERSON,
 He,PERSON,
 his,PERSON,
 his,PERSON,
-weeks,DURATION,PXW
 he,PERSON,
-King of Bohemia,LOCATION,
+Bohemia,LOCATION,
 Irene Adler,PERSON,
 his,PERSON,
 Holland,LOCATION,
-one,NUMBER,1.0
-two,NUMBER,2.0
-now,DATE,PRESENT_REF
-ten,NUMBER,10.0
-twelve,NUMBER,12.0
-present,DATE,PRESENT_REF
-one,NUMBER,1.0
 Marseilles,LOCATION,
-minutes,DURATION,PTXM
-one,NUMBER,1.0
 London,LOCATION,
 He,PERSON,
 his,PERSON,
+Duchess of Devonshire,PERSON,
 his,PERSON,
 her,PERSON,
 her,PERSON,
@@ -45,7 +33,6 @@ her,PERSON,
 she,PERSON,
 Holmes,PERSON,
 his,PERSON,
-coeur,ORGANIZATION,
 She,PERSON,
 she,PERSON,
 she,PERSON,
@@ -53,7 +40,6 @@ Miss Mary Sutherland,PERSON,
 he,PERSON,
 his,PERSON,
 Sherlock Holmes,PERSON,
-the minute,DATE,THIS PT1M
 her,PERSON,
 he,PERSON,
 her,PERSON,
@@ -61,8 +47,6 @@ he,PERSON,
 her,PERSON,
 him,PERSON,
 he,PERSON,
-first,ORDINAL,1.0
-now,DATE,PRESENT_REF
 she,PERSON,
 his,PERSON,
 she,PERSON,
@@ -73,8 +57,6 @@ Holmes,PERSON,
 Mrs. Etherege,PERSON,
 him,PERSON,
 Mr. Holmes,PERSON,
-hundred,NUMBER,100.0
-a year,DURATION,P1Y
 Mr. Hosmer Angel,PERSON,
 Sherlock Holmes,PERSON,
 his,PERSON,
@@ -86,14 +68,11 @@ He,PERSON,
 he,PERSON,
 he,PERSON,
 Holmes,PERSON,
-five years,DURATION,P5Y
-two months,DURATION,P2M
 him,PERSON,
 he,PERSON,
 Mr. Holmes,PERSON,
-nearly fifteen years,DURATION,P15Y
 she,PERSON,
-Tottenham Court Road,ORGANIZATION,
+Tottenham Court Road,LOCATION,
 Mr. Hardy,PERSON,
 Mr. Windibank,PERSON,
 he,PERSON,
@@ -101,36 +80,23 @@ him,PERSON,
 he,PERSON,
 her,PERSON,
 he,PERSON,
-£,MONEY,£
-4700,DATE,4700 
+4700,DATE,
 he,PERSON,
 Sherlock Holmes,PERSON,
 he,PERSON,
 he,PERSON,
+Ned,PERSON,
 Auckland,LOCATION,
 New Zealand,LOCATION,
-4,NUMBER,4.0
-½,NUMBER,
-Two thousand five hundred pounds,MONEY,£2500.0
 Holmes,PERSON,
-hundred,NUMBER,100.0
-a year,DURATION,P1Y
-£60,MONEY,~£60.0
 Mr. Holmes,PERSON,
 Mr. Windibank,PERSON,
-every quarter,SET,
-fifteen,NUMBER,15.0-20.0
-to,NUMBER,15.0-20.0
-twenty,NUMBER,15.0-20.0
-a day,DURATION,P1D
 Holmes,PERSON,
 Watson,PERSON,
-now,DATE,PRESENT_REF
 Mr. Hosmer Angel,PERSON,
-Miss Sutherland,LOCATION,
+Miss Sutherland,PERSON,
 she,PERSON,
 her,PERSON,
-first,ORDINAL,1.0
 him,PERSON,
 she,PERSON,
 he,PERSON,
@@ -154,8 +120,6 @@ his,PERSON,
 she,PERSON,
 her,PERSON,
 Mr. Hosmer Angel,PERSON,
-night,TIME,TNI
-next day,DATE,THIS P1D OFFSET P1D
 Mr. Holmes,PERSON,
 Mr. Hosmer Angel,PERSON,
 him,PERSON,
@@ -170,18 +134,18 @@ her,PERSON,
 Mr. Hosmer Angel,PERSON,
 he,PERSON,
 France,LOCATION,
-a week,DURATION,P1W
 Hosmer,PERSON,
 he,PERSON,
-every day,SET,
 he,PERSON,
-morning,TIME,TMO
+morning,TIME,
 Mr. Holmes,PERSON,
-first,ORDINAL,1.0
+Hosmer,PERSON,
+Leadenhall Street,LOCATION,
 Mr. Holmes,PERSON,
 he,PERSON,
 He,PERSON,
 his,PERSON,
+Leadenhall Street,LOCATION,
 Leadenhall Street Post Office,ORGANIZATION,
 He,PERSON,
 he,PERSON,
@@ -197,8 +161,6 @@ Holmes,PERSON,
 Mr. Hosmer Angel,PERSON,
 Mr. Holmes,PERSON,
 He,PERSON,
-evening,TIME,TEV
-daylight,TIME,TDT
 He,PERSON,
 he,PERSON,
 he,PERSON,
@@ -214,37 +176,32 @@ he,PERSON,
 Mr. Windibank,PERSON,
 France,LOCATION,
 Mr. Hosmer Angel,PERSON,
+Testament,MISC,
 He,PERSON,
 him,PERSON,
+Mother,PERSON,
 he,PERSON,
 his,PERSON,
-first,ORDINAL,1.0
+Mother,PERSON,
 his,PERSON,
 him,PERSON,
-the week,DATE,THIS P1W
 him,PERSON,
 she,PERSON,
 him,PERSON,
 Mr. Holmes,PERSON,
-a few years,DURATION,PXY
 Bordeaux,LOCATION,
-morning,TIME,TMO
+French,MISC,
 his,PERSON,
 he,PERSON,
 him,PERSON,
 England,LOCATION,
 he,PERSON,
-Friday,DATE,XXXX-WXX-5
-St. Saviour,ORGANIZATION,
-King,LOCATION,
-St. Pancras Hotel,ORGANIZATION,
+Friday,DATE,
+St. Saviour,LOCATION,
+King's Cross,LOCATION,
+St. Pancras Hotel,LOCATION,
 Hosmer,PERSON,
-two,NUMBER,2.0
-four-wheeler,NUMBER,4.0
 he,PERSON,
-first,ORDINAL,1.0
-four-wheeler,NUMBER,4.0
-one,NUMBER,1.0
 him,PERSON,
 he,PERSON,
 he,PERSON,
@@ -252,12 +209,11 @@ him,PERSON,
 he,PERSON,
 him,PERSON,
 his,PERSON,
-last Friday,DATE,XXXX-WXX-5 OFFSET P-1W
+Friday,DATE,
 Mr. Holmes,PERSON,
 him,PERSON,
 Holmes,PERSON,
 He,PERSON,
-morning,TIME,TMO
 he,PERSON,
 him,PERSON,
 he,PERSON,
@@ -266,40 +222,35 @@ him,PERSON,
 he,PERSON,
 he,PERSON,
 he,PERSON,
-One,NUMBER,1.0
 She,PERSON,
 him,PERSON,
 Hosmer,PERSON,
 he,PERSON,
 he,PERSON,
-Now,DATE,PRESENT_REF
 Hosmer,PERSON,
 he,PERSON,
 he,PERSON,
 him,PERSON,
 he,PERSON,
-night,TIME,TNI
 She,PERSON,
 her,PERSON,
 Holmes,PERSON,
-now,DATE,PRESENT_REF
 Mr. Hosmer Angel,PERSON,
 he,PERSON,
 him,PERSON,
 him,PERSON,
 him,PERSON,
 his,PERSON,
-last Saturday,DATE,XXXX-WXX-6 OFFSET P-1W
+last Saturday,DATE,
+Chronicle,ORGANIZATION,
 him,PERSON,
 she,PERSON,
-four,NUMBER,4.0
 him,PERSON,
-31,NUMBER,31.0
 Lyon Place,ORGANIZATION,
-Camberwell,ORGANIZATION,
+Camberwell,LOCATION,
 Mr. Angel,PERSON,
 Westhouse & Marbank,ORGANIZATION,
-Fenchurch Street,ORGANIZATION,
+Fenchurch Street,LOCATION,
 He,PERSON,
 Mr. Holmes,PERSON,
 Hosmer,PERSON,
@@ -310,7 +261,6 @@ her,PERSON,
 her,PERSON,
 she,PERSON,
 Sherlock Holmes,PERSON,
-a few minutes,DURATION,PTXM
 his,PERSON,
 his,PERSON,
 him,PERSON,
@@ -322,17 +272,13 @@ his,PERSON,
 him,PERSON,
 his,PERSON,
 he,PERSON,
-one,NUMBER,1.0
 her,PERSON,
 her,PERSON,
 Andover,LOCATION,
-'77,DATE,XX77
-last year,DATE,THIS P1Y OFFSET P-1Y
-one,NUMBER,1.0
-two,NUMBER,2.0
+'77,DATE,
+The Hague,LOCATION,
 her,PERSON,
 Watson,PERSON,
-Now,DATE,PRESENT_REF
 she,PERSON,
 Her,PERSON,
 Her,PERSON,
@@ -342,83 +288,57 @@ She,PERSON,
 Sherlock Holmes,PERSON,
 his,PERSON,
 Watson,PERSON,
-first,ORDINAL,1.0
-first,ORDINAL,1.0
 her,PERSON,
 her,PERSON,
 her,PERSON,
 her,PERSON,
-one,NUMBER,1.0
-one,NUMBER,1.0
 she,PERSON,
-One,NUMBER,1.0
-two,NUMBER,2.0
-five,NUMBER,5.0
-first,ORDINAL,1.0
-third,ORDINAL,3.0
-and fifth,ORDINAL,
-Now,DATE,PRESENT_REF
 she,PERSON,
 she,PERSON,
 her,PERSON,
 She,PERSON,
 her,PERSON,
-this morning,TIME,THIS MO
+this morning,TIME,
 Watson,PERSON,
 Mr. Hosmer Angel,PERSON,
-morning,TIME,TMO
-fourteenth,ORDINAL,14.0
 Hosmer Angel,PERSON,
-five,NUMBER,~5.0
-seven,NUMBER,7.0
 Albert,PERSON,
 Harris,PERSON,
+Leadenhall Street,LOCATION,
 Holmes,PERSON,
 he,PERSON,
 Mr. Angel,PERSON,
-once,DATE,PAST_REF
+Balzac,PERSON,
 he,PERSON,
-one,NUMBER,1.0
-Hosmer Angel,PERSON,
+Hosmer Angel,ORGANIZATION,
+Leadenhall Street,LOCATION,
 he,PERSON,
 his,PERSON,
-two,NUMBER,2.0
-One,NUMBER,1.0
-City,LOCATION,
 Mr. Windibank,PERSON,
-six o'clock tomorrow evening,DATE,OFFSET P1D INTERSECT EV INTERSECT T06:00
 him,PERSON,
 he,PERSON,
-now,DATE,PRESENT_REF
 he,PERSON,
 he,PERSON,
 he,PERSON,
-Once,DATE,PAST_REF
-King of Bohemia,ORGANIZATION,
+Bohemia,LOCATION,
 Irene Adler,PERSON,
-Four,NUMBER,4.0
+Sign of Four,MISC,
 Scarlet,LOCATION,
 him,PERSON,
 he,PERSON,
-the next evening,DATE,NEXT_IMMEDIATE EV
 Miss Mary Sutherland,PERSON,
 him,PERSON,
 his,PERSON,
 he,PERSON,
 his,PERSON,
-time,DATE,PAST_REF
-next day,DATE,THIS P1D OFFSET P1D
-six o'clock,TIME,T06:00
-spring,DATE,spring 
-Baker Street,ORGANIZATION,
+spring,DATE,
+Baker Street,LOCATION,
 Sherlock Holmes,PERSON,
 his,PERSON,
 his,PERSON,
-day,DURATION,P1D
 he,PERSON,
 his,PERSON,
 him,PERSON,
-yesterday,DATE,OFFSET P-1D
 Miss Sutherland,PERSON,
 he,PERSON,
 his,PERSON,
@@ -426,16 +346,13 @@ Holmes,PERSON,
 his,PERSON,
 Mr. James Windibank,PERSON,
 Holmes,PERSON,
-six,NUMBER,6.0
 He,PERSON,
 he,PERSON,
-thirty years,DURATION,P30Y
 He,PERSON,
 his,PERSON,
 Mr. James Windibank,PERSON,
 Holmes,PERSON,
-six o'clock,TIME,T06:00
-Miss Sutherland,LOCATION,
+Miss Sutherland,PERSON,
 she,PERSON,
 she,PERSON,
 she,PERSON,
@@ -448,19 +365,11 @@ Mr. Windibank,PERSON,
 his,PERSON,
 he,PERSON,
 Holmes,PERSON,
-two,NUMBER,2.0
-one,NUMBER,1.0
-Now,DATE,PRESENT_REF
 Mr. Windibank,PERSON,
-fourteen,NUMBER,>=14.0
 Holmes,PERSON,
 his,PERSON,
-now,DATE,PRESENT_REF
 Mr. Windibank,PERSON,
 Holmes,PERSON,
-days,DURATION,PXD
-four,NUMBER,4.0
-fourteen,NUMBER,>=14.0
 Mr. Windibank,PERSON,
 his,PERSON,
 his,PERSON,
@@ -477,11 +386,10 @@ Mr. Windibank,PERSON,
 his,PERSON,
 he,PERSON,
 Windibank,PERSON,
-Now,DATE,PRESENT_REF
-one,NUMBER,1.0
 his,PERSON,
 his,PERSON,
 his,PERSON,
+Holmes,PERSON,
 his,PERSON,
 his,PERSON,
 his,PERSON,
@@ -493,9 +401,6 @@ her,PERSON,
 her,PERSON,
 her,PERSON,
 she,PERSON,
-Now,DATE,PRESENT_REF
-hundred,NUMBER,100.0
-a year,DURATION,P1Y
 her,PERSON,
 her,PERSON,
 He,PERSON,
@@ -514,7 +419,6 @@ Mr. Hosmer Angel,PERSON,
 his,PERSON,
 he,PERSON,
 he,PERSON,
-first,ORDINAL,1.0
 she,PERSON,
 France,LOCATION,
 her,PERSON,
@@ -525,66 +429,54 @@ her,PERSON,
 Mr. Angel,PERSON,
 France,LOCATION,
 her,PERSON,
-fidelity,ORGANIZATION,
-morning,TIME,TMO
+Testament,MISC,
 James Windibank,PERSON,
-Miss Sutherland,LOCATION,
+Miss Sutherland,PERSON,
 Hosmer Angel,PERSON,
-ten years,DURATION,P10Y
 his,PERSON,
 she,PERSON,
-one,NUMBER,1.0
-four-wheeler,NUMBER,4.0
 he,PERSON,
 her,PERSON,
 he,PERSON,
 he,PERSON,
 Mr. Windibank,PERSON,
 Holmes,PERSON,
-now,DATE,PRESENT_REF
 his,PERSON,
 he,PERSON,
 his,PERSON,
 his,PERSON,
 Mr. Holmes,PERSON,
-now,DATE,PRESENT_REF
 he,PERSON,
-first,ORDINAL,1.0
 Holmes,PERSON,
 he,PERSON,
-two,NUMBER,2.0
+Jove,PERSON,
 Mr. James Windibank,PERSON,
 he,PERSON,
 He,PERSON,
 he,PERSON,
 his,PERSON,
 Holmes,PERSON,
-once,DATE,PAST_REF
 he,PERSON,
 his,PERSON,
 he,PERSON,
-now,DATE,PRESENT_REF
-first,ORDINAL,1.0
 Mr. Hosmer Angel,PERSON,
 his,PERSON,
-two,NUMBER,2.0
-one,NUMBER,1.0
 his,PERSON,
 his,PERSON,
 his,PERSON,
 her,PERSON,
 she,PERSON,
-once,DATE,PAST_REF
 his,PERSON,
 him,PERSON,
 he,PERSON,
 his,PERSON,
 Westhouse & Marbank,ORGANIZATION,
-Fenchurch Street,ORGANIZATION,
+Fenchurch Street,LOCATION,
 James Windibank,PERSON,
 Miss Sutherland,PERSON,
 her,PERSON,
 she,PERSON,
+Persian,MISC,
 him,PERSON,
-Hafiz,LOCATION,
-Horace,LOCATION,
+Hafiz,PERSON,
+Horace,PERSON,

@@ -59,6 +59,9 @@ if __name__ == "__main__":
     for file_name in os.listdir("output"):
         filepath = os.path.join("output", file_name)
 
+        if file_name != "a_case_of_identity.txt.json":
+            continue
+
         if os.path.isfile(filepath) and filepath.endswith(".json"):
 
             with open(filepath, "r") as f:
@@ -84,7 +87,6 @@ if __name__ == "__main__":
 
 
                 # extract quotes + speaker
-                """
                 quotes = extract_quotes(annots)
                 pd.DataFrame(
                     data=quotes,
@@ -93,7 +95,6 @@ if __name__ == "__main__":
                     os.path.join("output_parsed", "quotes", f"{story}.csv"),
                     index=False
                 )
-                """
 
     pd.DataFrame(
         data=all_relations,
