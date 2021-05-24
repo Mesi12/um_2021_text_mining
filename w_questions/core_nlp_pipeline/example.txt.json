@@ -4,7 +4,7 @@
     {
       "index": 0,
       "paragraph": 0,
-      "parse": "(ROOT\n  (S\n    (SBAR (IN As)\n      (S\n        (NP (PRP he))\n        (VP (VBD spoke)\n          (SBAR\n            (S\n              (S\n                (NP (EX there))\n                (VP (VBD was)\n                  (NP\n                    (NP (DT a) (NN tap))\n                    (PP (IN at)\n                      (NP (DT the) (NN door))))))\n              (, ,)\n              (CC and)\n              (S\n                (NP\n                  (NP (DT the) (NN boy))\n                  (PP (IN in)\n                    (NP (NNS buttons))))\n                (VP (VBD entered)\n                  (S\n                    (VP (TO to)\n                      (VP (VB announce)\n                        (NP (NNP Miss) (NNP Mary) (NNP Sutherland))))))))))))\n    (, ,)\n    (PP (IN while)\n      (NP (DT the) (NN lady)))\n    (NP (PRP herself))\n    (VP (VBD loomed)\n      (PP (IN behind)\n        (NP (PRP$ his) (JJ small) (JJ black) (NN figure)))\n      (PP (IN like)\n        (NP (DT a)\n          (ADJP (JJ full) (HYPH -)\n            (SBAR\n              (S\n                (VP (VBD sailed)\n                  (NP\n                    (NP (NN merchant) (HYPH -) (NN man))\n                    (PP (IN behind)\n                      (NP (DT a) (JJ tiny) (NN pilot))))))))\n          (NN boat))))\n    (. .)))",
+      "parse": "(ROOT\r\n  (S\r\n    (SBAR (IN As)\r\n      (S\r\n        (NP (PRP he))\r\n        (VP (VBD spoke)\r\n          (SBAR\r\n            (S\r\n              (S\r\n                (NP (EX there))\r\n                (VP (VBD was)\r\n                  (NP\r\n                    (NP (DT a) (NN tap))\r\n                    (PP (IN at)\r\n                      (NP (DT the) (NN door))))))\r\n              (, ,)\r\n              (CC and)\r\n              (S\r\n                (NP\r\n                  (NP (DT the) (NN boy))\r\n                  (PP (IN in)\r\n                    (NP (NNS buttons))))\r\n                (VP (VBD entered)\r\n                  (S\r\n                    (VP (TO to)\r\n                      (VP (VB announce)\r\n                        (NP (NNP Miss) (NNP Mary) (NNP Sutherland))))))))))))\r\n    (, ,)\r\n    (PP (IN while)\r\n      (NP (DT the) (NN lady)))\r\n    (NP (PRP herself))\r\n    (VP (VBD loomed)\r\n      (PP (IN behind)\r\n        (NP (PRP$ his) (JJ small) (JJ black) (NN figure)))\r\n      (PP (IN like)\r\n        (NP (DT a)\r\n          (ADJP (JJ full) (HYPH -)\r\n            (SBAR\r\n              (S\r\n                (VP (VBD sailed)\r\n                  (NP\r\n                    (NP (NN merchant) (HYPH -) (NN man))\r\n                    (PP (IN behind)\r\n                      (NP (DT a) (JJ tiny) (NN pilot))))))))\r\n          (NN boat))))\r\n    (. .)))",
       "basicDependencies": [
         {
           "dep": "ROOT",
@@ -1039,7 +1039,7 @@
           "characterOffsetEnd": 104,
           "ner": "PERSON",
           "nerConfidences": {
-            "PERSON": 0.99974789927931
+            "PERSON": 0.99797561010051
           }
         },
         {
@@ -1680,7 +1680,7 @@
     {
       "index": 1,
       "paragraph": 0,
-      "parse": "(ROOT\n  (S\n    (S\n      (NP (NNP Sherlock) (NNP Holmes))\n      (VP (VBD welcomed)\n        (NP (PRP her))\n        (PP (IN with)\n          (NP\n            (NP (DT the) (JJ easy) (NN courtesy))\n            (SBAR\n              (WHPP (IN for)\n                (WHNP (WDT which)))\n              (S\n                (NP (PRP he))\n                (VP (VBD was)\n                  (ADJP (JJ remarkable)))))))))\n    (, ,)\n    (CC and)\n    (, ,)\n    (S\n      (S\n        (VP (VBG having)\n          (VP\n            (VP (VBN closed)\n              (NP (DT the) (NN door)))\n            (CC and)\n            (VP (VBD bowed)\n              (NP (PRP her))\n              (PP (IN into)\n                (NP (DT an) (NN armchair)))))))\n      (, ,)\n      (NP (PRP he))\n      (VP (VBD looked)\n        (NP (PRP$ her))\n        (PRT (RP over))\n        (PP (IN in)\n          (NP\n            (NP (DT the) (NN minute))\n            (CC and)\n            (NP\n              (NP\n                (ADJP (RB yet) (JJ abstracted))\n                (NN fashion))\n              (SBAR\n                (WHNP (WDT which))\n                (S\n                  (VP (VBD was)\n                    (ADJP (JJ peculiar)\n                      (PP (IN to)\n                        (NP (PRP him))))))))))))\n    (. .)))",
+      "parse": "(ROOT\r\n  (S\r\n    (S\r\n      (NP (NNP Sherlock) (NNP Holmes))\r\n      (VP (VBD welcomed)\r\n        (NP (PRP her))\r\n        (PP (IN with)\r\n          (NP\r\n            (NP (DT the) (JJ easy) (NN courtesy))\r\n            (SBAR\r\n              (WHPP (IN for)\r\n                (WHNP (WDT which)))\r\n              (S\r\n                (NP (PRP he))\r\n                (VP (VBD was)\r\n                  (ADJP (JJ remarkable)))))))))\r\n    (, ,)\r\n    (CC and)\r\n    (, ,)\r\n    (S\r\n      (S\r\n        (VP (VBG having)\r\n          (VP\r\n            (VP (VBN closed)\r\n              (NP (DT the) (NN door)))\r\n            (CC and)\r\n            (VP (VBD bowed)\r\n              (NP (PRP her))\r\n              (PP (IN into)\r\n                (NP (DT an) (NN armchair)))))))\r\n      (, ,)\r\n      (NP (PRP he))\r\n      (VP (VBD looked)\r\n        (NP (PRP$ her))\r\n        (PRT (RP over))\r\n        (PP (IN in)\r\n          (NP\r\n            (NP (DT the) (NN minute))\r\n            (CC and)\r\n            (NP\r\n              (NP\r\n                (ADJP (RB yet) (JJ abstracted))\r\n                (NN fashion))\r\n              (SBAR\r\n                (WHNP (WDT which))\r\n                (S\r\n                  (VP (VBD was)\r\n                    (ADJP (JJ peculiar)\r\n                      (PP (IN to)\r\n                        (NP (PRP him))))))))))))\r\n    (. .)))",
       "basicDependencies": [
         {
           "dep": "ROOT",
@@ -2680,7 +2680,7 @@
           "characterOffsetEnd": 239,
           "ner": "PERSON",
           "nerConfidences": {
-            "PERSON": 0.99934814661184
+            "PERSON": 0.97254541963841
           }
         },
         {
@@ -3346,7 +3346,813 @@
           "ner": "O",
           "speaker": "PER0",
           "before": "",
+          "after": "\r\n"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "paragraph": 1,
+      "parse": "(ROOT\r\n  (SBARQ (`` \")\r\n    (WHADVP (WRB How))\r\n    (SQ (VBP are)\r\n      (NP (PRP you))\r\n      (NP (NN today)))\r\n    (. ?) ('' \")))",
+      "basicDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 3,
+          "dependentGloss": "are"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 1,
+          "dependentGloss": "\""
+        },
+        {
+          "dep": "advmod",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 2,
+          "dependentGloss": "How"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 4,
+          "dependentGloss": "you"
+        },
+        {
+          "dep": "dep",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 5,
+          "dependentGloss": "today"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 6,
+          "dependentGloss": "?"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 7,
+          "dependentGloss": "\""
+        }
+      ],
+      "enhancedDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 3,
+          "dependentGloss": "are"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 1,
+          "dependentGloss": "\""
+        },
+        {
+          "dep": "advmod",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 2,
+          "dependentGloss": "How"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 4,
+          "dependentGloss": "you"
+        },
+        {
+          "dep": "dep",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 5,
+          "dependentGloss": "today"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 6,
+          "dependentGloss": "?"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 7,
+          "dependentGloss": "\""
+        }
+      ],
+      "enhancedPlusPlusDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 3,
+          "dependentGloss": "are"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 1,
+          "dependentGloss": "\""
+        },
+        {
+          "dep": "advmod",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 2,
+          "dependentGloss": "How"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 4,
+          "dependentGloss": "you"
+        },
+        {
+          "dep": "dep",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 5,
+          "dependentGloss": "today"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 6,
+          "dependentGloss": "?"
+        },
+        {
+          "dep": "punct",
+          "governor": 3,
+          "governorGloss": "are",
+          "dependent": 7,
+          "dependentGloss": "\""
+        }
+      ],
+      "kbp": [
+      ],
+      "entitymentions": [
+        {
+          "docTokenBegin": 95,
+          "docTokenEnd": 96,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "today",
+          "characterOffsetBegin": 466,
+          "characterOffsetEnd": 471,
+          "ner": "DATE",
+          "normalizedNER": "THIS P1D",
+          "nerConfidences": {
+            "DATE": -1
+          },
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "altValue": "THIS P1D"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "\"",
+          "originalText": "\"",
+          "lemma": "\"",
+          "characterOffsetBegin": 453,
+          "characterOffsetEnd": 454,
+          "pos": "``",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": "\r\n",
           "after": ""
+        },
+        {
+          "index": 2,
+          "word": "How",
+          "originalText": "How",
+          "lemma": "how",
+          "characterOffsetBegin": 454,
+          "characterOffsetEnd": 457,
+          "pos": "WRB",
+          "ner": "O",
+          "speaker": "13",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "are",
+          "originalText": "are",
+          "lemma": "be",
+          "characterOffsetBegin": 458,
+          "characterOffsetEnd": 461,
+          "pos": "VBP",
+          "ner": "O",
+          "speaker": "13",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "you",
+          "originalText": "you",
+          "lemma": "you",
+          "characterOffsetBegin": 462,
+          "characterOffsetEnd": 465,
+          "pos": "PRP",
+          "ner": "O",
+          "speaker": "13",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "today",
+          "originalText": "today",
+          "lemma": "today",
+          "characterOffsetBegin": 466,
+          "characterOffsetEnd": 471,
+          "pos": "NN",
+          "ner": "DATE",
+          "normalizedNER": "THIS P1D",
+          "speaker": "13",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "altValue": "THIS P1D"
+          }
+        },
+        {
+          "index": 6,
+          "word": "?",
+          "originalText": "?",
+          "lemma": "?",
+          "characterOffsetBegin": 471,
+          "characterOffsetEnd": 472,
+          "pos": ".",
+          "ner": "O",
+          "speaker": "13",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": "\"",
+          "originalText": "\"",
+          "lemma": "\"",
+          "characterOffsetBegin": 472,
+          "characterOffsetEnd": 473,
+          "pos": "''",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "paragraph": 1,
+      "parse": "(ROOT\r\n  (S\r\n    (VP (HYPH -)\r\n      (VP (VBN asked)\r\n        (NP (NNP Mary))\r\n        (PP (IN from)\r\n          (NP (PRP$ her) (NN husband)\r\n            (S\r\n              (VP (TO to)\r\n                (VP (VB see)\r\n                  (SBAR (IN if)\r\n                    (S\r\n                      (NP (PRP he))\r\n                      (VP (VBZ is)\r\n                        (VP (VBG doing)\r\n                          (NP (NN fine)))))))))))))\r\n    (. .)))",
+      "basicDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 2,
+          "dependentGloss": "asked"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 1,
+          "dependentGloss": "-"
+        },
+        {
+          "dep": "obj",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 3,
+          "dependentGloss": "Mary"
+        },
+        {
+          "dep": "case",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 4,
+          "dependentGloss": "from"
+        },
+        {
+          "dep": "nmod:poss",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 5,
+          "dependentGloss": "her"
+        },
+        {
+          "dep": "obl",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 6,
+          "dependentGloss": "husband"
+        },
+        {
+          "dep": "mark",
+          "governor": 8,
+          "governorGloss": "see",
+          "dependent": 7,
+          "dependentGloss": "to"
+        },
+        {
+          "dep": "acl",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 8,
+          "dependentGloss": "see"
+        },
+        {
+          "dep": "mark",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 9,
+          "dependentGloss": "if"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 10,
+          "dependentGloss": "he"
+        },
+        {
+          "dep": "aux",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 11,
+          "dependentGloss": "is"
+        },
+        {
+          "dep": "advcl",
+          "governor": 8,
+          "governorGloss": "see",
+          "dependent": 12,
+          "dependentGloss": "doing"
+        },
+        {
+          "dep": "obj",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 13,
+          "dependentGloss": "fine"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 14,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 2,
+          "dependentGloss": "asked"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 1,
+          "dependentGloss": "-"
+        },
+        {
+          "dep": "obj",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 3,
+          "dependentGloss": "Mary"
+        },
+        {
+          "dep": "case",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 4,
+          "dependentGloss": "from"
+        },
+        {
+          "dep": "nmod:poss",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 5,
+          "dependentGloss": "her"
+        },
+        {
+          "dep": "obl:from",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 6,
+          "dependentGloss": "husband"
+        },
+        {
+          "dep": "mark",
+          "governor": 8,
+          "governorGloss": "see",
+          "dependent": 7,
+          "dependentGloss": "to"
+        },
+        {
+          "dep": "acl:to",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 8,
+          "dependentGloss": "see"
+        },
+        {
+          "dep": "mark",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 9,
+          "dependentGloss": "if"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 10,
+          "dependentGloss": "he"
+        },
+        {
+          "dep": "aux",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 11,
+          "dependentGloss": "is"
+        },
+        {
+          "dep": "advcl:if",
+          "governor": 8,
+          "governorGloss": "see",
+          "dependent": 12,
+          "dependentGloss": "doing"
+        },
+        {
+          "dep": "obj",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 13,
+          "dependentGloss": "fine"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 14,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedPlusPlusDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 2,
+          "dependentGloss": "asked"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 1,
+          "dependentGloss": "-"
+        },
+        {
+          "dep": "obj",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 3,
+          "dependentGloss": "Mary"
+        },
+        {
+          "dep": "case",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 4,
+          "dependentGloss": "from"
+        },
+        {
+          "dep": "nmod:poss",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 5,
+          "dependentGloss": "her"
+        },
+        {
+          "dep": "obl:from",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 6,
+          "dependentGloss": "husband"
+        },
+        {
+          "dep": "mark",
+          "governor": 8,
+          "governorGloss": "see",
+          "dependent": 7,
+          "dependentGloss": "to"
+        },
+        {
+          "dep": "acl:to",
+          "governor": 6,
+          "governorGloss": "husband",
+          "dependent": 8,
+          "dependentGloss": "see"
+        },
+        {
+          "dep": "mark",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 9,
+          "dependentGloss": "if"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 10,
+          "dependentGloss": "he"
+        },
+        {
+          "dep": "aux",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 11,
+          "dependentGloss": "is"
+        },
+        {
+          "dep": "advcl:if",
+          "governor": 8,
+          "governorGloss": "see",
+          "dependent": 12,
+          "dependentGloss": "doing"
+        },
+        {
+          "dep": "obj",
+          "governor": 12,
+          "governorGloss": "doing",
+          "dependent": 13,
+          "dependentGloss": "fine"
+        },
+        {
+          "dep": "punct",
+          "governor": 2,
+          "governorGloss": "asked",
+          "dependent": 14,
+          "dependentGloss": "."
+        }
+      ],
+      "kbp": [
+      ],
+      "entitymentions": [
+        {
+          "docTokenBegin": 100,
+          "docTokenEnd": 101,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "Mary",
+          "characterOffsetBegin": 482,
+          "characterOffsetEnd": 486,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.70147100220822
+          }
+        },
+        {
+          "docTokenBegin": 102,
+          "docTokenEnd": 103,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "her",
+          "characterOffsetBegin": 492,
+          "characterOffsetEnd": 495,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 107,
+          "docTokenEnd": 108,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "he",
+          "characterOffsetBegin": 514,
+          "characterOffsetEnd": 516,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 474,
+          "characterOffsetEnd": 475,
+          "pos": "HYPH",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "asked",
+          "originalText": "asked",
+          "lemma": "ask",
+          "characterOffsetBegin": 476,
+          "characterOffsetEnd": 481,
+          "pos": "VBN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Mary",
+          "originalText": "Mary",
+          "lemma": "Mary",
+          "characterOffsetBegin": 482,
+          "characterOffsetEnd": 486,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "from",
+          "originalText": "from",
+          "lemma": "from",
+          "characterOffsetBegin": 487,
+          "characterOffsetEnd": 491,
+          "pos": "IN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "her",
+          "originalText": "her",
+          "lemma": "she",
+          "characterOffsetBegin": 492,
+          "characterOffsetEnd": 495,
+          "pos": "PRP$",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "husband",
+          "originalText": "husband",
+          "lemma": "husband",
+          "characterOffsetBegin": 496,
+          "characterOffsetEnd": 503,
+          "pos": "NN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 504,
+          "characterOffsetEnd": 506,
+          "pos": "TO",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "see",
+          "originalText": "see",
+          "lemma": "see",
+          "characterOffsetBegin": 507,
+          "characterOffsetEnd": 510,
+          "pos": "VB",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "if",
+          "originalText": "if",
+          "lemma": "if",
+          "characterOffsetBegin": 511,
+          "characterOffsetEnd": 513,
+          "pos": "IN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "he",
+          "originalText": "he",
+          "lemma": "he",
+          "characterOffsetBegin": 514,
+          "characterOffsetEnd": 516,
+          "pos": "PRP",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 517,
+          "characterOffsetEnd": 519,
+          "pos": "VBZ",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "doing",
+          "originalText": "doing",
+          "lemma": "do",
+          "characterOffsetBegin": 520,
+          "characterOffsetEnd": 525,
+          "pos": "VBG",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "fine",
+          "originalText": "fine",
+          "lemma": "fine",
+          "characterOffsetBegin": 526,
+          "characterOffsetEnd": 530,
+          "pos": "NN",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 530,
+          "characterOffsetEnd": 531,
+          "pos": ".",
+          "ner": "O",
+          "speaker": "PER0",
+          "before": "",
+          "after": " "
         }
       ]
     }
@@ -3577,9 +4383,91 @@
           8
         ],
         "isRepresentativeMention": false
+      },
+      {
+        "id": 26,
+        "text": "you",
+        "type": "PRONOMINAL",
+        "number": "UNKNOWN",
+        "gender": "UNKNOWN",
+        "animacy": "ANIMATE",
+        "startIndex": 4,
+        "endIndex": 5,
+        "headIndex": 4,
+        "sentNum": 3,
+        "position": [
+          3,
+          2
+        ],
+        "isRepresentativeMention": false
+      },
+      {
+        "id": 28,
+        "text": "he",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "MALE",
+        "animacy": "ANIMATE",
+        "startIndex": 10,
+        "endIndex": 11,
+        "headIndex": 10,
+        "sentNum": 4,
+        "position": [
+          4,
+          2
+        ],
+        "isRepresentativeMention": false
+      }
+    ],
+    "29": [
+      {
+        "id": 27,
+        "text": "Mary",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 3,
+        "endIndex": 4,
+        "headIndex": 3,
+        "sentNum": 4,
+        "position": [
+          4,
+          1
+        ],
+        "isRepresentativeMention": true
+      },
+      {
+        "id": 29,
+        "text": "her",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 5,
+        "endIndex": 6,
+        "headIndex": 5,
+        "sentNum": 4,
+        "position": [
+          4,
+          3
+        ],
+        "isRepresentativeMention": false
       }
     ]
   },
   "quotes": [
+    {
+      "id": 0,
+      "text": "\"How are you today?\"",
+      "beginIndex": 453,
+      "endIndex": 473,
+      "beginToken": 91,
+      "endToken": 97,
+      "beginSentence": 2,
+      "endSentence": 2,
+      "speaker": "Mary",
+      "canonicalSpeaker": "Mary"
+    }
   ]
 }
