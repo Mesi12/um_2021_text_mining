@@ -1,0 +1,34 @@
+story,subject,relation,object
+a_scandal_in_bohemia,Wilhelm Gottsreich Sigismond von Ormstein,per:employee_or_member_of,Grand Duke of Cassel - Felstein
+a_scandal_in_bohemia,King of Scandinavia,org:top_members_employees,Clotilde Lothman von Saxe - Meningen
+a_scandal_in_bohemia,Mr. Godfrey Norton,per:employee_or_member_of,Inner Temple
+a_scandal_in_bohemia,him,per:employee_or_member_of,Briony Lodge
+a_scandal_in_bohemia,Irene Adler,per:spouse,Irene Adler
+the_adventure_of_the_beryl_coronet,she,per:other_family,she
+the_adventure_of_the_blue_carbuncle,John Horner,per:age,26
+the_adventure_of_the_blue_carbuncle,Mrs. Oakshott,per:age,117
+the_adventure_of_the_blue_carbuncle,Mrs. Oakshott,per:age,117
+the_adventure_of_the_blue_carbuncle,Mr. Windigate,per:employee_or_member_of,Alpha
+the_adventure_of_the_blue_carbuncle,Sherlock Holmes,per:age,four - wheeler
+the_adventure_of_the_noble_bachelor,Robert Walsingham de Vere St. Simon,per:employee_or_member_of,Duke of Balmoral
+the_adventure_of_the_noble_bachelor,Duke of Balmoral,org:top_members_employees,Robert Walsingham de Vere St. Simon
+the_adventure_of_the_noble_bachelor,Robert St. Simon,per:parents,Mr. Aloysius Doran
+the_adventure_of_the_noble_bachelor,Mr. Aloysius Doran,per:children,Miss Hatty Doran
+the_adventure_of_the_noble_bachelor,Miss Hatty Doran,per:parents,Mr. Aloysius Doran
+the_adventure_of_the_noble_bachelor,Lord Backwater,per:siblings,Alicia Whittington
+the_boscombe_valley_mystery,Mr. McCarthy,per:children,Mr. Turner
+the_boscombe_valley_mystery,his,per:children,Mr. James McCarthy
+the_boscombe_valley_mystery,Mr. James McCarthy,per:parents,his
+the_boscombe_valley_mystery,Jack,per:employee_or_member_of,Ballarat
+the_boscombe_valley_mystery,Jack,per:employee_or_member_of,Ballarat Gang
+the_adventure_of_the_speckled_band,Stoner,per:employee_or_member_of,Bengal Artillery
+the_adventure_of_the_speckled_band,his,per:spouse,Mrs. Stoner
+the_adventure_of_the_speckled_band,Bengal Artillery,org:top_members_employees,Stoner
+the_adventure_of_the_speckled_band,Crane Water,org:top_members_employees,Mr. Armitage
+the_adventure_of_the_speckled_band,Mr. Armitage,per:employee_or_member_of,Crane Water
+a_case_of_identity,his,per:spouse,his
+the_man_with_the_twisted_lip,Theological College of St. George 's,org:top_members_employees,Elias Whitney
+the_man_with_the_twisted_lip,Isa Whitney,per:siblings,Elias Whitney
+the_man_with_the_twisted_lip,Elias Whitney,per:siblings,Isa Whitney
+the_man_with_the_twisted_lip,his,per:age,three - legged
+the_man_with_the_twisted_lip,Lee,org:top_members_employees,Mr. Neville St. Clair

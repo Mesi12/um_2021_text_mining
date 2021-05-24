@@ -1,0 +1,679 @@
+text,ner,normalizedner
+Sherlock Holmes,PERSON,
+Daily Telegraph,ORGANIZATION,
+Watson,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+his,PERSON,
+morning,TIME,TMO
+the early spring,DATE,XXXX-SP
+Baker Street,ORGANIZATION,
+Sherlock Holmes,PERSON,
+morning,TIME,TMO
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+Bohemia,LOCATION,
+Miss Mary Sutherland,PERSON,
+The end may,DATE,XXXX-05
+his,PERSON,
+his,PERSON,
+the days,DURATION,PXD
+past,DATE,PAST_REF
+this morning,TIME,THIS MO
+zero-point,NUMBER,0.0
+He,PERSON,
+Montague Place,ORGANIZATION,
+evening,TIME,TEV
+Mr. Holmes,PERSON,
+ten,NUMBER,10.0
+Violet Hunter,PERSON,
+ten,NUMBER,10.0
+now,DATE,PRESENT_REF
+her,PERSON,
+first,ORDINAL,1.0
+he,PERSON,
+She,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+Miss Hunter,PERSON,
+Holmes,PERSON,
+his,PERSON,
+He,PERSON,
+her,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+her,PERSON,
+five years,DURATION,P5Y
+Spence Munro,PERSON,
+two months ago,DATE,OFFSET P-2M
+Halifax,LOCATION,
+Nova Scotia,LOCATION,
+America,LOCATION,
+she,PERSON,
+his,PERSON,
+him,PERSON,
+once,DATE,PAST_REF
+a week,DURATION,P1W
+one,NUMBER,1.0
+one,NUMBER,1.0
+She,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+last week,DATE,THIS P1W OFFSET P-1W
+Miss Stoper,PERSON,
+his,PERSON,
+her,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+He,PERSON,
+his,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+£4,MONEY,£4.0
+a month,DURATION,P1M
+Colonel Spence Munro,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+day,DURATION,P1D
+three,NUMBER,3.0
+£100,MONEY,£100.0
+a year,DURATION,P1Y
+Mr. Holmes,PERSON,
+two,NUMBER,2.0
+he,PERSON,
+his,PERSON,
+his,PERSON,
+May,DATE,****05
+five,NUMBER,5.0
+One,NUMBER,1.0
+six years old,DURATION,P6Y
+him,PERSON,
+Three,NUMBER,3.0
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+his,PERSON,
+Mr. Holmes,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Miss Stoper,PERSON,
+now,DATE,PRESENT_REF
+her,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+she,PERSON,
+Miss Hunter,PERSON,
+She,PERSON,
+Mr. Holmes,PERSON,
+two,NUMBER,2.0
+three,NUMBER,3.0
+England,LOCATION,
+£100,MONEY,£100.0
+a year,DURATION,P1Y
+Next day,DATE,THIS P1D OFFSET P1D
+the day,DATE,THIS P1D
+she,PERSON,
+£30,MONEY,£30.0
+a quarter,DURATION,P3M
+£120,MONEY,£120.0
+a year,DURATION,P1Y
+morning,TIME,TMO
+one,NUMBER,1.0
+one,NUMBER,1.0
+Alice,PERSON,
+now,DATE,PRESENT_REF
+Philadelphia,LOCATION,
+may,DATE,XXXX-05
+Now,DATE,PRESENT_REF
+Winchester,ORGANIZATION,
+Jephro Rucastle,PERSON,
+Mr. Holmes,PERSON,
+Miss Hunter,PERSON,
+Holmes,PERSON,
+Mr. Holmes,PERSON,
+one,NUMBER,1.0
+Mr. Rucastle,PERSON,
+his,PERSON,
+he,PERSON,
+she,PERSON,
+he,PERSON,
+her,PERSON,
+one,NUMBER,1.0
+Mr. Holmes,PERSON,
+£120,MONEY,£120.0
+a year,DURATION,P1Y
+£40,MONEY,£40.0
+months,DURATION,PXM
+Holmes,PERSON,
+his,PERSON,
+he,PERSON,
+day,DURATION,P1D
+night,TIME,TNI
+She,PERSON,
+her,PERSON,
+her,PERSON,
+now,DATE,PRESENT_REF
+Mr. Rucastle,PERSON,
+once,DATE,PAST_REF
+Winchester,ORGANIZATION,
+Holmes,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+Holmes,PERSON,
+she,PERSON,
+days,DURATION,PXD
+past,DATE,PAST_REF
+her,PERSON,
+A fortnight,DURATION,P2W
+her,PERSON,
+Holmes,LOCATION,
+an hour,DURATION,PT1H
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+night,TIME,TNI
+Holmes,PERSON,
+one,NUMBER,1.0
+night,TIME,TNI
+morning,TIME,TMO
+he,PERSON,
+him,PERSON,
+him,PERSON,
+He,PERSON,
+Bradshaw,LOCATION,
+he,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+Black Swan Hotel,ORGANIZATION,
+midday,TIME,T12:00
+Holmes,PERSON,
+nine,NUMBER,9.0
+Bradshaw,PERSON,
+11.30,NUMBER,11.3
+morning,TIME,TMO
+eleven o'clock the next day,DATE,NEXT_IMMEDIATE P1D INTERSECT T11:00
+morning,TIME,TMO
+he,PERSON,
+spring,DATE,XXXX-SP
+day,DURATION,P1D
+Aldershot,LOCATION,
+Baker Street,ORGANIZATION,
+Holmes,PERSON,
+his,PERSON,
+Watson,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+Watson,PERSON,
+London,LOCATION,
+present,DATE,PRESENT_REF
+year,DURATION,P1Y
+year,DURATION,P1Y
+Winchester,LOCATION,
+her,PERSON,
+five,NUMBER,5.0
+she,PERSON,
+she,PERSON,
+she,PERSON,
+She,PERSON,
+her,PERSON,
+seven,NUMBER,7.0
+Miss Hunter,PERSON,
+She,PERSON,
+she,PERSON,
+Mr. Rucastle,PERSON,
+three,NUMBER,3.0
+this morning,TIME,THIS MO
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+his,PERSON,
+first,ORDINAL,1.0
+Mrs. Rucastle,PERSON,
+Mr. Rucastle,PERSON,
+his,PERSON,
+he,PERSON,
+three,NUMBER,3.0
+fourth,ORDINAL,4.0
+Southampton,LOCATION,
+past,DATE,PAST_REF
+hundred,NUMBER,100.0
+Lord Southerton,ORGANIZATION,
+evening,TIME,TEV
+him,PERSON,
+his,PERSON,
+Mr. Holmes,PERSON,
+Baker Street,ORGANIZATION,
+Mrs. Rucastle,PERSON,
+thirty,NUMBER,>30.0
+forty-five,NUMBER,<45.0
+her,PERSON,
+her,PERSON,
+he,PERSON,
+about seven years,DURATION,P7Y
+first,ORDINAL,1.0
+Philadelphia,LOCATION,
+he,PERSON,
+his,PERSON,
+Mr. Rucastle,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+twenty,NUMBER,<20.0
+her,PERSON,
+her,PERSON,
+Mrs. Rucastle,PERSON,
+She,PERSON,
+She,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+one,NUMBER,1.0
+Her,PERSON,
+He,PERSON,
+her,PERSON,
+his,PERSON,
+she,PERSON,
+She,PERSON,
+her,PERSON,
+once,DATE,PAST_REF
+her,PERSON,
+her,PERSON,
+her,PERSON,
+He,PERSON,
+his,PERSON,
+His,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+he,PERSON,
+Mr. Holmes,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+once,DATE,PAST_REF
+two,NUMBER,2.0
+his,PERSON,
+Toller,PERSON,
+his,PERSON,
+Mr. Rucastle,PERSON,
+he,PERSON,
+Mrs. Rucastle,PERSON,
+His,PERSON,
+one,NUMBER,1.0
+two days,DURATION,P2D
+third,ORDINAL,3.0
+Mrs. Rucastle,PERSON,
+her,PERSON,
+Miss Hunter,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+Mrs. Rucastle,PERSON,
+three,NUMBER,3.0
+Mr. Rucastle,PERSON,
+he,PERSON,
+Mrs. Rucastle,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+an hour,DURATION,PT1H
+Mr. Rucastle,PERSON,
+the day,DATE,THIS P1D
+Edward,PERSON,
+Two days later,DATE,OFFSET P2D
+he,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+about ten minutes,DURATION,PT10M
+he,PERSON,
+Mr. Holmes,PERSON,
+first,ORDINAL,1.0
+first,ORDINAL,1.0
+second,ORDINAL,2.0
+Southampton Road,LOCATION,
+Mrs. Rucastle,PERSON,
+her,PERSON,
+She,PERSON,
+she,PERSON,
+once,DATE,PAST_REF
+She,PERSON,
+Miss Hunter,PERSON,
+she,PERSON,
+Miss Hunter,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+him,PERSON,
+him,PERSON,
+Mrs. Rucastle,PERSON,
+a week ago,DATE,OFFSET P-1W
+Holmes,PERSON,
+one,NUMBER,1.0
+first day,DATE,P1D-#1
+Mr. Rucastle,PERSON,
+Mr. Rucastle,PERSON,
+two,NUMBER,2.0
+he,PERSON,
+two,NUMBER,2.0
+Carlo,LOCATION,
+Toller,PERSON,
+him,PERSON,
+him,PERSON,
+once,DATE,PAST_REF
+a day,DURATION,P1D
+him,PERSON,
+he,PERSON,
+every night,SET,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+night,TIME,TNI
+one,NUMBER,1.0
+two,NUMBER,2.0
+nights later,TIME,TNI
+about two o'clock in the morning,TIME,T02:00
+moonlight,TIME,
+night,TIME,TNI
+day,DURATION,P1D
+now,DATE,PRESENT_REF
+London,LOCATION,
+One,NUMBER,1.0
+evening,TIME,TEV
+two,NUMBER,2.0
+one,NUMBER,1.0
+first,ORDINAL,1.0
+two,NUMBER,2.0
+third,ORDINAL,3.0
+first,ORDINAL,1.0
+one,NUMBER,1.0
+two,NUMBER,2.0
+Mr. Holmes,PERSON,
+one,NUMBER,1.0
+the quarters,DURATION,PXM
+One day,DURATION,P1D
+Mr. Rucastle,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+past,DATE,PAST_REF
+He,PERSON,
+four,NUMBER,4.0
+three,NUMBER,3.0
+fourth,ORDINAL,4.0
+Mr. Rucastle,PERSON,
+he,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+He,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+Mr. Holmes,PERSON,
+yesterday,DATE,OFFSET P-1D
+Mr. Rucastle,PERSON,
+Toller,PERSON,
+once,DATE,PAST_REF
+his,PERSON,
+him,PERSON,
+him,PERSON,
+Recently,DATE,PAST_REF
+yesterday evening,DATE,OFFSET P-1D INTERSECT EV
+he,PERSON,
+he,PERSON,
+he,PERSON,
+Mrs. Rucastle,PERSON,
+three,NUMBER,3.0
+first,ORDINAL,1.0
+and third,ORDINAL,
+two,NUMBER,2.0
+one,NUMBER,1.0
+one,NUMBER,1.0
+evening,TIME,TEV
+one,NUMBER,1.0
+one,NUMBER,1.0
+Mr. Holmes,PERSON,
+Mr. Rucastle,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+He,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+past,DATE,PAST_REF
+him,PERSON,
+Mr. Holmes,PERSON,
+Toller,PERSON,
+evening,TIME,TEV
+one,NUMBER,1.0
+he,PERSON,
+him,PERSON,
+night,TIME,TNI
+Winchester,PERSON,
+this morning,TIME,THIS MO
+three o'clock,TIME,T03:00
+Mrs. Rucastle,PERSON,
+evening,TIME,TEV
+Now,DATE,PRESENT_REF
+Mr. Holmes,PERSON,
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+his,PERSON,
+his,PERSON,
+his,PERSON,
+Toller,PERSON,
+he,PERSON,
+Mrs. Rucastle,PERSON,
+his,PERSON,
+she,PERSON,
+him,PERSON,
+Miss Hunter,PERSON,
+one,NUMBER,1.0
+seven o'clock,TIME,T07:00
+Toller,PERSON,
+Mrs. Toller,PERSON,
+her,PERSON,
+her,PERSON,
+one,NUMBER,1.0
+Miss Alice Rucastle,PERSON,
+America,LOCATION,
+her,PERSON,
+Hers,PERSON,
+she,PERSON,
+her,PERSON,
+hers,PERSON,
+her,PERSON,
+her,PERSON,
+he,PERSON,
+he,PERSON,
+she,PERSON,
+his,PERSON,
+night,TIME,TNI
+him,PERSON,
+her,PERSON,
+Watson,PERSON,
+first,ORDINAL,1.0
+he,PERSON,
+his,PERSON,
+his,PERSON,
+Mr. Holmes,PERSON,
+thousand,NUMBER,1000.0
+seven o'clock,TIME,T07:00
+hour,DURATION,PT1H
+seven,NUMBER,7.0
+Miss Hunter,PERSON,
+Holmes,PERSON,
+Mrs. Toller,PERSON,
+she,PERSON,
+Her,PERSON,
+Mr. Rucastle,PERSON,
+his,PERSON,
+Holmes,PERSON,
+Now,DATE,PRESENT_REF
+Miss Hunter,PERSON,
+he,PERSON,
+Holmes,PERSON,
+he,PERSON,
+Miss Hunter,PERSON,
+Now,DATE,PRESENT_REF
+Watson,PERSON,
+once,DATE,PAST_REF
+Holmes,PERSON,
+Miss Hunter,PERSON,
+his,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+he,PERSON,
+Miss Hunter,PERSON,
+He,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+Watson,PERSON,
+his,PERSON,
+his,PERSON,
+Miss Hunter,PERSON,
+Sherlock Holmes,PERSON,
+him,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+He,PERSON,
+Miss Hunter,PERSON,
+Holmes,PERSON,
+he,PERSON,
+two days,DURATION,P2D
+Holmes,PERSON,
+Toller,PERSON,
+Rucastle,LOCATION,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+Toller,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+Mrs. Toller,PERSON,
+Miss Hunter,PERSON,
+Mr. Rucastle,PERSON,
+he,PERSON,
+he,PERSON,
+Holmes,PERSON,
+her,PERSON,
+Mrs. Toller,PERSON,
+now,DATE,PRESENT_REF
+she,PERSON,
+one,NUMBER,1.0
+Miss Alice,PERSON,
+Miss Alice,PERSON,
+She,PERSON,
+her,PERSON,
+Mr. Fowler,PERSON,
+She,PERSON,
+her,PERSON,
+she,PERSON,
+Miss Alice,PERSON,
+Mr. Rucastle,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+she,PERSON,
+He,PERSON,
+he,PERSON,
+her,PERSON,
+him,PERSON,
+her,PERSON,
+He,PERSON,
+her,PERSON,
+she,PERSON,
+he,PERSON,
+her,PERSON,
+six weeks,DURATION,P6W
+she,PERSON,
+he,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+he,PERSON,
+her,PERSON,
+Holmes,PERSON,
+Mr. Rucastle,PERSON,
+Miss Hunter,PERSON,
+London,LOCATION,
+Mr. Fowler,PERSON,
+Mr. Fowler,PERSON,
+his,PERSON,
+Mr. Fowler,PERSON,
+Mrs. Toller,PERSON,
+he,PERSON,
+Mrs. Toller,PERSON,
+Holmes,PERSON,
+Mrs. Rucastle,PERSON,
+Watson,PERSON,
+Miss Hunter,PERSON,
+Winchester,ORGANIZATION,
+now,DATE,PRESENT_REF
+one,NUMBER,1.0
+Mr. Rucastle,PERSON,
+his,PERSON,
+Rucastle,ORGANIZATION,
+past,DATE,PAST_REF
+he,PERSON,
+Mr. Fowler,PERSON,
+Southampton,LOCATION,
+the day,DATE,THIS P1D
+now,DATE,PRESENT_REF
+Mauritius,LOCATION,
+he,PERSON,
+Miss Violet Hunter,PERSON,
+Holmes,PERSON,
+once,DATE,PAST_REF
+one,NUMBER,1.0
+now,DATE,PRESENT_REF
+Walsall,LOCATION,
+her,PERSON,
+she,PERSON,
+his,PERSON,
+she,PERSON,
+she,PERSON,

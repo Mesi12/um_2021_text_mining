@@ -1,0 +1,767 @@
+text,ner,normalizedner
+Holmes,PERSON,
+one,NUMBER,1.0
+morning,TIME,TMO
+his,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+February,DATE,XXXX-02TMO
+morning,TIME,XXXX-02TMO
+the day before,DATE,THIS P1D
+one,NUMBER,1.0
+fifty,NUMBER,~50.0
+He,PERSON,
+He,PERSON,
+springs,SET,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+He,PERSON,
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+him,PERSON,
+Sherlock Holmes,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+a minute,DURATION,PT1M
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+two,NUMBER,2.0
+Holmes,PERSON,
+Alexander Holder,ORGANIZATION,
+Holder & Stevenson,ORGANIZATION,
+second,ORDINAL,2.0
+City,LOCATION,
+London,LOCATION,
+one,NUMBER,1.0
+London,LOCATION,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Baker Street,ORGANIZATION,
+now,DATE,PRESENT_REF
+One,NUMBER,1.0
+the last few years,DURATION,PXY
+Yesterday morning,DATE,OFFSET P-1D INTERSECT MO
+one,NUMBER,1.0
+England,LOCATION,
+once,DATE,PAST_REF
+he,PERSON,
+he,PERSON,
+Mr. Holder,PERSON,
+he,PERSON,
+"£50,000",MONEY,£50000.0
+once,DATE,PAST_REF
+he,PERSON,
+ten,NUMBER,10.0
+one,NUMBER,1.0
+Next Monday,DATE,XXXX-WXX-1 OFFSET P1W
+once,DATE,PAST_REF
+he,PERSON,
+he,PERSON,
+his,PERSON,
+One,NUMBER,1.0
+He,PERSON,
+he,PERSON,
+thirty-nine,NUMBER,39.0
+he,PERSON,
+he,PERSON,
+four days,DURATION,P4D
+Mr. Holder,PERSON,
+Monday,DATE,XXXX-WXX-1TMO
+morning,TIME,XXXX-WXX-1TMO
+fifty,NUMBER,>50.0
+£,MONEY,£
+1000,DATE,1000
+him,PERSON,
+once,DATE,PAST_REF
+now,DATE,PRESENT_REF
+once,DATE,PAST_REF
+evening,TIME,TEV
+now,DATE,PRESENT_REF
+the next few days,DURATION,PXD
+Streatham,LOCATION,
+now,DATE,PRESENT_REF
+Mr. Holmes,PERSON,
+three,NUMBER,3.0
+years,DURATION,PXY
+Lucy Parr,PERSON,
+second,ORDINAL,2.0
+a few months,DURATION,PXM
+She,PERSON,
+She,PERSON,
+her,PERSON,
+her,PERSON,
+Arthur,PERSON,
+Mr. Holmes,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+once,DATE,PAST_REF
+George Burnwell,PERSON,
+He,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+George Burnwell,PERSON,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+Arthur,PERSON,
+one,NUMBER,1.0
+He,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Mary,PERSON,
+now,DATE,PRESENT_REF
+she,PERSON,
+five years ago,DATE,OFFSET P-5Y
+She,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+She,PERSON,
+She,PERSON,
+her,PERSON,
+one,NUMBER,1.0
+she,PERSON,
+her,PERSON,
+him,PERSON,
+he,PERSON,
+her,PERSON,
+she,PERSON,
+him,PERSON,
+now,DATE,PRESENT_REF
+him,PERSON,
+she,PERSON,
+his,PERSON,
+his,PERSON,
+Now,DATE,PRESENT_REF
+Mr. Holmes,PERSON,
+night,TIME,TNI
+Arthur,PERSON,
+Mary,PERSON,
+Lucy Parr,PERSON,
+Arthur,PERSON,
+Arthur,PERSON,
+night,TIME,TNI
+he,PERSON,
+He,PERSON,
+he,PERSON,
+night,TIME,TNI
+He,PERSON,
+£200,MONEY,£200.0
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+third,ORDINAL,3.0
+the month,DATE,THIS P1M
+he,PERSON,
+he,PERSON,
+Mary,PERSON,
+night,TIME,TNI
+Mary,PERSON,
+she,PERSON,
+she,PERSON,
+now,DATE,PRESENT_REF
+She,PERSON,
+she,PERSON,
+morning,TIME,TMO
+her,PERSON,
+her,PERSON,
+Mr. Holmes,PERSON,
+now,DATE,PRESENT_REF
+About two in the morning,TIME,T02:00
+his,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+One,NUMBER,1.0
+three,NUMBER,3.0
+he,PERSON,
+him,PERSON,
+he,PERSON,
+three,NUMBER,3.0
+he,PERSON,
+morning,TIME,TMO
+he,PERSON,
+his,PERSON,
+first,ORDINAL,1.0
+Arthur,PERSON,
+she,PERSON,
+once,DATE,PAST_REF
+Arthur,PERSON,
+his,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+once,DATE,PAST_REF
+he,PERSON,
+five minutes,DURATION,PT5M
+one,NUMBER,1.0
+him,PERSON,
+he,PERSON,
+three,NUMBER,3.0
+He,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+once,DATE,PAST_REF
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+This morning,DATE,THIS MO
+he,PERSON,
+present,DATE,PRESENT_REF
+£,MONEY,£
+1000,DATE,1000
+one,NUMBER,1.0
+night,TIME,TNI
+He,PERSON,
+his,PERSON,
+Sherlock Holmes,PERSON,
+few minutes,DURATION,PTXM
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Arthur,PERSON,
+his,PERSON,
+George Burnwell,PERSON,
+one,NUMBER,1.0
+Arthur,PERSON,
+She,PERSON,
+she,PERSON,
+four-and-twenty,NUMBER,24.0
+She,PERSON,
+her,PERSON,
+She,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+His,PERSON,
+Arthur,PERSON,
+his,PERSON,
+his,PERSON,
+Now,DATE,PRESENT_REF
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+first,ORDINAL,1.0
+three,NUMBER,3.0
+thirty-nine,NUMBER,39.0
+thirty-six,NUMBER,36.0
+his,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+Mr. Holder,PERSON,
+Streatham,LOCATION,
+an hour,DURATION,PT1H
+Holmes,PERSON,
+his,PERSON,
+he,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+Fairbank,LOCATION,
+two,NUMBER,2.0
+two,NUMBER,2.0
+Mr. Holder,PERSON,
+he,PERSON,
+he,PERSON,
+She,PERSON,
+her,PERSON,
+Her,PERSON,
+her,PERSON,
+morning,TIME,TMO
+she,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+his,PERSON,
+Arthur,PERSON,
+she,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+Arthur,PERSON,
+Mary!,PERSON,
+Arthur,PERSON,
+London,LOCATION,
+she,PERSON,
+his,PERSON,
+He,PERSON,
+him,PERSON,
+now,DATE,PRESENT_REF
+He,PERSON,
+She,PERSON,
+her,PERSON,
+he,PERSON,
+he,PERSON,
+Arthur,PERSON,
+Holmes,PERSON,
+his,PERSON,
+Miss Mary Holder,ORGANIZATION,
+two,NUMBER,2.0
+last night,TIME,TNI OFFSET P-1D
+night before,TIME,TNI
+this morning,DATE,THIS MO
+last night,TIME,TNI OFFSET P-1D
+she,PERSON,
+him,PERSON,
+she,PERSON,
+two,NUMBER,2.0
+she,PERSON,
+her,PERSON,
+Arthur,PERSON,
+his,PERSON,
+Mr. Holder,PERSON,
+Miss Holder,ORGANIZATION,
+her,PERSON,
+night,TIME,TNI
+her,PERSON,
+him,PERSON,
+he,PERSON,
+Francis Prosper,PERSON,
+His,PERSON,
+Holmes,PERSON,
+He,PERSON,
+he,PERSON,
+he,PERSON,
+she,PERSON,
+Holmes,PERSON,
+She,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+one,NUMBER,1.0
+one,NUMBER,1.0
+He,PERSON,
+he,PERSON,
+his,PERSON,
+Now,DATE,PRESENT_REF
+he,PERSON,
+first,ORDINAL,1.0
+he,PERSON,
+Sherlock Holmes,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+thirty-six,NUMBER,36.0
+one,NUMBER,1.0
+three,NUMBER,3.0
+Now,DATE,PRESENT_REF
+Mr. Holder,PERSON,
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Now,DATE,PRESENT_REF
+him,PERSON,
+He,PERSON,
+his,PERSON,
+Mr. Holder,PERSON,
+now,DATE,PRESENT_REF
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+an hour,DURATION,PT1H
+he,PERSON,
+his,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+Mr. Holder,PERSON,
+he,PERSON,
+Mr. Holmes,PERSON,
+his,PERSON,
+he,PERSON,
+last night,TIME,TNI OFFSET P-1D
+morning,TIME,TMO
+nine,NUMBER,9.0-10.0
+and,NUMBER,9.0-10.0
+ten,NUMBER,9.0-10.0
+evening,TIME,TEV
+now,DATE,PRESENT_REF
+his,PERSON,
+him,PERSON,
+he,PERSON,
+three,NUMBER,3.0
+once,DATE,PAST_REF
+a few minutes,DURATION,PTXM
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+Watson,PERSON,
+a few hours,DURATION,PTXH
+two,NUMBER,2.0
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+Streatham,LOCATION,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+a few minutes later,DATE,OFFSET PTXM
+once,DATE,PAST_REF
+He,PERSON,
+he,PERSON,
+his,PERSON,
+midnight,TIME,T00:00
+his,PERSON,
+days,DURATION,PXD
+nights,TIME,TNI
+him,PERSON,
+he,PERSON,
+his,PERSON,
+hour,DURATION,PT1H
+morning,TIME,TMO
+one,NUMBER,1.0
+he,PERSON,
+he,PERSON,
+Watson,PERSON,
+this morning,DATE,THIS MO
+he,PERSON,
+nine,NUMBER,9.0
+now,DATE,PRESENT_REF
+he,PERSON,
+now,DATE,PRESENT_REF
+him,PERSON,
+his,PERSON,
+his,PERSON,
+morning before,TIME,TMO
+He,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+two days ago,DATE,OFFSET P-2D
+Now,DATE,PRESENT_REF
+One,NUMBER,1.0
+Mary,PERSON,
+this morning,TIME,THIS MO
+Her,PERSON,
+her,PERSON,
+last night,TIME,TNI OFFSET P-1D
+her,PERSON,
+she,PERSON,
+him,PERSON,
+she,PERSON,
+future,DATE,FUTURE_REF
+Mary,PERSON,
+Mr. Holmes,PERSON,
+she,PERSON,
+Mr. Holder,PERSON,
+Mr. Holmes,PERSON,
+£,MONEY,£
+1000,DATE,1000
+pounds,MONEY,£
+ten,NUMBER,10.0
+Three thousand,NUMBER,3000.0
+£,MONEY,£
+4000,DATE,4000 
+three,NUMBER,3.0
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+one,NUMBER,>=1.0
+Mr. Holder,PERSON,
+Sherlock Holmes,PERSON,
+He,PERSON,
+one,NUMBER,1.0
+Arthur,PERSON,
+yesterday,DATE,OFFSET P-1D
+once,DATE,PAST_REF
+him,PERSON,
+him,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+this morning,TIME,THIS MO
+his,PERSON,
+first,ORDINAL,1.0
+George Burnwell,PERSON,
+Mary,PERSON,
+now,DATE,PRESENT_REF
+Mary?,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+England,LOCATION,
+He,PERSON,
+hundred,NUMBER,100.0
+he,PERSON,
+his,PERSON,
+her,PERSON,
+he,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+his,PERSON,
+every evening,SET,
+he,PERSON,
+she,PERSON,
+his,PERSON,
+him,PERSON,
+last night,TIME,TNI OFFSET P-1D
+she,PERSON,
+her,PERSON,
+His,PERSON,
+he,PERSON,
+She,PERSON,
+him,PERSON,
+His,PERSON,
+he,PERSON,
+her,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+she,PERSON,
+she,PERSON,
+one,NUMBER,~1.0
+She,PERSON,
+his,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+Arthur,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+night,TIME,TNI
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+she,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+She,PERSON,
+he,PERSON,
+he,PERSON,
+once,DATE,PAST_REF
+He,PERSON,
+her,PERSON,
+her,PERSON,
+he,PERSON,
+she,PERSON,
+he,PERSON,
+he,PERSON,
+she,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+George Burnwell,PERSON,
+Arthur,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+his,PERSON,
+George,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+He,PERSON,
+his,PERSON,
+He,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+five minutes,DURATION,PT5M
+his,PERSON,
+him,PERSON,
+Holmes,PERSON,
+once,DATE,PAST_REF
+evening before,TIME,TEV
+one,NUMBER,1.0
+he,PERSON,
+time,DATE,PAST_REF
+her,PERSON,
+a second,DURATION,PT1S
+once,DATE,PAST_REF
+first,ORDINAL,1.0
+his,PERSON,
+he,PERSON,
+hundred,NUMBER,100.0
+he,PERSON,
+he,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+him,PERSON,
+He,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+him,PERSON,
+Now,DATE,PRESENT_REF
+one,NUMBER,1.0
+he,PERSON,
+his,PERSON,
+he,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+one,NUMBER,1.0
+George Burnwell,PERSON,
+him,PERSON,
+he,PERSON,
+Arthur,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+George,PERSON,
+night before,TIME,TNI
+six,NUMBER,6.0
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+Streatham,LOCATION,
+yesterday evening,DATE,OFFSET P-1D INTERSECT EV
+Mr. Holder,PERSON,
+him,PERSON,
+first,ORDINAL,1.0
+he,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+1000,DATE,1000
+him,PERSON,
+him,PERSON,
+he,PERSON,
+first,ORDINAL,1.0
+he,PERSON,
+six hundred,NUMBER,600.0
+three,NUMBER,3.0
+he,PERSON,
+him,PERSON,
+1000,DATE,1000
+pounds,MONEY,£
+him,PERSON,
+about two o'clock,TIME,T02:00
+day,DURATION,P1D
+him,PERSON,
+A day,DURATION,P1D
+England,LOCATION,
+now,DATE,PRESENT_REF
+him,PERSON,
+him,PERSON,
+Mary,PERSON,
+now,DATE,PRESENT_REF
+she,PERSON,
+Holmes,PERSON,
+George Burnwell,PERSON,
+she,PERSON,
+her,PERSON,

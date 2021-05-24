@@ -1,0 +1,426 @@
+text,ner,normalizedner
+Mr. Sherlock Holmes,PERSON,
+the years,DURATION,PXY
+two,NUMBER,2.0
+Mr. Hatherley,PERSON,
+Colonel Warburton,ORGANIZATION,
+his,PERSON,
+he,PERSON,
+once,DATE,PAST_REF
+time,DATE,PAST_REF
+two years,DURATION,P2Y
+the summer of '89,DATE,XX89-SU
+now,DATE,PRESENT_REF
+Holmes,PERSON,
+his,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+Paddington Station,LOCATION,
+One,NUMBER,1.0
+he,PERSON,
+One,NUMBER,1.0
+morning,TIME,TMO
+seven o'clock,TIME,T07:00
+two,NUMBER,2.0
+Paddington,LOCATION,
+him,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+him,PERSON,
+He,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+he,PERSON,
+five-and-twenty,NUMBER,>25.0
+He,PERSON,
+he,PERSON,
+his,PERSON,
+night,TIME,TNI
+he,PERSON,
+this morning,TIME,THIS MO
+Paddington,LOCATION,
+she,PERSON,
+Mr. Victor Hatherley,PERSON,
+3rd,ORDINAL,3.0
+morning,TIME,TMO
+night,TIME,TNI
+night,TIME,TNI
+he,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+He,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+He,PERSON,
+his,PERSON,
+four,NUMBER,4.0
+one,NUMBER,1.0
+he,PERSON,
+He,PERSON,
+he,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+one,NUMBER,1.0
+Mr. Sherlock Holmes,PERSON,
+he,PERSON,
+him,PERSON,
+him,PERSON,
+him,PERSON,
+five minutes,DURATION,PT5M
+Baker Street,ORGANIZATION,
+Sherlock Holmes,PERSON,
+the day before,DATE,THIS P1D
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+Mr. Hatherley,PERSON,
+he,PERSON,
+once,DATE,PAST_REF
+Holmes,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+London,LOCATION,
+he,PERSON,
+the seven years,DURATION,P7Y
+Venner & Matheson,ORGANIZATION,
+Greenwich,LOCATION,
+Two years ago,DATE,OFFSET P-2Y
+Victoria Street,LOCATION,
+first,ORDINAL,1.0
+his,PERSON,
+two years,DURATION,P2Y
+three,NUMBER,3.0
+one,NUMBER,1.0
+£27,MONEY,£27.0
+Every day,SET,
+nine in the morning,TIME,T09:00
+four in the afternoon,TIME,T16:00
+Yesterday,DATE,OFFSET P-1D
+Lysander Stark,PERSON,
+He,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+forty,NUMBER,40.0
+thirty,NUMBER,30.0
+He,PERSON,
+his,PERSON,
+Mr. Hatherley,PERSON,
+he,PERSON,
+Mr. Hatherley,PERSON,
+his,PERSON,
+May,DATE,****05
+London,LOCATION,
+one,NUMBER,1.0
+his,PERSON,
+He,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+he,PERSON,
+Now,DATE,PRESENT_REF
+He,PERSON,
+his,PERSON,
+fifty,NUMBER,50.0
+night,TIME,TNI
+he,PERSON,
+night,TIME,TNI
+an hour,DURATION,PT1H
+Berkshire,LOCATION,
+Oxfordshire,LOCATION,
+seven,NUMBER,<=7.0
+Paddington,LOCATION,
+11.15,NUMBER,~11.15
+seven,NUMBER,7.0
+Eyford Station,ORGANIZATION,
+midnight,TIME,T00:00
+night,TIME,TNI
+hour,DURATION,PT1H
+fifty,NUMBER,50.0
+one,NUMBER,1.0
+two,NUMBER,2.0
+England,LOCATION,
+ten,NUMBER,10.0
+one,NUMBER,1.0
+one,NUMBER,1.0
+two,NUMBER,2.0
+now,DATE,PRESENT_REF
+once,DATE,PAST_REF
+he,PERSON,
+now,DATE,PRESENT_REF
+Mr. Hatherley,PERSON,
+He,PERSON,
+he,PERSON,
+11.15,NUMBER,11.15
+He,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+midnight,TIME,T00:00
+his,PERSON,
+his,PERSON,
+supper,DATE,supper 
+Paddington,LOCATION,
+eleven o'clock,TIME,T11:00
+one,NUMBER,1.0
+morning,TIME,TMO
+he,PERSON,
+He,PERSON,
+One,NUMBER,1.0
+Holmes,PERSON,
+one,NUMBER,1.0
+at least an hour,DURATION,PT1H
+Lysander Stark,PERSON,
+seven,NUMBER,7.0
+twelve,NUMBER,12.0
+once,DATE,PAST_REF
+He,PERSON,
+his,PERSON,
+he,PERSON,
+Now,DATE,PRESENT_REF
+Lysander Stark,PERSON,
+him,PERSON,
+his,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+She,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+he,PERSON,
+his,PERSON,
+a few minutes,DURATION,PTXM
+he,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+ten,NUMBER,10.0
+Eyford,LOCATION,
+fifty-guinea,NUMBER,50.0
+her,PERSON,
+her,PERSON,
+she,PERSON,
+one,NUMBER,1.0
+She,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+one,NUMBER,1.0
+she,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+fifty-guinea,NUMBER,50.0
+night,TIME,TNI
+her,PERSON,
+She,PERSON,
+her,PERSON,
+She,PERSON,
+her,PERSON,
+she,PERSON,
+Lysander Stark,PERSON,
+Mr. Ferguson,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+one,NUMBER,1.0
+He,PERSON,
+his,PERSON,
+he,PERSON,
+Mr. Ferguson,PERSON,
+first,ORDINAL,1.0
+him,PERSON,
+two,NUMBER,2.0
+he,PERSON,
+he,PERSON,
+he,PERSON,
+three,NUMBER,3.0
+one,NUMBER,1.0
+now,DATE,PRESENT_REF
+he,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+once,DATE,PAST_REF
+one,NUMBER,1.0
+one,NUMBER,1.0
+he,PERSON,
+he,PERSON,
+His,PERSON,
+his,PERSON,
+he,PERSON,
+He,PERSON,
+He,PERSON,
+a minute,DURATION,PT1M
+two,NUMBER,2.0
+two,NUMBER,2.0
+two,NUMBER,2.0
+her,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+two,NUMBER,2.0
+one,NUMBER,1.0
+one,NUMBER,1.0
+one,NUMBER,1.0
+her,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+Colonel Lysander Stark,ORGANIZATION,
+one,NUMBER,1.0
+she,PERSON,
+thirty,NUMBER,>30.0
+she,PERSON,
+her,PERSON,
+past,DATE,PAST_REF
+he,PERSON,
+his,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+him,PERSON,
+him,PERSON,
+she,PERSON,
+He,PERSON,
+he,PERSON,
+he,PERSON,
+her,PERSON,
+He,PERSON,
+one,NUMBER,1.0
+He,PERSON,
+her,PERSON,
+his,PERSON,
+his,PERSON,
+fall,DATE,XXXX-FA
+first,ORDINAL,1.0
+morning,TIME,TMO
+night,TIME,TNI
+the previous night,DATE,PREV_IMMEDIATE NI
+hours,DURATION,PTXH
+morning,TIME,TMO
+one,NUMBER,1.0
+less than an hour,DURATION,PT1H
+Colonel Lysander Stark,ORGANIZATION,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+night before,TIME,TNI
+he,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+three,NUMBER,~3.0
+past,DATE,PAST_REF
+six,NUMBER,6.0
+first,ORDINAL,1.0
+Sherlock Holmes,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+his,PERSON,
+he,PERSON,
+about a year ago,DATE,OFFSET P-1Y
+9th,ORDINAL,9.0
+Mr. Jeremiah Hayling,PERSON,
+twenty-six,NUMBER,26.0
+ten o'clock at night,TIME,T22:00
+his,PERSON,
+his,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+Scotland,LOCATION,
+once,DATE,PAST_REF
+Eyford,ORGANIZATION,
+three hours,DURATION,PT3H
+Sherlock Holmes,PERSON,
+Scotland,LOCATION,
+his,PERSON,
+he,PERSON,
+ten,NUMBER,10.0
+ten,NUMBER,10.0
+an hour,DURATION,PT1H
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+now,DATE,PRESENT_REF
+he,PERSON,
+He,PERSON,
+his,PERSON,
+twelve-mile,NUMBER,12.0
+Six,NUMBER,6.0
+six,NUMBER,6.0
+twelve,NUMBER,12.0
+Holmes,PERSON,
+thousand,NUMBER,1000.0
+now,DATE,PRESENT_REF
+Eyford Station,ORGANIZATION,
+night,TIME,TNI
+Becher,PERSON,
+Becher,PERSON,
+Becher,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+three,NUMBER,3.0
+second,ORDINAL,2.0
+one,NUMBER,1.0
+Holmes,PERSON,
+time,DATE,PAST_REF
+Now,DATE,PRESENT_REF
+last night,TIME,TNI OFFSET P-1D
+hundred,NUMBER,100.0
+now,DATE,PRESENT_REF
+Holmes,PERSON,
+day,DURATION,P1D
+morning,TIME,TMO
+Holmes,PERSON,
+second,ORDINAL,2.0
+he,PERSON,
+his,PERSON,
+two,NUMBER,2.0
+one,NUMBER,1.0
+He,PERSON,
+his,PERSON,
+once,DATE,PAST_REF
+London,LOCATION,
+fifty-guinea,NUMBER,50.0
+Holmes,PERSON,

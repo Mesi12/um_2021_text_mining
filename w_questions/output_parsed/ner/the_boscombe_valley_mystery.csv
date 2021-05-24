@@ -1,0 +1,764 @@
+text,ner,normalizedner
+one,NUMBER,1.0
+morning,TIME,TMO
+Sherlock Holmes,PERSON,
+a couple of days,DURATION,P2D
+England,LOCATION,
+Boscombe Valley,LOCATION,
+11.15,NUMBER,11.15
+present,DATE,PRESENT_REF
+Mr. Sherlock Holmes,PERSON,
+one,NUMBER,1.0
+once,DATE,PAST_REF
+an hour,DURATION,PT1H
+Afghanistan,LOCATION,
+Paddington Station,ORGANIZATION,
+Sherlock Holmes,PERSON,
+his,PERSON,
+his,PERSON,
+Watson,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+Holmes,PERSON,
+him,PERSON,
+past,DATE,PAST_REF
+he,PERSON,
+he,PERSON,
+he,PERSON,
+days,DURATION,PXD
+London,LOCATION,
+one,NUMBER,1.0
+Boscombe Valley,LOCATION,
+Ross,PERSON,
+Herefordshire,LOCATION,
+Mr. John Turner,PERSON,
+Australia,LOCATION,
+years ago,DATE,OFFSET P-1Y
+his,PERSON,
+One,NUMBER,1.0
+Hatherley,LOCATION,
+Mr. Charles McCarthy,PERSON,
+he,PERSON,
+McCarthy,PERSON,
+his,PERSON,
+McCarthy,PERSON,
+one,NUMBER,1.0
+eighteen,NUMBER,18.0
+Turner,PERSON,
+two,NUMBER,2.0
+Now,DATE,PRESENT_REF
+June 3rd,DATE,XXXX-06-03
+Monday,DATE,XXXX-WXX-1
+McCarthy,PERSON,
+about three in the afternoon,TIME,T15:00
+Boscombe Valley,LOCATION,
+his,PERSON,
+morning,TIME,TMO
+Ross,PERSON,
+three,NUMBER,3.0
+He,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+a quarter,DURATION,P3M
+two,NUMBER,2.0
+him,PERSON,
+he,PERSON,
+One,NUMBER,1.0
+William Crowder,PERSON,
+Mr. Turner,PERSON,
+Mr. McCarthy,PERSON,
+a few minutes,DURATION,PTXM
+Mr. McCarthy,PERSON,
+Mr. James McCarthy,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+time,DATE,PAST_REF
+his,PERSON,
+him,PERSON,
+evening,TIME,TEV
+He,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+William Crowder,PERSON,
+fourteen,NUMBER,14.0
+Patience Moran,PERSON,
+Boscombe Valley,LOCATION,
+one,NUMBER,1.0
+Mr. McCarthy,PERSON,
+She,PERSON,
+she,PERSON,
+she,PERSON,
+his,PERSON,
+Mr. McCarthy,PERSON,
+She,PERSON,
+his,PERSON,
+she,PERSON,
+his,PERSON,
+his,PERSON,
+two,NUMBER,2.0
+She,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+she,PERSON,
+she,PERSON,
+Mr. McCarthy,PERSON,
+She,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+Tuesday,DATE,XXXX-WXX-2
+Wednesday,DATE,XXXX-WXX-3
+Ross,PERSON,
+he,PERSON,
+Holmes,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+Miss Turner,PERSON,
+Scarlet,LOCATION,
+his,PERSON,
+his,PERSON,
+two,NUMBER,2.0
+fifty,NUMBER,50.0
+an hour,DURATION,PT1H
+he,PERSON,
+Mr. Lestrade,PERSON,
+his,PERSON,
+he,PERSON,
+first,ORDINAL,1.0
+Mr. Lestrade,PERSON,
+every morning,SET,
+one,NUMBER,1.0
+two,NUMBER,2.0
+once,DATE,PAST_REF
+his,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+Holmes,PERSON,
+present,DATE,PRESENT_REF
+he,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+His,PERSON,
+him,PERSON,
+day,DURATION,P1D
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+one,NUMBER,1.0
+two,NUMBER,2.0
+his,PERSON,
+Herefordshire,LOCATION,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+Mr. James McCarthy,PERSON,
+three days,DURATION,P3D
+Bristol,LOCATION,
+the morning of last Monday,DATE,XXXX-WXX-1 OFFSET P-1W INTERSECT MO
+3rd,ORDINAL,3.0
+time,DATE,PAST_REF
+Ross,PERSON,
+John Cobb,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+William Crowder,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+hundred,NUMBER,100.0
+him,PERSON,
+He,PERSON,
+his,PERSON,
+him,PERSON,
+150,NUMBER,>150.0
+his,PERSON,
+him,PERSON,
+he,PERSON,
+minutes,DURATION,PTXM
+Mr. Turner,PERSON,
+him,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+future,DATE,FUTURE_REF
+Bristol,LOCATION,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+dozen,NUMBER,12.0
+dozen,NUMBER,12.0
+McCarthy,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+Petrarch,PERSON,
+Swindon,LOCATION,
+twenty minutes,DURATION,PT20M
+nearly four o'clock,TIME,T04:00
+Stroud Valley,LOCATION,
+Ross,PERSON,
+Scotland,LOCATION,
+he,PERSON,
+his,PERSON,
+Hereford Arms,ORGANIZATION,
+him,PERSON,
+Lestrade,PERSON,
+Holmes,PERSON,
+he,PERSON,
+Twenty-nine,NUMBER,29.0
+he,PERSON,
+one,NUMBER,1.0
+one,NUMBER,1.0
+one,NUMBER,1.0
+She,PERSON,
+her,PERSON,
+her,PERSON,
+one,NUMBER,1.0
+He,PERSON,
+Her,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+Mr. Sherlock Holmes,PERSON,
+one,NUMBER,1.0
+she,PERSON,
+James,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+he,PERSON,
+him,PERSON,
+Miss Turner,PERSON,
+Sherlock Holmes,PERSON,
+him,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+she,PERSON,
+her,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+his,PERSON,
+Mr. McCarthy,PERSON,
+he,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+Holmes,PERSON,
+he,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+Mr. McCarthy,PERSON,
+Holmes,PERSON,
+one,NUMBER,1.0
+her,PERSON,
+his,PERSON,
+her,PERSON,
+he,PERSON,
+years,DURATION,PXY
+him,PERSON,
+Willows,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+Mr. McCarthy,PERSON,
+the old days,DURATION,PXD
+Victoria,LOCATION,
+Mr. Turner,PERSON,
+his,PERSON,
+Miss Turner,PERSON,
+James,PERSON,
+Mr. Holmes,PERSON,
+him,PERSON,
+him,PERSON,
+Miss Turner,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+him,PERSON,
+She,PERSON,
+she,PERSON,
+her,PERSON,
+Holmes,PERSON,
+Lestrade,PERSON,
+a few minutes,DURATION,PTXM
+James McCarthy,PERSON,
+Holmes,PERSON,
+him,PERSON,
+Hereford,ORGANIZATION,
+him,PERSON,
+Watson,PERSON,
+a couple of hours,DURATION,PT2H
+the day,DATE,THIS P1D
+he,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+weekly,SET,
+third,ORDINAL,3.0
+he,PERSON,
+his,PERSON,
+his,PERSON,
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+McCarthy,PERSON,
+dozen,NUMBER,12.0
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+Lestrade,LOCATION,
+Sherlock Holmes,PERSON,
+McCarthy,PERSON,
+his,PERSON,
+Sherlock Holmes,PERSON,
+He,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+McCarthy,PERSON,
+him,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+now,DATE,PRESENT_REF
+he,PERSON,
+him,PERSON,
+her,PERSON,
+he,PERSON,
+He,PERSON,
+Miss Turner,LOCATION,
+his,PERSON,
+he,PERSON,
+two years ago,DATE,OFFSET P-2Y
+five years,DURATION,P5Y
+Bristol,LOCATION,
+her,PERSON,
+he,PERSON,
+he,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Miss Turner,LOCATION,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+the last three days,DURATION,P3D
+Bristol,LOCATION,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Bermuda Dockyard,LOCATION,
+he,PERSON,
+him,PERSON,
+him,PERSON,
+she,PERSON,
+McCarthy,PERSON,
+he,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+One,NUMBER,1.0
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+second,ORDINAL,2.0
+he,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+George Meredith,PERSON,
+Holmes,PERSON,
+morning,TIME,TMO
+nine o'clock,TIME,T09:00
+this morning,TIME,THIS MO
+Mr. Turner,PERSON,
+Hall,PERSON,
+his,PERSON,
+Holmes,PERSON,
+sixty,NUMBER,~60.0
+his,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+McCarthy,ORGANIZATION,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+Holmes,PERSON,
+hundred,NUMBER,>=100.0
+he,PERSON,
+him,PERSON,
+his,PERSON,
+him,PERSON,
+McCarthy,PERSON,
+Turner,LOCATION,
+Turner,PERSON,
+his,PERSON,
+his,PERSON,
+Turner,PERSON,
+Lestrade,PERSON,
+Holmes,PERSON,
+Holmes,PERSON,
+one,NUMBER,1.0
+McCarthy,PERSON,
+McCarthy,PERSON,
+his,PERSON,
+Holmes,PERSON,
+two-storied,NUMBER,2.0
+Holmes,PERSON,
+time,DATE,PAST_REF
+her,PERSON,
+his,PERSON,
+he,PERSON,
+seven,NUMBER,7.0
+eight,NUMBER,8.0
+Holmes,PERSON,
+Sherlock Holmes,PERSON,
+he,PERSON,
+Baker Street,ORGANIZATION,
+him,PERSON,
+His,PERSON,
+two,NUMBER,2.0
+His,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+Holmes,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+his,PERSON,
+fifty,NUMBER,50.0
+Mr. Turner,PERSON,
+Hatherley,PERSON,
+twenty,NUMBER,20.0
+fall,DATE,XXXX-FA
+Holmes,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+six,NUMBER,6.0
+eight,NUMBER,8.0
+three,NUMBER,3.0
+He,PERSON,
+his,PERSON,
+McCarthy,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Now,DATE,PRESENT_REF
+He,PERSON,
+once,DATE,PAST_REF
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+Moran,PERSON,
+about ten minutes,DURATION,PT10M
+Ross,PERSON,
+Holmes,PERSON,
+him,PERSON,
+he,PERSON,
+This may,DATE,THIS XXXX-05
+Lestrade,PERSON,
+he,PERSON,
+a few days,DURATION,PXD
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+this afternoon,TIME,THIS AF
+London,LOCATION,
+evening,TIME,TEV
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Scotland,LOCATION,
+Holmes,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+Watson,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+two,NUMBER,2.0
+McCarthy,PERSON,
+his,PERSON,
+him,PERSON,
+One,NUMBER,1.0
+his,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+He,PERSON,
+Now,DATE,PRESENT_REF
+Bristol,LOCATION,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+McCarthy,PERSON,
+Australia,LOCATION,
+him,PERSON,
+Sherlock Holmes,PERSON,
+his,PERSON,
+Colony of Victoria,ORGANIZATION,
+he,PERSON,
+Bristol,LOCATION,
+last night,TIME,TNI OFFSET P-1D
+He,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+He,PERSON,
+his,PERSON,
+BALLARAT,ORGANIZATION,
+two,NUMBER,2.0
+his,PERSON,
+He,PERSON,
+his,PERSON,
+Ballarat,ORGANIZATION,
+now,DATE,PRESENT_REF
+third,ORDINAL,3.0
+now,DATE,PRESENT_REF
+Ballarat,ORGANIZATION,
+one,NUMBER,1.0
+His,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+Now,DATE,PRESENT_REF
+He,PERSON,
+He,PERSON,
+140,NUMBER,140.0
+he,PERSON,
+Rotterdam,LOCATION,
+his,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+Holmes,PERSON,
+he,PERSON,
+him,PERSON,
+Mr. John Turner,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+Hall,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+Holmes,PERSON,
+McCarthy,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Assizes,LOCATION,
+him,PERSON,
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+her,PERSON,
+her,PERSON,
+she,PERSON,
+Holmes,PERSON,
+her,PERSON,
+McCarthy,PERSON,
+Turner,ORGANIZATION,
+years,DURATION,PXY
+a month,DURATION,P1M
+Holmes,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+Watson,PERSON,
+McCarthy,PERSON,
+Assizes,LOCATION,
+now,DATE,PRESENT_REF
+McCarthy,PERSON,
+He,PERSON,
+he,PERSON,
+twenty years,DURATION,P20Y
+His,PERSON,
+he,PERSON,
+first,ORDINAL,1.0
+his,PERSON,
+six,NUMBER,6.0
+Jack,PERSON,
+Ballarat,ORGANIZATION,
+Ballarat Gang,ORGANIZATION,
+One day,DURATION,P1D
+Ballarat,ORGANIZATION,
+Melbourne,LOCATION,
+six,NUMBER,6.0
+six,NUMBER,6.0
+four,NUMBER,4.0
+first,ORDINAL,1.0
+Three,NUMBER,3.0
+McCarthy,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+England,LOCATION,
+Alice,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+the past,DATE,PAST_REF
+McCarthy,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+Jack,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+England,LOCATION,
+his,PERSON,
+Alice,PERSON,
+past,DATE,PAST_REF
+he,PERSON,
+her,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+Alice,ORGANIZATION,
+He,PERSON,
+His,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+she,PERSON,
+she,PERSON,
+Mr. Holmes,PERSON,
+him,PERSON,
+he,PERSON,
+His,PERSON,
+his,PERSON,
+Holmes,PERSON,
+Assizes,LOCATION,
+McCarthy,ORGANIZATION,
+his,PERSON,
+he,PERSON,
+Holmes,PERSON,
+Baxter,PERSON,
+Sherlock Holmes,PERSON,
+James McCarthy,PERSON,
+Holmes,PERSON,
+Turner,PERSON,
+seven months,DURATION,P7M
+now,DATE,PRESENT_REF
+past,DATE,PAST_REF
+he,PERSON,

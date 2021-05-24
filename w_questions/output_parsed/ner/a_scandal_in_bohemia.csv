@@ -1,0 +1,676 @@
+text,ner,normalizedner
+Sherlock Holmes,PERSON,
+she,PERSON,
+him,PERSON,
+her,PERSON,
+his,PERSON,
+she,PERSON,
+her,PERSON,
+Irene Adler,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+He,PERSON,
+he,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+Irene Adler,PERSON,
+him,PERSON,
+Holmes,PERSON,
+first,ORDINAL,1.0
+Holmes,PERSON,
+week,DURATION,P1W-P1W
+to,DURATION,P1W-P1W
+week,DURATION,P1W-P1W
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+Odessa,LOCATION,
+Atkinson,PERSON,
+Trincomalee,LOCATION,
+Holland,LOCATION,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+daily,SET,
+his,PERSON,
+One,NUMBER,1.0
+night,TIME,TNI
+"the twentieth of March, 1888",DATE,1888-03-20
+now,DATE,PRESENT_REF
+Baker Street,ORGANIZATION,
+Scarlet,LOCATION,
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+He,PERSON,
+He,PERSON,
+his,PERSON,
+His,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Watson,PERSON,
+seven,NUMBER,7.0
+Seven,NUMBER,7.0
+Watson,PERSON,
+Holmes,PERSON,
+a few centuries ago,DATE,OFFSET P-100Y
+Thursday,DATE,XXXX-WXX-4
+Mary Jane,PERSON,
+she,PERSON,
+her,PERSON,
+He,PERSON,
+his,PERSON,
+six,NUMBER,6.0
+he,PERSON,
+London,LOCATION,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Now,DATE,PRESENT_REF
+seventeen,NUMBER,17.0
+one,NUMBER,1.0
+two,NUMBER,2.0
+He,PERSON,
+he,PERSON,
+a quarter to eight o'clock,TIME,T07:45
+one,NUMBER,1.0
+Europe,LOCATION,
+one,NUMBER,1.0
+hour,DURATION,PT1H
+one,NUMBER,1.0
+one,NUMBER,1.0
+Holmes,PERSON,
+Holmes,PERSON,
+his,PERSON,
+Co.,ORGANIZATION,
+Now,DATE,PRESENT_REF
+Continental Gazetteer,ORGANIZATION,
+He,PERSON,
+his,PERSON,
+Egria,LOCATION,
+Bohemia,LOCATION,
+Carlsbad,LOCATION,
+Wallenstein,LOCATION,
+His,PERSON,
+he,PERSON,
+his,PERSON,
+Bohemia,LOCATION,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+hundred and fifty,NUMBER,150.0
+Watson,PERSON,
+Holmes,PERSON,
+Boswell,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+Holmes,PERSON,
+six,NUMBER,<6.0
+six,NUMBER,6.0
+England,LOCATION,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+past,DATE,PAST_REF
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+He,PERSON,
+Holmes,PERSON,
+Watson,PERSON,
+Von Kramm,PERSON,
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+two years,DURATION,P2Y
+he,PERSON,
+present,DATE,PRESENT_REF
+Holmes,PERSON,
+august,DATE,XXXX-08
+once,DATE,PAST_REF
+his,PERSON,
+Holmes,PERSON,
+one,NUMBER,1.0
+Europe,LOCATION,
+House of Ormstein,ORGANIZATION,
+Bohemia,LOCATION,
+Holmes,PERSON,
+his,PERSON,
+his,PERSON,
+Europe,LOCATION,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+King,LOCATION,
+he,PERSON,
+Holmes,PERSON,
+Wilhelm Gottsreich Sigismond von Ormstein,PERSON,
+Grand Duke of Cassel-Felstein,ORGANIZATION,
+Bohemia,LOCATION,
+once,DATE,PAST_REF
+his,PERSON,
+his,PERSON,
+his,PERSON,
+Prague,LOCATION,
+Holmes,PERSON,
+once,DATE,PAST_REF
+his,PERSON,
+five years ago,DATE,OFFSET P-5Y
+Warsaw,LOCATION,
+Irene Adler,PERSON,
+Holmes,PERSON,
+her,PERSON,
+his,PERSON,
+years,DURATION,PXY
+once,DATE,PAST_REF
+he,PERSON,
+he,PERSON,
+her,PERSON,
+Holmes,PERSON,
+New Jersey,LOCATION,
+the year 1858,DATE,1858
+Warsaw,LOCATION,
+London,LOCATION,
+now,DATE,PRESENT_REF
+her,PERSON,
+her,PERSON,
+she,PERSON,
+thirty,NUMBER,30.0
+now,DATE,PRESENT_REF
+She,PERSON,
+Five,NUMBER,5.0
+her,PERSON,
+Once,DATE,PAST_REF
+her,PERSON,
+she,PERSON,
+she,PERSON,
+Holmes,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+she,PERSON,
+Clotilde Lothman von Saxe-Meningen,PERSON,
+second,ORDINAL,2.0
+King of Scandinavia,ORGANIZATION,
+her,PERSON,
+She,PERSON,
+Irene Adler,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+She,PERSON,
+she,PERSON,
+she,PERSON,
+the day,DATE,THIS P1D
+she,PERSON,
+she,PERSON,
+next Monday,DATE,XXXX-WXX-1 OFFSET P1W
+three days,DURATION,P3D
+Holmes,PERSON,
+one,NUMBER,1.0
+two,NUMBER,2.0
+present,DATE,PRESENT_REF
+London,LOCATION,
+present,DATE,PRESENT_REF
+Langham,PERSON,
+Von Kramm,PERSON,
+one,NUMBER,1.0
+present,DATE,PRESENT_REF
+his,PERSON,
+three hundred pounds,MONEY,£300.0
+seven hundred,NUMBER,700.0
+he,PERSON,
+his,PERSON,
+him,PERSON,
+Mademoiselle,ORGANIZATION,
+he,PERSON,
+Briony Lodge,ORGANIZATION,
+John,PERSON,
+Holmes,PERSON,
+One,NUMBER,>=1.0
+he,PERSON,
+Watson,PERSON,
+he,PERSON,
+afternoon,TIME,TAF
+three o'clock,TIME,T03:00
+three o'clock precisely,TIME,T03:00
+Baker Street,ORGANIZATION,
+Holmes,PERSON,
+eight o'clock in the morning,TIME,T08:00
+he,PERSON,
+him,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+four,NUMBER,4.0
+three,NUMBER,3.0
+he,PERSON,
+five minutes,DURATION,PT5M
+he,PERSON,
+he,PERSON,
+minutes,DURATION,PTXM
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+morning,TIME,TMO
+Miss Irene Adler,PERSON,
+eight o'clock this morning,TIME,THIS MO INTERSECT T08:00
+one,NUMBER,1.0
+Briony Lodge,ORGANIZATION,
+two,NUMBER,2.0
+Chubb,ORGANIZATION,
+one,NUMBER,1.0
+two,NUMBER,2.0
+Miss Adler,PERSON,
+dozen,NUMBER,>=12.0
+Irene Adler,PERSON,
+she,PERSON,
+She,PERSON,
+five,NUMBER,5.0
+every day,SET,
+seven,NUMBER,7.0
+She,PERSON,
+she,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+once,DATE,PAST_REF
+a day,DURATION,P1D
+He,PERSON,
+Mr. Godfrey Norton,PERSON,
+Inner Temple,ORGANIZATION,
+He,PERSON,
+dozen,NUMBER,12.0
+him,PERSON,
+him,PERSON,
+Briony Lodge,ORGANIZATION,
+once,DATE,PAST_REF
+Godfrey Norton,PERSON,
+He,PERSON,
+his,PERSON,
+she,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+she,PERSON,
+his,PERSON,
+Briony Lodge,ORGANIZATION,
+Temple,ORGANIZATION,
+Briony Lodge,ORGANIZATION,
+He,PERSON,
+past,DATE,PAST_REF
+He,PERSON,
+an hour,DURATION,PT1H
+He,PERSON,
+him,PERSON,
+his,PERSON,
+her,PERSON,
+he,PERSON,
+first,ORDINAL,1.0
+Gross & Hankey,ORGANIZATION,
+Church of St. Monica,ORGANIZATION,
+Edgeware Road,LOCATION,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+twenty minutes,DURATION,PT20M
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+St. Monica,LOCATION,
+John,PERSON,
+twenty minutes,DURATION,PT20M
+she,PERSON,
+Watson,PERSON,
+her,PERSON,
+he,PERSON,
+St. Monica,LOCATION,
+twenty minutes,DURATION,PT20M
+twenty-five minutes to twelve,TIME,T11:35
+two,NUMBER,2.0
+three,NUMBER,3.0
+three,NUMBER,3.0
+Godfrey Norton,PERSON,
+he,PERSON,
+he,PERSON,
+three minutes,DURATION,PT3M
+Irene Adler,PERSON,
+Godfrey Norton,PERSON,
+one,NUMBER,1.0
+now,DATE,PRESENT_REF
+Temple,ORGANIZATION,
+he,PERSON,
+she,PERSON,
+her,PERSON,
+five,NUMBER,5.0
+she,PERSON,
+she,PERSON,
+him,PERSON,
+he,PERSON,
+this evening,TIME,THIS EV
+Mrs. Turner,PERSON,
+Now,DATE,PRESENT_REF
+he,PERSON,
+he,PERSON,
+five,NUMBER,~5.0
+now,DATE,PRESENT_REF
+two hours,DURATION,PT2H
+Miss Irene,PERSON,
+Madame,ORGANIZATION,
+seven,NUMBER,7.0
+her,PERSON,
+Briony Lodge,ORGANIZATION,
+her,PERSON,
+one,NUMBER,1.0
+Four,NUMBER,4.0
+five minutes,DURATION,PT5M
+he,PERSON,
+his,PERSON,
+ten minutes,DURATION,PT10M
+a few minutes,DURATION,PTXM
+He,PERSON,
+his,PERSON,
+Mr. John Hare,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+Holmes,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+a quarter past six,TIME,T06:15
+Baker Street,ORGANIZATION,
+ten minutes,DURATION,PT10M
+the hour,DATE,THIS PT1H
+Serpentine Avenue,LOCATION,
+Briony Lodge,ORGANIZATION,
+Sherlock Holmes,PERSON,
+two,NUMBER,2.0
+his,PERSON,
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+Mr. Godfrey Norton,PERSON,
+she,PERSON,
+his,PERSON,
+Now,DATE,PRESENT_REF
+she,PERSON,
+her,PERSON,
+She,PERSON,
+her,PERSON,
+Two,NUMBER,2.0
+she,PERSON,
+her,PERSON,
+Her,PERSON,
+her,PERSON,
+she,PERSON,
+She,PERSON,
+her,PERSON,
+she,PERSON,
+a few days,DURATION,PXD
+she,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+She,PERSON,
+her,PERSON,
+Now,DATE,PRESENT_REF
+he,PERSON,
+Briony Lodge,ORGANIZATION,
+one,NUMBER,1.0
+two,NUMBER,2.0
+one,NUMBER,1.0
+her,PERSON,
+he,PERSON,
+her,PERSON,
+he,PERSON,
+his,PERSON,
+fall,DATE,XXXX-FA
+one,NUMBER,1.0
+his,PERSON,
+Irene Adler,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+she,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+He,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+now,DATE,PRESENT_REF
+he,PERSON,
+He,PERSON,
+him,PERSON,
+him,PERSON,
+Briony Lodge,ORGANIZATION,
+he,PERSON,
+Holmes,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+she,PERSON,
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+her,PERSON,
+her,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+Holmes,PERSON,
+ten minutes,DURATION,PT10M
+few minutes,DURATION,PTXM
+one,NUMBER,1.0
+He,PERSON,
+he,PERSON,
+She,PERSON,
+she,PERSON,
+he,PERSON,
+evening,TIME,TEV
+She,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+once,DATE,PAST_REF
+her,PERSON,
+her,PERSON,
+she,PERSON,
+once,DATE,PAST_REF
+Darlington,LOCATION,
+Arnsworth Castle,LOCATION,
+one,NUMBER,1.0
+her,PERSON,
+her,PERSON,
+Now,DATE,PRESENT_REF
+her,PERSON,
+She,PERSON,
+She,PERSON,
+She,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+now,DATE,PRESENT_REF
+she,PERSON,
+she,PERSON,
+his,PERSON,
+his,PERSON,
+eight in the morning,TIME,T08:00
+She,PERSON,
+her,PERSON,
+King,ORGANIZATION,
+Baker,PERSON,
+Mister Sherlock Holmes,PERSON,
+He,PERSON,
+his,PERSON,
+time,DATE,PAST_REF
+Holmes,PERSON,
+Now,DATE,PRESENT_REF
+Baker Street,LOCATION,
+that,TIME,
+night,TIME,TNI
+morning,TIME,TMO
+Bohemia,LOCATION,
+Sherlock Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+once,DATE,PAST_REF
+Briony Lodge,ORGANIZATION,
+Irene Adler,PERSON,
+Holmes,PERSON,
+Yesterday,DATE,OFFSET P-1D
+Norton,PERSON,
+she,PERSON,
+him,PERSON,
+she,PERSON,
+future,DATE,FUTURE_REF
+her,PERSON,
+she,PERSON,
+Majesty,ORGANIZATION,
+she,PERSON,
+she,PERSON,
+she,PERSON,
+she,PERSON,
+Serpentine Avenue,LOCATION,
+He,PERSON,
+Briony Lodge,ORGANIZATION,
+She,PERSON,
+Mr. Sherlock Holmes,PERSON,
+she,PERSON,
+Mr. Holmes,PERSON,
+her,PERSON,
+this morning,DATE,THIS MO
+5.15,NUMBER,5.15
+Charing Cross,ORGANIZATION,
+She,PERSON,
+her,PERSON,
+Sherlock Holmes,PERSON,
+England,LOCATION,
+she,PERSON,
+past,DATE,PAST_REF
+King,ORGANIZATION,
+He,PERSON,
+her,PERSON,
+his,PERSON,
+Irene Adler,PERSON,
+evening,TIME,TEV
+Sherlock Holmes,PERSON,
+Esq,LOCATION,
+three,NUMBER,3.0
+midnight,TIME,T00:00
+of the preceding,TIME,
+night,TIME,TNI
+Mr. Sherlock Holmes,PERSON,
+months ago,DATE,OFFSET P-1M
+King,ORGANIZATION,
+John,PERSON,
+Mr. Sherlock Holmes,PERSON,
+Temple,ORGANIZATION,
+he,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+he,PERSON,
+the future,DATE,FUTURE_REF
+he,PERSON,
+Mr. Sherlock Holmes,PERSON,
+Irene Norton,PERSON,
+Adler,PERSON,
+he,PERSON,
+King of Bohemia,ORGANIZATION,
+three,NUMBER,3.0
+she,PERSON,
+she,PERSON,
+she,PERSON,
+Holmes,PERSON,
+she,PERSON,
+Majesty,ORGANIZATION,
+her,PERSON,
+now,DATE,PRESENT_REF
+He,PERSON,
+his,PERSON,
+his,PERSON,
+Holmes,PERSON,
+him,PERSON,
+he,PERSON,
+King,ORGANIZATION,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+Bohemia,LOCATION,
+Mr. Sherlock Holmes,PERSON,
+He,PERSON,
+him,PERSON,
+Irene Adler,PERSON,
+he,PERSON,
+he,PERSON,
+her,PERSON,

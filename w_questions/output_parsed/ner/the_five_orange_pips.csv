@@ -1,0 +1,579 @@
+text,ner,normalizedner
+Sherlock Holmes,PERSON,
+the years '82,DATE,XX82 INTERSECT PXY
+'90,DATE,XX90
+present,DATE,PRESENT_REF
+his,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+The year '87,DATE,XX87
+one,NUMBER,1.0
+twelve months,DURATION,P12M
+Paradol Chamber,ORGANIZATION,
+Amateur Mendicant Society,ORGANIZATION,
+Sophy Anderson,PERSON,
+Grice Patersons,ORGANIZATION,
+Uffa,LOCATION,
+Sherlock Holmes,PERSON,
+two hours,DURATION,PT2H
+future,DATE,FUTURE_REF
+present,DATE,PRESENT_REF
+now,DATE,PRESENT_REF
+the latter days of September,DATE,XXXX-09 INTERSECT PXD
+day,DURATION,P1D
+London,LOCATION,
+his,PERSON,
+evening,TIME,TEV
+Sherlock Holmes,PERSON,
+one,NUMBER,1.0
+one,NUMBER,1.0
+Clark Russell,PERSON,
+his,PERSON,
+a few days,DURATION,PXD
+once,DATE,PAST_REF
+Baker Street,ORGANIZATION,
+her,PERSON,
+he,PERSON,
+a day,DURATION,P1D
+an hour,DURATION,PT1H
+Sherlock Holmes,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+two-and-twenty,NUMBER,22.0
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+He,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+Holmes,PERSON,
+Horsham,ORGANIZATION,
+Mr. Holmes,PERSON,
+Prendergast,PERSON,
+Tankerville Club,ORGANIZATION,
+him,PERSON,
+He,PERSON,
+He,PERSON,
+He,PERSON,
+four,NUMBER,4.0
+once,DATE,PAST_REF
+one,NUMBER,1.0
+Holmes,PERSON,
+his,PERSON,
+his,PERSON,
+John Openshaw,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+Joseph,PERSON,
+Coventry,ORGANIZATION,
+time,DATE,PAST_REF
+he,PERSON,
+Openshaw,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+America,LOCATION,
+Florida,LOCATION,
+he,PERSON,
+he,PERSON,
+time,DATE,PAST_REF
+Jackson,LOCATION,
+Hood,ORGANIZATION,
+he,PERSON,
+he,PERSON,
+Lee,PERSON,
+three,NUMBER,3.0
+four years,DURATION,P4Y
+his,PERSON,
+his,PERSON,
+he,PERSON,
+About 1869,DATE,1869
+1870,DATE,1870
+Europe,LOCATION,
+Sussex,LOCATION,
+Horsham,LOCATION,
+he,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+the years,DURATION,PXY
+Horsham,ORGANIZATION,
+he,PERSON,
+he,PERSON,
+two,NUMBER,2.0
+three,NUMBER,3.0
+weeks,DURATION,PXW
+He,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+his,PERSON,
+time,DATE,PAST_REF
+first,ORDINAL,1.0
+twelve,NUMBER,12.0
+He,PERSON,
+he,PERSON,
+he,PERSON,
+the year 1878,DATE,1878
+eight,NUMBER,8.0
+nine years,DURATION,P9Y
+England,LOCATION,
+he,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+sixteen,NUMBER,16.0
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+he,PERSON,
+he,PERSON,
+One day,DURATION,P1D
+"March, 1883",DATE,1883-03
+him,PERSON,
+his,PERSON,
+he,PERSON,
+India,LOCATION,
+Pondicherry,LOCATION,
+he,PERSON,
+he,PERSON,
+five,NUMBER,5.0
+his,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+three,NUMBER,3.0
+five,NUMBER,5.0
+his,PERSON,
+one,NUMBER,1.0
+him,PERSON,
+he,PERSON,
+Mary,PERSON,
+Fordham,LOCATION,
+Horsham,ORGANIZATION,
+he,PERSON,
+morning,TIME,TMO
+John,PERSON,
+two-edged,NUMBER,2.0
+Mr. Fordham,PERSON,
+him,PERSON,
+the weeks,DURATION,PXW
+He,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+day,DURATION,P1D
+his,PERSON,
+Mr. Holmes,PERSON,
+night,TIME,TNI
+one,NUMBER,1.0
+he,PERSON,
+he,PERSON,
+him,PERSON,
+him,PERSON,
+two,NUMBER,2.0
+his,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+"£14,000",MONEY,£14000.0
+his,PERSON,
+One,NUMBER,1.0
+one,NUMBER,1.0
+his,PERSON,
+"March 10, 1883",DATE,1883-03-10
+seven weeks later,DATE,OFFSET P7W
+the night of,TIME,XXXX-05-02TNI
+May 2nd,DATE,XXXX-05-02TNI
+His,PERSON,
+Horsham,ORGANIZATION,
+he,PERSON,
+K. K. K.,PERSON,
+Colonel Openshaw,ORGANIZATION,
+America,LOCATION,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+the beginning of '84,DATE,XX84
+Horsham,ORGANIZATION,
+January of '85,DATE,XX85-01
+the fourth day,DATE,P1D-#4
+new year,DATE,XXXX-01-01
+one,NUMBER,1.0
+five,NUMBER,5.0
+one,NUMBER,1.0
+he,PERSON,
+now,DATE,PRESENT_REF
+He,PERSON,
+he,PERSON,
+he,PERSON,
+John,PERSON,
+he,PERSON,
+K. K. K.,PERSON,
+He,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+the third day,DATE,P1D-#3
+one,NUMBER,1.0
+his,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+the second day,DATE,P1D-#2
+once,DATE,PAST_REF
+his,PERSON,
+one,NUMBER,>1.0
+him,PERSON,
+he,PERSON,
+his,PERSON,
+Fareham,LOCATION,
+twilight,TIME,TEV
+He,PERSON,
+him,PERSON,
+his,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+"January, '85",DATE,XX85-01
+two years,DURATION,P2Y
+eight months,DURATION,P8M
+his,PERSON,
+Horsham,ORGANIZATION,
+yesterday morning,DATE,OFFSET P-1D INTERSECT MO
+five,NUMBER,5.0
+his,PERSON,
+he,PERSON,
+he,PERSON,
+London,LOCATION,
+K. K. K.,PERSON,
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+Sherlock Holmes,PERSON,
+Holmes,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+His,PERSON,
+Holmes,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+Prendergast,PERSON,
+him,PERSON,
+two days,DURATION,P2D
+one,NUMBER,1.0
+John Openshaw,PERSON,
+He,PERSON,
+his,PERSON,
+he,PERSON,
+the day,DATE,THIS P1D
+he,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+Holmes,PERSON,
+"March, 1869",DATE,1869-03
+4th,ORDINAL,4.0
+7th,ORDINAL,7.0
+McCauley,ORGANIZATION,
+Paramore,LOCATION,
+John Swain,PERSON,
+St. Augustine,LOCATION,
+9th,ORDINAL,9.0
+10th,ORDINAL,10.0
+John Swain,PERSON,
+12th,ORDINAL,12.0
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+one,NUMBER,1.0
+once,DATE,PAST_REF
+one,NUMBER,1.0
+once,DATE,PAST_REF
+present,DATE,PRESENT_REF
+first,ORDINAL,1.0
+second,ORDINAL,2.0
+his,PERSON,
+Waterloo,LOCATION,
+nine,NUMBER,9.0
+Horsham,ORGANIZATION,
+London,LOCATION,
+a day,DURATION,P1D
+two days,DURATION,P2D
+He,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+once,DATE,PAST_REF
+Sherlock Holmes,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Watson,PERSON,
+he,PERSON,
+Four,NUMBER,4.0
+John Openshaw,PERSON,
+he,PERSON,
+K. K. K.,PERSON,
+he,PERSON,
+Sherlock Holmes,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+once,DATE,PAST_REF
+he,PERSON,
+he,PERSON,
+Cuvier,PERSON,
+one,NUMBER,1.0
+days,DURATION,PXD
+his,PERSON,
+him,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+the early days,DURATION,PXD
+zero,NUMBER,0.0
+fifty,NUMBER,<=50.0
+Holmes,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+Now,DATE,PRESENT_REF
+one,NUMBER,1.0
+American Encyclopaedia,ORGANIZATION,
+Now,DATE,PRESENT_REF
+first,ORDINAL,1.0
+Colonel Openshaw,PERSON,
+America,LOCATION,
+Florida,LOCATION,
+his,PERSON,
+England,LOCATION,
+America,LOCATION,
+His,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+first,ORDINAL,1.0
+Pondicherry,LOCATION,
+second,ORDINAL,2.0
+Dundee,LOCATION,
+third,ORDINAL,3.0
+London,LOCATION,
+East London,LOCATION,
+now,DATE,PRESENT_REF
+Pondicherry,LOCATION,
+seven weeks,DURATION,P7W
+Dundee,LOCATION,
+three,NUMBER,3.0
+four days,DURATION,P4D
+Dundee,ORGANIZATION,
+Pondicherry,LOCATION,
+seven weeks,DURATION,P7W
+seven weeks,DURATION,P7W
+now,DATE,PRESENT_REF
+Openshaw,PERSON,
+one,NUMBER,1.0
+London,LOCATION,
+Openshaw,PERSON,
+one,NUMBER,>1.0
+two,NUMBER,2.0
+K. K. K.,PERSON,
+Sherlock Holmes,PERSON,
+Ku Klux,PERSON,
+his,PERSON,
+Holmes,PERSON,
+his,PERSON,
+Ku Klux,PERSON,
+he,PERSON,
+Tennessee,LOCATION,
+Louisiana,LOCATION,
+Carolinas,LOCATION,
+Georgia,LOCATION,
+Florida,LOCATION,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+years,DURATION,PXY
+United States,LOCATION,
+the year 1869,DATE,1869
+Holmes,PERSON,
+Openshaw,ORGANIZATION,
+America,LOCATION,
+he,PERSON,
+his,PERSON,
+first,ORDINAL,1.0
+night,TIME,TNI
+Openshaw,PERSON,
+him,PERSON,
+an hour,DURATION,PT1H
+morning,TIME,TMO
+Sherlock Holmes,PERSON,
+day,DURATION,P1D
+Openshaw,PERSON,
+he,PERSON,
+first,ORDINAL,1.0
+Horsham,ORGANIZATION,
+first,ORDINAL,1.0
+City,LOCATION,
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+Openshaw,PERSON,
+Waterloo,LOCATION,
+nine,NUMBER,9.0
+ten,NUMBER,10.0
+last night,TIME,TNI OFFSET P-1D
+Cook,PERSON,
+Waterloo Bridge,LOCATION,
+night,TIME,TNI
+John Openshaw,PERSON,
+Horsham,LOCATION,
+his,PERSON,
+Waterloo Station,LOCATION,
+one,NUMBER,1.0
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+minutes,DURATION,PTXM
+Holmes,PERSON,
+him,PERSON,
+Watson,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+him,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+night,TIME,TNI
+Watson,PERSON,
+now,DATE,PRESENT_REF
+day,DURATION,P1D
+evening before,TIME,TEV
+Baker Street,ORGANIZATION,
+Sherlock Holmes,PERSON,
+nearly ten o'clock before,TIME,T10:00
+he,PERSON,
+He,PERSON,
+he,PERSON,
+Openshaw,PERSON,
+Watson,PERSON,
+He,PERSON,
+he,PERSON,
+five,NUMBER,5.0
+he,PERSON,
+James Calhoun,PERSON,
+Savannah,LOCATION,
+Georgia,LOCATION,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+night,TIME,TNI
+him,PERSON,
+Openshaw,PERSON,
+He,PERSON,
+his,PERSON,
+him,PERSON,
+Calhoun,PERSON,
+first,ORDINAL,1.0
+he,PERSON,
+He,PERSON,
+his,PERSON,
+the whole day,DATE,THIS P1D
+Lloyd,LOCATION,
+the future,DATE,FUTURE_REF
+Pondicherry,LOCATION,
+January,DATE,XXXX-01
+February in '83,DATE,XX83-02
+he,PERSON,
+thirty-six,NUMBER,36.0
+months,DURATION,PXM
+one,NUMBER,1.0
+London,LOCATION,
+one,NUMBER,1.0
+Union,ORGANIZATION,
+Texas,LOCATION,
+"January, '85",DATE,XX85-01
+present,DATE,PRESENT_REF
+London,LOCATION,
+last week,DATE,THIS P1W OFFSET P-1W
+Albert Dock,PERSON,
+this morning,TIME,THIS MO
+Savannah,LOCATION,
+she,PERSON,
+Gravesend,LOCATION,
+now,DATE,PRESENT_REF
+past,DATE,PAST_REF
+Wight,LOCATION,
+she,PERSON,
+she,PERSON,
+him,PERSON,
+two,NUMBER,2.0
+He,PERSON,
+three,NUMBER,3.0
+last night,TIME,TNI OFFSET P-1D
+Savannah,LOCATION,
+Savannah,LOCATION,
+three,NUMBER,3.0
+John Openshaw,PERSON,
+year,DURATION,P1Y
+Savannah,LOCATION,
+Atlantic,LOCATION,

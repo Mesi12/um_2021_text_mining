@@ -34,3 +34,24 @@ Meaning:
 ## output
 
 The java code will create a "<input-file-name>.json" in this folder.
+
+
+## duration of NER task
+
+**stories/1_the_adventures_of_sherlock_holmes:**
+
+```
+Annotation pipeline timing information:
+TokenizerAnnotator: 0.9 sec.
+WordsToSentencesAnnotator: 0.2 sec.
+POSTaggerAnnotator: 13.2 sec.
+MorphaAnnotator: 0.7 sec.
+DependencyParseAnnotator: 96.4 sec.
+NERCombinerAnnotator: 154.4 sec.
+CorefAnnotator: 719.5 sec.
+QuoteAnnotator: 58.1 sec.
+KBPAnnotator: 188.8 sec.
+TOTAL: 1232.2 sec. for 127403 tokens at 103,4 tokens/sec.
+Pipeline setup: 30.3 sec.
+Total time for StanfordCoreNLP pipeline: 1273.5 sec.
+```

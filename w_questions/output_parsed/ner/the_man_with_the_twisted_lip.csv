@@ -1,0 +1,739 @@
+text,ner,normalizedner
+Isa Whitney,PERSON,
+Elias Whitney,PERSON,
+D.D.,LOCATION,
+Theological College of St. George's,ORGANIZATION,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+years,DURATION,PXY
+He,PERSON,
+he,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+him,PERSON,
+One,NUMBER,1.0
+night,TIME,TNI
+"June, '89",DATE,XX89-06
+about the hour,DATE,THIS PT1H
+first,ORDINAL,1.0
+his,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+day,DURATION,P1D
+she,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+Kate Whitney,PERSON,
+her,PERSON,
+Kate!,PERSON,
+Now,DATE,PRESENT_REF
+James,PERSON,
+two days,DURATION,P2D
+He,PERSON,
+him,PERSON,
+first,ORDINAL,1.0
+she,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+her,PERSON,
+him,PERSON,
+her,PERSON,
+City,LOCATION,
+She,PERSON,
+he,PERSON,
+him,PERSON,
+one day,DURATION,P1D
+evening,TIME,TEV
+his,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+eight-and-forty,NUMBER,48.0
+hours,DURATION,PTXH
+him,PERSON,
+he,PERSON,
+Upper Swandam Lane,LOCATION,
+he,PERSON,
+she,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+her,PERSON,
+a second,DURATION,PT1S
+she,PERSON,
+Isa Whitney,PERSON,
+him,PERSON,
+two hours,DURATION,PT2H
+her,PERSON,
+him,PERSON,
+he,PERSON,
+she,PERSON,
+ten minutes,DURATION,PT10M
+time,DATE,PAST_REF
+the future,DATE,FUTURE_REF
+first,ORDINAL,1.0
+London,LOCATION,
+one,NUMBER,1.0
+now,DATE,PRESENT_REF
+now,DATE,PRESENT_REF
+his,PERSON,
+his,PERSON,
+three-legged,NUMBER,3.0
+two,NUMBER,2.0
+his,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+Mr. Isa Whitney,PERSON,
+him,PERSON,
+Whitney,LOCATION,
+Watson,PERSON,
+he,PERSON,
+He,PERSON,
+Watson,PERSON,
+eleven,NUMBER,~11.0
+day,DURATION,P1D
+"Friday, June 19th",DATE,XXXX-06-19
+Wednesday,DATE,XXXX-WXX-3
+Wednesday,DATE,XXXX-WXX-3
+He,PERSON,
+his,PERSON,
+his,PERSON,
+Friday,DATE,XXXX-WXX-5
+this two days,DATE,THIS P2D
+Watson,PERSON,
+a few hours,DURATION,PTXH
+three,NUMBER,3.0
+four,NUMBER,4.0
+Kate,PERSON,
+Kate,PERSON,
+one,NUMBER,1.0
+Watson,PERSON,
+past,DATE,PAST_REF
+now,DATE,PRESENT_REF
+he,PERSON,
+his,PERSON,
+his,PERSON,
+two,NUMBER,2.0
+Sherlock Holmes,PERSON,
+He,PERSON,
+his,PERSON,
+him,PERSON,
+His,PERSON,
+his,PERSON,
+once,DATE,PAST_REF
+He,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+him,PERSON,
+he,PERSON,
+five minutes,DURATION,PT5M
+Sherlock Holmes,PERSON,
+Whitney,PERSON,
+once,DATE,PAST_REF
+one,NUMBER,1.0
+his,PERSON,
+a few minutes,DURATION,PTXM
+Whitney,PERSON,
+him,PERSON,
+him,PERSON,
+Sherlock Holmes,PERSON,
+two,NUMBER,2.0
+he,PERSON,
+he,PERSON,
+Watson,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+Watson,PERSON,
+now,DATE,PRESENT_REF
+an hour,DURATION,PT1H
+now,DATE,PRESENT_REF
+Paul,PERSON,
+nights,TIME,TNI
+Watson,PERSON,
+£,MONEY,£
+1000,DATE,1000
+Neville St. Clair,PERSON,
+two,NUMBER,2.0
+He,PERSON,
+his,PERSON,
+his,PERSON,
+Now,DATE,PRESENT_REF
+Watson,PERSON,
+Holmes,PERSON,
+two,NUMBER,2.0
+The Cedars,ORGANIZATION,
+one,NUMBER,1.0
+Mr. St. Clair,PERSON,
+seven-mile,NUMBER,7.0
+John,PERSON,
+eleven,NUMBER,~11.0
+her,PERSON,
+her,PERSON,
+He,PERSON,
+his,PERSON,
+two,NUMBER,2.0
+current,DATE,PRESENT_REF
+his,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+Watson,PERSON,
+he,PERSON,
+she,PERSON,
+Lee,ORGANIZATION,
+Now,DATE,PRESENT_REF
+Watson,PERSON,
+years ago,DATE,OFFSET P-1Y
+"May, 1884",DATE,1884-05
+Neville St. Clair,ORGANIZATION,
+He,PERSON,
+1887,DATE,1887
+now,DATE,PRESENT_REF
+two,NUMBER,2.0
+he,PERSON,
+he,PERSON,
+he,PERSON,
+morning,TIME,TMO
+5.14,NUMBER,5.14
+every night,SET,
+He,PERSON,
+Mr. St. Clair,PERSON,
+now,DATE,PRESENT_REF
+thirty-seven years,DURATION,P37Y
+him,PERSON,
+present,DATE,PRESENT_REF
+£88,MONEY,£88.0
+his,PERSON,
+£220,MONEY,£220.0
+Counties Bank,ORGANIZATION,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+Last Monday,DATE,XXXX-WXX-1 OFFSET P-1W
+Mr. Neville St. Clair,PERSON,
+two,NUMBER,2.0
+he,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+Now,DATE,PRESENT_REF
+Monday,DATE,XXXX-WXX-1
+Aberdeen Shipping Company,ORGANIZATION,
+his,PERSON,
+his,PERSON,
+she,PERSON,
+her,PERSON,
+Now,DATE,PRESENT_REF
+London,LOCATION,
+Fresno,LOCATION,
+Upper Swandam Lane,ORGANIZATION,
+Mrs. St. Clair,PERSON,
+City,LOCATION,
+4.35,NUMBER,4.35
+her,PERSON,
+her,PERSON,
+her,PERSON,
+Monday,DATE,XXXX-WXX-1
+day,DURATION,P1D
+Mrs. St. Clair,PERSON,
+she,PERSON,
+she,PERSON,
+Swandam Lane,PERSON,
+she,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+his,PERSON,
+she,PERSON,
+He,PERSON,
+his,PERSON,
+her,PERSON,
+her,PERSON,
+he,PERSON,
+One,NUMBER,1.0
+her,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+first,ORDINAL,1.0
+him,PERSON,
+she,PERSON,
+she,PERSON,
+Dane,PERSON,
+she,PERSON,
+her,PERSON,
+her,PERSON,
+Fresno,LOCATION,
+she,PERSON,
+two,NUMBER,2.0
+Mr. St. Clair,PERSON,
+her,PERSON,
+him,PERSON,
+one,NUMBER,1.0
+his,PERSON,
+one,NUMBER,1.0
+afternoon,TIME,TAF
+he,PERSON,
+St. Clair,LOCATION,
+she,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+four,NUMBER,>=4.0
+one,NUMBER,1.0
+Mr. Neville St. Clair,PERSON,
+his,PERSON,
+His,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+Mr. Neville St. Clair,PERSON,
+he,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+Mrs. St. Clair,PERSON,
+few seconds,DURATION,PTXS
+he,PERSON,
+her,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+Hugh Boone,PERSON,
+His,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Now,DATE,PRESENT_REF
+second,ORDINAL,2.0
+Neville St. Clair,ORGANIZATION,
+Hugh Boone,PERSON,
+one,NUMBER,1.0
+City,LOCATION,
+His,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+daily,SET,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+once,DATE,PAST_REF
+his,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+His,PERSON,
+him,PERSON,
+him,PERSON,
+present,DATE,PRESENT_REF
+his,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+He,PERSON,
+he,PERSON,
+he,PERSON,
+Watson,PERSON,
+one,NUMBER,1.0
+St. Clair,ORGANIZATION,
+she,PERSON,
+her,PERSON,
+Barton,PERSON,
+One,NUMBER,1.0
+Boone,PERSON,
+few minutes,DURATION,PTXM
+he,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Mr. Neville St. Clair,PERSON,
+He,PERSON,
+his,PERSON,
+him,PERSON,
+St. Clair,ORGANIZATION,
+she,PERSON,
+her,PERSON,
+he,PERSON,
+she,PERSON,
+He,PERSON,
+Neville St. Clair,ORGANIZATION,
+Neville St. Clair,ORGANIZATION,
+270,NUMBER,270.0
+Boone,PERSON,
+Neville St. Clair,ORGANIZATION,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+He,PERSON,
+him,PERSON,
+He,PERSON,
+he,PERSON,
+her,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+his,PERSON,
+He,PERSON,
+he,PERSON,
+him,PERSON,
+years,DURATION,PXY
+one,NUMBER,1.0
+He,PERSON,
+his,PERSON,
+present,DATE,PRESENT_REF
+Neville St. Clair,PERSON,
+now,DATE,PRESENT_REF
+Hugh Boone,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+first,ORDINAL,1.0
+Sherlock Holmes,PERSON,
+two,NUMBER,2.0
+he,PERSON,
+three,NUMBER,3.0
+Middlesex,LOCATION,
+Surrey,LOCATION,
+Baker,PERSON,
+St. Clair,LOCATION,
+two,NUMBER,2.0
+she,PERSON,
+Watson,PERSON,
+her,PERSON,
+her,PERSON,
+Holmes,PERSON,
+her,PERSON,
+one,NUMBER,1.0
+one,NUMBER,1.0
+She,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+her,PERSON,
+she,PERSON,
+two,NUMBER,2.0
+she,PERSON,
+she,PERSON,
+his,PERSON,
+his,PERSON,
+day,DURATION,P1D
+Watson,PERSON,
+He,PERSON,
+him,PERSON,
+him,PERSON,
+she,PERSON,
+Now,DATE,PRESENT_REF
+Mr. Sherlock Holmes,PERSON,
+one,NUMBER,1.0
+two,NUMBER,2.0
+Neville,PERSON,
+Sherlock Holmes,PERSON,
+now,DATE,PRESENT_REF
+she,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+day,DURATION,P1D
+he,PERSON,
+his,PERSON,
+Monday,DATE,XXXX-WXX-1
+Mr. Holmes,PERSON,
+him,PERSON,
+Sherlock Holmes,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+She,PERSON,
+He,PERSON,
+her,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+Gravesend,LOCATION,
+day,DURATION,P1D
+the day before,DATE,THIS P1D
+midnight,TIME,T00:00
+Holmes,PERSON,
+he,PERSON,
+he,PERSON,
+now,DATE,PRESENT_REF
+His,PERSON,
+One,NUMBER,1.0
+his,PERSON,
+One,NUMBER,1.0
+His,PERSON,
+he,PERSON,
+his,PERSON,
+Gravesend,LOCATION,
+Gravesend,LOCATION,
+Mrs. St. Clair,PERSON,
+Mr. Holmes,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+Monday,DATE,XXXX-WXX-1
+Mr. Holmes,PERSON,
+him,PERSON,
+him,PERSON,
+day,DURATION,P1D
+him,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+Monday,DATE,XXXX-WXX-1
+he,PERSON,
+him,PERSON,
+he,PERSON,
+He,PERSON,
+He,PERSON,
+He,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+He,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+St. Clair,LOCATION,
+now,DATE,PRESENT_REF
+supper,DATE,supper 
+day,DURATION,P1D
+night,TIME,TNI
+Sherlock Holmes,PERSON,
+days,DURATION,PXD
+a week,DURATION,P1W
+he,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+his,PERSON,
+now,DATE,PRESENT_REF
+he,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+the summer sun,DATE,XXXX-WXX-7-SU
+he,PERSON,
+he,PERSON,
+the previous night,DATE,PREV_IMMEDIATE NI
+his,PERSON,
+Watson,PERSON,
+he,PERSON,
+morning,TIME,TMO
+one,NUMBER,1.0
+the previous night,DATE,PREV_IMMEDIATE NI
+He,PERSON,
+he,PERSON,
+his,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+twenty-five minutes past four,TIME,T04:25
+Holmes,PERSON,
+he,PERSON,
+his,PERSON,
+Watson,PERSON,
+now,DATE,PRESENT_REF
+one,NUMBER,1.0
+Europe,LOCATION,
+Charing Cross,LOCATION,
+now,DATE,PRESENT_REF
+he,PERSON,
+he,PERSON,
+Gladstone,PERSON,
+morning,TIME,TMO
+London,LOCATION,
+Holmes,PERSON,
+Surrey,LOCATION,
+Waterloo,LOCATION,
+Wellington,LOCATION,
+Sherlock Holmes,PERSON,
+two,NUMBER,2.0
+him,PERSON,
+One,NUMBER,1.0
+Holmes,PERSON,
+Bradstreet,ORGANIZATION,
+Mr. Holmes,PERSON,
+his,PERSON,
+Mr. Holmes,PERSON,
+Boone,PERSON,
+one,NUMBER,1.0
+Mr. Neville St. Clair,PERSON,
+He,PERSON,
+him,PERSON,
+he,PERSON,
+he,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+his,PERSON,
+once,DATE,PAST_REF
+his,PERSON,
+he,PERSON,
+him,PERSON,
+he,PERSON,
+him,PERSON,
+He,PERSON,
+third,ORDINAL,3.0
+his,PERSON,
+He,PERSON,
+He,PERSON,
+he,PERSON,
+him,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+his,PERSON,
+He,PERSON,
+his,PERSON,
+one,NUMBER,1.0
+three,NUMBER,3.0
+his,PERSON,
+He,PERSON,
+he,PERSON,
+Holmes,PERSON,
+He,PERSON,
+he,PERSON,
+Gladstone,PERSON,
+He,PERSON,
+he,PERSON,
+He,PERSON,
+he,PERSON,
+one,NUMBER,1.0
+Now,DATE,PRESENT_REF
+him,PERSON,
+He,PERSON,
+he,PERSON,
+He,PERSON,
+his,PERSON,
+once,DATE,PAST_REF
+his,PERSON,
+Mr. Neville St. Clair,PERSON,
+Lee,ORGANIZATION,
+he,PERSON,
+his,PERSON,
+his,PERSON,
+him,PERSON,
+he,PERSON,
+his,PERSON,
+him,PERSON,
+his,PERSON,
+he,PERSON,
+Mr. Neville St.,PERSON,
+twenty-seven years,DURATION,P27Y
+Mr. Neville St. Clair,PERSON,
+Holmes,PERSON,
+Sherlock Holmes,PERSON,
+him,PERSON,
+him,PERSON,
+he,PERSON,
+first,ORDINAL,1.0
+Chesterfield,LOCATION,
+evening,TIME,TEV
+London,LOCATION,
+One day,DURATION,P1D
+now,DATE,PRESENT_REF
+one,NUMBER,1.0
+seven hours,DURATION,PT7H
+evening,TIME,TEV
+£25,MONEY,£25.0
+a fortnight,DURATION,P2W
+City,LOCATION,
+ten days,DURATION,P10D
+£2,MONEY,£2.0
+a week,DURATION,P1W
+a day,DURATION,P1D
+day,DURATION,P1D
+day,DURATION,P1D
+first,ORDINAL,1.0
+one,NUMBER,1.0
+Swandam Lane,LOCATION,
+every morning,SET,
+evenings,TIME,TEV
+He,PERSON,
+his,PERSON,
+his,PERSON,
+London,LOCATION,
+£700,MONEY,£700.0
+a year,DURATION,P1Y
+City,LOCATION,
+day,DURATION,P1D
+day,DURATION,P1D
+£2,MONEY,£2.0
+City,LOCATION,
+She,PERSON,
+Last Monday,DATE,XXXX-WXX-1 OFFSET P-1W
+the day,DATE,THIS P1D
+her,PERSON,
+him,PERSON,
+her,PERSON,
+she,PERSON,
+morning,TIME,TMO
+Thames,LOCATION,
+a few minutes,DURATION,PTXM
+Mr. Neville St. Clair,PERSON,
+his,PERSON,
+her,PERSON,
+she,PERSON,
+yesterday,DATE,OFFSET P-1D
+Holmes,PERSON,
+her,PERSON,
+a week,DURATION,P1W
+she,PERSON,
+he,PERSON,
+days,DURATION,PXD
+he,PERSON,
+his,PERSON,
+Holmes,PERSON,
+Hugh Boone,PERSON,
+Mr. Holmes,PERSON,
+one,NUMBER,1.0
+five,NUMBER,5.0
+Watson,PERSON,
