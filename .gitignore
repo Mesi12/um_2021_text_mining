@@ -1,7 +1,9 @@
 # project
 dataset/validation_set/tagtog_annotations/
+w_questions
 libraries
 vocab/output
+w_questions/output
 
 # editor
 .vscode/
