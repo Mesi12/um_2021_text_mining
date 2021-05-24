@@ -1,12 +1,11 @@
-# make all patterns case-sensitive
-ENV.defaultStringMatchFlags = 0
-ENV.defaultStringPatternFlags = 0
-
-# these Java classes will be used by the rules
 ner = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$NamedEntityTagAnnotation" }
 tokens = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$TokensAnnotation" }
 
 $INIT = "/(Mr|Mister|Miss|Mrs).?/"
-$NAME = "/([A-Z][a-z]+ )+/"
 
-{ ruleType: "tokens", pattern: ([{word: $INIT}] + [{word: $NAME} & {tag:"PERSON"}]), action: Annotate($0, ner, "PERSON"), result: "joined_name"}
+{
+    ruleType: "tokens",
+    pattern: ([{word: $INIT}] [ner:"PERSON"]+),
+    action: Annotate($0, ner, "PERSON"),
+    result: "joined_name"
+}
