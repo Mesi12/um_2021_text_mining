@@ -1,6 +1,7 @@
 # project
 dataset/validation_set/tagtog_annotations/
 libraries
+vocab/output
 
 # editor
 .vscode/
