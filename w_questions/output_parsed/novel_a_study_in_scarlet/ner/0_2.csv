@@ -1,0 +1,272 @@
+text,ner
+next day,DATE
+221b,NUMBER
+Baker Street,LOCATION
+he,PERSON
+he,PERSON
+two,NUMBER
+once,DATE
+evening,TIME
+the following morning,DATE
+Sherlock Holmes,PERSON
+a day,DURATION
+two,NUMBER
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+ten at night,TIME
+morning,TIME
+him,PERSON
+he,PERSON
+day,DURATION
+he,PERSON
+his,PERSON
+him,PERSON
+now,DATE
+days,DURATION
+morning,TIME
+to,TIME
+night,TIME
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+the weeks,DURATION
+him,PERSON
+his,PERSON
+His,PERSON
+six,NUMBER
+he,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+daily,SET
+He,PERSON
+Stamford,LOCATION
+He,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+minute,DURATION
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Thomas Carlyle,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Copernican Theory,MISC
+he,PERSON
+this nineteenth century,DATE
+he,PERSON
+Now,DATE
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Now,DATE
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Solar System,MISC
+he,PERSON
+one,NUMBER
+him,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+1,NUMBER
+2,NUMBER
+3,NUMBER
+4,NUMBER
+5,NUMBER
+6,NUMBER
+London,LOCATION
+his,PERSON
+he,PERSON
+7,NUMBER
+8,NUMBER
+9,NUMBER
+the century,DATE
+He,PERSON
+10,NUMBER
+11,NUMBER
+12,NUMBER
+British,MISC
+once,DATE
+his,PERSON
+his,PERSON
+Mendelssohn,ORGANIZATION
+he,PERSON
+he,PERSON
+he,PERSON
+evening,TIME
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+the first week,DURATION
+he,PERSON
+one,NUMBER
+Mr. Lestrade,PERSON
+three,NUMBER
+four,NUMBER
+week,DURATION
+One,NUMBER
+morning,TIME
+an hour,DURATION
+afternoon,TIME
+Jew,MISC
+his,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+time,DATE
+he,PERSON
+he,PERSON
+his,PERSON
+the 4th of March,DATE
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+One,NUMBER
+Book of Life,MISC
+his,PERSON
+one,NUMBER
+him,PERSON
+Euclid,LOCATION
+His,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Atlantic,LOCATION
+Niagara,LOCATION
+one,NUMBER
+Science of Deduction and Analysis,ORGANIZATION
+one,NUMBER
+present,DATE
+him,PERSON
+he,PERSON
+one,NUMBER
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+third,ORDINAL
+Underground,MISC
+him,PERSON
+his,PERSON
+thousand,NUMBER
+one,NUMBER
+him,PERSON
+Sherlock Holmes,PERSON
+one,NUMBER
+London,LOCATION
+thousand,NUMBER
+thousand and first,ORDINAL
+Lestrade,PERSON
+recently,DATE
+He,PERSON
+him,PERSON
+Now,DATE
+second,ORDINAL
+first,ORDINAL
+Afghanistan,LOCATION
+Afghanistan,LOCATION
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+He,PERSON
+English,MISC
+his,PERSON
+Afghanistan,LOCATION
+a second,DURATION
+Afghanistan,LOCATION
+Edgar Allen Poe,PERSON
+Dupin,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Dupin,PERSON
+he,PERSON
+Now,DATE
+Dupin,PERSON
+a quarter,DURATION
+an hour,DURATION
+his,PERSON
+his,PERSON
+Poe,PERSON
+He,PERSON
+he,PERSON
+Gaboriau,PERSON
+Lecoq,PERSON
+Sherlock Holmes,PERSON
+Lecoq,PERSON
+one,NUMBER
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+twenty-four hours,DURATION
+Lecoq,PERSON
+six months,DURATION
+two,NUMBER
+he,PERSON
+days,DURATION
+he,PERSON
+Scotland Yard,LOCATION
+his,PERSON
+He,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+May,DATE
+he,PERSON
+Royal Marine Light Infantry,ORGANIZATION
+He,PERSON
+his,PERSON
+his,PERSON

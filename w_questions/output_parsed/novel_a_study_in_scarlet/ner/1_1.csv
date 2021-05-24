@@ -1,0 +1,241 @@
+text,ner
+North American Continent,LOCATION
+year,DURATION
+Sierra Nevada,LOCATION
+Nebraska,LOCATION
+Yellowstone River,LOCATION
+Colorado,LOCATION
+one,NUMBER
+winter,DATE
+summer,DATE
+once,DATE
+Sierra Blanco,LOCATION
+one,NUMBER
+Sierra Blanco,LOCATION
+one,NUMBER
+fifteen hundred,NUMBER
+one,NUMBER
+"the fourth of May, eighteen hundred and forty-seven",DATE
+His,PERSON
+he,PERSON
+forty,NUMBER
+sixty,NUMBER
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+Now,DATE
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+twenty years hence,DATE
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+two,NUMBER
+about five years,DURATION
+he,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+now,DATE
+he,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+her,PERSON
+now,DATE
+three days,DURATION
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+two,NUMBER
+Bob,PERSON
+his,PERSON
+his,PERSON
+Mr. Bender,PERSON
+Indian,MISC
+Pete,PERSON
+Mrs. McGregor,PERSON
+Johnny Hones,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+now,DATE
+her,PERSON
+her,PERSON
+she,PERSON
+now,DATE
+her,PERSON
+Bob,PERSON
+she,PERSON
+first,ORDINAL
+three,NUMBER
+three,NUMBER
+two,NUMBER
+Cocks,PERSON
+her,PERSON
+He,PERSON
+her,PERSON
+Illinois,LOCATION
+Missouri,LOCATION
+He,PERSON
+He,PERSON
+night,TIME
+she,PERSON
+He,PERSON
+every night,SET
+he,PERSON
+she,PERSON
+two,NUMBER
+two,NUMBER
+one,NUMBER
+Her,PERSON
+his,PERSON
+her,PERSON
+He,PERSON
+her,PERSON
+him,PERSON
+three days,DURATION
+three,NUMBER
+nights,TIME
+he,PERSON
+his,PERSON
+hour,DURATION
+his,PERSON
+first,ORDINAL
+one,NUMBER
+him,PERSON
+two,NUMBER
+two,NUMBER
+one,NUMBER
+Sierra Blanco,LOCATION
+third,ORDINAL
+now,DATE
+He,PERSON
+His,PERSON
+one,NUMBER
+Redskins,MISC
+Injuns,LOCATION
+Stangerson,PERSON
+one,NUMBER
+dozen,NUMBER
+first,ORDINAL
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+Her,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+three,NUMBER
+two,NUMBER
+now,DATE
+his,PERSON
+him,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+her,PERSON
+two,NUMBER
+One,NUMBER
+two,NUMBER
+her,PERSON
+his,PERSON
+her,PERSON
+him,PERSON
+John Ferrier,PERSON
+twenty-one,NUMBER
+she,PERSON
+now,DATE
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Lucy Ferrier,PERSON
+this day,DATE
+She,PERSON
+he,PERSON
+his,PERSON
+ten thousand,NUMBER
+one,NUMBER
+Angel Merona,ORGANIZATION
+him,PERSON
+He,PERSON
+Egyptian,MISC
+Joseph Smith,PERSON
+Palmyra,LOCATION
+Nauvoo,LOCATION
+State of Illinois,LOCATION
+Nauvoo,LOCATION
+John Ferrier,PERSON
+Mormons,MISC
+he,PERSON
+Mormons,MISC
+one,NUMBER
+his,PERSON
+him,PERSON
+He,PERSON
+one,NUMBER
+Mormons,MISC
+Six,NUMBER
+two,NUMBER
+four,NUMBER
+more than thirty years,DURATION
+him,PERSON
+He,PERSON
+he,PERSON
+two,NUMBER
+he,PERSON
+he,PERSON
+Ferrier,PERSON
+his,PERSON
+Brother Stangerson,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Mormons,MISC
+once,DATE
+two,NUMBER
+his,PERSON
+he,PERSON
+a few days,DURATION
+now,DATE
+Brigham Young,ORGANIZATION
+Joseph Smith,PERSON
+he,PERSON

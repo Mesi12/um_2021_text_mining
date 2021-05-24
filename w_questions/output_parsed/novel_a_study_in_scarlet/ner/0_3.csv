@@ -1,0 +1,307 @@
+text,ner
+his,PERSON
+past,DATE
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+two,NUMBER
+two,NUMBER
+four,NUMBER
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+now,DATE
+He,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+night,TIME
+3,NUMBER
+Lauriston Gardens,LOCATION
+Brixton Road,LOCATION
+him,PERSON
+about two in the morning,TIME
+one,NUMBER
+Enoch J. Drebber,PERSON
+Cleveland,LOCATION
+Ohio,LOCATION
+U.S.A.,ORGANIZATION
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+twelve,NUMBER
+Tobias Gregson,PERSON
+Gregson,PERSON
+Scotland,LOCATION
+Lestrade,PERSON
+he,PERSON
+one,NUMBER
+he,PERSON
+Gregson,PERSON
+Lestrade,PERSON
+Co.,ORGANIZATION
+he,PERSON
+him,PERSON
+third,ORDINAL
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+one,NUMBER
+He,PERSON
+his,PERSON
+he,PERSON
+A minute later,DATE
+Brixton Road,LOCATION
+morning,TIME
+Cremona,LOCATION
+Stradivarius,MISC
+Amati,ORGANIZATION
+Holmes,PERSON
+he,PERSON
+Brixton Road,LOCATION
+hundred,NUMBER
+he,PERSON
+3,NUMBER
+Lauriston Gardens,PERSON
+one,NUMBER
+four,NUMBER
+two,NUMBER
+two,NUMBER
+three,NUMBER
+night,TIME
+three-foot,NUMBER
+Sherlock Holmes,PERSON
+once,DATE
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+once,DATE
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Gregson,PERSON
+Mr. Lestrade,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+two,NUMBER
+Lestrade,PERSON
+third,ORDINAL
+he,PERSON
+Gregson,PERSON
+his,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Lestrade,PERSON
+Gregson,PERSON
+he,PERSON
+his,PERSON
+Two,NUMBER
+One,NUMBER
+weeks,DURATION
+Holmes,PERSON
+him,PERSON
+one,NUMBER
+present,DATE
+forty-three,NUMBER
+forty-four years,DURATION
+He,PERSON
+him,PERSON
+one,NUMBER
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+one,NUMBER
+London,LOCATION
+Lestrade,PERSON
+he,PERSON
+Gregson,PERSON
+Lestrade,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+a second,DURATION
+Van Jansen,PERSON
+Utrecht,LOCATION
+the year '34,DATE
+Gregson,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+one,NUMBER
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+now,DATE
+him,PERSON
+he,PERSON
+Gregson,PERSON
+four,NUMBER
+his,PERSON
+him,PERSON
+Lestrade,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+once,DATE
+Gregson,PERSON
+Holmes,PERSON
+his,PERSON
+Gregson,PERSON
+one,NUMBER
+97163,NUMBER
+Barraud,PERSON
+London,LOCATION
+Albert,PERSON
+Russian,MISC
+Enoch J. Drebber,PERSON
+Cleveland,LOCATION
+seven pounds,MONEY
+thirteen,NUMBER
+Boccaccio,PERSON
+Joseph Stangerson,PERSON
+Two,NUMBER
+E. J. Drebber,PERSON
+one,NUMBER
+Joseph Stangerson,PERSON
+American Exchange,ORGANIZATION
+Guion Steamship Company,ORGANIZATION
+Liverpool,LOCATION
+New York,LOCATION
+Stangerson,PERSON
+once,DATE
+Gregson,PERSON
+one,NUMBER
+American Exchange,MISC
+he,PERSON
+Cleveland,LOCATION
+this morning,TIME
+Gregson,PERSON
+Sherlock Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+Mr. Gregson,PERSON
+one,NUMBER
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Now,DATE
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+one,NUMBER
+his,PERSON
+her,PERSON
+time,DATE
+now,DATE
+Gregson,PERSON
+Rachel,PERSON
+he,PERSON
+she,PERSON
+Rachel,PERSON
+Mr. Sherlock Holmes,PERSON
+first,ORDINAL
+last night,TIME
+now,DATE
+he,PERSON
+he,PERSON
+his,PERSON
+two,NUMBER
+once,DATE
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+twenty minutes,DURATION
+he,PERSON
+his,PERSON
+his,PERSON
+one,NUMBER
+he,PERSON
+minute,DURATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Gregson,PERSON
+Lestrade,PERSON
+Sherlock Holmes,PERSON
+now,DATE
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Lestrade,PERSON
+his,PERSON
+John Rance,PERSON
+he,PERSON
+now,DATE
+He,PERSON
+46,NUMBER
+Audley Court,ORGANIZATION
+Kennington Park Gate,LOCATION
+him,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+one,NUMBER
+two,NUMBER
+he,PERSON
+six,NUMBER
+He,PERSON
+his,PERSON
+four-wheeled,NUMBER
+three,NUMBER
+one,NUMBER
+one,NUMBER
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Lestrade,PERSON
+Gregson,PERSON
+Sherlock Holmes,PERSON
+One,NUMBER
+Lestrade,PERSON
+German,MISC
+Miss Rachel,PERSON
+he,PERSON
+two,NUMBER
+he,PERSON
+him,PERSON

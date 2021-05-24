@@ -1,0 +1,78 @@
+occurence,speaker,canonicalSpeaker,text
+0,his,Gregson,Stangerson too!
+1,Lestrade,Gregson,The plot thickens.
+2,Lestrade,Lestrade,"It was quite thick enough before,"
+3,Lestrade,Lestrade,I seem to have dropped into a sort of council of war.
+4,Gregson,Gregson,Are you--are you sure of this piece of intelligence?
+5,Lestrade,Lestrade,"I have just come from his room,"
+6,Lestrade,Lestrade,I was the first to discover what had occurred.
+7,Holmes,Mr. Sherlock Holmes,"We have been hearing Gregson's view of the matter,"
+8,Holmes,Mr. Sherlock Holmes,Would you mind letting us know what you have seen and done?
+9,Lestrade,Lestrade,"I have no objection,"
+10,Holmes,Mr. Sherlock Holmes,"I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber. This fresh development has shown me that I was completely mistaken. Full of the one idea, I set myself to find out what had become of the Secretary. They had been seen together at Euston Station about half-past eight on the evening of the third. At two in the morning Drebber had been found in the Brixton Road. The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime, and what had become of him afterwards. I telegraphed to Liverpool, giving a description of the man, and warning them to keep a watch upon the American boats. I then set to work calling upon all the hotels and lodging-houses in the vicinity of Euston. You see, I argued that if Drebber and his companion had become separated, the natural course for the latter would be to put up somewhere in the vicinity for the night, and then to hang about the station again next morning."
+11,Holmes,Mr. Sherlock Holmes,"They would be likely to agree on some meeting-place beforehand,"
+12,Holmes,Mr. Sherlock Holmes,"So it proved. I spent the whole of yesterday evening in making enquiries entirely without avail. This morning I began very early, and at eight o'clock I reached Halliday's Private Hotel, in Little George Street. On my enquiry as to whether a Mr. Stangerson was living there, they at once answered me in the affirmative.
+
+""'No doubt you are the gentleman whom he was expecting,' they said. 'He has been waiting for a gentleman for two days.'
+
+""'Where is he now?' I asked.
+
+""'He is upstairs in bed. He wished to be called at nine.'
+
+""'I will go up and see him at once,' I said.
+
+""It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded. The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it. The Boots pointed out the door to me, and was about to go downstairs again when I saw something that made me feel sickish, in spite of my twenty years' experience. From under the door there curled a little red ribbon of blood, which had meandered across the passage and formed a little pool along the skirting at the other side. I gave a cry, which brought the Boots back. He nearly fainted when he saw it. The door was locked on the inside, but we put our shoulders to it, and knocked it in. The window of the room was open, and beside the window, all huddled up, lay the body of a man in his nightdress. He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson. The cause of death was a deep stab in the left side, which must have penetrated the heart. And now comes the strangest part of the affair. What do you suppose was above the murdered man?"
+13,him,Mr. Sherlock Holmes,"The word RACHE, written in letters of blood,"
+14,Lestrade,Lestrade,"That was it,"
+15,Lestrade,Lestrade,"The man was seen,"
+16,Holmes,Mr. Sherlock Holmes,"A milk boy, passing on his way to the dairy, happened to walk down the lane which leads from the mews at the back of the hotel. He noticed that a ladder, which usually lay there, was raised against one of the windows of the second floor, which was wide open. After passing, he looked back and saw a man descend the ladder. He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel. He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work. He has an impression that the man was tall, had a reddish face, and was dressed in a long, brownish coat. He must have stayed in the room some little time after the murder, for we found blood-stained water in the basin, where he had washed his hands, and marks on the sheets where he had deliberately wiped his knife."
+17,his,his,Did you find nothing in the room which could furnish a clue to the murderer?
+18,Holmes,Mr. Sherlock Holmes,"Nothing. Stangerson had Drebber's purse in his pocket, but it seems that this was usual, as he did all the paying. There was eighty odd pounds in it, but nothing had been taken. Whatever the motives of these extraordinary crimes, robbery is certainly not one of them. There were no papers or memoranda in the murdered man's pocket, except a single telegram, dated from Cleveland about a month ago, and containing the words, 'J. H. is in Europe.' There was no name appended to this message."
+19,Holmes,Mr. Sherlock Holmes,And there was nothing else?
+20,Sherlock Holmes,Mr. Sherlock Holmes,"Nothing of any importance. The man's novel, with which he had read himself to sleep was lying upon the bed, and his pipe was on a chair beside him. There was a glass of water on the table, and on the window-sill a small chip ointment box containing a couple of pills."
+21,his,Mr. Sherlock Holmes,"The last link,"
+22,Holmes,Mr. Sherlock Holmes,My case is complete.
+23,his,Mr. Sherlock Holmes,"I have now in my hands,"
+24,Holmes,Mr. Sherlock Holmes,"all the threads which have formed such a tangle. There are, of course, details to be filled in, but I am as certain of all the main facts, from the time that Drebber parted from Stangerson at the station, up to the discovery of the body of the latter, as if I had seen them with my own eyes. I will give you a proof of my knowledge. Could you lay your hand upon those pills?"
+25,Lestrade,Lestrade,"I have them,"
+26,Holmes,Mr. Sherlock Holmes,"I took them and the purse and the telegram, intending to have them put in a place of safety at the Police Station. It was the merest chance my taking these pills, for I am bound to say that I do not attach any importance to them."
+27,Holmes,Mr. Sherlock Holmes,"Give them here,"
+28,Holmes,Mr. Sherlock Holmes,"Now, Doctor,"
+29,Holmes,Mr. Sherlock Holmes,are those ordinary pills?
+30,Holmes,Mr. Sherlock Holmes,"From their lightness and transparency, I should imagine that they are soluble in water,"
+31,Holmes,Mr. Sherlock Holmes,"Precisely so,"
+32,Holmes,Mr. Sherlock Holmes,"Now would you mind going down and fetching that poor little devil of a terrier which has been bad so long, and which the landlady wanted you to put out of its pain yesterday."
+33,Holmes,Holmes,"I will now cut one of these pills in two,"
+34,Lestrade,Lestrade,"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves."
+35,Lestrade,Lestrade,"This may be very interesting,"
+36,Lestrade,Lestrade,"I cannot see, however, what it has to do with the death of Mr. Joseph Stangerson."
+37,Lestrade,Lestrade,"Patience, my friend, patience! You will find in time that it has everything to do with it. I shall now add a little milk to make the mixture palatable, and on presenting it to the dog we find that he laps it up readily enough."
+38,Unknown,Mr. Sherlock Holmes,"It can't be a coincidence,"
+39,his,Mr. Sherlock Holmes,"it is impossible that it should be a mere coincidence. The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson. And yet they are inert. What can it mean? Surely my whole chain of reasoning cannot have been false. It is impossible! And yet this wretched dog is none the worse. Ah, I have it! I have it!"
+40,his,Mr. Sherlock Holmes,"I should have more faith,"
+41,Unknown,Mr. Sherlock Holmes,"I ought to know by this time that when a fact appears to be opposed to a long train of deductions, it invariably proves to be capable of bearing some other interpretation. Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless. I ought to have known that before ever I saw the box at all."
+42,Holmes,Mr. Sherlock Holmes,"All this seems strange to you,"
+43,Holmes,Mr. Sherlock Holmes,"because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you. I had the good fortune to seize upon that, and everything which has occurred since then has served to confirm my original supposition, and, indeed, was the logical sequence of it. Hence things which have perplexed you and made the case more obscure, have served to enlighten me and to strengthen my conclusions. It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn. This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outré and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so."
+44,his,he,"Look here, Mr. Sherlock Holmes,"
+45,Lestrade,he,"we are all ready to acknowledge that you are a smart man, and that you have your own methods of working. We want something more than mere theory and preaching now, though. It is a case of taking the man. I have made my case out, and it seems I was wrong. Young Charpentier could not have been engaged in this second affair. Lestrade went after his man, Stangerson, and it appears that he was wrong too. You have thrown out hints here, and hints there, and seem to know more than we do, but the time has come when we feel that we have a right to ask you straight how much you do know of the business. Can you name the man who did it?"
+46,Lestrade,Lestrade,"I cannot help feeling that Gregson is right, sir,"
+47,Lestrade,Unknown,"We have both tried, and we have both failed. You have remarked more than once since I have been in the room that you had all the evidence which you require. Surely you will not withhold it any longer."
+48,Holmes,Unknown,"Any delay in arresting the assassin,"
+49,Holmes,Unknown,might give him time to perpetrate some fresh atrocity.
+50,his,Mr. Sherlock Holmes,"There will be no more murders,"
+51,his,Unknown,"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him. This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city. Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so."
+52,his,his,"Please, sir,"
+53,his,his,I have the cab downstairs.
+54,Holmes,Holmes,"Good boy,"
+55,his,he,Why don't you introduce this pattern at Scotland Yard?
+56,Lestrade,Lestrade,See how beautifully the spring works. They fasten in an instant.
+57,Lestrade,Lestrade,"The old pattern is good enough,"
+58,Lestrade,Lestrade,if we can only find the man to put them on.
+59,Holmes,Holmes,"Very good, very good,"
+60,Holmes,Holmes,"The cabman may as well help me with my boxes. Just ask him to step up, Wiggins."
+61,Unknown,Wiggins,"Just give me a help with this buckle, cabman,"
+62,his,Sherlock Holmes,"Gentlemen,"
+63,his,Sherlock Holmes,"let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
+64,Sherlock Holmes,Sherlock Holmes,"We have his cab,"
+65,his,Lestrade,"It will serve to take him to Scotland Yard. And now, gentlemen,"
+66,Unknown,Lestrade,"we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them."

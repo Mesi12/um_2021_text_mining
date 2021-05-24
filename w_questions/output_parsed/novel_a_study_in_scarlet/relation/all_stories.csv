@@ -1,0 +1,22 @@
+story,subject,relation,object
+0_1,Lefevre,per:employee_or_member_of,Montpellier
+1_3,Gentile,per:spouse,She
+1_3,She,per:spouse,Gentile
+1_3,Stangerson,per:children,Drebber
+1_2,Lucy Ferrier,per:spouse,John Ferrier
+1_2,John Ferrier,per:spouse,she
+1_2,John Ferrier,per:spouse,Lucy Ferrier
+1_5,Cowper,per:spouse,Jefferson Hope
+1_5,her,per:spouse,John Ferrier
+1_5,her,per:spouse,her
+1_5,John Ferrier,per:spouse,his
+1_5,his,per:spouse,her
+1_5,John Ferrier,per:spouse,her
+1_5,Watson,per:employee_or_member_of,Journal
+0_3,Audley Court,org:city_of_headquarters,Kennington Park Gate
+0_5,Sally,per:spouse,Sally
+0_5,her,per:spouse,Tom Dennis
+0_5,Dennis,per:spouse,Tom Dennis
+0_5,Tom Dennis,per:spouse,her
+0_5,Tom Dennis,per:spouse,Dennis
+0_5,Yarders,org:city_of_headquarters,Scotland

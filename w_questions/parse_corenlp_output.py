@@ -54,12 +54,15 @@ def extract_quotes(annots):
 
 if __name__ == "__main__":
 
-    all_relations = []
-    for file_name in os.listdir("output"):
-        filepath = os.path.join("output", file_name)
+    folder = os.path.join("output", "novel_ a_study_in_scarlet")
+    output_folder = os.path.join("output_parsed", "novel_a_study_in_scarlet")
+    os.makedirs(output_folder, exist_ok=True)
 
-        if file_name != "a_case_of_identity.txt.json":
-            continue
+
+    all_relations = []
+    for file_name in os.listdir(folder):
+        filepath = os.path.join(folder, file_name)
+
 
         if os.path.isfile(filepath) and filepath.endswith(".json"):
 
@@ -72,38 +75,43 @@ if __name__ == "__main__":
                 
                 # extract entitymentions
                 entities = extract_named_entities(annots)
+                output_path = os.path.join(output_folder, "ner")
+                os.makedirs(output_path, exist_ok=True)
                 pd.DataFrame(
                     data=entities,
                     columns="text,ner".split(","),
                 ).to_csv(
-                    os.path.join("output_parsed", "ner", f"{story}.csv"),
+                    os.path.join(output_path, f"{story}.csv"),
                     index=False
                 )
 
                 # extract relations
-                if "kbp" in annots.keys():
-                    kbps = extract_relations(annots)
-                    all_relations.extend([[story] + i for i in kbps])
+                kbps = extract_relations(annots)
+                all_relations.extend([[story] + i for i in kbps])
 
 
                 # extract quotes + speaker
                 if "quotes" in annots.keys():
                     quotes = extract_quotes(annots)
+                    output_path = os.path.join(output_folder, "quotes")
+                    os.makedirs(output_path, exist_ok=True)
                     pd.DataFrame(
                         data=quotes,
                         columns="occurence,speaker,canonicalSpeaker,text".split(","),
                     ).to_csv(
-                        os.path.join("output_parsed", "quotes", f"{story}.csv"),
+                        os.path.join(output_path, f"{story}.csv"),
                         index=False
                     )
 
 
     if all_relations:
+        output_path = os.path.join(output_folder, "relation")
+        os.makedirs(output_path, exist_ok=True)
         pd.DataFrame(
             data=all_relations,
             columns="story,subject,relation,object".split(","),
         ).to_csv(
-            os.path.join("output_parsed", "relation", "all_stories.csv"),
+            os.path.join(output_path, "all_stories.csv"),
             index=False
         )
 

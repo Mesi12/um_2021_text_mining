@@ -1,0 +1,110 @@
+occurence,speaker,canonicalSpeaker,text
+0,his,Unknown,How in the world did you deduce that?
+1,his,his,Deduce what?
+2,Unknown,Unknown,"Why, that he was a retired sergeant of Marines."
+3,Unknown,his,"I have no time for trifles,"
+4,Unknown,his,Excuse my rudeness. You broke the thread of my thoughts; but perhaps it is as well. So you actually were not able to see that that man was a sergeant of Marines?
+5,Unknown,his,"No, indeed."
+6,his,his,"It was easier to know it than to explain why I knew it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. Even across the street I could see a great blue anchor tattooed on the back of the fellow's hand. That smacked of the sea. He had a military carriage, however, and regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable, middle-aged man, too, on the face of him--all facts which led me to believe that he had been a sergeant."
+7,his,his,Wonderful!
+8,Holmes,Holmes,"Commonplace,"
+9,Unknown,Holmes,I said just now that there were no criminals. It appears that I am wrong--look at this!
+10,Unknown,Holmes,"Why,"
+11,Unknown,Holmes,this is terrible!
+12,Unknown,Holmes,"It does seem to be a little out of the common,"
+13,Lauriston Gardens,Holmes,Would you mind reading it to me aloud?
+14,him,Holmes,"My dear Mr. Sherlock Holmes: ""There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there. I have left everything in statu quo until I hear from you. If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. ""Yours faithfully, ""Tobias Gregson."
+15,him,Holmes,"Gregson is the smartest of the Scotland Yarders,"
+16,him,Holmes,"he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional--shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent."
+17,Gregson,Holmes,"Surely there is not a moment to be lost,"
+18,him,Holmes,shall I go and order you a cab?
+19,him,Holmes,"I'm not sure about whether I shall go. I am the most incurably lazy devil that ever stood in shoe leather--that is, when the fit is on me, for I can be spry enough at times."
+20,Gregson,Holmes,"Why, it is just such a chance as you have been longing for."
+21,Unknown,Holmes,"My dear fellow, what does it matter to me. Supposing I unravel the whole matter, you may be sure that Gregson, Lestrade, and Co. will pocket all the credit. That comes of being an unofficial personage."
+22,Gregson,Holmes,But he begs you to help him.
+23,him,his,"Yes. He knows that I am his superior, and acknowledges it to me; but he would cut his tongue out before he would own it to any third person. However, we may as well go and have a look. I shall work it out on my own hook. I may have a laugh at them if I have nothing else. Come on!"
+24,Gregson,his,"Get your hat,"
+25,him,his,You wish me to come?
+26,him,his,"Yes, if you have nothing better to do."
+27,Holmes,Unknown,"You don't seem to give much thought to the matter in hand,"
+28,Holmes,he,"No data yet,"
+29,Unknown,he,It is a capital mistake to theorize before you have all the evidence. It biases the judgment.
+30,Unknown,he,"You will have your data soon,"
+31,Unknown,he,"this is the Brixton Road, and that is the house, if I am not very much mistaken."
+32,Unknown,he,"So it is. Stop, driver, stop!"
+33,Lauriston Gardens,he,To Let
+34,Lauriston Gardens,his,"It is indeed kind of you to come,"
+35,Lauriston Gardens,his,I have had everything left untouched.
+36,his,Unknown,Except that!
+37,Holmes,Mr. Sherlock Holmes,"If a herd of buffaloes had passed along there could not be a greater mess. No doubt, however, you had drawn your own conclusions, Gregson, before you permitted this."
+38,Holmes,Mr. Sherlock Holmes,"I have had so much to do inside the house,"
+39,Holmes,Mr. Sherlock Holmes,"My colleague, Mr. Lestrade, is here. I had relied upon him to look after this."
+40,Lauriston Gardens,Mr. Sherlock Holmes,"With two such men as yourself and Lestrade upon the ground, there will not be much for a third party to find out,"
+41,Lauriston Gardens,Tobias Gregson,"I think we have done all that can be done,"
+42,Lauriston Gardens,Tobias Gregson,"it's a queer case though, and I knew your taste for such things."
+43,Sherlock Holmes,Mr. Sherlock Holmes,You did not come here in a cab?
+44,Lauriston Gardens,Tobias Gregson,"No, sir."
+45,Sherlock Holmes,Mr. Sherlock Holmes,Nor Lestrade?
+46,Lauriston Gardens,Tobias Gregson,"No, sir."
+47,Sherlock Holmes,Mr. Sherlock Holmes,Then let us go and look at the room.
+48,his,he,"This case will make a stir, sir,"
+49,Lestrade,Unknown,"It beats anything I have seen, and I am no chicken."
+50,Gregson,Tobias Gregson,There is no clue?
+51,Lestrade,Lestrade,"None at all,"
+52,Mr. Sherlock Holmes,Mr. Sherlock Holmes,You are sure that there is no wound?
+53,Lestrade,Lestrade,Positive!
+54,Gregson,Tobias Gregson,"Then, of course, this blood belongs to a second individual--presumably the murderer, if murder has been committed. It reminds me of the circumstances attendant on the death of Van Jansen, in Utrecht, in the year '34. Do you remember the case, Gregson?"
+55,Gregson,Tobias Gregson,"No, sir."
+56,Gregson,Tobias Gregson,Read it up--you really should. There is nothing new under the sun. It has all been done before.
+57,he,his,He has not been moved at all?
+58,him,Unknown,No more than was necessary for the purposes of our examination.
+59,Unknown,his,"You can take him to the mortuary now,"
+60,he,his,There is nothing more to be learned.
+61,his,Lestrade,"There's been a woman here,"
+62,Unknown,Lestrade,It's a woman's wedding-ring.
+63,Gregson,Tobias Gregson,"This complicates matters,"
+64,Gregson,Tobias Gregson,"Heaven knows, they were complicated enough before."
+65,Holmes,Holmes,You're sure it doesn't simplify them?
+66,Gregson,Gregson,There's nothing to be learned by staring at it. What did you find in his pockets?
+67,Gregson,Gregson,"We have it all here,"
+68,Gregson,Gregson,"A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin--bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J. Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters--one addressed to E. J. Drebber and one to Joseph Stangerson."
+69,Gregson,Gregson,At what address?
+70,Gregson,Gregson,"American Exchange, Strand--to be left till called for. They are both from the Guion Steamship Company, and refer to the sailing of their boats from Liverpool. It is clear that this unfortunate man was about to return to New York."
+71,Gregson,Gregson,"Have you made any inquiries as to this man, Stangerson?"
+72,Gregson,Tobias Gregson,"I did it at once, sir,"
+73,Gregson,Gregson,"I have had advertisements sent to all the newspapers, and one of my men has gone to the American Exchange, but he has not returned yet."
+74,Gregson,Gregson,Have you sent to Cleveland?
+75,Gregson,Gregson,We telegraphed this morning.
+76,Gregson,Gregson,How did you word your inquiries?
+77,Gregson,Gregson,"We simply detailed the circumstances, and said that we should be glad of any information which could help us."
+78,Gregson,Gregson,You did not ask for particulars on any point which appeared to you to be crucial?
+79,Gregson,Gregson,I asked about Stangerson.
+80,Gregson,Gregson,Nothing else? Is there no circumstance on which this whole case appears to hinge? Will you not telegraph again?
+81,Gregson,Tobias Gregson,"I have said all I have to say,"
+82,his,Mr. Sherlock Holmes,"Mr. Gregson,"
+83,Unknown,Mr. Sherlock Holmes,"I have just made a discovery of the highest importance, and one which would have been overlooked had I not made a careful examination of the walls."
+84,his,Mr. Sherlock Holmes,"Come here,"
+85,Unknown,Unknown,"Now, stand there!"
+86,Mr. Sherlock Holmes,Mr. Sherlock Holmes,Look at that!
+87,Mr. Sherlock Holmes,Mr. Sherlock Holmes,What do you think of that?
+88,Gregson,Tobias Gregson,"This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow. Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall."
+89,Gregson,Tobias Gregson,And what does it mean now that you have found it?
+90,Gregson,Tobias Gregson,"Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish. You mark my words, when this case comes to be cleared up you will find that a woman named Rachel has something to do with it. It's all very well for you to laugh, Mr. Sherlock Holmes. You may be very smart and clever, but the old hound is the best, when all is said and done."
+91,Gregson,Tobias Gregson,I really beg your pardon!
+92,Gregson,Tobias Gregson,"You certainly have the credit of being the first of us to find this out, and, as you say, it bears every mark of having been written by the other participant in last night's mystery. I have not had time to examine this room yet, but with your permission I shall do so now."
+93,his,his,"They say that genius is an infinite capacity for taking pains,"
+94,Gregson,Tobias Gregson,"It's a very bad definition, but it does apply to detective work."
+95,Holmes,Unknown,"What do you think of it, sir?"
+96,Gregson,Unknown,"It would be robbing you of the credit of the case if I was to presume to help you,"
+97,Gregson,Unknown,You are doing so well now that it would be a pity for anyone to interfere.
+98,Unknown,his,"If you will let me know how your investigations go,"
+99,his,his,I shall be happy to give you any help I can. In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?
+100,his,John Rance,"John Rance,"
+101,Holmes,Mr. Sherlock Holmes,"He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate."
+102,Holmes,Mr. Sherlock Holmes,"Come along, Doctor,"
+103,Unknown,Mr. Sherlock Holmes,"we shall go and look him up. I'll tell you one thing which may help you in the case,"
+104,Holmes,Mr. Sherlock Holmes,"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots and smoked a Trichinopoly cigar. He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long. These are only a few indications, but they may assist you."
+105,Sherlock Holmes,Sherlock Holmes,"If this man was murdered, how was it done?"
+106,Sherlock Holmes,Sherlock Holmes,"Poison,"
+107,his,his,"One other thing, Lestrade,"
+108,Unknown,his,"'Rache,' is the German for 'revenge;' so don't lose your time looking for Miss Rachel."
