@@ -23,6 +23,8 @@ for file_name in os.listdir("output"):
 
 # %%
 total_words = sum([len(c) for c in corpora])
+vocab_output = []
+vocab_output_cols = "type,title,date,"
 
 # calc tf-idf without stopwords
 def identity_tokenizer(text):
@@ -32,7 +34,7 @@ for name, corpus in corpora:
     print(name)
     vectorizer = TfidfVectorizer(tokenizer=identity_tokenizer, stop_words='english', lowercase=False)    
     X = vectorizer.fit_transform([corpus])
-    
+
     break
 
 
