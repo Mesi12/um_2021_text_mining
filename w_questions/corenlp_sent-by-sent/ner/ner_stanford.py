@@ -1,7 +1,15 @@
 #%%
+#setup
 import nltk
 from nltk.parse import CoreNLPParser
 from nltk.parse.corenlp import CoreNLPDependencyParser
+import re
+
+import sys, os, subprocess
+repo_dir = subprocess.Popen(['git', 'rev-parse', '--show-toplevel'], stdout=subprocess.PIPE).communicate()[0].rstrip().decode('utf-8')
+sys.path.insert(1, os.path.join(sys.path[0], repo_dir))
+from helper.HolmesReader import HolmesReader
+holmesReader = HolmesReader()
 #%%
 server_url = 'http://localhost:9100'
 
@@ -27,7 +35,7 @@ ner_tags = list(ner_tagger.tag(tokens))
 print(ner_tags)
 
 #%%
-def mymagic(ner_tags):
+def find_named_entites(ner_tags):
     """
     Joins entites that belong together and returns all named entities.
     """
@@ -54,11 +62,11 @@ def mymagic(ner_tags):
         previous_entity = entity[0]
         previous_tag  = entity[1]
 
-    print(f"Named entites: {named_entites}")
+    #print(f"Named entites: {named_entites}")
 
-    [person,location,organization,time] = classify_entity(named_entites)
+    [person,location,organization,time,cause_of_death,criminal_charge,duration,title] = classify_entity(named_entites)
     
-    return person,location,organization,time
+    return person,location,organization,time,cause_of_death,criminal_charge,duration,title
 
 # %%
 def classify_entity(named_entites):
@@ -69,22 +77,99 @@ def classify_entity(named_entites):
     location = []
     organization = []
     time = []
+    cause_of_death = []
+    criminal_charge = []
+    duration = []
+    title = []
     for entity,tag in named_entites:
         if tag == "PERSON":
             person.append(entity)
         elif tag == "ORGANIZATION":
             organization.append(entity)
-        elif tag == "STATE_OR_PROVINCE":
+        elif (tag == "STATE_OR_PROVINCE" or tag == "LOCATION" or tag == "CITY" or tag == "COUNTRY"):
             location.append(entity)
         elif (tag == "DATE" or tag == "TIME"):
             time.append(entity)
-    return(person,location,organization,time)
+        elif tag == "CAUSE_OF_DEATH":
+            cause_of_death.append(entity)
+        elif tag == "CRIMINAL_CHARGE":
+            criminal_charge.append(entity)
+        elif tag == "DURATION":
+            duration.append(entity)
+        elif tag == "TITLE":
+            title.append(entity)
+        else:
+            print(entity, tag)
+    
+    return(person,location,organization,time,cause_of_death,criminal_charge,duration,title)
 
 #%%
-[person,location,organization,time] = mymagic(ner_tags)
-print("person:",person)
-print("location:",location)
-print("organization:",organization)
-print("time:",time)
+[person,location,organization,time] = find_named_entites(ner_tags)
 
-# %%
+
+#%%
+#try it on one story
+story = holmesReader.get_story("the_final_problem")
+text = story["text"]
+
+#%%
+#break text down into paragraphs
+re_grep_paragraph = '(.*\n)'
+paragraphs = re.findall(re_grep_paragraph, text, re.IGNORECASE)
+
+person = []
+location = []
+organization = []
+time = []
+cause_of_death = []
+criminal_charge = []
+duration= []
+title = []
+
+for paragraph in paragraphs:
+    paragraph = paragraph.strip()
+    tokens = list(parser.tokenize(paragraph))
+    ner_tags = list(ner_tagger.tag(tokens))
+    [p,l,o,t,c,cr,d,tt] = find_named_entites(ner_tags)
+    person.append(p)
+    location.append(l)
+    organization.append(o)
+    time.append(t)
+    cause_of_death.append(c)
+    criminal_charge.append(cr)
+    duration.append(d)
+    title.append(tt)
+    
+print(person,location,organization,time,cause_of_death,criminal_charge,duration,title)
+
+#%%
+sentences = list(parser.tokenize_sents(text))
+sents = nltk.tokenize.sent_tokenize(text)
+person = []
+location = []
+organization = []
+time = []
+cause_of_death = []
+criminal_charge = []
+duration= []
+title = []
+for i, sentence in enumerate(sents):
+    if i % 20 ==0:
+        print(i)
+    tokens = list(parser.tokenize(sentence))
+    ner_tags = list(ner_tagger.tag(tokens))
+    [p,l,o,t,c,cr,d,tt] = find_named_entites(ner_tags)
+    person.append(p)
+    location.append(l)
+    organization.append(o)
+    time.append(t)
+    cause_of_death.append(c)
+    criminal_charge.append(cr)
+    duration.append(d)
+    title.append(tt)
+
+#print(person,location,organization,time,cause_of_death,criminal_charge,duration,title)
+#%%
+print(person)
+#%%
+#apply for all stories and novel chapters -> use helper
