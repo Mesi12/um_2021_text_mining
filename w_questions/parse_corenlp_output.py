@@ -13,8 +13,7 @@ def extract_named_entities(annots):
         for entity in sentence['entitymentions']:
             entities.append([
                 entity['text'],
-                entity['ner'],
-                entity.get('normalizedNER')
+                entity['ner']
             ])
 
     return entities
@@ -75,36 +74,38 @@ if __name__ == "__main__":
                 entities = extract_named_entities(annots)
                 pd.DataFrame(
                     data=entities,
-                    columns="text,ner,normalizedner".split(","),
+                    columns="text,ner".split(","),
                 ).to_csv(
                     os.path.join("output_parsed", "ner", f"{story}.csv"),
                     index=False
                 )
 
                 # extract relations
-                kbps = extract_relations(annots)
-                all_relations.extend([[story] + i for i in kbps])
+                if "kbp" in annots.keys():
+                    kbps = extract_relations(annots)
+                    all_relations.extend([[story] + i for i in kbps])
 
 
                 # extract quotes + speaker
-                quotes = extract_quotes(annots)
-                pd.DataFrame(
-                    data=quotes,
-                    columns="occurence,speaker,canonicalSpeaker,text".split(","),
-                ).to_csv(
-                    os.path.join("output_parsed", "quotes", f"{story}.csv"),
-                    index=False
-                )
+                if "quotes" in annots.keys():
+                    quotes = extract_quotes(annots)
+                    pd.DataFrame(
+                        data=quotes,
+                        columns="occurence,speaker,canonicalSpeaker,text".split(","),
+                    ).to_csv(
+                        os.path.join("output_parsed", "quotes", f"{story}.csv"),
+                        index=False
+                    )
 
-    pd.DataFrame(
-        data=all_relations,
-        columns="story,subject,relation,object".split(","),
-    ).to_csv(
-        os.path.join("output_parsed", "relation", "all_stories.csv"),
-        index=False
-    )
 
-    
+    if all_relations:
+        pd.DataFrame(
+            data=all_relations,
+            columns="story,subject,relation,object".split(","),
+        ).to_csv(
+            os.path.join("output_parsed", "relation", "all_stories.csv"),
+            index=False
+        )
 
 
 # %%
