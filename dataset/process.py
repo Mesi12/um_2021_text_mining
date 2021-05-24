@@ -39,6 +39,7 @@ def process_novels():
                 export_path = os.path.join(PATH_OUTPUT, PATH_NOVELS)
                 clean_title = title.lower().replace(" ", "_")
                 export_file_json(clean_title, export_path, content)
+                export_file_txt(clean_title, export_path, content)
 
                 # put into metadata
                 METADATA["novels"][clean_title] = {}
@@ -83,7 +84,7 @@ def process_collections():
                     # rename file with copy to processed
                     export_path = os.path.join(PATH_OUTPUT, PATH_STORIES, collection)
                     clean_title = title.lower().replace(" ", "_").replace("-", "_").replace('"', "").replace("'", "")
-                    export_file(clean_title, export_path, content)
+                    export_file_txt(clean_title, export_path, content)
 
                     # put into metadata
                     METADATA["collections"][collection]["stories"][clean_title] = {}
@@ -125,11 +126,18 @@ def get_title(content, tp):
     return title
 
 
-def export_file(title, export_path, content):
+def export_file_txt(title, export_path, content):
     new_name = title + ".txt"
     os.makedirs(export_path, exist_ok=True)
     with open(os.path.join(export_path, new_name), "w") as fp_new:
-        fp_new.write(content)
+        if isinstance(content, dict):
+            tmp = []
+            for p, chapters in content.items():
+                for c, chapter in chapters.items():
+                    tmp.append(chapter['text'])
+            fp_new.write("\n".join(tmp))
+        else:    
+            fp_new.write(content)
 
 
 def export_file_json(title, export_path, content):
