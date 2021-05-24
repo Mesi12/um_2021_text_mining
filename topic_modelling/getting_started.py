@@ -18,13 +18,15 @@ collections = holmesReader.get_collections(as_dataframe=True)
 # %%
 
 """
-stemming
-lemma?
+stemming?
+lemma
 tokenize
     -> pos_tag -> NER
     -> "_".join()
 todo: have a look at research internship presentation
 """
+
+# todo clean text
 
 vect = TfidfVectorizer(min_df=10, stop_words="english")
 X = vect.fit_transform(collections['text'])
@@ -32,10 +34,20 @@ X = vect.fit_transform(collections['text'])
 # Create an NMF instance: model
 # the 5 components will be the topics
 model = NMF(n_components=10, random_state=42, max_iter=1000)
- 
+
 # Fit the model to TF-IDF
 model.fit(X)
- 
+
+# %%
+from sklearn.feature_extraction.text import CountVectorizer
+count_vectorizer = CountVectorizer(min_df=10, max_df=0.95, ngram_range=(1,1), stop_words='english')
+feature_matrix = count_vectorizer.fit_transform(collections['text'])
+
+import pyLDAvis.sklearn
+panel = pyLDAvis.sklearn.prepare(model, X, feature_matrix, mds='tsne')
+pyLDAvis.display(panel)
+
+# %% 
 # Transform the TF-IDF: nmf_features
 nmf_features = model.transform(X)
 
