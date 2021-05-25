@@ -3,9 +3,9 @@ occurence,speaker,canonicalSpeaker,text
 1,Sherlock Holmes,Unknown,My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be.
 2,his,his,"If there's a vacant place for a chief of the police, I reckon you are the man for it,"
 3,Lestrade,his,The way you kept on my trail was a caution.
-4,Holmes,Sherlock Holmes,"You had better come with me,"
+4,Holmes,Holmes,"You had better come with me,"
 5,Lestrade,Lestrade,"I can drive you,"
-6,Holmes,Sherlock Holmes,"Good! and Gregson can come inside with me. You too, Doctor, you have taken an interest in the case and may as well stick to us."
+6,Holmes,Holmes,"Good! and Gregson can come inside with me. You too, Doctor, you have taken an interest in the case and may as well stick to us."
 7,his,his,"The prisoner will be put before the magistrates in the course of the week,"
 8,Unknown,his,"in the mean time, Mr. Jefferson Hope, have you anything that you wish to say? I must warn you that your words will be taken down, and may be used against you."
 9,Mr. Jefferson Hope,his,"I've got a good deal to say,"
@@ -87,6 +87,6 @@ occurence,speaker,canonicalSpeaker,text
 31,Sherlock Holmes,Sherlock Holmes,Who was your accomplice who came for the ring which I advertised?
 32,his,he,"I can tell my own secrets,"
 33,Holmes,he,"but I don't get other people into trouble. I saw your advertisement, and I thought it might be a plant, or it might be the ring which I wanted. My friend volunteered to go and see. I think you'll own he did it smartly."
-34,Holmes,Holmes,"Not a doubt of that,"
+34,Holmes,Sherlock Holmes,"Not a doubt of that,"
 35,Holmes,him,"Now, gentlemen,"
 36,Holmes,him,"the forms of the law must be complied with. On Thursday the prisoner will be brought before the magistrates, and your attendance will be required. Until then I will be responsible for him."

@@ -4,10 +4,10 @@ occurence,speaker,canonicalSpeaker,text
 2,Holmes,Unknown,That depends on how it turns out.
 3,Holmes,Unknown,"Oh, bless you, it doesn't matter in the least. If the man is caught, it will be on account of their exertions; if he escapes, it will be in spite of their exertions. It's heads I win and tails you lose. Whatever they do, they will have followers. 'Un sot trouve toujours un plus sot qui l'admire.'"
 4,Unknown,Unknown,What on earth is this?
-5,Holmes,Holmes,"It's the Baker Street division of the detective police force,"
-6,Holmes,Holmes,'Tention!
-7,Holmes,Holmes,"In future you shall send up Wiggins alone to report, and the rest of you must wait in the street. Have you found it, Wiggins?"
-8,Holmes,Holmes,"No, sir, we hain't,"
+5,Holmes,Mr. Sherlock Holmes,"It's the Baker Street division of the detective police force,"
+6,Holmes,Mr. Sherlock Holmes,'Tention!
+7,Holmes,Mr. Sherlock Holmes,"In future you shall send up Wiggins alone to report, and the rest of you must wait in the street. Have you found it, Wiggins?"
+8,Holmes,Mr. Sherlock Holmes,"No, sir, we hain't,"
 9,Holmes,his,I hardly expected you would. You must keep on until you do. Here are your wages.
 10,Unknown,his,"Now, off you go, and come back with a better report next time."
 11,Holmes,Mr. Sherlock Holmes,"There's more work to be got out of one of those little beggars than out of a dozen of the force,"
@@ -23,9 +23,9 @@ occurence,speaker,canonicalSpeaker,text
 21,his,Mr. Sherlock Holmes,"Take a seat, and try one of these cigars,"
 22,his,Unknown,We are anxious to know how you managed it. Will you have some whiskey and water?
 23,his,Unknown,"I don't mind if I do,"
-24,Holmes,Holmes,"The tremendous exertions which I have gone through during the last day or two have worn me out. Not so much bodily exertion, you understand, as the strain upon the mind. You will appreciate that, Mr. Sherlock Holmes, for we are both brain-workers."
-25,Holmes,Holmes,"You do me too much honour,"
-26,Holmes,Holmes,Let us hear how you arrived at this most gratifying result.
+24,Holmes,Mr. Sherlock Holmes,"The tremendous exertions which I have gone through during the last day or two have worn me out. Not so much bodily exertion, you understand, as the strain upon the mind. You will appreciate that, Mr. Sherlock Holmes, for we are both brain-workers."
+25,Holmes,Mr. Sherlock Holmes,"You do me too much honour,"
+26,Holmes,Mr. Sherlock Holmes,Let us hear how you arrived at this most gratifying result.
 27,his,his,"The fun of it is,"
 28,Gregson,his,"that that fool Lestrade, who thinks himself so smart, has gone off upon the wrong track altogether. He is after the secretary Stangerson, who had no more to do with the crime than the babe unborn. I have no doubt that he has caught him by this time."
 29,Tobias Gregson,his,And how did you get your clue?
@@ -35,9 +35,9 @@ occurence,speaker,canonicalSpeaker,text
 33,his,Tobias Gregson,"I had no idea that you noticed that,"
 34,Underwood,Tobias Gregson,Have you been there?
 35,his,Tobias Gregson,No.
-36,Gregson,Gregson,Ha!
-37,Gregson,Gregson,"you should never neglect a chance, however small it may seem."
-38,Holmes,Holmes,"To a great mind, nothing is little,"
+36,Gregson,Tobias Gregson,Ha!
+37,Gregson,Tobias Gregson,"you should never neglect a chance, however small it may seem."
+38,Holmes,Mr. Sherlock Holmes,"To a great mind, nothing is little,"
 39,Sherlock Holmes,Mr. Sherlock Holmes,"Well, I went to Underwood, and asked him if he had sold a hat of that size and description. He looked over his books, and came on it at once. He had sent the hat to a Mr. Drebber, residing at Charpentier's Boarding Establishment, Torquay Terrace. Thus I got at his address."
 40,Sherlock Holmes,Mr. Sherlock Holmes,Smart--very smart!
 41,Sherlock Holmes,Mr. Sherlock Holmes,"I next called upon Madame Charpentier,"
@@ -80,8 +80,8 @@ occurence,speaker,canonicalSpeaker,text
 
 ""'My heart grew light when I saw him drive away. My son is on leave just now, but I did not tell him anything of all this, for his temper is violent, and he is passionately fond of his sister. When I closed the door behind them a load seemed to be lifted from my mind. Alas, in less than an hour there was a ring at the bell, and I learned that Mr. Drebber had returned. He was much excited, and evidently the worse for drink. He forced his way into the room, where I was sitting with my daughter, and made some incoherent remark about having missed his train. He then turned to Alice, and before my very face, proposed to her that she should fly with him. ""You are of age,"
 44,Poor Alice,Mr. Drebber,"and there is no law to stop you. I have money enough and to spare. Never mind the old girl here, but come along with me now straight away. You shall live like a princess."
-45,her,Arthur,"I don't think that fine fellow will trouble us again,"
-46,Unknown,Arthur,I will just go after him and see what he does with himself.
+45,her,his,"I don't think that fine fellow will trouble us again,"
+46,Unknown,his,I will just go after him and see what he does with himself.
 47,Sherlock Holmes,Sherlock Holmes,"This statement came from Mrs. Charpentier's lips with many gasps and pauses. At times she spoke so low that I could hardly catch the words. I made shorthand notes of all that she said, however, so that there should be no possibility of a mistake."
 48,Sherlock Holmes,Sherlock Holmes,"It's quite exciting,"
 49,Sherlock Holmes,Sherlock Holmes,What happened next?
@@ -126,6 +126,6 @@ occurence,speaker,canonicalSpeaker,text
 60,his,his,"This is a most extraordinary case,"
 61,Mr. Joseph Stangerson,his,a most incomprehensible affair.
 62,Gregson,Gregson,"Ah, you find it so, Mr. Lestrade!"
-63,Lestrade,Mr. Lestrade,"I thought you would come to that conclusion. Have you managed to find the Secretary, Mr. Joseph Stangerson?"
-64,Lestrade,Mr. Lestrade,"The Secretary, Mr. Joseph Stangerson,"
-65,Lestrade,Mr. Lestrade,was murdered at Halliday's Private Hotel about six o'clock this morning.
+63,Lestrade,Lestrade,"I thought you would come to that conclusion. Have you managed to find the Secretary, Mr. Joseph Stangerson?"
+64,Lestrade,Lestrade,"The Secretary, Mr. Joseph Stangerson,"
+65,Lestrade,Lestrade,was murdered at Halliday's Private Hotel about six o'clock this morning.

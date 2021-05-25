@@ -1,6 +1,6 @@
 occurence,speaker,canonicalSpeaker,text
-0,his,Gregson,Stangerson too!
-1,Lestrade,Gregson,The plot thickens.
+0,his,his,Stangerson too!
+1,Lestrade,his,The plot thickens.
 2,Lestrade,Lestrade,"It was quite thick enough before,"
 3,Lestrade,Lestrade,I seem to have dropped into a sort of council of war.
 4,Gregson,Gregson,Are you--are you sure of this piece of intelligence?
@@ -42,7 +42,7 @@ occurence,speaker,canonicalSpeaker,text
 30,Holmes,Mr. Sherlock Holmes,"From their lightness and transparency, I should imagine that they are soluble in water,"
 31,Holmes,Mr. Sherlock Holmes,"Precisely so,"
 32,Holmes,Mr. Sherlock Holmes,"Now would you mind going down and fetching that poor little devil of a terrier which has been bad so long, and which the landlady wanted you to put out of its pain yesterday."
-33,Holmes,Holmes,"I will now cut one of these pills in two,"
+33,Holmes,Mr. Sherlock Holmes,"I will now cut one of these pills in two,"
 34,Lestrade,Lestrade,"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves."
 35,Lestrade,Lestrade,"This may be very interesting,"
 36,Lestrade,Lestrade,"I cannot see, however, what it has to do with the death of Mr. Joseph Stangerson."
@@ -63,16 +63,16 @@ occurence,speaker,canonicalSpeaker,text
 51,his,Unknown,"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him. This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city. Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so."
 52,his,his,"Please, sir,"
 53,his,his,I have the cab downstairs.
-54,Holmes,Holmes,"Good boy,"
+54,Holmes,Mr. Sherlock Holmes,"Good boy,"
 55,his,he,Why don't you introduce this pattern at Scotland Yard?
 56,Lestrade,Lestrade,See how beautifully the spring works. They fasten in an instant.
 57,Lestrade,Lestrade,"The old pattern is good enough,"
 58,Lestrade,Lestrade,if we can only find the man to put them on.
-59,Holmes,Holmes,"Very good, very good,"
-60,Holmes,Holmes,"The cabman may as well help me with my boxes. Just ask him to step up, Wiggins."
-61,Unknown,Wiggins,"Just give me a help with this buckle, cabman,"
-62,his,Sherlock Holmes,"Gentlemen,"
-63,his,Sherlock Holmes,"let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
-64,Sherlock Holmes,Sherlock Holmes,"We have his cab,"
+59,Holmes,Mr. Sherlock Holmes,"Very good, very good,"
+60,Holmes,Mr. Sherlock Holmes,"The cabman may as well help me with my boxes. Just ask him to step up, Wiggins."
+61,Unknown,him,"Just give me a help with this buckle, cabman,"
+62,his,Mr. Sherlock Holmes,"Gentlemen,"
+63,his,Mr. Sherlock Holmes,"let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
+64,Sherlock Holmes,Mr. Sherlock Holmes,"We have his cab,"
 65,his,Lestrade,"It will serve to take him to Scotland Yard. And now, gentlemen,"
 66,Unknown,Lestrade,"we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them."

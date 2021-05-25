@@ -55,8 +55,8 @@ def extract_quotes(annots):
 
 if __name__ == "__main__":
 
-    folder = os.path.join("output")
-    output_folder = os.path.join("output_parsed")
+    folder = os.path.join("output", "novel_a_study_in_scarlet")
+    output_folder = os.path.join("output_parsed", "novel_a_study_in_scarlet")
     os.makedirs(output_folder, exist_ok=True)
 
     all_relations = []
