@@ -50,7 +50,7 @@ if __name__ == "__main__":
     sentences = [sent for sent in sentences if len([word for word in nltk.tokenize.word_tokenize(sent) if not word in string.punctuation]) >= 20]
     print(f"{len(sentences)} - sentences after deleting sentences < 9 words ignoring punctuation")
 
-
+#%%
     print("shuffle...")
     random.shuffle(sentences)
     chosen_sentences = sentences[:100]
@@ -76,6 +76,9 @@ if __name__ == "__main__":
 # %%
 # following code can be used to increase the chance of adding PERSON and LOCATION
 # to the validation set.
+"""
+java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -preload tokenize,ssplit,pos,lemma,ner -status_port 9000 -port 9000 -timeout 15000 -quiet
+"""
 import numpy as np
 from nltk.parse import CoreNLPParser
 server_url = 'http://localhost:9000'
@@ -84,6 +87,13 @@ parser = CoreNLPParser(url=server_url)
 # NER Tagger
 ner_tagger = CoreNLPParser(url=server_url, tagtype='ner')
 
+try:
+    sent_character
+    sent_location
+except NameError:
+    sent_character = set()
+    sent_location = set()
+
 num_PERSON = []
 num_LOCATION = []
 for i, sentence in enumerate(chosen_sentences):
@@ -91,8 +101,17 @@ for i, sentence in enumerate(chosen_sentences):
     tokens = list(parser.tokenize(sentence))
     ner_tags = list(ner_tagger.tag(tokens))
 
-    num_PERSON.append(len([tag for token,tag in ner_tags if tag == "PERSON"]))
-    num_LOCATION.append(len([tag for token,tag in ner_tags if tag == "LOCATION"]))
+    tag_person = [tag for token,tag in ner_tags if tag == "PERSON"]
+    tag_location = [tag for token,tag in ner_tags if tag == "LOCATION"]
+
+    num_PERSON.append(len(tag_person))
+    num_LOCATION.append(len(tag_location))
+
+    if tag_person:
+        sent_character.add(sentence)
+    
+    if tag_location:
+        sent_location.add(sentence)
 
 num_PERSON = [i for i in num_PERSON if i != 0]
 num_LOCATION = [i for i in num_LOCATION if i != 0]
@@ -100,5 +119,39 @@ num_LOCATION = [i for i in num_LOCATION if i != 0]
 print(f"person: {len(num_PERSON)}, {np.mean(num_PERSON)}")
 print(f"location: {len(num_LOCATION)}, {np.mean(num_LOCATION)}")
 
+print(len(sent_character))
+print(len(sent_location))
+
 
 # %%
+# special select of 100 sentences with high number of person and location NERs
+# all locations (due to minority)
+export_sentences = sent_location.copy()
+print(len(export_sentences))
+
+# fill up until 80 with characters
+character_list = list(sent_character.copy())
+while len(export_sentences) < 80:
+    print(len(export_sentences))
+    export_sentences.add(character_list.pop())
+
+# fill up remaining 20 with totally random sentences
+random.shuffle(sentences)
+while len(export_sentences) < 100:
+    print(len(export_sentences))
+    export_sentences.add(sentences.pop())
+
+print(len(export_sentences))
+# %%
+
+# export them
+with open("tmp.txt", "w") as fp:
+    fp.write("\n".join(export_sentences))
+# %%
+# export sentences for tagtog
+print("export...")
+os.makedirs(EXPORT_PATH, exist_ok=True)
+for i, sentence in enumerate(export_sentences):
+    sentence = sentence.strip('""')
+    with open(os.path.join(EXPORT_PATH, f"doc_{i+1:03.0f}.txt"), "w") as fp:
+        fp.write(sentence)
