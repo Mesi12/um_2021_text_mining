@@ -28,6 +28,8 @@ def collect_stories_by_collection(collections):
 
 if __name__ == "__main__":
 
+    DEBUG_MODE = True
+
     # copyright footer: https://sherlock-holm.es/ascii/
     copyright_safe_collections = [
         '1_the_adventures_of_sherlock_holmes',
@@ -45,24 +47,58 @@ if __name__ == "__main__":
     print("filter...")
     
     print(f"{len(sentences)} - sentences total")
-    sentences = [sent for sent in sentences if len(nltk.tokenize.word_tokenize(sent)) >= 10]
-    print(f"{len(sentences)} - sentences after deleting sentences < 9 words incl. punctuation")
-    sentences = [sent for sent in sentences if len([word for word in nltk.tokenize.word_tokenize(sent) if not word in string.punctuation]) >= 10]
+    sentences = [sent for sent in sentences if len([word for word in nltk.tokenize.word_tokenize(sent) if not word in string.punctuation]) >= 20]
     print(f"{len(sentences)} - sentences after deleting sentences < 9 words ignoring punctuation")
+
 
     print("shuffle...")
     random.shuffle(sentences)
-    chosen_sentences = sentences[:50]
+    chosen_sentences = sentences[:100]
 
     with open("tmp.txt", "w") as fp:
         fp.write("\n".join(chosen_sentences))
 
     # export sentences for tagtog
-    print("export...")
-    os.makedirs(EXPORT_PATH, exist_ok=True)
-    for i, sentence in enumerate(chosen_sentences):
-        sentence = sentence.strip('""')
-        with open(os.path.join(EXPORT_PATH, f"doc_{i+1:02.0f}.txt"), "w") as fp:
-            fp.write(sentence)
+    if DEBUG_MODE:
+        print("no export .. DEBUG mode")
+    else:
+        print("export...")
+        os.makedirs(EXPORT_PATH, exist_ok=True)
+        for i, sentence in enumerate(chosen_sentences):
+            sentence = sentence.strip('""')
+            with open(os.path.join(EXPORT_PATH, f"doc_{i+1:03.0f}.txt"), "w") as fp:
+                fp.write(sentence)
+
+
+    
+
+
+# %%
+# following code can be used to increase the chance of adding PERSON and LOCATION
+# to the validation set.
+import numpy as np
+from nltk.parse import CoreNLPParser
+server_url = 'http://localhost:9000'
+# Lexical Parser
+parser = CoreNLPParser(url=server_url)
+# NER Tagger
+ner_tagger = CoreNLPParser(url=server_url, tagtype='ner')
+
+num_PERSON = []
+num_LOCATION = []
+for i, sentence in enumerate(chosen_sentences):
+    sentence = sentence.strip('""')
+    tokens = list(parser.tokenize(sentence))
+    ner_tags = list(ner_tagger.tag(tokens))
+
+    num_PERSON.append(len([tag for token,tag in ner_tags if tag == "PERSON"]))
+    num_LOCATION.append(len([tag for token,tag in ner_tags if tag == "LOCATION"]))
+
+num_PERSON = [i for i in num_PERSON if i != 0]
+num_LOCATION = [i for i in num_LOCATION if i != 0]
+
+print(f"person: {len(num_PERSON)}, {np.mean(num_PERSON)}")
+print(f"location: {len(num_LOCATION)}, {np.mean(num_LOCATION)}")
+
 
 # %%
