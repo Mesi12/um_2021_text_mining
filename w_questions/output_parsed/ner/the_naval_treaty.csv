@@ -1,0 +1,810 @@
+text,ner
+July,DATE
+Sherlock Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+Monsieur Dubugue,PERSON
+Paris,LOCATION
+Fritz von Waldbaum,PERSON
+Dantzig,PERSON
+he,PERSON
+Percy Phelps,PERSON
+he,PERSON
+Cambridge,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Holdhurst,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Foreign Office,ORGANIZATION
+Woking,ORGANIZATION
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Tadpole,MISC
+Phelps,PERSON
+Foreign Office,ORGANIZATION
+Mr. Holmes,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Percy Phelps,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Baker Street,LOCATION
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Bunsen,MISC
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+Persian,MISC
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Woking,LOCATION
+he,PERSON
+his,PERSON
+Waterloo,LOCATION
+Woking,LOCATION
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Percy,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Joseph Harrison,PERSON
+Percy,PERSON
+Annie,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+summer,DATE
+him,PERSON
+Percy,PERSON
+she,PERSON
+He,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+her,PERSON
+Italian,MISC
+She,PERSON
+Her,PERSON
+her,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Foreign Office,ORGANIZATION
+Holdhurst,PERSON
+he,PERSON
+he,PERSON
+May,DATE
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+England,LOCATION
+Italy,LOCATION
+he,PERSON
+his,PERSON
+French,MISC
+Russian,MISC
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Charles Gorot,PERSON
+him,PERSON
+he,PERSON
+Joseph,PERSON
+Mr. Harrison,PERSON
+Woking,LOCATION
+he,PERSON
+he,PERSON
+Great Britain,LOCATION
+Triple Alliance,ORGANIZATION
+French,MISC
+Italy,LOCATION
+Mediterranean,LOCATION
+French,MISC
+his,PERSON
+him,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+Charles Street,LOCATION
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Phelps,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Charles Street,LOCATION
+Holmes,PERSON
+his,PERSON
+Charles Street,LOCATION
+Whitehall,ORGANIZATION
+Foreign Office,ORGANIZATION
+he,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Ivy Lane,PERSON
+Brixton,LOCATION
+he,PERSON
+Mr. Phelps,PERSON
+his,PERSON
+her,PERSON
+He,PERSON
+she,PERSON
+she,PERSON
+Scotland Yard,LOCATION
+Mr. Forbes,PERSON
+Mrs. Tangey,PERSON
+Her,PERSON
+Mother,PERSON
+her,PERSON
+Forbes,PERSON
+She,PERSON
+her,PERSON
+Mr. Phelps,PERSON
+she,PERSON
+she,PERSON
+Forbes,PERSON
+Foreign Office,ORGANIZATION
+Scotland Yard,LOCATION
+she,PERSON
+she,PERSON
+she,PERSON
+Scotland Yard,LOCATION
+she,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+Cabinet,ORGANIZATION
+his,PERSON
+him,PERSON
+Waterloo,LOCATION
+Woking,LOCATION
+Ferrier,PERSON
+he,PERSON
+he,PERSON
+Annie,PERSON
+Ferrier,PERSON
+his,PERSON
+Joseph,PERSON
+Mr. Holmes,PERSON
+Miss Harrison,PERSON
+She,PERSON
+last three days,DATE
+Mr. Forbes,PERSON
+He,PERSON
+his,PERSON
+Gorot,PERSON
+French,MISC
+English,MISC
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Miss Harrison,PERSON
+he,PERSON
+Forbes,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Providence,LOCATION
+Percy Phelps,PERSON
+Holmes,LOCATION
+his,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+London,LOCATION
+Miss Harrison,PERSON
+Holmes,PERSON
+Watson,PERSON
+Mr. Phelps,PERSON
+Holdhurst,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+Mr. Joseph Harrison,PERSON
+Portsmouth,LOCATION
+Holmes,PERSON
+Clapham Junction,LOCATION
+his,PERSON
+London,LOCATION
+he,PERSON
+he,PERSON
+England,LOCATION
+Phelps,PERSON
+him,PERSON
+Miss Harrison,PERSON
+she,PERSON
+Northumberland,LOCATION
+She,PERSON
+her,PERSON
+last winter,DATE
+He,PERSON
+her,PERSON
+she,PERSON
+his,PERSON
+her,PERSON
+Joseph,PERSON
+she,PERSON
+her,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Forbes,PERSON
+He,PERSON
+French,MISC
+Russian,MISC
+Holdhurst,PERSON
+Holdhurst,PERSON
+he,PERSON
+Holdhurst,PERSON
+he,PERSON
+Woking,LOCATION
+London,LOCATION
+He,PERSON
+Foreign Office,ORGANIZATION
+Charles Street,LOCATION
+evening,TIME
+May 23d,DATE
+Baker Street,LOCATION
+Mr. Phelps,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Scotland Yard,LOCATION
+Holmes,PERSON
+Forbes,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+His,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Mrs. Tangey,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+His,PERSON
+Mr. Phelps,PERSON
+she,PERSON
+She,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+Her,PERSON
+She,PERSON
+Mr. Phelps,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+Charles Street,LOCATION
+her,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+Gorot,PERSON
+him,PERSON
+Watson,PERSON
+Holdhurst,PERSON
+England,LOCATION
+Holdhurst,PERSON
+Downing Street,LOCATION
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Percy Phelps,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+Holdhurst,PERSON
+Mr. Phelps,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+French,MISC
+Foreign Office,ORGANIZATION
+Holdhurst,PERSON
+Holdhurst,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+Holdhurst,PERSON
+he,PERSON
+Holmes,PERSON
+Whitehall,ORGANIZATION
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+Woking,ORGANIZATION
+Woking,LOCATION
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Indian,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Bertillon,PERSON
+French,MISC
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+Forbes,PERSON
+Miss Harrison,PERSON
+Phelps,PERSON
+night,TIME
+His,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+last night,TIME
+last night,TIME
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+Joseph,PERSON
+he,PERSON
+Joseph,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+his,PERSON
+Phelps,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+Joseph,PERSON
+Miss Harrison,PERSON
+Holmes,PERSON
+his,PERSON
+her,PERSON
+Her,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Mr. Joseph Harrison,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Joseph Harrison,PERSON
+he,PERSON
+Holmes,PERSON
+last night,TIME
+Percy Phelps,PERSON
+his,PERSON
+Holmes,PERSON
+Miss Harrison,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Percy,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+She,PERSON
+Annie,PERSON
+her,PERSON
+Joseph,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+he,PERSON
+Mr. Holmes,PERSON
+Joseph,PERSON
+Watson,PERSON
+he,PERSON
+Miss Harrison,PERSON
+Holmes,PERSON
+he,PERSON
+Phelps,ORGANIZATION
+his,PERSON
+Holmes,PERSON
+Woking,ORGANIZATION
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Phelps,PERSON
+Watson,PERSON
+London,LOCATION
+Baker Street,LOCATION
+him,PERSON
+Mr. Phelps,PERSON
+Waterloo,LOCATION
+London,LOCATION
+Phelps,PERSON
+Phelps,PERSON
+Holmes,PERSON
+his,PERSON
+Phelps,PERSON
+last night,TIME
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Briarbrae,LOCATION
+he,PERSON
+him,PERSON
+him,PERSON
+Phelps,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Afghanistan,LOCATION
+India,LOCATION
+him,PERSON
+his,PERSON
+Holmes,PERSON
+Holdhurst,PERSON
+morning,TIME
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Europe,LOCATION
+he,PERSON
+Watson,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+Woking,LOCATION
+Miss Harrison,PERSON
+he,PERSON
+Briarbrae,LOCATION
+he,PERSON
+he,PERSON
+Phelps,PERSON
+sleepless night,TIME
+him,PERSON
+Holmes,PERSON
+His,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Phelps,PERSON
+He,PERSON
+he,PERSON
+Phelps,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Mr. Phelps,PERSON
+Watson,PERSON
+Surrey,LOCATION
+air this morning,TIME
+Mrs. Hudson,PERSON
+Holmes,PERSON
+Phelps,LOCATION
+she,PERSON
+Mrs. Hudson,PERSON
+Holmes,PERSON
+Her,PERSON
+she,PERSON
+Watson,PERSON
+Mr. Phelps,PERSON
+Phelps,PERSON
+Holmes,PERSON
+Phelps,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+him,PERSON
+Watson,PERSON
+Phelps,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Phelps,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Surrey,LOCATION
+Ripley,LOCATION
+Briarbrae,LOCATION
+Miss Harrison,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Miss Harrison,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+he,PERSON
+Watson,PERSON
+Woking,LOCATION
+morning,TIME
+Mr. Joseph Harrison,PERSON
+Joseph,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Joseph,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Forbes,PERSON
+this morning,TIME
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holdhurst,PERSON
+Mr. Percy Phelps,PERSON
+Joseph,PERSON
+Joseph,PERSON
+Joseph,PERSON
+his,PERSON
+this morning,TIME
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Percy Phelps,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Joseph,PERSON
+Foreign Office,ORGANIZATION
+him,PERSON
+he,PERSON
+his,PERSON
+Joseph,PERSON
+Joseph,PERSON
+Joseph Harrison,PERSON
+Charles Street,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+State,ORGANIZATION
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Woking,LOCATION
+French,MISC
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Miss Harrison,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Phelps,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Joseph Harrison,PERSON

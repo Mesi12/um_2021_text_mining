@@ -1,0 +1,812 @@
+text,ner
+Baker Street,LOCATION
+Thorneycroft Huxtable,PERSON
+His,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+Mackleton,LOCATION
+England,LOCATION
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Mackleton,LOCATION
+his,PERSON
+Watson,PERSON
+Ferrers Documents,ORGANIZATION
+Abergavenny,LOCATION
+London,LOCATION
+his,PERSON
+Holdernesse,PERSON
+Globe last night,TIME
+Holmes,PERSON
+his,PERSON
+his,PERSON
+K.G.,LOCATION
+Baron Beverley,PERSON
+Earl of Carston,PERSON
+1900,DATE
+Edith,PERSON
+Charles Appledore,PERSON
+1888,DATE
+Lancashire,LOCATION
+Wales,LOCATION
+Carlton House,ORGANIZATION
+Holdernesse Hall,LOCATION
+Hallamshire,LOCATION
+Carston Castle,LOCATION
+Bangor,LOCATION
+Wales,LOCATION
+Admiralty,MISC
+1872,DATE
+Mr. Holmes,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+Watson,PERSON
+Huxtable,PERSON
+England,LOCATION
+Huxtable,PERSON
+Thorneycroft Huxtable,PERSON
+Priory School,ORGANIZATION
+Mackleton,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Huxtable,PERSON
+Sidelights,MISC
+Horace,PERSON
+England,LOCATION
+Leverstoke,PERSON
+Blackwater,ORGANIZATION
+Cathcart Soames,PERSON
+Duke of Holdernesse,ORGANIZATION
+Mr. James Wilder,PERSON
+Saltire,PERSON
+his,PERSON
+his,PERSON
+May 1st,DATE
+summer,DATE
+He,PERSON
+he,PERSON
+he,PERSON
+Duke,PERSON
+France,LOCATION
+her,PERSON
+his,PERSON
+Holdernesse Hall,LOCATION
+He,PERSON
+her,PERSON
+him,PERSON
+night,TIME
+May 13th,DATE
+last Monday,DATE
+He,PERSON
+His,PERSON
+Saltire,PERSON
+His,PERSON
+Tuesday,DATE
+morning,TIME
+His,PERSON
+His,PERSON
+Eton,LOCATION
+He,PERSON
+his,PERSON
+Caunter,PERSON
+his,PERSON
+Heidegger,PERSON
+German,MISC
+His,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+He,PERSON
+he,PERSON
+Thursday,DATE
+morning,TIME
+Tuesday,DATE
+Holdernesse Hall,LOCATION
+he,PERSON
+his,PERSON
+him,PERSON
+Duke,ORGANIZATION
+Mr. Holmes,PERSON
+Sherlock Holmes,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+last night,TIME
+Liverpool,LOCATION
+German,MISC
+he,PERSON
+he,PERSON
+him,PERSON
+German,MISC
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Duke,ORGANIZATION
+Duke,PERSON
+he,PERSON
+France,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. James Wilder,PERSON
+his,PERSON
+he,PERSON
+Duke,ORGANIZATION
+he,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Mr. Huxtable,PERSON
+Liverpool,LOCATION
+Watson,PERSON
+Huxtable,PERSON
+his,PERSON
+he,PERSON
+Duke,ORGANIZATION
+Mr. Wilder,PERSON
+his,PERSON
+He,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+Huxtable,PERSON
+Wilder,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+this morning,TIME
+Huxtable,PERSON
+London,LOCATION
+Mr. Sherlock Holmes,PERSON
+Huxtable,PERSON
+His,PERSON
+him,PERSON
+His,PERSON
+Mr. Wilder,PERSON
+Huxtable,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+London,LOCATION
+Holmes,PERSON
+his,PERSON
+Duke,ORGANIZATION
+he,PERSON
+Mr. Wilder,PERSON
+Huxtable,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Holdernesse Hall,LOCATION
+Mr. Holmes,PERSON
+Mr. Wilder,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+Holmes,PERSON
+Duke,ORGANIZATION
+France,LOCATION
+Duchess,MISC
+German,MISC
+he,PERSON
+her,PERSON
+Huxtable,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+German,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Priory School,ORGANIZATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Red Bull,ORGANIZATION
+Mackleton,PERSON
+She,PERSON
+he,PERSON
+his,PERSON
+Lower Gill Moor,ORGANIZATION
+Holdernesse Hall,LOCATION
+Chesterfield,LOCATION
+Holmes,PERSON
+Huxtable,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Tuesday,DATE
+Tuesday,DATE
+morning,TIME
+he,PERSON
+Duke,ORGANIZATION
+Holmes,PERSON
+Lower Gill Moor,ORGANIZATION
+Watson,PERSON
+Holdernesse Hall,LOCATION
+Holmes,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+Holdernesse,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+German,MISC
+him,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Heidegger,PERSON
+Palmer,PERSON
+Heidegger,PERSON
+his,PERSON
+Watson,PERSON
+spring,DATE
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Palmer,PERSON
+Herr Heidegger,PERSON
+Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Jove,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+Watson,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+German,MISC
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Huxtable,PERSON
+Watson,PERSON
+this morning,TIME
+he,PERSON
+Dunlop,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+German,MISC
+he,PERSON
+he,PERSON
+he,PERSON
+German,MISC
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+German,MISC
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+Palmer,PERSON
+Dunlop,MISC
+Holdernesse Hall,LOCATION
+Chesterfield,LOCATION
+Holmes,PERSON
+He,PERSON
+he,PERSON
+Mr. Reuben Hayes,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Reuben Hayes,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Holdernesse Hall,LOCATION
+Dook,MISC
+Holmes,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Liverpool,LOCATION
+He,PERSON
+him,PERSON
+His,PERSON
+Dook,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Liverpool,LOCATION
+Holmes,PERSON
+Holmes,PERSON
+Holmes,PERSON
+early morning,TIME
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+Heidegger,PERSON
+his,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+he,PERSON
+George,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Reuben Hayes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Hayes,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Reuben Hayes,PERSON
+he,PERSON
+he,PERSON
+Holdernesse Hall,LOCATION
+Watson,PERSON
+Holmes,PERSON
+James Wilder,PERSON
+night before,TIME
+Duke,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Wilder,PERSON
+Holdernesse Hall,LOCATION
+Chesterfield,LOCATION
+Watson,PERSON
+Holmes,PERSON
+Mr. James Wilder,PERSON
+he,PERSON
+night,TIME
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. James Wilder,PERSON
+night,TIME
+him,PERSON
+Watson,PERSON
+Holmes,PERSON
+Dunlop,PERSON
+him,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mackleton Station,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Huxtable,PERSON
+morning,TIME
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holdernesse Hall,LOCATION
+Elizabethan,MISC
+his,PERSON
+Mr. James Wilder,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Duke,ORGANIZATION
+He,PERSON
+Huxtable,PERSON
+Mr. Wilder,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+Mr. Wilder,PERSON
+Holmes,LOCATION
+Mr. Holmes,PERSON
+Watson,PERSON
+Huxtable,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Counties Bank,ORGANIZATION
+Oxford Street,LOCATION
+Grace,PERSON
+His,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+Duke,ORGANIZATION
+his,PERSON
+he,PERSON
+he,PERSON
+last night,TIME
+He,PERSON
+Duke,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+he,PERSON
+Duke,ORGANIZATION
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+last night,TIME
+Duke,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+James,PERSON
+him,PERSON
+he,PERSON
+spring,DATE
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Duke,ORGANIZATION
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. James Wilder,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Mr. Reuben Hayes,PERSON
+Chesterfield,LOCATION
+eleven o'clock last night,TIME
+this morning,TIME
+Duke,PERSON
+his,PERSON
+he,PERSON
+Reuben Hayes,PERSON
+James,PERSON
+Holmes,PERSON
+James,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+James,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+him,PERSON
+Huxtable,PERSON
+he,PERSON
+him,PERSON
+James,PERSON
+Hayes,PERSON
+James,PERSON
+James,PERSON
+him,PERSON
+He,PERSON
+James,PERSON
+he,PERSON
+Arthur,PERSON
+James,PERSON
+Arthur,PERSON
+him,PERSON
+He,PERSON
+James,PERSON
+Arthur,PERSON
+midnight,TIME
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+her,PERSON
+Arthur,PERSON
+Hayes,PERSON
+He,PERSON
+Arthur,PERSON
+James,PERSON
+Hayes,PERSON
+his,PERSON
+his,PERSON
+Hayes,PERSON
+Arthur,PERSON
+Mrs. Hayes,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+James,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Arthur,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Heidegger,PERSON
+his,PERSON
+James,PERSON
+Huxtable,PERSON
+James,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+James,PERSON
+Hayes,PERSON
+his,PERSON
+him,PERSON
+Arthur,PERSON
+him,PERSON
+he,PERSON
+Mrs. Hayes,PERSON
+James,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+James Wilder,PERSON
+his,PERSON
+his,PERSON
+Duke,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Holdernesse,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Duke,ORGANIZATION
+Holmes,PERSON
+Duke,ORGANIZATION
+Holmes,PERSON
+Hayes,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Mr. James Wilder,PERSON
+Mr. Holmes,PERSON
+Australia,LOCATION
+he,PERSON
+his,PERSON
+Duchess,MISC
+his,PERSON
+Mr. Holmes,PERSON
+this morning,TIME
+Holmes,PERSON
+Hayes,PERSON
+his,PERSON
+Mr. Wilder,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+Holdernesse Hall,LOCATION
+Holdernesse,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON

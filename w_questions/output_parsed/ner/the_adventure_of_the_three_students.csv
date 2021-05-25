@@ -1,0 +1,369 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+Sherlock Holmes,PERSON
+English,MISC
+Mr. Hilton Soames,PERSON
+College of St. Luke,ORGANIZATION
+Mr. Soames,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+St. Luke,ORGANIZATION
+Mr. Holmes,PERSON
+Baker Street,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Greek,MISC
+Greek,MISC
+Mr. Holmes,PERSON
+Bannister,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+His,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Bannister,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Bannister,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Bannister,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+University,ORGANIZATION
+Holmes,PERSON
+his,PERSON
+Daulat Ras,PERSON
+Indian,MISC
+he,PERSON
+Bannister,PERSON
+Bannister,PERSON
+He,PERSON
+him,PERSON
+Mr. Soames,PERSON
+Indian,MISC
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+Mr. Soames,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Soames,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Mr. Soames,PERSON
+he,PERSON
+Mr. Soames,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+Johann Faber,PERSON
+Johann,PERSON
+He,PERSON
+he,PERSON
+Mr. Soames,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Soames,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Bannister,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Soames,PERSON
+he,PERSON
+Gilchrist,PERSON
+his,PERSON
+He,PERSON
+Jabez Gilchrist,PERSON
+His,PERSON
+he,PERSON
+He,PERSON
+Daulat Ras,PERSON
+Indian,MISC
+Indians,MISC
+He,PERSON
+Greek,MISC
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+Miles McLaren,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Soames,PERSON
+Bannister,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+Bannister,PERSON
+his,PERSON
+Holmes,PERSON
+Mr. Soames,PERSON
+he,PERSON
+spring,DATE
+Mr. Soames,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+Mr. Soames,PERSON
+Holmes,PERSON
+Indian,MISC
+his,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Soames,PERSON
+Holmes,PERSON
+Gilchrist,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Indian,MISC
+Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Indian,MISC
+Gilchrist,PERSON
+He,PERSON
+Holmes,PERSON
+Mr. Soames,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Indian,MISC
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+He,PERSON
+Indian,MISC
+he,PERSON
+his,PERSON
+He,PERSON
+Bannister,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Jove,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+St. Luke,PERSON
+he,PERSON
+Soames,PERSON
+him,PERSON
+him,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+Soames,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+Soames,PERSON
+Watson,PERSON
+Bannister,PERSON
+Holmes,PERSON
+Bannister,PERSON
+his,PERSON
+Bannister,PERSON
+Holmes,PERSON
+Mr. Soames,PERSON
+Bannister,PERSON
+his,PERSON
+Bannister,PERSON
+Bannister,PERSON
+Soames,PERSON
+Gilchrist,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+Bannister,PERSON
+His,PERSON
+Holmes,PERSON
+Mr. Gilchrist,PERSON
+Mr. Gilchrist,PERSON
+Bannister,PERSON
+Mr. Gilchrist,PERSON
+Holmes,PERSON
+Bannister,PERSON
+Gilchrist,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Soames,PERSON
+Mr. Soames,PERSON
+Bannister,PERSON
+He,PERSON
+his,PERSON
+Indian,MISC
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Gilchrist,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Bannister,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+this morning,TIME
+Mr. Gilchrist,PERSON
+he,PERSON
+Soames,PERSON
+Mr. Soames,PERSON
+Rhodesian,MISC
+South Africa,LOCATION
+Soames,PERSON
+Gilchrist,PERSON
+Bannister,PERSON
+he,PERSON
+Bannister,PERSON
+Holmes,PERSON
+his,PERSON
+Jabez Gilchrist,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Gilchrist,PERSON
+Mr. Soames,PERSON
+Mr. Soames,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Soames,PERSON
+Watson,PERSON
+Rhodesia,LOCATION

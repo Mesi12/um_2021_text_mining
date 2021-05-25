@@ -1,0 +1,556 @@
+text,ner
+Baker Street,LOCATION
+February,DATE
+Mr. Sherlock Holmes,PERSON
+him,PERSON
+Overton,PERSON
+Holmes,PERSON
+Mr. Overton,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Mr. Overton,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Cyril Overton,PERSON
+Trinity College,ORGANIZATION
+Cambridge,LOCATION
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+Scotland Yard,LOCATION
+Mr. Holmes,PERSON
+Stanley Hopkins,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Godfrey Staunton,PERSON
+him,PERSON
+He,PERSON
+Godfrey,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Morton,PERSON
+Johnson,PERSON
+Oxford,LOCATION
+him,PERSON
+Stevenson,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Godfrey Staunton,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Arthur H. Staunton,PERSON
+Henry Staunton,PERSON
+Godfrey Staunton,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Godfrey Staunton,PERSON
+Cyril Overton,PERSON
+Holmes,PERSON
+his,PERSON
+England,LOCATION
+Wales,LOCATION
+England,LOCATION
+Godfrey Staunton,PERSON
+Cambridge,LOCATION
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mr. Overton,PERSON
+England,LOCATION
+Young Overton,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Cambridge 'Varsity,ORGANIZATION
+Godfrey Staunton,PERSON
+Oxford,LOCATION
+Bentley,PERSON
+Godfrey,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Godfrey,PERSON
+He,PERSON
+his,PERSON
+Godfrey,PERSON
+he,PERSON
+Godfrey,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Godfrey,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Godfrey,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+Cambridge,LOCATION
+him,PERSON
+him,PERSON
+Cambridge,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+Mount-James,PERSON
+Mount-James,PERSON
+Godfrey,PERSON
+Mount-James,PERSON
+his,PERSON
+his,PERSON
+Mount-James,PERSON
+England,LOCATION
+Godfrey,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Godfrey,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Mount-James,PERSON
+Mount-James,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Godfrey,PERSON
+He,PERSON
+he,PERSON
+Mount-James,PERSON
+his,PERSON
+his,PERSON
+Cyril Overton,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+Godfrey Staunton,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Godfrey Staunton,PERSON
+his,PERSON
+Staunton,PERSON
+Holmes,PERSON
+Staunton,PERSON
+Mr. Staunton,PERSON
+Mr. Staunton,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Cyril Overton,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+Godfrey Staunton,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Godfrey Staunton,PERSON
+Watson,PERSON
+Mr. Overton,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Staunton,PERSON
+Scotland Yard,LOCATION
+Cyril Overton,PERSON
+Mount-James,PERSON
+Bayswater,LOCATION
+Godfrey,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Detective,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Godfrey Staunton,PERSON
+he,PERSON
+he,PERSON
+Mount-James,PERSON
+him,PERSON
+his,PERSON
+Godfrey,PERSON
+him,PERSON
+his,PERSON
+this evening,TIME
+Mr. Detective,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Mount-James,PERSON
+Overton,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+she,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+Cambridge,LOCATION
+Gray,PERSON
+Inn Road,LOCATION
+he,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+Cambridge,LOCATION
+Holmes,PERSON
+Leslie Armstrong,PERSON
+his,PERSON
+Leslie Armstrong,PERSON
+European,MISC
+he,PERSON
+his,PERSON
+Leslie Armstrong,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+Mr. Godfrey Staunton,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+last night,TIME
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Mr. Staunton,PERSON
+he,PERSON
+him,PERSON
+Mr. Staunton,PERSON
+him,PERSON
+Holmes,PERSON
+Mr. Godfrey Staunton,PERSON
+Leslie Armstrong,PERSON
+Cambridge,LOCATION
+his,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Mr. Staunton,PERSON
+London,LOCATION
+Holmes,PERSON
+London,LOCATION
+Godfrey Staunton,PERSON
+his,PERSON
+Leslie Armstrong,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mount-James,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+John,PERSON
+Holmes,PERSON
+Leslie Armstrong,PERSON
+he,PERSON
+Moriarty,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Armstrong,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+supper,DATE
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Armstrong,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+His,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+this evening,TIME
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Godfrey Staunton,PERSON
+Armstrong,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Cambridgeshire,LOCATION
+he,PERSON
+Overton,PERSON
+London,LOCATION
+Armstrong,PERSON
+Staunton,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+his,PERSON
+Holmes,PERSON
+last night,TIME
+Mr. Godfrey Staunton,PERSON
+London,LOCATION
+him,PERSON
+Cambridge,LOCATION
+Leslie Armstrong,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+Watson,PERSON
+Cambridge,LOCATION
+Chesterton,PERSON
+Histon,LOCATION
+Waterbeach,LOCATION
+Oakington,LOCATION
+Pompey,PERSON
+Jeremy Dixon,PERSON
+Trinity College,ORGANIZATION
+Overton,PERSON
+Mr. Jeremy Dixon,PERSON
+Oxford,LOCATION
+International,ORGANIZATION
+Godfrey Staunton,PERSON
+Overton,PERSON
+Holmes,PERSON
+Armstrong,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+Watson,PERSON
+Armstrong,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Pompey,PERSON
+he,PERSON
+Pompey,PERSON
+his,PERSON
+Pompey,PERSON
+London,LOCATION
+He,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+this morning,TIME
+John,PERSON
+Groat,PERSON
+Armstrong,PERSON
+Pompey,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Trumpington,LOCATION
+Jove,PERSON
+Watson,PERSON
+Pompey,PERSON
+He,PERSON
+him,PERSON
+Armstrong,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Pompey,PERSON
+Pompey,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Jove,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+him,PERSON
+He,PERSON
+Her,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Godfrey Staunton,PERSON
+She,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Armstrong,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Armstrong,PERSON
+he,PERSON
+Mount-James,PERSON
+his,PERSON
+Armstrong,PERSON
+Holmes,PERSON
+he,PERSON
+Godfrey Staunton,PERSON
+London,LOCATION
+his,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+Godfrey,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Godfrey,PERSON
+his,PERSON
+Trumpington,LOCATION
+his,PERSON
+London,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Godfrey,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON

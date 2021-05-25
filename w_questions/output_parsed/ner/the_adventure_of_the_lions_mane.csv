@@ -1,0 +1,403 @@
+text,ner
+Sussex,LOCATION
+Nature,MISC
+London,LOCATION
+Watson,PERSON
+week-end,DATE
+him,PERSON
+he,PERSON
+he,PERSON
+Fulworth,LOCATION
+Harold Stackhurst,PERSON
+Stackhurst,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+"July, 1907",DATE
+Nature,MISC
+Harold Stackhurst,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+McPherson,PERSON
+him,PERSON
+Fitzroy McPherson,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Burberry,ORGANIZATION
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+Stackhurst,PERSON
+Ian Murdoch,PERSON
+Murdoch,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+McPherson,PERSON
+Stackhurst,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+late this morning,TIME
+Fulworth,LOCATION
+Stackhurst,LOCATION
+he,PERSON
+Fulworth,LOCATION
+McPherson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+McPherson,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Stackhurst,PERSON
+The Gables,LOCATION
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+McPherson,PERSON
+him,PERSON
+Stackhurst,PERSON
+Ian Murdoch,PERSON
+Anderson,PERSON
+Sussex,LOCATION
+He,PERSON
+Mr. Holmes,PERSON
+Lewes,LOCATION
+him,PERSON
+his,PERSON
+his,PERSON
+Maudie,PERSON
+Stackhurst,PERSON
+The Gables,LOCATION
+He,PERSON
+him,PERSON
+McPherson,PERSON
+Miss Maud Bellamy,PERSON
+Fulworth,LOCATION
+he,PERSON
+he,PERSON
+him,PERSON
+McPherson,PERSON
+he,PERSON
+his,PERSON
+Ian Murdoch,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Murdoch,PERSON
+McPherson,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+She,PERSON
+McPherson,PERSON
+her,PERSON
+she,PERSON
+Tom Bellamy,PERSON
+Fulworth,LOCATION
+She,PERSON
+He,PERSON
+William,PERSON
+He,PERSON
+his,PERSON
+Fulworth,LOCATION
+His,PERSON
+Fulworth,LOCATION
+Bellamy,PERSON
+Jove,PERSON
+Ian Murdoch,PERSON
+him,PERSON
+Stackhurst,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Murdoch,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Murdoch,PERSON
+Stackhurst,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Mr. Ian Murdoch,PERSON
+Bellamys,ORGANIZATION
+Stackhurst,PERSON
+Mr. Bellamy,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. McPherson,PERSON
+Maud,PERSON
+She,PERSON
+her,PERSON
+his,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Harold Stackhurst,PERSON
+Fitzroy,PERSON
+she,PERSON
+him,PERSON
+William,PERSON
+him,PERSON
+She,PERSON
+she,PERSON
+Maud Bellamy,PERSON
+she,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Mr. McPherson,PERSON
+he,PERSON
+him,PERSON
+Maud,PERSON
+her,PERSON
+She,PERSON
+he,PERSON
+she,PERSON
+Fitzroy,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Bellamy,PERSON
+her,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+Tuesday,DATE
+F. M.,MISC
+Tuesday,DATE
+him,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Mr. Ian Murdoch,PERSON
+She,PERSON
+he,PERSON
+Fitzroy,PERSON
+he,PERSON
+His,PERSON
+His,PERSON
+Stackhurst,PERSON
+his,PERSON
+Stackhurst,PERSON
+his,PERSON
+his,PERSON
+Mr. McPherson,PERSON
+she,PERSON
+Mr. McPherson,PERSON
+The Gables,LOCATION
+his,PERSON
+The Gables,LOCATION
+Stackhurst,PERSON
+his,PERSON
+Sudbury,LOCATION
+Blount,PERSON
+he,PERSON
+Airedale,MISC
+Gables,MISC
+his,PERSON
+Watson,PERSON
+Bardle,PERSON
+Sussex,LOCATION
+Constabulary,ORGANIZATION
+he,PERSON
+McPherson,PERSON
+Mr. Ian Murdoch,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+Murdoch,PERSON
+His,PERSON
+McPherson,PERSON
+Miss Bellamy,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Murdoch,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+McPherson,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Jove,PERSON
+Mr. Holmes,PERSON
+Mr. Bardle,PERSON
+Ian,PERSON
+Murdoch,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Bellamy,PERSON
+his,PERSON
+Mr. McPherson,PERSON
+him,PERSON
+midday,TIME
+Ian Murdoch,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Fitzroy McPherson,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+McPherson,PERSON
+his,PERSON
+McPherson,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+Stackhurst,PERSON
+Indian,MISC
+Mr. Holmes,PERSON
+Sussex,LOCATION
+Sussex,LOCATION
+his,PERSON
+Murdoch,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+J. G. Wood,PERSON
+Wood,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Kent,LOCATION
+He,PERSON
+his,PERSON
+He,PERSON
+Wood,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+McPherson,PERSON
+Ian Murdoch,PERSON
+Mr. Holmes,PERSON
+Mr. Murdoch,PERSON
+Mr. Holmes,PERSON
+McPherson,PERSON
+he,PERSON
+his,PERSON
+Murdoch,PERSON
+his,PERSON
+McPherson,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+Stackhurst,PERSON
+his,PERSON
+he,PERSON
+Murdoch,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Scotland Yard,LOCATION

@@ -1,0 +1,582 @@
+text,ner
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+August,DATE
+Baker Street,LOCATION
+Holmes,PERSON
+he,PERSON
+India,LOCATION
+Parliament,ORGANIZATION
+Southsea,LOCATION
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+He,PERSON
+Poe,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Gordon,PERSON
+Henry Ward Beecher,PERSON
+Gordon,PERSON
+Beecher,PERSON
+his,PERSON
+Beecher,PERSON
+Civil War,MISC
+he,PERSON
+he,PERSON
+Beecher,PERSON
+Civil War,MISC
+Watson,PERSON
+Miss Cushing,PERSON
+Croydon,LOCATION
+he,PERSON
+Miss Susan Cushing,PERSON
+Cross Street,LOCATION
+Croydon,LOCATION
+Miss Cushing,PERSON
+Belfast,LOCATION
+Miss Cushing,PERSON
+her,PERSON
+Penge,LOCATION
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Miss Cushing,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Ireland,LOCATION
+Miss Cushing,PERSON
+Belfast,LOCATION
+Mr. Lestrade,PERSON
+Daily Chronicle,ORGANIZATION
+Holmes,PERSON
+Lestrade,PERSON
+this morning,TIME
+him,PERSON
+he,PERSON
+Belfast,LOCATION
+Watson,PERSON
+Croydon,LOCATION
+Croydon,LOCATION
+Holmes,PERSON
+Lestrade,PERSON
+Cross Street,LOCATION
+Miss Cushing,PERSON
+Lestrade,PERSON
+Miss Cushing,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Lestrade,PERSON
+she,PERSON
+Miss Cushing,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Lestrade,PERSON
+Lestrade,PERSON
+Lestrade,PERSON
+him,PERSON
+he,PERSON
+Lestrade,PERSON
+Miss Cushing,PERSON
+Lestrade,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Brown,PERSON
+Miss S. Cushing,PERSON
+Cross Street,LOCATION
+Croydon,LOCATION
+Croydon,LOCATION
+Croydon,LOCATION
+Lestrade,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Lestrade,PERSON
+his,PERSON
+he,PERSON
+Penge,LOCATION
+She,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+she,PERSON
+she,PERSON
+Holmes,PERSON
+Friday,DATE
+Thursday,DATE
+morning,TIME
+Wednesday,DATE
+Tuesday,DATE
+Miss Cushing,PERSON
+his,PERSON
+Miss Cushing,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Miss Cushing,PERSON
+he,PERSON
+Lestrade,PERSON
+Miss Cushing,PERSON
+Holmes,PERSON
+he,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Scotland Yard,LOCATION
+he,PERSON
+Miss Cushing,PERSON
+Holmes,PERSON
+her,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Miss Cushing,PERSON
+Sarah,PERSON
+Mary,PERSON
+Liverpool,ORGANIZATION
+his,PERSON
+she,PERSON
+Mr. Browner,PERSON
+she,PERSON
+South American,MISC
+Liverpool,LOCATION
+London,LOCATION
+He,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+Conqueror,MISC
+May Day,DATE
+Jim,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Sarah,PERSON
+Mary,PERSON
+he,PERSON
+he,PERSON
+Miss Cushing,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+Sarah,PERSON
+he,PERSON
+Sarah,PERSON
+Croydon,LOCATION
+two months ago,DATE
+Sarah,PERSON
+she,PERSON
+Liverpool,ORGANIZATION
+she,PERSON
+she,PERSON
+Jim Browner,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+Miss Cushing,PERSON
+Holmes,PERSON
+Sarah,PERSON
+New Street,LOCATION
+Wallington,PERSON
+Holmes,PERSON
+Wallington,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Miss Cushing,PERSON
+Holmes,PERSON
+Miss Sarah Cushing,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Tottenham Court Road,LOCATION
+he,PERSON
+his,PERSON
+Paganini,PERSON
+him,PERSON
+he,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+him,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+Baker Street,LOCATION
+Sign of Four,MISC
+Lestrade,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Scotland Yard,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Jim Browner,PERSON
+Liverpool,ORGANIZATION
+she,PERSON
+Miss S. Cushing,PERSON
+Miss Cushing,PERSON
+her,PERSON
+Miss Cushing,PERSON
+Watson,PERSON
+Anthropological Journal,ORGANIZATION
+Miss Cushing,PERSON
+her,PERSON
+Sarah,PERSON
+her,PERSON
+her,PERSON
+Miss Sarah,PERSON
+Liverpool,ORGANIZATION
+Browners,PERSON
+he,PERSON
+she,PERSON
+Browner,PERSON
+Miss Sarah,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Miss Sarah Cushing,PERSON
+Liverpool,LOCATION
+her,PERSON
+she,PERSON
+Belfast,LOCATION
+Dublin,LOCATION
+Waterford,LOCATION
+Browner,PERSON
+May Day,DATE
+Belfast,LOCATION
+his,PERSON
+he,PERSON
+his,PERSON
+Mrs. Browner,PERSON
+Algar,PERSON
+Liverpool,ORGANIZATION
+Mrs. Browner,PERSON
+Browner,PERSON
+May Day,DATE
+him,PERSON
+Wallington,PERSON
+Miss Sarah,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Croydon,LOCATION
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Algar,PERSON
+Mrs. Browner,PERSON
+she,PERSON
+her,PERSON
+Browner,PERSON
+May Day,DATE
+tomorrow night,TIME
+she,PERSON
+Lestrade,PERSON
+he,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Albert Dock,LOCATION
+6 p.m.,TIME
+May Day,DATE
+Liverpool,LOCATION
+Dublin,LOCATION
+London Steam Packet Company,ORGANIZATION
+James Browner,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Aldrige,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+G. Lestrade,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Jim Browner,PERSON
+Montgomery,PERSON
+Shadwell Police Station,ORGANIZATION
+his,PERSON
+his,PERSON
+hers,PERSON
+He,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Sarah,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Sarah Cushing,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Sarah,PERSON
+Mary,PERSON
+Liverpool,ORGANIZATION
+Mary,PERSON
+Sarah,PERSON
+she,PERSON
+Sarah,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+Mary,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Sarah,PERSON
+Mary,PERSON
+she,PERSON
+Mary,PERSON
+Jim,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+hers,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Jim,PERSON
+she,PERSON
+she,PERSON
+Sarah,PERSON
+her,PERSON
+she,PERSON
+Mary,PERSON
+her,PERSON
+her,PERSON
+Mary,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+Sarah,PERSON
+Mary,PERSON
+she,PERSON
+she,PERSON
+Mary,PERSON
+She,PERSON
+Alec Fairbairn,PERSON
+Sarah,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+she,PERSON
+Alec Fairbairn,PERSON
+she,PERSON
+him,PERSON
+him,PERSON
+Mary,PERSON
+she,PERSON
+her,PERSON
+Jim,PERSON
+she,PERSON
+Sarah,PERSON
+she,PERSON
+Sarah,PERSON
+Fairbairn,PERSON
+she,PERSON
+she,PERSON
+Fairbairn,PERSON
+his,PERSON
+his,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Fairbairn,PERSON
+Mary,PERSON
+her,PERSON
+him,PERSON
+Fairbairn,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Sarah,PERSON
+Liverpool,LOCATION
+Croydon,LOCATION
+she,PERSON
+she,PERSON
+her,PERSON
+May Day,DATE
+she,PERSON
+Fairbairn,LOCATION
+she,PERSON
+New Brighton,LOCATION
+She,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Alec,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+she,PERSON
+him,PERSON
+Sarah,PERSON
+she,PERSON
+Sarah,PERSON
+she,PERSON
+her,PERSON
+Sarah Cushing,PERSON
+Belfast,LOCATION
+Watson,PERSON
+Holmes,PERSON
+he,PERSON

@@ -1,0 +1,621 @@
+text,ner
+Holmes,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+South African,MISC
+he,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+last night,TIME
+Thurston,PERSON
+Thurston,PERSON
+South African,MISC
+he,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Mr. Hilton Cubitt,PERSON
+Ridling Thorpe Manor,LOCATION
+Norfolk,LOCATION
+he,PERSON
+Watson,PERSON
+he,PERSON
+Baker Street,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. Hilton Cubitt,PERSON
+Watson,PERSON
+his,PERSON
+Ridling Thorpe,PERSON
+Norfolk,LOCATION
+London,LOCATION
+Russell Square,LOCATION
+Parker,PERSON
+American,MISC
+Patrick,PERSON
+Norfolk,LOCATION
+Mr. Holmes,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Elsie,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+Hilton,ORGANIZATION
+she,PERSON
+Norfolk,LOCATION
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+June,DATE
+America,LOCATION
+American,MISC
+She,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+her,PERSON
+hers,PERSON
+Norfolk,LOCATION
+England,LOCATION
+his,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+Tuesday,DATE
+he,PERSON
+night,TIME
+she,PERSON
+her,PERSON
+Elsie,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+English,MISC
+He,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Mr. Cubitt,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Hilton Cubitt,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Elsie,PERSON
+she,PERSON
+her,PERSON
+Norfolk,LOCATION
+Mr. Hilton Cubitt,PERSON
+Norfolk,LOCATION
+Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+Hilton Cubitt,PERSON
+this morning,TIME
+Hilton Cubitt,PERSON
+Liverpool Street,LOCATION
+He,PERSON
+He,PERSON
+his,PERSON
+Norfolk,LOCATION
+him,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+Hilton,ORGANIZATION
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Mr. Hilton Cubitt,PERSON
+Mr. Holmes,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+she,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+London,LOCATION
+She,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Hilton Cubitt,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Norfolk,LOCATION
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Hilton Cubitt,PERSON
+him,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+North Walsham,LOCATION
+Holmes,PERSON
+Mrs. Hudson,PERSON
+Hilton Cubitt,PERSON
+Norfolk,LOCATION
+Ridling Thorpe Manor,LOCATION
+England,LOCATION
+North Walsham,LOCATION
+London,LOCATION
+he,PERSON
+Holmes,PERSON
+Martin,PERSON
+Norwich,LOCATION
+She,PERSON
+her,PERSON
+Holmes,PERSON
+Ridling Thorpe Manor,PERSON
+he,PERSON
+Mr. Hilton Cubitt,PERSON
+his,PERSON
+She,PERSON
+him,PERSON
+He,PERSON
+her,PERSON
+Norfolk,LOCATION
+Holmes,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+England,LOCATION
+East Anglia,LOCATION
+German Ocean,LOCATION
+Norfolk,LOCATION
+his,PERSON
+Ridling Thorpe Manor,PERSON
+he,PERSON
+Martin,PERSON
+Norfolk Constabulary,ORGANIZATION
+He,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+this morning,TIME
+London,LOCATION
+Holmes,PERSON
+Mr. Holmes,PERSON
+Martin,PERSON
+his,PERSON
+Mrs. Hilton Cubitt,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+Mr. Hilton Cubitt,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+he,PERSON
+Holmes,PERSON
+her,PERSON
+Saunders,PERSON
+she,PERSON
+Mrs. King,PERSON
+She,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Martin,PERSON
+Mrs. King,PERSON
+Saunders,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Martin,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+Mr. Cubitt,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+George,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Martin,PERSON
+Holmes,PERSON
+England,LOCATION
+Holmes,PERSON
+he,PERSON
+Mrs. King,PERSON
+Mrs. King,PERSON
+Martin,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Martin,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+last night,TIME
+East Ruston,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Elrige,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+Mr. Abe Slaney,PERSON
+Elrige,PERSON
+East Ruston,LOCATION
+Norfolk,LOCATION
+Holmes,PERSON
+Watson,LOCATION
+Sherlock Holmes,PERSON
+his,PERSON
+Mrs. Hilton Cubitt,PERSON
+her,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+Mr. Hilton Cubitt,PERSON
+Baker Street,LOCATION
+He,PERSON
+English,MISC
+English,MISC
+Mr. Hilton Cubitt,PERSON
+he,PERSON
+ELSIE,PERSON
+her,PERSON
+Elsie,PERSON
+SLANE,PERSON
+ABE SLANEY,PERSON
+Martin,PERSON
+Abe Slaney,PERSON
+American,MISC
+Abe,PERSON
+American,MISC
+America,LOCATION
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Wilson Hargreave,PERSON
+New York Police Bureau,ORGANIZATION
+London,LOCATION
+Abe Slaney,PERSON
+him,PERSON
+him,PERSON
+Chicago,LOCATION
+his,PERSON
+Hilton Cubitt,PERSON
+Slaney,PERSON
+his,PERSON
+ELSIE,PERSON
+Chicago,LOCATION
+he,PERSON
+his,PERSON
+Norfolk,LOCATION
+Watson,PERSON
+Abe Slaney,PERSON
+Elrige,ORGANIZATION
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+Panama,LOCATION
+He,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Martin,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Mrs. Hilton Cubitt,PERSON
+she,PERSON
+she,PERSON
+Mrs. Hilton Cubitt,PERSON
+he,PERSON
+he,PERSON
+she,PERSON
+Elsie,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+Englishman,MISC
+he,PERSON
+her,PERSON
+Holmes,PERSON
+She,PERSON
+she,PERSON
+America,LOCATION
+England,LOCATION
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+his,PERSON
+Mr. Abe Slaney,PERSON
+Elsie,PERSON
+American,MISC
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Holmes,PERSON
+Norwich,LOCATION
+Mr. Slaney,PERSON
+Mrs. Hilton Cubitt,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+his,PERSON
+American,MISC
+British,MISC
+Slaney,PERSON
+his,PERSON
+he,PERSON
+she,PERSON
+Chicago,LOCATION
+Elsie,PERSON
+Patrick,PERSON
+He,PERSON
+he,PERSON
+Elsie,PERSON
+London,LOCATION
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+Englishman,MISC
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Elsie,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+morning,TIME
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+Elsie,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+American,MISC
+Martin,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+Mr. Sherlock Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+Baker Street,LOCATION
+American,MISC
+Abe Slaney,PERSON
+winter,DATE
+Norwich,LOCATION
+Hilton Cubitt,PERSON
+his,PERSON
+Mrs. Hilton Cubitt,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON

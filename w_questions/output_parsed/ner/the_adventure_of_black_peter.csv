@@ -1,0 +1,552 @@
+text,ner
+'95,DATE
+Baker Street,LOCATION
+His,PERSON
+Holmes,PERSON
+Duke of Holdernesse,ORGANIZATION
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Wilson,PERSON
+London,LOCATION
+his,PERSON
+his,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+Woodman,PERSON
+Lee,LOCATION
+Peter Carey,PERSON
+Mr. Sherlock Holmes,PERSON
+first week of July,DATE
+he,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+London,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+London,LOCATION
+Watson,PERSON
+He,PERSON
+he,PERSON
+Allardyce,PERSON
+his,PERSON
+Woodman,PERSON
+Lee,LOCATION
+Hopkins,PERSON
+last night,TIME
+Stanley Hopkins,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Hopkins,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Hopkins,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Stanley Hopkins,PERSON
+his,PERSON
+Peter Carey,PERSON
+'45,DATE
+He,PERSON
+He,PERSON
+1883,DATE
+Dundee,LOCATION
+he,PERSON
+1884,DATE
+He,PERSON
+he,PERSON
+Woodman,PERSON
+Lee,LOCATION
+Forest Row,LOCATION
+Sussex,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Puritan,MISC
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+night,TIME
+He,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Peter Carey,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Black Peter,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Peter,PERSON
+Mr. Holmes,PERSON
+Slater,PERSON
+Forest Row,ORGANIZATION
+he,PERSON
+Peter Carey,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Monday,DATE
+Wednesday,DATE
+Peter Carey,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Hopkins,PERSON
+Mr. Holmes,PERSON
+Dundee,LOCATION
+his,PERSON
+morning,TIME
+Peter Carey,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Stanley Hopkins,PERSON
+his,PERSON
+Holmes,PERSON
+Hopkins,PERSON
+his,PERSON
+Argentine,MISC
+Costa Rica,LOCATION
+San Paulo,LOCATION
+Holmes,PERSON
+Stock Exchange,ORGANIZATION
+his,PERSON
+Canadian Pacific Railway,MISC
+Holmes,PERSON
+Stanley Hopkins,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Stock Exchange,ORGANIZATION
+1883,DATE
+House,ORGANIZATION
+Mr. Holmes,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+South American,MISC
+South America,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Mrs. Carey,PERSON
+her,PERSON
+Holmes,PERSON
+he,PERSON
+Stanley Hopkins,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Hopkins,PERSON
+Forest Row,MISC
+Britain,LOCATION
+Stanley Hopkins,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+Peter Carey,PERSON
+Stanley Hopkins,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Hopkins,PERSON
+Watson,PERSON
+Hopkins,PERSON
+night,TIME
+Hopkins,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+night,TIME
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Norfolk,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Hopkins,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+Stanley Hopkins,PERSON
+he,PERSON
+Peter Carey,PERSON
+Hopkins,PERSON
+John Hopley Neligan,PERSON
+Holmes,PERSON
+Hopkins,PERSON
+he,PERSON
+Dawson,PERSON
+Neligan,PERSON
+Hopkins,PERSON
+Holmes,PERSON
+he,PERSON
+West-country,MISC
+he,PERSON
+Cornwall,LOCATION
+Neligan,PERSON
+Neligan,PERSON
+Peter Carey,PERSON
+his,PERSON
+Dawson,PERSON
+his,PERSON
+he,PERSON
+Norway,LOCATION
+He,PERSON
+his,PERSON
+his,PERSON
+last night,TIME
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+London,LOCATION
+he,PERSON
+him,PERSON
+Peter Carey,PERSON
+Arctic,MISC
+Norway,LOCATION
+he,PERSON
+Peter Carey,PERSON
+Peter Carey,PERSON
+he,PERSON
+he,PERSON
+Sussex,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+"August, 1883",DATE
+Hopkins,PERSON
+His,PERSON
+he,PERSON
+He,PERSON
+last night,TIME
+Hopkins,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Hopkins,PERSON
+Mr. Holmes,PERSON
+Brambletye Hotel,LOCATION
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+Stanley Hopkins,PERSON
+Stanley Hopkins,PERSON
+him,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+He,PERSON
+Watson,PERSON
+Ratcliff Highway,LOCATION
+Stanley Hopkins,PERSON
+Lord Street,LOCATION
+Brixton,LOCATION
+Holmes,PERSON
+Watson,PERSON
+Stanley Hopkins,PERSON
+Mrs. Hudson,PERSON
+his,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Neligan,PERSON
+Brambletye Hotel,LOCATION
+He,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+Woodman,PERSON
+Lee,LOCATION
+Peter Carey,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Peter Carey,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+London,LOCATION
+Carey,PERSON
+Neligan,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Hopkins,PERSON
+Watson,PERSON
+Black Peter,PERSON
+he,PERSON
+his,PERSON
+Hopkins,PERSON
+Holmes,PERSON
+His,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Neligan,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+Mrs. Hudson,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+James Lancaster,PERSON
+Lancaster,LOCATION
+Hugh Pattins,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Patrick Cairns,PERSON
+Dundee,LOCATION
+He,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Hopkins,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Hopkins,PERSON
+Sherlock Holmes,PERSON
+Stanley Hopkins,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Neligan,PERSON
+Patrick Cairns,PERSON
+Peter Carey,PERSON
+he,PERSON
+Peter Carey,PERSON
+Peter Carey,PERSON
+Holmes,PERSON
+Black Peter,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Black Peter,PERSON
+Holmes,PERSON
+Peter Carey,PERSON
+Sea Unicorn,ORGANIZATION
+her,PERSON
+Norwegian,MISC
+she,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Scotland,LOCATION
+Peter Carey,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+London,LOCATION
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Peter Carey,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Tunbridge Wells,LOCATION
+London,LOCATION
+Black Peter,PERSON
+London,LOCATION
+Black Peter,PERSON
+Holmes,PERSON
+his,PERSON
+Hopkins,PERSON
+Mr. Patrick Cairns,PERSON
+Mr. Holmes,PERSON
+Hopkins,PERSON
+Peter Carey,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Dundee,LOCATION
+1883,DATE
+Patrick Cairns,PERSON
+London,LOCATION
+he,PERSON
+East-end,MISC
+Arctic,MISC
+Hopkins,PERSON
+Neligan,PERSON
+Holmes,PERSON
+him,PERSON
+Peter Carey,PERSON
+him,PERSON
+Hopkins,PERSON
+Watson,PERSON
+Norway,LOCATION

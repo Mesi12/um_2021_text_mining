@@ -1,690 +1,515 @@
-text,ner,normalizedner
-seventy,NUMBER,70.0
-the,DURATION,P8Y
-last eight years,DATE,P8Y
-Sherlock Holmes,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-Surrey,PERSON,
-Roylotts of Stoke Moran,ORGANIZATION,
-the early days,DURATION,PXD
-Holmes,PERSON,
-time,DATE,PAST_REF
-the last month,DATE,PREV_IMMEDIATE P1M
-now,DATE,PRESENT_REF
-Grimesby Roylott,PERSON,
-early in April in the year '83,DATE,XX83-04
-one,NUMBER,1.0
-morning,TIME,TMO
-Sherlock Holmes,PERSON,
-seven,NUMBER,7.0
-He,PERSON,
-him,PERSON,
-Watson,PERSON,
-this morning,TIME,THIS MO
-he,PERSON,
-Mrs. Hudson,PERSON,
-she,PERSON,
-now,DATE,PRESENT_REF
-She,PERSON,
-Now,DATE,PRESENT_REF
-this hour,DATE,THIS PT1H
-morning,TIME,TMO
-Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-a few minutes,DURATION,PTXM
-Holmes,PERSON,
-Sherlock Holmes,PERSON,
-Watson,PERSON,
-Mrs. Hudson,PERSON,
-her,PERSON,
-Mr. Holmes,PERSON,
-She,PERSON,
-her,PERSON,
-she,PERSON,
-she,PERSON,
-her,PERSON,
-thirty,NUMBER,30.0
-Her,PERSON,
-her,PERSON,
-her,PERSON,
-Sherlock Holmes,PERSON,
-one,NUMBER,1.0
-her,PERSON,
-his,PERSON,
-he,PERSON,
-her,PERSON,
-this morning,TIME,THIS MO
-second,ORDINAL,2.0
-he,PERSON,
-seven,NUMBER,>=7.0
-she,PERSON,
-six,NUMBER,6.0
-twenty,NUMBER,20.0
-past,DATE,PAST_REF
-first,ORDINAL,1.0
-Waterloo,LOCATION,
-one,NUMBER,1.0
-one,NUMBER,1.0
-he,PERSON,
-Mr. Holmes,PERSON,
-Mrs. Farintosh,PERSON,
-the hour,DATE,THIS PT1H
-her,PERSON,
-her,PERSON,
-present,DATE,PRESENT_REF
-a month,DURATION,P1M
-six weeks,DURATION,P6W
-Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-Watson,PERSON,
-time,DATE,PAST_REF
-now,DATE,PRESENT_REF
-he,PERSON,
-him,PERSON,
-He,PERSON,
-his,PERSON,
-Mr. Holmes,PERSON,
-Helen Stoner,PERSON,
-one,NUMBER,1.0
-Saxon,PERSON,
-England,LOCATION,
-Stoke Moran,PERSON,
-Surrey,LOCATION,
-Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-one,NUMBER,1.0
-England,LOCATION,
-Berkshire,PERSON,
-Hampshire,LOCATION,
-the last century,DATE,PREV_IMMEDIATE P100Y
-four,NUMBER,4.0
-the days,DURATION,PXD
-Regency,LOCATION,
-two-hundred-year-old,DURATION,P100Y
-Calcutta,LOCATION,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-England,LOCATION,
-he,PERSON,
-Roylott,PERSON,
-India,LOCATION,
-Mrs. Stoner,PERSON,
-Stoner,PERSON,
-Bengal Artillery,ORGANIZATION,
-he,PERSON,
-Julia,PERSON,
-two years old,DURATION,P2Y
-time,DATE,PAST_REF
-£1000,MONEY,<£1000.0
-a year,DURATION,P1Y
-Roylott,PERSON,
-annual,SET,
-She,PERSON,
-she,PERSON,
-him,PERSON,
-England,LOCATION,
-eight years ago,DATE,OFFSET P-8Y
-Crewe,LOCATION,
-she,PERSON,
-Roylott,PERSON,
-London,LOCATION,
-Stoke Moran,ORGANIZATION,
-his,PERSON,
-him,PERSON,
-first,ORDINAL,1.0
-Stoke Moran,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-two,NUMBER,2.0
-he,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-Last week,DATE,THIS P1W OFFSET P-1W
-he,PERSON,
-weeks,DURATION,PXW
-He,PERSON,
-he,PERSON,
-He,PERSON,
-him,PERSON,
-he,PERSON,
-his,PERSON,
-Julia,PERSON,
-thirty,NUMBER,30.0
-time,DATE,PAST_REF
-She,PERSON,
-her,PERSON,
-her,PERSON,
-two years ago,DATE,OFFSET P-2Y
-She,PERSON,
-her,PERSON,
-Miss Honoria Westphail,PERSON,
-Harrow,LOCATION,
-Christmas two years ago,DATE,XXXX-12-25 OFFSET P-2Y
-she,PERSON,
-a fortnight of the day,DATE,THIS P1D INTERSECT P2W
-Sherlock Holmes,PERSON,
-now,DATE,PRESENT_REF
-his,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-one,NUMBER,1.0
-now,DATE,PRESENT_REF
-first,ORDINAL,1.0
-Roylott,PERSON,
-second,ORDINAL,2.0
-third,ORDINAL,3.0
-three,NUMBER,3.0
-night,TIME,TNI
-Roylott,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-She,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-eleven o'clock,TIME,T11:00
-she,PERSON,
-she,PERSON,
-Helen,PERSON,
-night,TIME,TNI
-she,PERSON,
-nights,TIME,TNI
-about three in the morning,TIME,T03:00
-She,PERSON,
-her,PERSON,
-Holmes,PERSON,
-night,TIME,TNI
-night,TIME,TNI
-two,NUMBER,2.0
-night,TIME,TNI
-her,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-she,PERSON,
-one,NUMBER,1.0
-She,PERSON,
-her,PERSON,
-first,ORDINAL,1.0
-she,PERSON,
-her,PERSON,
-she,PERSON,
-she,PERSON,
-she,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-him,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-she,PERSON,
-he,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-One,NUMBER,1.0
-Holmes,PERSON,
-she,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-Roylott,PERSON,
-He,PERSON,
-he,PERSON,
-every night,SET,
-four,NUMBER,4.0
-she,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-time,DATE,PAST_REF
-she,PERSON,
-Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-Two years,DURATION,P2Y
-A month ago,DATE,OFFSET P-1M
-years,DURATION,PXY
-Armitage,PERSON,
-second,ORDINAL,2.0
-Mr. Armitage,PERSON,
-Crane Water,ORGANIZATION,
-His,PERSON,
-spring,DATE,XXXX-SP
-Two days ago,DATE,OFFSET P-2D
-she,PERSON,
-last night,TIME,TNI OFFSET P-1D
-night,TIME,TNI
-her,PERSON,
-her,PERSON,
-daylight,TIME,TDT
-Crown Inn,ORGANIZATION,
-Leatherhead,LOCATION,
-this morning,DATE,THIS MO
-one,NUMBER,1.0
-Holmes,PERSON,
-Five,NUMBER,5.0
-four,NUMBER,4.0
-Holmes,PERSON,
-her,PERSON,
-He,PERSON,
-she,PERSON,
-he,PERSON,
-his,PERSON,
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-thousand,NUMBER,1000.0
-Stoke Moran,PERSON,
-he,PERSON,
-day,DURATION,P1D
-he,PERSON,
-now,DATE,PRESENT_REF
-she,PERSON,
-her,PERSON,
-Watson,PERSON,
-one,NUMBER,1.0
-two,NUMBER,2.0
-now,DATE,PRESENT_REF
-twelve o'clock,TIME,T12:00
-afternoon,TIME,TAF
-this afternoon,TIME,THIS AF
-She,PERSON,
-her,PERSON,
-her,PERSON,
-Watson,PERSON,
-Sherlock Holmes,PERSON,
-his,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-night,TIME,TNI
-Miss Helen Stoner,PERSON,
-one,NUMBER,1.0
-his,PERSON,
-Stoke Moran,PERSON,
-this day,DATE,THIS P1D
-His,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-thousand,NUMBER,1000.0
-one,NUMBER,1.0
-his,PERSON,
-his,PERSON,
-him,PERSON,
-Grimesby Roylott,PERSON,
-Stoke Moran,PERSON,
-Holmes,PERSON,
-her,PERSON,
-she,PERSON,
-the year,DATE,THIS P1Y
-Holmes,PERSON,
-she,PERSON,
-his,PERSON,
-Holmes,PERSON,
-His,PERSON,
-Scotland,LOCATION,
-Holmes,PERSON,
-he,PERSON,
-Miss Stoner,PERSON,
-her,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-Holmes,PERSON,
-He,PERSON,
-he,PERSON,
-him,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-her,PERSON,
-her,PERSON,
-now,DATE,PRESENT_REF
-Watson,PERSON,
-nearly one o'clock,TIME,T01:00
-Sherlock Holmes,PERSON,
-his,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-present,DATE,PRESENT_REF
-time,DATE,PAST_REF
-£,MONEY,£
-1100,DATE,1100
-now,DATE,PRESENT_REF
-fall,DATE,XXXX-FA
-£750,MONEY,>£750.0
-£250,MONEY,£250.0
-one,NUMBER,1.0
-him,PERSON,
-morning,TIME,TMO
-he,PERSON,
-now,DATE,PRESENT_REF
-Watson,PERSON,
-Waterloo,LOCATION,
-his,PERSON,
-Eley,PERSON,
-2,NUMBER,2.0
-Waterloo,LOCATION,
-Leatherhead,LOCATION,
-four,NUMBER,4.0
-five,NUMBER,5.0
-Surrey,LOCATION,
-day,DURATION,P1D
-first,ORDINAL,1.0
-spring,DATE,XXXX-SP
-his,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-Grimesby Roylott,PERSON,
-Holmes,PERSON,
-Miss Stoner,PERSON,
-Holmes,PERSON,
-his,PERSON,
-Holmes,PERSON,
-his,PERSON,
-Miss Stoner,PERSON,
-morning,TIME,TMO
-her,PERSON,
-she,PERSON,
-Roylott,PERSON,
-evening,TIME,TEV
-he,PERSON,
-Holmes,PERSON,
-he,PERSON,
-Miss Stoner,PERSON,
-she,PERSON,
-she,PERSON,
-he,PERSON,
-He,PERSON,
-him,PERSON,
-he,PERSON,
-he,PERSON,
-He,PERSON,
-he,PERSON,
-his,PERSON,
-him,PERSON,
-Harrow,LOCATION,
-he,PERSON,
-Now,DATE,PRESENT_REF
-once,DATE,PAST_REF
-two,NUMBER,2.0
-one,NUMBER,1.0
-one,NUMBER,1.0
-one,NUMBER,1.0
-Roylott,PERSON,
-now,DATE,PRESENT_REF
-one,NUMBER,1.0
-Now,DATE,PRESENT_REF
-three,NUMBER,3.0
-night,TIME,TNI
-Now,DATE,PRESENT_REF
-Miss Stoner,PERSON,
-Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-three,NUMBER,3.0
-third,ORDINAL,3.0
-once,DATE,PAST_REF
-second,ORDINAL,2.0
-Miss Stoner,PERSON,
-now,DATE,PRESENT_REF
-her,PERSON,
-her,PERSON,
-one,NUMBER,1.0
-two,NUMBER,2.0
-one,NUMBER,1.0
-his,PERSON,
-he,PERSON,
-a couple of years ago,DATE,OFFSET P-2Y
-her,PERSON,
-a few minutes,DURATION,PTXM
-He,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-now,DATE,PRESENT_REF
-Holmes,PERSON,
-one,NUMBER,1.0
-two,NUMBER,2.0
-he,PERSON,
-Holmes,PERSON,
-Miss Stoner,PERSON,
-now,DATE,PRESENT_REF
-Grimesby Roylott,PERSON,
-his,PERSON,
-he,PERSON,
-once,DATE,PAST_REF
-years ago,DATE,OFFSET P-1Y
-He,PERSON,
-one,NUMBER,1.0
-He,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-his,PERSON,
-Watson,PERSON,
-his,PERSON,
-now,DATE,PRESENT_REF
-Miss Stoner,PERSON,
-his,PERSON,
-Miss Stoner,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-Miss Stoner,PERSON,
-he,PERSON,
-first,ORDINAL,1.0
-night,TIME,TNI
-Miss Stoner,PERSON,
-him,PERSON,
-night,TIME,TNI
-him,PERSON,
-one,NUMBER,1.0
-night,TIME,TNI
-night,TIME,TNI
-Mr. Holmes,PERSON,
-Miss Stoner,PERSON,
-her,PERSON,
-she,PERSON,
-now,DATE,PRESENT_REF
-Miss Stoner,PERSON,
-Roylott,PERSON,
-Sherlock Holmes,PERSON,
-Crown Inn,ORGANIZATION,
-Stoke Moran Manor House,ORGANIZATION,
-Grimesby Roylott,PERSON,
-past,DATE,PAST_REF
-his,PERSON,
-him,PERSON,
-he,PERSON,
-his,PERSON,
-him,PERSON,
-a few minutes later,DATE,OFFSET PTXM
-spring,DATE,XXXX-SP
-one,NUMBER,1.0
-Watson,PERSON,
-Holmes,PERSON,
-two,NUMBER,2.0
-Stoke Moran,PERSON,
-Roylott,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-Now,DATE,PRESENT_REF
-once,DATE,PAST_REF
-two,NUMBER,2.0
-one,NUMBER,1.0
-her,PERSON,
-Holmes,PERSON,
-first,ORDINAL,1.0
-he,PERSON,
-He,PERSON,
-he,PERSON,
-Pritchard,PERSON,
-Watson,PERSON,
-night,TIME,TNI
-a few hours,DURATION,PTXH
-About nine o'clock,TIME,T09:00
-Manor House,ORGANIZATION,
-Two hours,DURATION,PT2H
-eleven,NUMBER,11.0
-Holmes,PERSON,
-his,PERSON,
-night,TIME,TNI
-he,PERSON,
-one,NUMBER,1.0
-Holmes,PERSON,
-His,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-Holmes,PERSON,
-his,PERSON,
-daytime,TIME,TDT
-his,PERSON,
-he,PERSON,
-He,PERSON,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-he,PERSON,
-once,DATE,PAST_REF
-every quarter,SET,
-an hour,DURATION,PT1H
-Twelve,NUMBER,12.0
-one,NUMBER,1.0
-two,NUMBER,2.0
-three,NUMBER,3.0
-once,DATE,PAST_REF
-an hour,DURATION,PT1H
-Holmes,PERSON,
-his,PERSON,
-Watson,PERSON,
-he,PERSON,
-Holmes,PERSON,
-his,PERSON,
-night,TIME,TNI
-He,PERSON,
-one,NUMBER,1.0
-Holmes,LOCATION,
-he,PERSON,
-Holmes,PERSON,
-Roylott,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-Grimesby Roylott,PERSON,
-his,PERSON,
-his,PERSON,
-the day,DATE,THIS P1D
-his,PERSON,
-His,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-Holmes,PERSON,
-India,LOCATION,
-ten seconds,DURATION,PT10S
-He,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-Grimesby Roylott,PERSON,
-Stoke Moran,PERSON,
-morning,TIME,TMO
-Harrow,LOCATION,
-her,PERSON,
-her,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-next day,DATE,THIS P1D OFFSET P1D
-Watson,PERSON,
-he,PERSON,
-she,PERSON,
-her,PERSON,
-India,LOCATION,
-one,NUMBER,1.0
-Eastern,ORGANIZATION,
-his,PERSON,
-two,NUMBER,2.0
-morning,TIME,TMO
-he,PERSON,
-He,PERSON,
-him,PERSON,
-the hour,DATE,THIS PT1H
-He,PERSON,
-he,PERSON,
-every night,SET,
-a week,DURATION,P1W
-she,PERSON,
-she,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-Miss Stoner,PERSON,
-her,PERSON,
-his,PERSON,
-once,DATE,PAST_REF
-first,ORDINAL,1.0
-Grimesby Roylott,PERSON,
+text,ner
+last eight years,DATE
+Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Surrey,LOCATION
+Stoke Moran,ORGANIZATION
+Holmes,PERSON
+Baker Street,LOCATION
+Grimesby Roylott,PERSON
+April,DATE
+Sherlock Holmes,PERSON
+He,PERSON
+him,PERSON
+Watson,PERSON
+this morning,TIME
+he,PERSON
+Mrs. Hudson,PERSON
+she,PERSON
+She,PERSON
+morning,TIME
+Holmes,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+Sherlock Holmes,PERSON
+Watson,PERSON
+Mrs. Hudson,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+Sherlock Holmes,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+this morning,TIME
+he,PERSON
+she,PERSON
+Waterloo,LOCATION
+he,PERSON
+Mr. Holmes,PERSON
+Mrs. Farintosh,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Helen Stoner,PERSON
+Saxon,PERSON
+England,LOCATION
+Moran,PERSON
+Surrey,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+England,LOCATION
+Berkshire,ORGANIZATION
+Hampshire,LOCATION
+last century,DATE
+Calcutta,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+England,LOCATION
+he,PERSON
+Roylott,PERSON
+India,LOCATION
+Mrs. Stoner,PERSON
+Stoner,PERSON
+Bengal Artillery,ORGANIZATION
+he,PERSON
+Julia,PERSON
+Roylott,PERSON
+She,PERSON
+she,PERSON
+him,PERSON
+England,LOCATION
+Crewe,LOCATION
+she,PERSON
+Roylott,PERSON
+London,LOCATION
+Stoke Moran,ORGANIZATION
+his,PERSON
+him,PERSON
+Moran,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Indian,MISC
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Julia,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Miss Honoria Westphail,PERSON
+Harrow,LOCATION
+Julia,PERSON
+Christmas two years ago,DATE
+she,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Roylott,PERSON
+Roylott,PERSON
+Indian,MISC
+his,PERSON
+he,PERSON
+his,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Helen,PERSON
+she,PERSON
+morning,TIME
+She,PERSON
+her,PERSON
+Holmes,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Helen,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+she,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Holmes,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Roylott,PERSON
+He,PERSON
+he,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Armitage--Percy Armitage,PERSON
+Mr. Armitage,PERSON
+Crane Water,LOCATION
+His,PERSON
+spring,DATE
+she,PERSON
+last night,TIME
+her,PERSON
+her,PERSON
+Crown Inn,MISC
+Leatherhead,LOCATION
+Miss Roylott,PERSON
+Holmes,PERSON
+Holmes,PERSON
+her,PERSON
+He,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Stoke Moran,ORGANIZATION
+he,PERSON
+he,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+this afternoon,TIME
+She,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Miss Helen Stoner,PERSON
+his,PERSON
+Stoke Moran,ORGANIZATION
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+Grimesby Roylott,PERSON
+Moran,PERSON
+Holmes,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+she,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+His,PERSON
+Holmes,PERSON
+Scotland Yard,LOCATION
+Holmes,PERSON
+he,PERSON
+Miss Stoner,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+1100,DATE
+him,PERSON
+he,PERSON
+Watson,PERSON
+Waterloo,LOCATION
+his,PERSON
+Eley,PERSON
+Waterloo,LOCATION
+Surrey,LOCATION
+spring,DATE
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Moran,PERSON
+he,PERSON
+Grimesby Roylott,PERSON
+Holmes,PERSON
+Miss Stoner,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Miss Stoner,PERSON
+her,PERSON
+she,PERSON
+Roylott,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Miss Stoner,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Harrow,LOCATION
+he,PERSON
+Holmes,PERSON
+Roylott,PERSON
+Miss Stoner,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Miss Stoner,PERSON
+her,PERSON
+her,PERSON
+Wilton,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Miss Stoner,PERSON
+Grimesby Roylott,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+Miss Stoner,PERSON
+his,PERSON
+Miss Stoner,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Miss Stoner,PERSON
+he,PERSON
+Miss Stoner,PERSON
+him,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Miss Stoner,PERSON
+her,PERSON
+she,PERSON
+Miss Stoner,PERSON
+Roylott,PERSON
+Sherlock Holmes,PERSON
+Stoke Moran Manor House,ORGANIZATION
+Grimesby Roylott,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+spring,DATE
+Watson,PERSON
+Holmes,PERSON
+Moran,PERSON
+Holmes,PERSON
+Roylott,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Palmer,PERSON
+Pritchard,PERSON
+Watson,PERSON
+Manor House,ORGANIZATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+Holmes,LOCATION
+he,PERSON
+Holmes,PERSON
+Roylott,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Grimesby Roylott,PERSON
+Turkish,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+India,LOCATION
+He,PERSON
+he,PERSON
+Miss Stoner,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Grimesby Roylott,PERSON
+Stoke Moran,ORGANIZATION
+Harrow,LOCATION
+her,PERSON
+her,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+Watson,PERSON
+he,PERSON
+she,PERSON
+her,PERSON
+India,LOCATION
+Eastern,MISC
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+she,PERSON
+she,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Miss Stoner,PERSON
+her,PERSON
+his,PERSON
+Grimesby Roylott,PERSON

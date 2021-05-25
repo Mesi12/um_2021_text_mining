@@ -1,0 +1,441 @@
+text,ner
+his,PERSON
+Holmes,PERSON
+"June, 1902",DATE
+South African War,MISC
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Garrideb,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mrs. Hudson,PERSON
+John Garrideb,PERSON
+Moorville,LOCATION
+Kansas,LOCATION
+"U. S. A.""
+
+Holmes",PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+this morning,TIME
+him,PERSON
+he,PERSON
+he,PERSON
+Mr. John Garrideb,PERSON
+American,MISC
+his,PERSON
+His,PERSON
+American,MISC
+His,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Nathan Garrideb,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+his,PERSON
+Mr. John Garrideb,PERSON
+England,LOCATION
+Mr. Holmes,PERSON
+English,MISC
+Mr. Garrideb,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+Holmes,PERSON
+Mr. Garrideb,PERSON
+Watson,PERSON
+Mr. Nathan Garrideb,PERSON
+he,PERSON
+this morning,TIME
+him,PERSON
+he,PERSON
+he,PERSON
+Mr. Garrideb,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+this morning,TIME
+him,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Garrideb,PERSON
+he,PERSON
+he,PERSON
+Kansas,LOCATION
+Alexander Hamilton Garrideb,PERSON
+Chicago,LOCATION
+Arkansas River,LOCATION
+Fort Dodge,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Topeka,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Garridebs,LOCATION
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Kansas,LOCATION
+Garridebs,PERSON
+His,PERSON
+five million dollars,MONEY
+United States,LOCATION
+Garrideb,MISC
+London,LOCATION
+him,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Topeka,LOCATION
+Dr. Lysander Starr,PERSON
+1890,DATE
+he,PERSON
+Starr,PERSON
+His,PERSON
+Mr. Holmes,PERSON
+American,MISC
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+English,MISC
+American,MISC
+London,LOCATION
+his,PERSON
+he,PERSON
+Dr. Lysander Starr,PERSON
+Topeka,LOCATION
+him,PERSON
+he,PERSON
+American,MISC
+London,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+him,PERSON
+Mr. Nathan Garrideb,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+him,PERSON
+home this evening,TIME
+him,PERSON
+Watson,PERSON
+American,MISC
+spring,DATE
+Edgware Road,LOCATION
+Georgian,MISC
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+Bohemian,MISC
+Mr. Nathan Garrideb,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Heidelberg,LOCATION
+Cro-Magnon,MISC
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Alexandrian,MISC
+Mr. Holmes,PERSON
+Watson,PERSON
+Japanese,MISC
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Sotheby,ORGANIZATION
+Christie,ORGANIZATION
+Mr. Holmes,PERSON
+he,PERSON
+American,MISC
+his,PERSON
+Holmes,PERSON
+America,LOCATION
+he,PERSON
+Five million dollars,MONEY
+five million dollars,MONEY
+Hans Sloane,PERSON
+His,PERSON
+his,PERSON
+Mr. Nathan Garrideb,PERSON
+Holmes,PERSON
+American,MISC
+his,PERSON
+Tuesday,DATE
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+American,MISC
+he,PERSON
+his,PERSON
+Mr. Nathan Garrideb,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+Howard Garrideb Constructor of Agricultural Machinery Binders,ORGANIZATION
+Artesian Wells Apply Grosvenor Buildings,ORGANIZATION
+Aston,LOCATION
+Birmingham,LOCATION
+American,MISC
+him,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+American,MISC
+he,PERSON
+him,PERSON
+Britisher,MISC
+he,PERSON
+Mr. Garrideb,PERSON
+his,PERSON
+America,LOCATION
+he,PERSON
+Holmes,PERSON
+Mr. Nathan Garrideb,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+American,MISC
+he,PERSON
+his,PERSON
+Mr. Nathan,PERSON
+Birmingham,LOCATION
+Mr. Holmes,PERSON
+American,MISC
+Mr. Garrideb,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mrs. Saunders,PERSON
+her,PERSON
+Mrs. Saunders,PERSON
+Holloway,PERSON
+Steele,PERSON
+Edgware Road,LOCATION
+Holmes,PERSON
+Queen Anne,PERSON
+Georgian,MISC
+Georgian,MISC
+Mr. Garrideb,PERSON
+Birmingham,LOCATION
+Baker Street,LOCATION
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+English,MISC
+American,MISC
+American,MISC
+American,MISC
+English,MISC
+American,MISC
+his,PERSON
+Birmingham,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Mr. John Garrideb,PERSON
+He,PERSON
+Lestrade,PERSON
+American,MISC
+his,PERSON
+James Winter,PERSON
+Morecroft,PERSON
+Killer Evans,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Chicago,LOCATION
+States,LOCATION
+London,LOCATION
+1893,DATE
+Waterloo Road,LOCATION
+"January, 1895",DATE
+he,PERSON
+Rodger Prescott,PERSON
+Chicago,LOCATION
+Killer Evans,PERSON
+1901,DATE
+Watson,PERSON
+his,PERSON
+he,PERSON
+Waldron,PERSON
+Waldron,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+Prescott,PERSON
+Killer Evans,PERSON
+Scotland Yard,LOCATION
+Prescott,PERSON
+American,MISC
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+Nathan Garrideb,PERSON
+Mrs. Saunders,PERSON
+caretaker,MISC
+spring,DATE
+Holmes,PERSON
+she,PERSON
+her,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Rodger Prescott,PERSON
+Watson,PERSON
+American,MISC
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Killer Evans,PERSON
+Holmes,PERSON
+American,MISC
+His,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+He,PERSON
+Holmes,PERSON
+Evans,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+London,LOCATION
+Prescott,PERSON
+Prescott,PERSON
+Holmes,PERSON
+Mr. Evans,PERSON
+Prescott,PERSON
+he,PERSON
+Prescott,PERSON
+England,LOCATION
+London,LOCATION
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+Killer Evans,PERSON
+Garridebs,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Brixton,LOCATION
+He,PERSON
+Prescott,PERSON
+Evans,PERSON
+he,PERSON

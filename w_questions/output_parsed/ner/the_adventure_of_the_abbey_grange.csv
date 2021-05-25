@@ -1,0 +1,594 @@
+text,ner
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Charing Cross Station,ORGANIZATION
+London,LOCATION
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Kentish,LOCATION
+he,PERSON
+Holmes,PERSON
+Abbey Grange,LOCATION
+Marsham,LOCATION
+Kent,LOCATION
+Mr. Holmes,PERSON
+his,PERSON
+Eustace,PERSON
+Stanley Hopkins,PERSON
+Hopkins,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+Watson,PERSON
+Eustace,PERSON
+Hopkins,PERSON
+he,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+Hopkins,PERSON
+his,PERSON
+twelve last night,TIME
+Scotland Yard,LOCATION
+Hopkins,PERSON
+he,PERSON
+Chislehurst Station,LOCATION
+Palladio,PERSON
+Stanley Hopkins,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+she,PERSON
+Lewisham,LOCATION
+Randalls,LOCATION
+Sydenham,LOCATION
+Eustace,PERSON
+his,PERSON
+his,PERSON
+Eustace Brackenstall,PERSON
+Kent,LOCATION
+Lady Brackenstall,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Lady Brackenstall,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Mr. Hopkins,PERSON
+she,PERSON
+him,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Holmes,PERSON
+She,PERSON
+last night,TIME
+Eustace Brackenstall,PERSON
+South Australia,LOCATION
+English,MISC
+Eustace,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+last night,TIME
+she,PERSON
+Theresa,PERSON
+Eustace,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Eustace,PERSON
+French,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+London,LOCATION
+Mr. Holmes,PERSON
+Hopkins,PERSON
+Holmes,PERSON
+He,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+Miss Mary Fraser,PERSON
+Adelaide,LOCATION
+Lady Brackenstall,PERSON
+Abbey Grange,LOCATION
+her,PERSON
+her,PERSON
+him,PERSON
+she,PERSON
+Theresa,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Hopkins,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+England,LOCATION
+Australia,LOCATION
+eighteen months ago,DATE
+her,PERSON
+her,PERSON
+Theresa Wright,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Abbey Grange,LOCATION
+his,PERSON
+his,PERSON
+French,MISC
+her,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+Randall,PERSON
+He,PERSON
+he,PERSON
+Hopkins,PERSON
+he,PERSON
+him,PERSON
+America,LOCATION
+him,PERSON
+he,PERSON
+Lady Brackenstall,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Hopkins,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Theresa Wright,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+Randall,PERSON
+his,PERSON
+French,MISC
+He,PERSON
+Lady Brackenstall,PERSON
+Eustace,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Hopkins,PERSON
+Lady Brackenstall,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+Hopkins,PERSON
+Lady Brackenstall,PERSON
+she,PERSON
+she,PERSON
+Hopkins,PERSON
+him,PERSON
+Hopkins,PERSON
+Randall,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Abbey Grange,LOCATION
+this midnight,TIME
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+her,PERSON
+her,PERSON
+Sydenham,LOCATION
+her,PERSON
+her,PERSON
+Watson,PERSON
+Watson,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Lady Brackenstall,PERSON
+her,PERSON
+Watson,PERSON
+Chislehurst,MISC
+Abbey Grange,LOCATION
+Sherlock Holmes,PERSON
+Stanley Hopkins,PERSON
+his,PERSON
+his,PERSON
+morning,TIME
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Watson,LOCATION
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Waterloo,LOCATION
+Watson,PERSON
+Marengo,LOCATION
+Theresa,PERSON
+Australian,MISC
+She,PERSON
+Taciturn,MISC
+Holmes,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+he,PERSON
+her,PERSON
+this morning,TIME
+She,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+eighteen months ago,DATE
+He,PERSON
+him,PERSON
+London,LOCATION
+She,PERSON
+her,PERSON
+she,PERSON
+London,LOCATION
+He,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+June,DATE
+July,DATE
+January,DATE
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Lady Brackenstall,PERSON
+her,PERSON
+Holmes,PERSON
+Lady Brackenstall,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Lady Brackenstall,PERSON
+Holmes,LOCATION
+Theresa,PERSON
+Holmes,PERSON
+his,PERSON
+Lady Brackenstall,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Stanley Hopkins,PERSON
+he,PERSON
+Hopkins,PERSON
+he,PERSON
+him,PERSON
+Adelaide-Southampton,LOCATION
+Pall Mall,LOCATION
+South Australia,LOCATION
+England,LOCATION
+Holmes,PERSON
+he,PERSON
+he,PERSON
+June of '95,DATE
+Rock of Gibraltar,LOCATION
+Miss Fraser,PERSON
+Adelaide,LOCATION
+her,PERSON
+her,PERSON
+Australia,LOCATION
+Suez Canal,LOCATION
+her,PERSON
+'95,DATE
+Her,PERSON
+Mr. Jack Croker,PERSON
+Bass Rock,LOCATION
+Southampton,LOCATION
+Sydenham,LOCATION
+He,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Adelaide-Southampton,LOCATION
+Scotland Yard,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Charing Cross,ORGANIZATION
+Baker Street,LOCATION
+he,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+England,LOCATION
+Stanley Hopkins,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+French,MISC
+Stanley Hopkins,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Randall,PERSON
+New York,LOCATION
+this morning,TIME
+Hopkins,PERSON
+Kent,LOCATION
+Mr. Holmes,PERSON
+Randalls,LOCATION
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Stanley Hopkins,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Croker,PERSON
+Holmes,PERSON
+him,PERSON
+Croker,PERSON
+Abbey Grange,LOCATION
+last night,TIME
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mary--Mary Fraser,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Gibraltar,LOCATION
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+She,PERSON
+hers,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Mary Fraser,PERSON
+Sydenham,LOCATION
+her,PERSON
+Theresa Wright,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+Theresa,PERSON
+Mary herself--and,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Theresa,PERSON
+Mary,PERSON
+she,PERSON
+her,PERSON
+Mary,PERSON
+her,PERSON
+last night,TIME
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+hers,PERSON
+her,PERSON
+him,PERSON
+Theresa,PERSON
+She,PERSON
+he,PERSON
+her,PERSON
+Mary,PERSON
+she,PERSON
+Theresa,PERSON
+her,PERSON
+Theresa,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Sydenham,LOCATION
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+him,PERSON
+Croker,PERSON
+British,MISC
+Mary,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Mary,PERSON
+Holmes,PERSON
+his,PERSON
+Hopkins,PERSON
+he,PERSON
+Croker,PERSON
+Watson,PERSON
+British,MISC
+Croker,PERSON
+this night,TIME
+her,PERSON

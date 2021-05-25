@@ -1,0 +1,481 @@
+text,ner
+Sherlock Holmes,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+Pancras,PERSON
+his,PERSON
+he,PERSON
+Merivale,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Robert Norberton,PERSON
+Shoscombe Old Place,LOCATION
+summer,DATE
+He,PERSON
+Sam Brewer,PERSON
+Curzon Street,LOCATION
+Newmarket Heath,ORGANIZATION
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+England,LOCATION
+Grand National,MISC
+He,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Shoscombe Park,LOCATION
+Holmes,PERSON
+John Mason,PERSON
+Watson,PERSON
+him,PERSON
+Shoscombe,PERSON
+Shoscombe spaniels,MISC
+England,LOCATION
+Shoscombe Old Place,LOCATION
+Robert Norberton,PERSON
+Robert,PERSON
+his,PERSON
+Lady Beatrice Falder,PERSON
+He,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+James,PERSON
+her,PERSON
+Norberton,LOCATION
+her,PERSON
+she,PERSON
+Robert,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+Shoscombe,LOCATION
+Mr. John Mason,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Robert,PERSON
+Holmes,PERSON
+his,PERSON
+Baker Street,LOCATION
+Harley Street,LOCATION
+he,PERSON
+he,PERSON
+Shoscombe Prince,PERSON
+Derby,LOCATION
+his,PERSON
+England,LOCATION
+Mr. Holmes,PERSON
+Robert,PERSON
+Derby,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Robert,PERSON
+He,PERSON
+He,PERSON
+His,PERSON
+Jews,MISC
+He,PERSON
+Prince,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+His,PERSON
+his,PERSON
+Lady Beatrice,PERSON
+his,PERSON
+she,PERSON
+he,PERSON
+she,PERSON
+she,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+he,PERSON
+her,PERSON
+Barnes,PERSON
+Crendall,LOCATION
+He,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+her,PERSON
+He,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Stephens,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Mason,PERSON
+him,PERSON
+night,TIME
+Stephens,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+Robert,PERSON
+Stephens,PERSON
+him,PERSON
+Robert,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Robert,PERSON
+he,PERSON
+Holmes,PERSON
+Beatrice Falder,PERSON
+he,PERSON
+Carrie Evans,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Mr. Mason,PERSON
+She,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Mason,PERSON
+Watson,PERSON
+Robert,PERSON
+him,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Robert,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+Robert,PERSON
+Holmes,PERSON
+Robert,PERSON
+London,LOCATION
+Stephens,PERSON
+Stephens,PERSON
+Robert,PERSON
+he,PERSON
+him,PERSON
+Robert,PERSON
+his,PERSON
+Robert,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Sandy Bain,PERSON
+Barnes,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Mr. Mason,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Beatrice,PERSON
+Robert,PERSON
+Harvey,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+He,PERSON
+Beatrice,PERSON
+Mr. Mason,PERSON
+Robert,PERSON
+home last night,TIME
+he,PERSON
+Berkshire,ORGANIZATION
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Watson,PERSON
+Green Dragon,LOCATION
+Mr. Mason,PERSON
+May,DATE
+Holmes,PERSON
+Josiah Barnes,PERSON
+Holmes,PERSON
+Robert,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Robert,PERSON
+He,PERSON
+Derby,LOCATION
+he,PERSON
+Robert,PERSON
+He,PERSON
+he,PERSON
+Robert,PERSON
+He,PERSON
+Mr. Barnes,PERSON
+England,LOCATION
+Holmes,PERSON
+Robert,PERSON
+Watson,PERSON
+Holmes,PERSON
+Robert,PERSON
+London,LOCATION
+Holmes,PERSON
+Watson,PERSON
+He,PERSON
+her,PERSON
+Watson,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Beatrice,PERSON
+Robert,PERSON
+He,PERSON
+Jews,MISC
+He,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+Watson,PERSON
+Robert,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+Robert,PERSON
+Shoscombe Prince,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+Watson,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Mr. Barnes,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+Robert,PERSON
+Shoscombe Old Place,LOCATION
+Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+supper,DATE
+Holmes,PERSON
+morning,TIME
+London,LOCATION
+Mr. John Mason,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Robert,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Shoscombe Prince,PERSON
+he,PERSON
+he,PERSON
+Mr. Mason,PERSON
+Mason,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Mason,PERSON
+he,PERSON
+Holmes,PERSON
+John Mason,PERSON
+Holmes,PERSON
+John Mason,PERSON
+Holmes,PERSON
+Saxon,ORGANIZATION
+Norman Hugos,PERSON
+Odos,ORGANIZATION
+William,PERSON
+Denis Falder,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+Holmes,PERSON
+him,PERSON
+Robert,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+Robert,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Robert,PERSON
+his,PERSON
+Robert,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Robert,PERSON
+Mrs. Norlett,PERSON
+his,PERSON
+Mrs. Norlett,PERSON
+Evans,PERSON
+her,PERSON
+Robert,PERSON
+her,PERSON
+Robert,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Lady Beatrice,PERSON
+her,PERSON
+her,PERSON
+Jews,MISC
+Mr. Holmes,PERSON
+Her,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Robert,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Norlett,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Robert,PERSON
+he,PERSON
+him,PERSON
+Sam Brewer,PERSON
+Newmarket Heath,ORGANIZATION
+he,PERSON
+Robert,PERSON
+Holmes,PERSON
+midnight,TIME
+Watson,PERSON
+Robert,PERSON
+Shoscombe Prince,PERSON
+Derby,LOCATION
+Robert,PERSON

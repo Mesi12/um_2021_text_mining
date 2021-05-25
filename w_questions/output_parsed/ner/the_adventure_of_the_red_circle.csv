@@ -1,0 +1,611 @@
+text,ner
+Mrs. Warren,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Mr. Fairdale Hobbs,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Mrs. Warren,PERSON
+Watson,PERSON
+his,PERSON
+him,PERSON
+Mrs. Warren,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+Mr. Warren,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Warren,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+midnight,TIME
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Mrs. Warren,PERSON
+he,PERSON
+English,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+her,PERSON
+she,PERSON
+this morning,TIME
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Mrs. Warren,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+English,MISC
+English,MISC
+Watson,PERSON
+London,LOCATION
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+the Daily Gazette,ORGANIZATION
+Prince's Skating Club,ORGANIZATION
+Jimmy,PERSON
+his,PERSON
+Brixton,LOCATION
+she,PERSON
+Watson,PERSON
+Mrs. Warren,PERSON
+English,MISC
+he,PERSON
+Mrs. Warren,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Mrs. Warren,PERSON
+Mrs. Warren,PERSON
+this morning,TIME
+Mr. Holmes,PERSON
+she,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Mr. Warren,PERSON
+him,PERSON
+him,PERSON
+this morning,TIME
+Mr. Warren,PERSON
+Morton,PERSON
+Waylight,PERSON
+Tottenham Court Road,LOCATION
+He,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Hampstead Heath,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Mrs. Warren,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Mrs. Warren,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+Mrs. Warren,PERSON
+Mrs. Warren,PERSON
+Great Orme Street,LOCATION
+British,MISC
+Howe Street,LOCATION
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Mrs. Warren,PERSON
+she,PERSON
+Mrs. Warren,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+London,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+Watson,PERSON
+Mrs. Warren,PERSON
+Mr. Warren,PERSON
+Watson,PERSON
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+Mrs. Warren,PERSON
+London,LOCATION
+winter,DATE
+evening,TIME
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+she,PERSON
+he,PERSON
+Watson,PERSON
+Watson,PERSON
+ATTENTA,ORGANIZATION
+TA,LOCATION
+ATTE,ORGANIZATION
+Watson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Italian,MISC
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+Jove,PERSON
+he,PERSON
+PERI,ORGANIZATION
+Halloa,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Scotland Yard,LOCATION
+Watson,PERSON
+Howe Street,LOCATION
+night,TIME
+Howe Street,LOCATION
+He,PERSON
+Holmes,PERSON
+he,PERSON
+Gregson,PERSON
+Scotland Yard,LOCATION
+he,PERSON
+Gregson,PERSON
+Gregson,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+Mr. Leverton,PERSON
+Pinkerton's American Agency,ORGANIZATION
+Long Island,LOCATION
+Holmes,PERSON
+American,MISC
+Mr. Holmes,PERSON
+he,PERSON
+Gorgiano,PERSON
+European,MISC
+he,PERSON
+he,PERSON
+America,LOCATION
+him,PERSON
+he,PERSON
+him,PERSON
+New York,LOCATION
+London,LOCATION
+him,PERSON
+him,PERSON
+his,PERSON
+Mr. Gregson,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Gregson,PERSON
+he,PERSON
+Holmes,PERSON
+American,MISC
+his,PERSON
+He,PERSON
+he,PERSON
+London,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Gregson,PERSON
+He,PERSON
+New York,LOCATION
+him,PERSON
+him,PERSON
+him,PERSON
+Gregson,PERSON
+Scotland Yard,LOCATION
+he,PERSON
+Pinkerton man,ORGANIZATION
+Gregson,PERSON
+him,PERSON
+him,PERSON
+London,LOCATION
+London,LOCATION
+Gregson,PERSON
+Gregson,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+George,PERSON
+Black Gorgiano,PERSON
+American,MISC
+Mr. Holmes,PERSON
+Gregson,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+Bloomsbury,LOCATION
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+she,PERSON
+him,PERSON
+her,PERSON
+she,PERSON
+Italian,MISC
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Giuseppe Gorgiano,PERSON
+She,PERSON
+Gennaro,PERSON
+she,PERSON
+Gennaro Lucca,PERSON
+He,PERSON
+Emilia Lucca,PERSON
+New York,LOCATION
+Gennaro,PERSON
+He,PERSON
+Holmes,PERSON
+Italian,MISC
+she,PERSON
+Giuseppe Gorgiano,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+Gennaro,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Gennaro,PERSON
+Mrs. Lucca,PERSON
+Gregson,PERSON
+Notting,MISC
+Hill,PERSON
+hooligan,MISC
+his,PERSON
+she,PERSON
+Gregson,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Gorgiano,PERSON
+He,PERSON
+him,PERSON
+Holmes,PERSON
+her,PERSON
+she,PERSON
+Signora Lucca,LOCATION
+her,PERSON
+English,MISC
+She,PERSON
+Posilippo,LOCATION
+Naples,LOCATION
+Augusto Barelli,PERSON
+she,PERSON
+Gennaro,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Bari,ORGANIZATION
+America,LOCATION
+four years ago,DATE
+New York,LOCATION
+Gennaro,PERSON
+Italian,MISC
+he,PERSON
+him,PERSON
+Tito Castalotte,PERSON
+Castalotte,LOCATION
+Zamba,PERSON
+New York,LOCATION
+His,PERSON
+he,PERSON
+Signor Zamba,PERSON
+Castalotte,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Signor Castalotte,PERSON
+Gennaro,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Brooklyn,LOCATION
+Gennaro,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Gorgiano,PERSON
+Posilippo,LOCATION
+His,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+Gennaro,PERSON
+his,PERSON
+Gennaro,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+Gennaro,PERSON
+Neapolitan,MISC
+Red Circle,ORGANIZATION
+his,PERSON
+him,PERSON
+his,PERSON
+America Gennaro,PERSON
+he,PERSON
+Naples,LOCATION
+Gorgiano,PERSON
+Italy,LOCATION
+his,PERSON
+him,PERSON
+he,PERSON
+New York,LOCATION
+Italian,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+Gennaro,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Gorgiano,PERSON
+evening,TIME
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Gennaro,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Gennaro,PERSON
+him,PERSON
+Gennaro,PERSON
+He,PERSON
+he,PERSON
+Gennaro,PERSON
+Italians,MISC
+Castalotte,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Gennaro,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Gennaro,PERSON
+him,PERSON
+London,LOCATION
+he,PERSON
+his,PERSON
+Gorgiano,PERSON
+his,PERSON
+he,PERSON
+Italy,LOCATION
+America,LOCATION
+his,PERSON
+American,MISC
+Italian,MISC
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Italians,MISC
+Gorgiano,PERSON
+Gennaro,PERSON
+he,PERSON
+Gorgiano,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Gennaro,PERSON
+he,PERSON
+Mr. Gregson,PERSON
+American,MISC
+British,MISC
+New York,LOCATION
+Gregson,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Gregson,PERSON
+Watson,PERSON

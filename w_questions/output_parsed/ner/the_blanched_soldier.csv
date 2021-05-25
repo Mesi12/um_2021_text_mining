@@ -1,0 +1,426 @@
+text,ner
+Watson,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+"January, 1903",DATE
+Boer War,MISC
+Mr. James M. Dodd,PERSON
+Briton,MISC
+Watson,PERSON
+Mr. James M. Dodd,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+South Africa,LOCATION
+he,PERSON
+Middlesex,LOCATION
+Corps,ORGANIZATION
+Mr. Holmes,PERSON
+his,PERSON
+English,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Middlesex,LOCATION
+Throgmorton Street,LOCATION
+Mr. Dodd,PERSON
+this morning,TIME
+Tuxbury Old Park,LOCATION
+Mr. Holmes,PERSON
+afternoon,TIME
+Emsworth,PERSON
+Emsworth,PERSON
+He,PERSON
+Army,ORGANIZATION
+his,PERSON
+Godfrey,PERSON
+he,PERSON
+"January, 1901",DATE
+Godfrey Emsworth,PERSON
+Emsworth,PERSON
+Crimean,MISC
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Army,ORGANIZATION
+He,PERSON
+Diamond Hill,LOCATION
+Pretoria,LOCATION
+he,PERSON
+Cape Town,LOCATION
+Southampton,LOCATION
+Mr. Holmes,PERSON
+he,PERSON
+Godfrey,PERSON
+his,PERSON
+Godfrey,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Godfrey,PERSON
+Godfrey,PERSON
+Mr. James M. Dodd,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Tuxbury Old Park,LOCATION
+Bedford,LOCATION
+his,PERSON
+Godfrey,PERSON
+her,PERSON
+her,PERSON
+Monday,DATE
+Tuxbury Old Hall,MISC
+Elizabethan,MISC
+Victorian,MISC
+Ralph,PERSON
+his,PERSON
+Godfrey,PERSON
+She,PERSON
+him,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Godfrey,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Godfrey,PERSON
+Africa,LOCATION
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Godfrey,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+African,MISC
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Mr. Dodd,PERSON
+he,PERSON
+Godfrey,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Ralph,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Master Godfrey,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Boers,MISC
+He,PERSON
+his,PERSON
+Godfrey,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Godfrey Emsworth,PERSON
+he,PERSON
+Master Godfrey,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+Godfrey,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+him,PERSON
+Godfrey,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Godfrey Emsworth,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+night,TIME
+His,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Boer,PERSON
+he,PERSON
+his,PERSON
+Godfrey,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Godfrey,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Godfrey,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Godfrey,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+morning,TIME
+He,PERSON
+his,PERSON
+he,PERSON
+Godfrey,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Emsworth,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+London,LOCATION
+he,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Emsworth,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+morning,TIME
+his,PERSON
+He,PERSON
+Ralph,PERSON
+Godfrey Emsworth,PERSON
+he,PERSON
+He,PERSON
+Tuxbury Old Park,LOCATION
+Watson,PERSON
+Abbey School,ORGANIZATION
+Greyminster,LOCATION
+Turkey,LOCATION
+Bedfordshire,LOCATION
+Mr. James M. Dodd,PERSON
+Dodd,PERSON
+his,PERSON
+Watson,PERSON
+Dodd,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Ralph,PERSON
+him,PERSON
+Ralph,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+Watson,PERSON
+his,PERSON
+Emsworth,PERSON
+Ralph,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Godfrey,PERSON
+he,PERSON
+Ralph,PERSON
+he,PERSON
+him,PERSON
+Mr. Dodd,PERSON
+Emsworth,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Emsworth,PERSON
+his,PERSON
+Ralph,PERSON
+Emsworth,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Godfrey,PERSON
+Ralph,PERSON
+Mr. Godfrey,PERSON
+Kent,LOCATION
+his,PERSON
+Emsworth,PERSON
+he,PERSON
+Kent,LOCATION
+Mr. Godfrey,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Godfrey,PERSON
+him,PERSON
+Jimmie,PERSON
+Emsworth,PERSON
+B Squadron,ORGANIZATION
+His,PERSON
+African,MISC
+he,PERSON
+his,PERSON
+he,PERSON
+Jimmie,PERSON
+Godfrey,PERSON
+Ralph,PERSON
+he,PERSON
+Buffelsspruit,LOCATION
+Pretoria,LOCATION
+Eastern,MISC
+Simpson,PERSON
+Baldy Simpson,PERSON
+Anderson,PERSON
+Boer,PERSON
+he,PERSON
+he,PERSON
+African,MISC
+Dutch,MISC
+him,PERSON
+English,MISC
+he,PERSON
+his,PERSON
+he,PERSON
+Dutch,MISC
+He,PERSON
+he,PERSON
+he,PERSON
+Jimmie,PERSON
+British,MISC
+he,PERSON
+he,PERSON
+he,PERSON
+Pretoria,LOCATION
+He,PERSON
+Kent,LOCATION
+Jimmie--even,PERSON
+Emsworth,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Kent,LOCATION
+he,PERSON
+Emsworth,PERSON
+him,PERSON
+he,PERSON
+James Saunders,PERSON
+His,PERSON
+Roberts,PERSON
+Kent,LOCATION
+he,PERSON
+James,PERSON
+He,PERSON
+Emsworth,PERSON
+Watson,PERSON
+he,PERSON
+Godfrey,PERSON
+Emsworth,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Dodd,PERSON
+Kent,LOCATION
+British Medical Journal,ORGANIZATION
+South Africa,LOCATION
+His,PERSON
+him,PERSON
+Ralph,PERSON
+his,PERSON
+his,PERSON
+Emsworth,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Kent,LOCATION
+her,PERSON
+she,PERSON

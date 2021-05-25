@@ -1,0 +1,294 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+Victorian,MISC
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+1896,DATE
+Holmes,PERSON
+him,PERSON
+him,PERSON
+Mrs. Merrilow,PERSON
+South Brixton,LOCATION
+Mrs. Merrilow,PERSON
+Watson,PERSON
+Mrs. Merrilow,PERSON
+Mrs. Merrilow,PERSON
+Mrs. Ronder,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+Watson,PERSON
+Mrs. Ronder,PERSON
+her,PERSON
+Mrs. Merrilow,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+Mrs. Merrilow,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+night,TIME
+morning,TIME
+her,PERSON
+Mrs. Ronder,PERSON
+she,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+Mrs. Merrilow,PERSON
+Ronder,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Abbas Parva,LOCATION
+him,PERSON
+Abbas Parva,LOCATION
+she,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Mrs. Merrilow,PERSON
+Watson,PERSON
+Brixton,LOCATION
+Mrs. Merrilow,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+Buddha,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+Abbas Parva,LOCATION
+Holmes,PERSON
+Ronder,PERSON
+Wombwell,LOCATION
+Sanger,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Abbas Parva,LOCATION
+Berkshire,LOCATION
+Wimbledon,LOCATION
+North African,MISC
+Sahara King,ORGANIZATION
+Ronder,PERSON
+his,PERSON
+Ronder,PERSON
+his,PERSON
+Ronder,PERSON
+his,PERSON
+he,PERSON
+Ronder,PERSON
+his,PERSON
+his,PERSON
+Mrs. Ronder,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Leonardo,PERSON
+Griggs,PERSON
+Coward,PERSON
+Coward,PERSON
+she,PERSON
+she,PERSON
+Edmunds,PERSON
+Berkshire Constabulary,ORGANIZATION
+Allahabad,LOCATION
+He,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Ronder,PERSON
+He,PERSON
+him,PERSON
+Ronder,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+hers,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Ronder,PERSON
+his,PERSON
+him,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Coward,PERSON
+her,PERSON
+Watson,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+Ronder,PERSON
+Edmunds,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Mrs. Merrilow,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Her,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+Mr. Edmunds,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Leonardo,PERSON
+she,PERSON
+Leonardo,PERSON
+Ruffian,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Leonardo,PERSON
+Jimmy Griggs,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Leonardo,PERSON
+he,PERSON
+Gabriel,PERSON
+he,PERSON
+He,PERSON
+Leonardo,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Leonardo,PERSON
+he,PERSON
+Leonardo,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Leonardo,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Leonardo,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Leonardo,PERSON
+Griggs,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Eugenia Ronder,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+Leonardo,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Leonardo,PERSON
+his,PERSON
+he,PERSON
+Margate,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+He,PERSON
+her,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON

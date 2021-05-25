@@ -1,0 +1,2486 @@
+text,ner
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Beaune,LOCATION
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Afghan,MISC
+He,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Gregson,PERSON
+Lestrade,PERSON
+Athelney Jones,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Euclid,LOCATION
+him,PERSON
+his,PERSON
+Baker Street,LOCATION
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Francois Le Villard,PERSON
+French,MISC
+Celtic,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+Riga,LOCATION
+1857,DATE
+St. Louis,LOCATION
+1871,DATE
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Frenchman,MISC
+Sherlock Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+French,MISC
+He,PERSON
+he,PERSON
+Indian,MISC
+Paris,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+this morning,TIME
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+England,LOCATION
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+Miss Mary Morstan,PERSON
+he,PERSON
+Mrs. Hudson,PERSON
+Miss Morstan,MISC
+She,PERSON
+her,PERSON
+she,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+Sherlock Holmes,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+Mrs. Cecil Forrester,PERSON
+she,PERSON
+She,PERSON
+Mrs. Cecil Forrester,PERSON
+he,PERSON
+her,PERSON
+She,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+he,PERSON
+she,PERSON
+Indian,MISC
+England,LOCATION
+Edinburgh,LOCATION
+year 1878,DATE
+his,PERSON
+London,LOCATION
+Langham Hotel,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+London,LOCATION
+Langham,LOCATION
+Morstan,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+"December, 1878",DATE
+He,PERSON
+His,PERSON
+Andaman Islands,LOCATION
+He,PERSON
+he,PERSON
+Bombay Infantry,ORGANIZATION
+his,PERSON
+Upper Norwood,LOCATION
+England,LOCATION
+him,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+"May, 1882",DATE
+Times,ORGANIZATION
+Miss Mary Morstan,PERSON
+her,PERSON
+Mrs. Cecil Forrester,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+Sherlock Holmes,PERSON
+Holmes,PERSON
+London,LOCATION
+July 7,DATE
+his,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+she,PERSON
+He,PERSON
+he,PERSON
+Greek,MISC
+Miss Morstan,LOCATION
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+she,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+London,LOCATION
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Winwood Reade,PERSON
+Martyrdom of Man,MISC
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Times,ORGANIZATION
+Sholto,PERSON
+Upper Norword,ORGANIZATION
+Bombay Infantry,ORGANIZATION
+"28th of April, 1882",DATE
+Holmes,PERSON
+London,LOCATION
+Sholto,PERSON
+he,PERSON
+Sholto,PERSON
+London,LOCATION
+he,PERSON
+Sholto,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+Sholto,PERSON
+Sholto,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Sherlock Holmes,PERSON
+Miss Morstan,MISC
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Miss Morstan,MISC
+her,PERSON
+Sherlock Holmes,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Sholto,PERSON
+she,PERSON
+His,PERSON
+Andaman Islands,LOCATION
+He,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Indian,MISC
+he,PERSON
+Mahomet Singh,PERSON
+Abdullah Khan,PERSON
+Dost Akbar,PERSON
+his,PERSON
+Miss Morstan,LOCATION
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Miss Morstan,MISC
+his,PERSON
+September,DATE
+evening,TIME
+she,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Miss Morstan,MISC
+he,PERSON
+Miss Morstan,MISC
+she,PERSON
+He,PERSON
+he,PERSON
+she,PERSON
+Arab,MISC
+He,PERSON
+his,PERSON
+Afghanistan,LOCATION
+her,PERSON
+she,PERSON
+her,PERSON
+London,LOCATION
+Sherlock Holmes,PERSON
+he,PERSON
+Rochester Row,PERSON
+he,PERSON
+Vincent Square,PERSON
+Vauxhall Bridge Road,LOCATION
+Surrey,LOCATION
+Wordsworth Road,PERSON
+Priory Road,LOCATION
+Lark Hall Lane,LOCATION
+Stockwell Place,ORGANIZATION
+Robert Street,PERSON
+Cold Harbor Lane,ORGANIZATION
+Hindoo,MISC
+Oriental,MISC
+Sahib,PERSON
+he,PERSON
+he,PERSON
+Indian,MISC
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Miss Morstan,MISC
+he,PERSON
+South London,LOCATION
+he,PERSON
+Eastern,MISC
+Mr. Thaddeus Sholto,PERSON
+Miss Morstan,MISC
+Mr. Sherlock Holmes,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Miss Morstan,MISC
+he,PERSON
+Miss Morstan,MISC
+his,PERSON
+he,PERSON
+Miss Morstan,MISC
+her,PERSON
+he,PERSON
+she,PERSON
+Bartholomew,PERSON
+he,PERSON
+Bartholomew,PERSON
+Bartholomew,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Chianti,LOCATION
+Eastern,MISC
+He,PERSON
+his,PERSON
+he,PERSON
+Williams,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Corot,LOCATION
+Salvator Rosa,PERSON
+Bouguereau,PERSON
+French,MISC
+Mr. Sholto,PERSON
+Miss Morstan,MISC
+Norwood,LOCATION
+Bartholomew,PERSON
+he,PERSON
+Bartholomew,PERSON
+He,PERSON
+last night,TIME
+him,PERSON
+he,PERSON
+he,PERSON
+Norwood,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+John Sholto,PERSON
+Indian,MISC
+Pondicherry Lodge,LOCATION
+Upper Norwood,LOCATION
+He,PERSON
+India,LOCATION
+He,PERSON
+him,PERSON
+he,PERSON
+Bartholomew,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Arthur Morstan,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Pondicherry Lodge,LOCATION
+He,PERSON
+he,PERSON
+Williams,PERSON
+England,LOCATION
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+1882,DATE
+India,LOCATION
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+end of April,DATE
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+hers,PERSON
+her,PERSON
+Agra,LOCATION
+her,PERSON
+her,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+India,LOCATION
+he,PERSON
+England,LOCATION
+night,TIME
+he,PERSON
+his,PERSON
+Lal Chowdar,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Lal Chowdar,PERSON
+He,PERSON
+him,PERSON
+Sahib,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+I. Lal Chowdar,PERSON
+him,PERSON
+his,PERSON
+Sahib,PERSON
+he,PERSON
+him,PERSON
+Lal Chowdar,PERSON
+London,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Christ,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+morning,TIME
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Miss Morstan,MISC
+her,PERSON
+she,PERSON
+Venetian,MISC
+She,PERSON
+her,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Thaddeus Sholto,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Bartholomew,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+her,PERSON
+she,PERSON
+his,PERSON
+he,PERSON
+Bartholomew,PERSON
+French,MISC
+Pondicherry Lodge,LOCATION
+Williams,PERSON
+Miss Morstan,MISC
+Norwood,LOCATION
+last night,DATE
+Bartholomew,PERSON
+Mr. Thaddeus Sholto,PERSON
+his,PERSON
+Holmes,PERSON
+spring,DATE
+his,PERSON
+he,PERSON
+Miss Morstan,MISC
+Astrakhan,LOCATION
+his,PERSON
+night,TIME
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Thaddeus Sholto,PERSON
+Bartholomew,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+Miss Morstan,MISC
+England,LOCATION
+her,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+coachman,MISC
+Miss Morstan,MISC
+Pondicherry,LOCATION
+Lodge,ORGANIZATION
+Mr. Thaddeus Sholto,PERSON
+he,PERSON
+her,PERSON
+night,TIME
+Thaddeus Sholto,PERSON
+Pondicherry,LOCATION
+Lodge,ORGANIZATION
+McMurdo,LOCATION
+his,PERSON
+Mr. Thaddeus,PERSON
+McMurdo,LOCATION
+last night,TIME
+Mr. Thaddeus,PERSON
+He,PERSON
+his,PERSON
+Thaddeus Sholto,PERSON
+him,PERSON
+McMurdo,LOCATION
+he,PERSON
+She,PERSON
+Mr. Thaddeus,PERSON
+He,PERSON
+McMurdo,LOCATION
+Sherlock Holmes,PERSON
+Alison,PERSON
+Mr. Sherlock Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Thaddeus,PERSON
+Thaddeus Sholto,PERSON
+his,PERSON
+he,PERSON
+Bartholomew,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Bartholomew,PERSON
+Holmes,PERSON
+Mrs. Bernstone,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+He,PERSON
+his,PERSON
+Miss Morstan,MISC
+Mrs. Bernstone,PERSON
+Sholto,PERSON
+She,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Mr. Thaddeus,PERSON
+Mr. Thaddeus,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+Miss Morstan,MISC
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+England,LOCATION
+Ballarat,LOCATION
+Holmes,PERSON
+Thaddeus Sholto,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Astrakhan,LOCATION
+He,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Thaddeus Sholto,PERSON
+him,PERSON
+Miss Morstan,MISC
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+Mr. Thaddeus,PERSON
+Mr. Bartholomew Sholto,PERSON
+him,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+Thaddeus Sholto,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+Miss Morstan,MISC
+Indian,MISC
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Sherlock Holmes,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+Moonlight,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Bartholomew Sholto,PERSON
+Bunsen,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+last night,TIME
+him,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. Sholto,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+last night,TIME
+He,PERSON
+his,PERSON
+last night,TIME
+Watson,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+India,LOCATION
+Senegambia,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Hippocratic,MISC
+his,PERSON
+English,MISC
+he,PERSON
+he,PERSON
+He,PERSON
+Thaddeus Sholto,PERSON
+He,PERSON
+he,PERSON
+Mr. Athelney Jones,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Bishopgate,MISC
+Norwood,LOCATION
+Holmes,PERSON
+Mr. Sholto,PERSON
+Holmes,PERSON
+Sholto,PERSON
+last night,TIME
+his,PERSON
+his,PERSON
+Sholto,PERSON
+Thaddeus Sholto,PERSON
+his,PERSON
+Thaddeus,PERSON
+him,PERSON
+His,PERSON
+Thaddeus,PERSON
+His,PERSON
+Thaddeus,PERSON
+him,PERSON
+Holmes,PERSON
+House,ORGANIZATION
+Indian,MISC
+Thaddeus,PERSON
+Thaddeus,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+Athelney Jones,PERSON
+He,PERSON
+Mr. Sholto,PERSON
+his,PERSON
+Mr. Sholto,PERSON
+Holmes,PERSON
+Mr. Theorist,PERSON
+Mr. Jones,PERSON
+last night,TIME
+him,PERSON
+Jonathan Small,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+Athelney Jones,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+Miss Morstan,MISC
+her,PERSON
+Mrs. Cecil Forrester,PERSON
+Lower Camberwell,LOCATION
+She,PERSON
+he,PERSON
+Jones,PERSON
+he,PERSON
+Miss Morstan,MISC
+Pinchin Lane,LOCATION
+Sherman,PERSON
+Sherman,PERSON
+Toby,PERSON
+him,PERSON
+Toby,PERSON
+Toby,PERSON
+London,LOCATION
+him,PERSON
+Holmes,PERSON
+Mrs. Bernstone,PERSON
+Indian,MISC
+Mr. Thaddeus,PERSON
+Jones,PERSON
+his,PERSON
+Goethe,PERSON
+Miss Morstan,MISC
+her,PERSON
+she,PERSON
+her,PERSON
+night,TIME
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Agra,LOCATION
+Mrs. Cecil Forrester,PERSON
+Mrs. Forrester,PERSON
+Miss Morstan,MISC
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+Mrs. Forrester,PERSON
+her,PERSON
+English,MISC
+Indian,MISC
+Major Sholto,ORGANIZATION
+Pinchin Lane,PERSON
+Mr. Sherman,PERSON
+Mr. Sherlock Holmes,PERSON
+Mr. Sherman,PERSON
+Mr. Sherlock,PERSON
+he,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+He,PERSON
+Toby,PERSON
+Toby,PERSON
+Toby,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Toby,PERSON
+Palace,LOCATION
+Pondicherry Lodge,LOCATION
+McMurdo,ORGANIZATION
+Mr. Sholto,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Athelney Jones,PERSON
+Thaddeus,PERSON
+Indian,MISC
+He,PERSON
+Toby,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Toby,PERSON
+him,PERSON
+Blondin,PERSON
+Sherlock Holmes,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+spring,DATE
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Bartholomew Sholto,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+Toby,PERSON
+Toby,PERSON
+He,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Toby,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+London,LOCATION
+Toby,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Englishman,MISC
+Jonathan Small,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+England,LOCATION
+he,PERSON
+Jonathan Small,PERSON
+Morstan,LOCATION
+Jonathan Small,PERSON
+he,PERSON
+his,PERSON
+Sholto,PERSON
+his,PERSON
+India,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Hindoos,PERSON
+Mohammedans,MISC
+Jonathan Small,PERSON
+Jonathan Small,PERSON
+his,PERSON
+England,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Sholto,PERSON
+He,PERSON
+he,PERSON
+Lal Rao,PERSON
+Mrs. Bernstone,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Jonathan Small,PERSON
+He,PERSON
+England,LOCATION
+he,PERSON
+he,PERSON
+Jonathan,PERSON
+Bartholomew Sholto,PERSON
+his,PERSON
+Toby,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+Jonathan,PERSON
+Jonathan,PERSON
+he,PERSON
+Bartholomew Sholto,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Jonathan Small,PERSON
+his,PERSON
+his,PERSON
+Andamans,MISC
+his,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Thaddeus Sholto,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+London,LOCATION
+Jean Paul,PERSON
+Carlyle,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Jonathan,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Toby,PERSON
+his,PERSON
+Streatham,LOCATION
+Brixton,LOCATION
+Camberwell,LOCATION
+Kennington Lane,LOCATION
+Oval,LOCATION
+Kennington Lane,LOCATION
+Miles Street,LOCATION
+Toby,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Nine Elms,ORGANIZATION
+Broderick,PERSON
+Nelson,PERSON
+White Eagle,ORGANIZATION
+Toby,PERSON
+Sherlock Holmes,PERSON
+Toby,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+London,LOCATION
+Toby,PERSON
+Toby,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Belmont Place and Prince's Street,LOCATION
+Broad Street,LOCATION
+Toby,PERSON
+Holmes,PERSON
+Toby,PERSON
+he,PERSON
+he,PERSON
+Mordecai Smith,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+Jack,PERSON
+she,PERSON
+he,PERSON
+Holmes,PERSON
+Jack,PERSON
+he,PERSON
+Mrs. Smith,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Smith,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Woolwich,ORGANIZATION
+her,PERSON
+her,PERSON
+Gravesend,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Mrs. Smith,PERSON
+Holmes,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Jim,PERSON
+Mrs. Smith,PERSON
+her,PERSON
+Aurora,LOCATION
+She,PERSON
+She,PERSON
+She,PERSON
+Mr. Smith,PERSON
+him,PERSON
+Mrs. Smith,PERSON
+Watson,PERSON
+Holmes,PERSON
+Aurora,LOCATION
+Greenwich,LOCATION
+She,PERSON
+Athelney Jones,PERSON
+He,PERSON
+him,PERSON
+Jones,PERSON
+his,PERSON
+Millbank Penitentiary,LOCATION
+Toby,PERSON
+he,PERSON
+Great Peter Street,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Baker Street,LOCATION
+Jefferson Hope,PERSON
+Wiggins,PERSON
+he,PERSON
+his,PERSON
+night,TIME
+Bartholomew Sholto,PERSON
+him,PERSON
+his,PERSON
+Miss Morstan,MISC
+her,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+he,PERSON
+Jones,PERSON
+Upper Norwood,LOCATION
+him,PERSON
+last night,TIME
+Mr. Bartholomew Sholto,PERSON
+Pondicherry Lodge,LOCATION
+Upper Norwood,LOCATION
+his,PERSON
+Mr. Sholto,PERSON
+Indian,MISC
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+Watson,PERSON
+Mr. Thaddeus Sholto,PERSON
+Mr. Athelney Jones,PERSON
+Norwood Police Station,ORGANIZATION
+Thaddeus Sholto,PERSON
+Mrs. Bernstone,PERSON
+Indian,MISC
+Lal Rao,PERSON
+His,PERSON
+Mr. Jones,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mrs. Hudson,PERSON
+her,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Wiggins,PERSON
+Aurora,LOCATION
+Mordecai Smith,PERSON
+She,PERSON
+Mordecai Smith,PERSON
+Millbank,LOCATION
+Wiggins,PERSON
+He,PERSON
+Holmes,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Aurora,LOCATION
+Mr. Mordecai Smith,PERSON
+Toby,PERSON
+Holmes,PERSON
+him,PERSON
+Indians,MISC
+Jonathan Small,PERSON
+he,PERSON
+Indian Peninsula,LOCATION
+Mohammedan,MISC
+South American,MISC
+He,PERSON
+his,PERSON
+Andaman Islands,LOCATION
+Sumatra,LOCATION
+Bay of Bengal,LOCATION
+Port Blair,PERSON
+Rutland Island,LOCATION
+Andaman Islands,LOCATION
+Bushmen,MISC
+Africa,LOCATION
+Digger Indians,MISC
+America,LOCATION
+Watson,PERSON
+British,MISC
+Watson,PERSON
+his,PERSON
+Jonathan Small,PERSON
+him,PERSON
+he,PERSON
+Andamans,MISC
+him,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mary Morstan,PERSON
+Sherlock Holmes,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Wiggins,PERSON
+He,PERSON
+Camberwell,LOCATION
+Mrs. Cecil Forrester,PERSON
+She,PERSON
+Mrs. Cecil Forrester,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Toby,PERSON
+him,PERSON
+Pinchin Lane,LOCATION
+him,PERSON
+Camberwell,LOCATION
+Miss Morstan,MISC
+her,PERSON
+Mrs. Forrester,PERSON
+Mr. Sholto,PERSON
+Mrs. Forrester,PERSON
+Miss Morstan,MISC
+Mary,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Mr. Thaddeus Sholto,PERSON
+she,PERSON
+he,PERSON
+him,PERSON
+Camberwell,LOCATION
+his,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Mrs. Hudson,PERSON
+she,PERSON
+He,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+Mrs. Hudson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mrs. Hudson,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Mrs. Hudson,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mrs. Smith,PERSON
+her,PERSON
+Mrs. Smith,PERSON
+Richmond,LOCATION
+Wiggins,PERSON
+Thaddeus Sholto,PERSON
+Camberwell,LOCATION
+Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Wiggins,PERSON
+last night,TIME
+him,PERSON
+Standard,MISC
+Mr. Thaddeus Sholto,PERSON
+Mrs. Bernstone,PERSON
+yesterday,DATE
+evening,TIME
+He,PERSON
+Mr. Athelney Jones,PERSON
+Scotland Yard,LOCATION
+his,PERSON
+Sholto,PERSON
+Mordecai Smith,PERSON
+Jim,PERSON
+Smith,PERSON
+Tuesday,DATE
+Aurora,LOCATION
+Mrs. Smith,PERSON
+Smith's Wharf,ORGANIZATION
+Baker Street,LOCATION
+Mordecai Smith,PERSON
+Aurora,LOCATION
+his,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+her,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Mr. Athelney Jones,PERSON
+Upper Norwood,LOCATION
+he,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Norwood,PERSON
+Mr. Sholto,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+this morning,TIME
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Poplar,LOCATION
+Baker Street,LOCATION
+Jones,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Mordecai Smith,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Athelney Jones,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Athelney Jones,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Jones,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Jones,PERSON
+he,PERSON
+his,PERSON
+Westminster Stairs,ORGANIZATION
+her,PERSON
+Watson,PERSON
+Jones,PERSON
+his,PERSON
+Jonathan Small,PERSON
+him,PERSON
+he,PERSON
+Jonathan Small,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+Ceylon,ORGANIZATION
+He,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+Athelney Jones,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Jones,PERSON
+Holmes,PERSON
+Jones,PERSON
+Jacobson,PERSON
+Holmes,PERSON
+her,PERSON
+he,PERSON
+Aurora,LOCATION
+she,PERSON
+Watson,PERSON
+him,PERSON
+London,LOCATION
+Pondicherry,LOCATION
+Lodge,ORGANIZATION
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Jonathan Small,PERSON
+Norwood,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Mrs. Smith,PERSON
+Smith,PERSON
+his,PERSON
+his,PERSON
+Gravesend,LOCATION
+America,LOCATION
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+She,PERSON
+his,PERSON
+her,PERSON
+Aurora,LOCATION
+her,PERSON
+her,PERSON
+she,PERSON
+Mordecai Smith,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Jones,PERSON
+Jacobson,PERSON
+He,PERSON
+him,PERSON
+Mordecai Smith,PERSON
+Smith,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Thames,LOCATION
+St. Paul,LOCATION
+Jacobson,PERSON
+Holmes,PERSON
+Surrey,LOCATION
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Jones,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+Winwood Reade,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Aurora,LOCATION
+Holmes,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Jones,PERSON
+her,PERSON
+his,PERSON
+She,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Her,PERSON
+Aurora,LOCATION
+her,PERSON
+she,PERSON
+Aurora,LOCATION
+her,PERSON
+Holmes,PERSON
+his,PERSON
+Jones,PERSON
+Aurora,LOCATION
+his,PERSON
+her,PERSON
+Aurora,LOCATION
+She,PERSON
+West India,LOCATION
+Deptford Reach,ORGANIZATION
+Aurora,LOCATION
+Jones,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+Newfoundland,LOCATION
+him,PERSON
+Smith,PERSON
+Greenwich,LOCATION
+Blackwall,LOCATION
+Thames,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+Jones,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Aurora,LOCATION
+Indian,MISC
+Thames,LOCATION
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Jonathan Small,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Sholto,PERSON
+Tonga,LOCATION
+his,PERSON
+him,PERSON
+Holmes,PERSON
+Mr. Sholto,PERSON
+him,PERSON
+Mr. Sholto,PERSON
+supper,DATE
+his,PERSON
+him,PERSON
+him,PERSON
+Sholto,PERSON
+Mr. Athelney Jones,PERSON
+Scotland Yard,LOCATION
+He,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Tonga,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Andamans,MISC
+he,PERSON
+Achmet,PERSON
+Agra,LOCATION
+him,PERSON
+Athelney Jones,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+her,PERSON
+Holmes,PERSON
+Aurora,LOCATION
+Smith,PERSON
+she,PERSON
+he,PERSON
+him,PERSON
+her,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+Gravesend,LOCATION
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Jones,PERSON
+Sherlock Holmes,PERSON
+him,PERSON
+Vauxhall Bridge,LOCATION
+Jones,PERSON
+Watson,PERSON
+Baker Street,LOCATION
+Vauxhall,ORGANIZATION
+Mrs. Cecil Forrester,PERSON
+Mrs. Cecil Forrester,PERSON
+she,PERSON
+Miss Morstan,MISC
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Mrs. Forrester,PERSON
+She,PERSON
+she,PERSON
+Agra,LOCATION
+Thaddeus Sholto,PERSON
+England,LOCATION
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Watson,PERSON
+she,PERSON
+Aurora,LOCATION
+Athelney Jones,PERSON
+evening,TIME
+Thames,LOCATION
+her,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Indian,MISC
+Benares,LOCATION
+she,PERSON
+Mrs. Forrester,PERSON
+Buddha,PERSON
+Miss Morstan,MISC
+Agra,LOCATION
+She,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+Mary,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+His,PERSON
+him,PERSON
+he,PERSON
+Sam Brown,PERSON
+Mr. Thaddeus Sholto,PERSON
+He,PERSON
+his,PERSON
+Mr. Athelney Jones,PERSON
+he,PERSON
+Baker Street,LOCATION
+His,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Athelney Jones,PERSON
+he,PERSON
+Andaman,MISC
+Achmet,PERSON
+Tonga,LOCATION
+Athelney Jones,PERSON
+he,PERSON
+Agra,LOCATION
+Tonga,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Sholto,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Worcestershire,ORGANIZATION
+Pershore,LOCATION
+3d Buffs,MISC
+India,LOCATION
+Ganges,LOCATION
+John Holder,PERSON
+he,PERSON
+Abelwhite,PERSON
+his,PERSON
+He,PERSON
+Mr. Abelwhite,PERSON
+he,PERSON
+India,LOCATION
+Surrey,LOCATION
+Kent,LOCATION
+Northwest Provinces,LOCATION
+Night after night,TIME
+Europeans,MISC
+Agra,LOCATION
+Mr. Abelwhite,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Dawson,PERSON
+him,PERSON
+his,PERSON
+evening,TIME
+Dawson,PERSON
+Dawson,PERSON
+Sepoys,MISC
+his,PERSON
+his,PERSON
+him,PERSON
+Abelwhite,PERSON
+Agra,LOCATION
+English,MISC
+Agra,LOCATION
+Sikhs,MISC
+Shahgunge,LOCATION
+July,DATE
+Lucknow,LOCATION
+Cawnpore,PERSON
+Agra,LOCATION
+Agra,LOCATION
+his,PERSON
+Sikh,MISC
+Mahomet Singh,PERSON
+Abdullah Khan,PERSON
+English,MISC
+Sikh,MISC
+Sikhs,MISC
+night,TIME
+Sikhs,MISC
+his,PERSON
+he,PERSON
+Cawnpore,LOCATION
+he,PERSON
+he,PERSON
+Sahib,PERSON
+Abdullah Khan,PERSON
+Christians,MISC
+he,PERSON
+this night,TIME
+Sikh,MISC
+he,PERSON
+Dost Akbar,PERSON
+his,PERSON
+Mahomet Singh,PERSON
+Sahib,PERSON
+Hindoo,PERSON
+Sikh,MISC
+Englishman,MISC
+Englishman,MISC
+Sikh,MISC
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Agra,LOCATION
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Sahib,PERSON
+his,PERSON
+Achmet,PERSON
+Agra,LOCATION
+his,PERSON
+Dost Akbar,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+Dost Akbar,PERSON
+him,PERSON
+his,PERSON
+Mahomet Singh,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Achmet,PERSON
+Sahib,PERSON
+Achmet,PERSON
+his,PERSON
+Abdullah Khan,PERSON
+Sahib,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Company,ORGANIZATION
+Sahib,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Mahomet Singh,PERSON
+Brown,PERSON
+his,PERSON
+Sahib,PERSON
+Abdullah,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Sikh,MISC
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Sahib,PERSON
+Achmet,PERSON
+he,PERSON
+Rajpootana,PERSON
+Agra,LOCATION
+he,PERSON
+Sahib,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Sikhs,MISC
+him,PERSON
+Sikh,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+Sikh,MISC
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Sikh,MISC
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+fall,DATE
+he,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Jones,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Abdullah,PERSON
+Akbar,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Mahomet Singh,PERSON
+Sikhs,MISC
+him,PERSON
+Achmet,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Pershore,LOCATION
+Mahomet Singh,PERSON
+Indian,MISC
+Wilson,PERSON
+Delhi,LOCATION
+Colin,PERSON
+Lucknow,LOCATION
+Nana Sahib,PERSON
+Agra,LOCATION
+Achmet,PERSON
+Achmet,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+East,LOCATION
+him,PERSON
+Achmet,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+Achmet,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+gate that night,TIME
+he,PERSON
+India,LOCATION
+Sikhs,MISC
+his,PERSON
+him,PERSON
+Agra,LOCATION
+Madras,LOCATION
+Blair Island,LOCATION
+Andamans,MISC
+Hope Town,LOCATION
+Mount Harriet,LOCATION
+his,PERSON
+Somerton,PERSON
+evening,TIME
+his,PERSON
+his,PERSON
+Bromley Brown,PERSON
+Andamans,MISC
+Night after night,TIME
+Sholto,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Sholto,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Captain Morstan,MISC
+he,PERSON
+his,PERSON
+Captain Morstan,MISC
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Calcutta,LOCATION
+Madras,LOCATION
+Indian,MISC
+her,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+India,LOCATION
+he,PERSON
+he,PERSON
+Mahomet Singh,PERSON
+Abdullah Khan,PERSON
+Dost Akbar,PERSON
+Agra,LOCATION
+Sholto,PERSON
+India,LOCATION
+Rutland Island,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+Morstan,PERSON
+Agra,LOCATION
+he,PERSON
+his,PERSON
+Abdullah,PERSON
+Akbar,PERSON
+Mahomet,PERSON
+Mr. Jones,PERSON
+Sholto,PERSON
+India,LOCATION
+he,PERSON
+Morstan,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Agra,LOCATION
+him,PERSON
+Sholto,PERSON
+his,PERSON
+Agra,LOCATION
+Sholto,LOCATION
+Somerton,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Tonga,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Tonga,LOCATION
+He,PERSON
+night,TIME
+he,PERSON
+his,PERSON
+Pathan,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Tonga,LOCATION
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Andaman,MISC
+he,PERSON
+Singapore,LOCATION
+Jiddah,LOCATION
+Malay,MISC
+Tonga,LOCATION
+London,LOCATION
+him,PERSON
+England,LOCATION
+Sholto,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Sikh,MISC
+his,PERSON
+he,PERSON
+he,PERSON
+Tonga,LOCATION
+He,PERSON
+his,PERSON
+Pondicherry Lodge,LOCATION
+Mr. Bartholomew Sholto,PERSON
+Mr. Sholto,PERSON
+Tonga,LOCATION
+him,PERSON
+his,PERSON
+Bartholomew Sholto,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Tonga,LOCATION
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Tonga,LOCATION
+he,PERSON
+Smith,PERSON
+Aurora,LOCATION
+she,PERSON
+Smith,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Sholto,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+Tonga,LOCATION
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Athelney Jones,PERSON
+Jonathan Small,PERSON
+Jones,PERSON
+Andaman Isles,LOCATION
+He,PERSON
+he,PERSON
+she,PERSON
+Agra,LOCATION
+She,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+Goethe,PERSON
+Schade,PERSON
+Denn,PERSON
+Schelmen der Stoff,PERSON
+Lal Rao,PERSON
+Jones,PERSON
+his,PERSON
+Jones,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON

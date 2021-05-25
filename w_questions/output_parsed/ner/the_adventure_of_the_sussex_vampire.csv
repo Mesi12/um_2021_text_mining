@@ -1,0 +1,509 @@
+text,ner
+Holmes,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+Old Jewry,LOCATION
+Nov. 19th,DATE
+Mr. Robert Ferguson,PERSON
+Ferguson,PERSON
+Muirhead,PERSON
+Mincing Lane,LOCATION
+Mr. Ferguson,PERSON
+Matilda Briggs,PERSON
+Morrison,PERSON
+Morrison,PERSON
+Dodd,PERSON
+Matilda Briggs,PERSON
+Watson,PERSON
+Holmes,PERSON
+Sumatra,LOCATION
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Gloria Scott,PERSON
+he,PERSON
+Watson,PERSON
+Victor Lynch,PERSON
+Vittoria,PERSON
+Vanderbilt,ORGANIZATION
+Yeggman,MISC
+Hammersmith,LOCATION
+Watson,PERSON
+Hungary,LOCATION
+Transylvania,LOCATION
+He,PERSON
+he,PERSON
+Rubbish,MISC
+Watson,PERSON
+Watson,PERSON
+Mr. Robert Ferguson,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Cheeseman,PERSON
+Lamberley,PERSON
+Lamberley,PERSON
+Watson,PERSON
+Sussex,LOCATION
+Horsham,LOCATION
+Cheeseman,PERSON
+Holmes,PERSON
+Odley,PERSON
+Harvey,PERSON
+Carriton,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Cheeseman,PERSON
+Lamberley,LOCATION
+Robert Ferguson,PERSON
+he,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+Peruvian,MISC
+Peruvian,MISC
+he,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+he,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+his,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+He,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+He,PERSON
+English,MISC
+Sussex,LOCATION
+morning,TIME
+Ferguson,PERSON
+Cheeseman,PERSON
+Lamberley,LOCATION
+Robert Ferguson,PERSON
+Watson,PERSON
+Richmond,LOCATION
+him,PERSON
+Bob Ferguson,PERSON
+Richmond,LOCATION
+He,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Ferguson,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+Old Deer Park,LOCATION
+last day,DATE
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Mr. Ferguson,PERSON
+Mr. Holmes,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Dolores,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+Mrs. Mason,PERSON
+she,PERSON
+her,PERSON
+Jack,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+Ferguson,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mr. Ferguson,PERSON
+Michael,PERSON
+Jack,PERSON
+Dolores,PERSON
+Mrs. Mason,PERSON
+her,PERSON
+Dolores,PERSON
+her,PERSON
+Dolores,PERSON
+Holmes,PERSON
+Lamberley,LOCATION
+he,PERSON
+her,PERSON
+her,PERSON
+Ferguson,PERSON
+Mr. Holmes,PERSON
+Victoria,LOCATION
+Watson,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Jack,PERSON
+Mrs. Mason,PERSON
+Mr. Holmes,PERSON
+Mr. Ferguson,PERSON
+Victoria,LOCATION
+November,DATE
+Chequers,LOCATION
+Lamberley,LOCATION
+Sussex,LOCATION
+Ferguson,PERSON
+Horsham,LOCATION
+Ferguson,PERSON
+1670,DATE
+seventeenth century,DATE
+South American,MISC
+Peruvian,MISC
+Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Ferguson,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Carlo,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Mr. Ferguson,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+Dolores,PERSON
+Ferguson,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+Ferguson,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+She,PERSON
+Ferguson,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+she,PERSON
+Bob Ferguson,PERSON
+Madame,MISC
+He,PERSON
+she,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+She,PERSON
+her,PERSON
+Ferguson,PERSON
+Holmes,PERSON
+Ferguson,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+He,PERSON
+Mrs. Mason,PERSON
+he,PERSON
+she,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Ferguson,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Mr. Holmes,PERSON
+Mr. Ferguson,PERSON
+Holmes,PERSON
+Mrs. Mason,PERSON
+Ferguson,PERSON
+he,PERSON
+Saxon,PERSON
+he,PERSON
+him,PERSON
+her,PERSON
+Ferguson,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Holmes,LOCATION
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+her,PERSON
+Mrs. Mason,PERSON
+Holmes,PERSON
+Jack,PERSON
+her,PERSON
+Holmes,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+Jacky,PERSON
+Ferguson,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Ferguson,PERSON
+him,PERSON
+Jacky,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Baker Street,LOCATION
+Ferguson,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Ferguson,PERSON
+She,PERSON
+Holmes,PERSON
+she,PERSON
+He,PERSON
+Watson,PERSON
+Dolores,PERSON
+Dolores,PERSON
+She,PERSON
+She,PERSON
+she,PERSON
+Ferguson,PERSON
+Holmes,PERSON
+Ferguson,PERSON
+his,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+Dolores,PERSON
+Holmes,PERSON
+she,PERSON
+Mr. Ferguson,PERSON
+Ferguson,PERSON
+Mr. Holmes,PERSON
+Baker Street,LOCATION
+England,LOCATION
+her,PERSON
+English,MISC
+South American,MISC
+him,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+Jacky,PERSON
+him,PERSON
+His,PERSON
+Jacky,PERSON
+Mr. Ferguson,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Bob,PERSON
+he,PERSON
+Jacky,PERSON
+Holmes,PERSON
+his,PERSON
+Jacky,PERSON
+Mrs. Mason,PERSON
+She,PERSON
+Ferguson,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+Dolores,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+Nov. 21st,DATE
+19th,DATE
+Mr. Robert Ferguson,PERSON
+Ferguson,PERSON
+Muirhead,PERSON
+Mincing Lane,PERSON
+Sherlock Holmes,PERSON

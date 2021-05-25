@@ -1,0 +1,3656 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+him,PERSON
+James Mortimer,PERSON
+C.C.H.,MISC
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+him,PERSON
+his,PERSON
+Mortimer,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+Charing Cross,ORGANIZATION
+Charing Cross Hospital,ORGANIZATION
+his,PERSON
+him,PERSON
+Mortimer,PERSON
+London,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Medical Directory,ORGANIZATION
+his,PERSON
+Mortimer,PERSON
+James,PERSON
+M.R.C.S.,ORGANIZATION
+1882,DATE
+Grimpen,PERSON
+Devon,PERSON
+1882,DATE
+1884,DATE
+Charing Cross Hospital,ORGANIZATION
+Jackson,PERSON
+Swedish Pathological Society,ORGANIZATION
+"March, 1883",DATE
+Grimpen,LOCATION
+Thorsley,LOCATION
+Watson,PERSON
+Holmes,PERSON
+London,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Jove,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+He,PERSON
+Watson,PERSON
+James Mortimer,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Shipping Office,ORGANIZATION
+Holmes,PERSON
+Charing Cross Hospital,ORGANIZATION
+Holmes,PERSON
+his,PERSON
+Mortimer,PERSON
+his,PERSON
+Holmes,PERSON
+James Mortimer,PERSON
+Mr. Holmes,PERSON
+Mr. Sherlock Holmes,PERSON
+Watson,PERSON
+Mr. Holmes,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+last night,TIME
+he,PERSON
+Mr. Holmes,PERSON
+Europe,LOCATION
+Holmes,PERSON
+Monsieur Bertillon,PERSON
+him,PERSON
+Holmes,PERSON
+Mortimer,PERSON
+James Mortimer,PERSON
+Holmes,PERSON
+1730,DATE
+Mortimer,PERSON
+his,PERSON
+Charles Baskerville,PERSON
+Devonshire,LOCATION
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+Baskerville Hall,PERSON
+Baskerville,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mortimer,PERSON
+Baskervilles,ORGANIZATION
+Hugo Baskerville,PERSON
+his,PERSON
+Clarendon,PERSON
+Baskerville,PERSON
+he,PERSON
+West,LOCATION
+his,PERSON
+him,PERSON
+his,PERSON
+Baskerville,LOCATION
+him,PERSON
+she,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+Hugo,PERSON
+her,PERSON
+his,PERSON
+Hugo Baskerville,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Hugo,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+Whereat Hugo,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+Hugo Baskerville,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+Hugo Baskerville,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+Hugo Baskerville,PERSON
+he,PERSON
+Providence,LOCATION
+Providence,LOCATION
+Hugo Baskerville,PERSON
+Rodger,PERSON
+John,PERSON
+Elizabeth,PERSON
+his,PERSON
+Mortimer,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mortimer,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Devon County,LOCATION
+May 14th,DATE
+Charles Baskerville,PERSON
+his,PERSON
+Charles Baskerville,PERSON
+Mid-Devon,LOCATION
+his,PERSON
+Charles,PERSON
+Baskerville Hall,LOCATION
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Charles,PERSON
+South African,MISC
+England,LOCATION
+he,PERSON
+his,PERSON
+Baskerville Hall,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+Charles,PERSON
+Charles,PERSON
+Baskerville Hall,LOCATION
+Barrymore,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Charles,PERSON
+James Mortimer,PERSON
+Charles Baskerville,PERSON
+Yew Alley,PERSON
+Baskerville Hall,LOCATION
+Barrymores,ORGANIZATION
+his,PERSON
+May,DATE
+Charles,PERSON
+London,LOCATION
+Barrymore,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+Barrymore,PERSON
+his,PERSON
+Charles,PERSON
+Charles,PERSON
+Alley,LOCATION
+He,PERSON
+his,PERSON
+Barrymore,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Murphy,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Charles,PERSON
+Mortimer,PERSON
+his,PERSON
+him,PERSON
+Charles,PERSON
+Baskerville Hall,LOCATION
+Mr. Henry Baskerville,PERSON
+Charles Baskerville,PERSON
+he,PERSON
+America,LOCATION
+him,PERSON
+his,PERSON
+Mortimer,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Charles Baskerville,PERSON
+Sherlock Holmes,PERSON
+English,MISC
+He,PERSON
+his,PERSON
+his,PERSON
+Mortimer,PERSON
+Baskerville Hall,LOCATION
+Charles Baskerville,PERSON
+Mr. Frankland,PERSON
+Lafter Hall,LOCATION
+Mr. Stapleton,PERSON
+Charles,PERSON
+his,PERSON
+South Africa,LOCATION
+Bushman,PERSON
+He,PERSON
+Charles,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+evening,TIME
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Charles,PERSON
+London,LOCATION
+His,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Stapleton,PERSON
+his,PERSON
+Charles,PERSON
+Barrymore,PERSON
+Perkins,PERSON
+Baskerville Hall,LOCATION
+Yew Alley,LOCATION
+Barrymore,PERSON
+he,PERSON
+Charles,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Barrymore,PERSON
+He,PERSON
+He,PERSON
+Mortimer,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Charles,PERSON
+he,PERSON
+Mortimer,PERSON
+Charles,PERSON
+his,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mortimer,PERSON
+Mortimer,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Baskerville,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Father of Evil,MISC
+he,PERSON
+Mortimer,PERSON
+Charles,PERSON
+Henry Baskerville,PERSON
+Waterloo Station,LOCATION
+his,PERSON
+He,PERSON
+Charles,PERSON
+Canada,LOCATION
+he,PERSON
+he,PERSON
+Charles,PERSON
+Rodger Baskerville,PERSON
+Charles,PERSON
+Henry,PERSON
+Rodger,PERSON
+He,PERSON
+England,LOCATION
+Central America,LOCATION
+1876,DATE
+He,PERSON
+him,PERSON
+Henry,PERSON
+Baskervilles,ORGANIZATION
+Waterloo Station,LOCATION
+him,PERSON
+Southampton,LOCATION
+this morning,TIME
+he,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Baskerville,PERSON
+Charles,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Charles,PERSON
+Holmes,PERSON
+he,PERSON
+Dartmoor,MISC
+London,LOCATION
+Devonshire,LOCATION
+Mr. Holmes,PERSON
+Devonshire,LOCATION
+London,LOCATION
+He,PERSON
+Waterloo,LOCATION
+Henry Baskerville,PERSON
+him,PERSON
+Mortimer,PERSON
+Henry Baskerville,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+Mortimer,PERSON
+Charles Baskerville,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+Bradley,PERSON
+him,PERSON
+this morning,TIME
+he,PERSON
+his,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+Devonshire,LOCATION
+Stamford,LOCATION
+He,PERSON
+his,PERSON
+Baskerville Hall,LOCATION
+Yew Alley,PERSON
+Grimpen,LOCATION
+Mortimer,PERSON
+his,PERSON
+Lafter Hall,PERSON
+his,PERSON
+Princetown,LOCATION
+Mortimer,PERSON
+Mortimer,PERSON
+He,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Yew Alley,LOCATION
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mortimer,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+London,LOCATION
+he,PERSON
+his,PERSON
+Watson,PERSON
+Mortimer,PERSON
+Henry Baskerville,PERSON
+morning,TIME
+Holmes,PERSON
+his,PERSON
+Mortimer,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Henry Baskerville,PERSON
+Mortimer,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+this morning,TIME
+Henry,PERSON
+London,LOCATION
+Mr. Holmes,PERSON
+this morning,TIME
+He,PERSON
+Henry Baskerville,PERSON
+Northumberland Hotel,LOCATION
+Charing Cross,ORGANIZATION
+Northumberland Hotel,LOCATION
+Holmes,PERSON
+Mortimer,PERSON
+Mortimer,PERSON
+he,PERSON
+he,PERSON
+Henry Baskerville,PERSON
+Mr. Holmes,PERSON
+Mortimer,PERSON
+Henry,PERSON
+Henry,PERSON
+Sherlock Holmes,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Mortimer,PERSON
+Holmes,PERSON
+Henry Baskerville,PERSON
+he,PERSON
+Henry,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+Henry,PERSON
+Mr. Holmes,PERSON
+Mortimer,PERSON
+Times,ORGANIZATION
+Times,ORGANIZATION
+Mr. Holmes,PERSON
+Henry Baskerville,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Times,ORGANIZATION
+his,PERSON
+his,PERSON
+Henry,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mortimer,PERSON
+Charing Cross,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+Henry,PERSON
+London,LOCATION
+Mr. Holmes,PERSON
+Henry,PERSON
+British,MISC
+States,LOCATION
+Canada,LOCATION
+Mortimer,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+last night,TIME
+London,LOCATION
+Mortimer,PERSON
+West,LOCATION
+Sherlock Holmes,PERSON
+Mortimer,PERSON
+Holmes,PERSON
+Mortimer,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Henry Baskerville,PERSON
+he,PERSON
+Mortimer,PERSON
+Holmes,PERSON
+Mortimer,PERSON
+Henry,PERSON
+Baskerville Hall,LOCATION
+Mr. Holmes,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Baskervilles,ORGANIZATION
+he,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Watson,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mortimer,PERSON
+Baskerville,PERSON
+Oxford Street,LOCATION
+Watson,PERSON
+He,PERSON
+his,PERSON
+Oxford Street,LOCATION
+Regent Street,LOCATION
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+Regent Street,LOCATION
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+Watson,PERSON
+Baskerville,PERSON
+he,PERSON
+Northumberland Hotel,LOCATION
+he,PERSON
+him,PERSON
+him,PERSON
+Mortimer,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+Northumberland Hotel,LOCATION
+Baskerville,PERSON
+his,PERSON
+he,PERSON
+Regent Street,LOCATION
+Mortimer,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+Wilson,PERSON
+Wilson,PERSON
+Cartwright,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+Holmes,PERSON
+Cartwright,PERSON
+Charing Cross,ORGANIZATION
+him,PERSON
+Times,ORGANIZATION
+Times,ORGANIZATION
+Times,ORGANIZATION
+Baker Street,LOCATION
+evening,TIME
+Watson,PERSON
+2704,DATE
+Sherlock Holmes,PERSON
+his,PERSON
+Belgian,MISC
+he,PERSON
+Northumberland Hotel,LOCATION
+He,PERSON
+he,PERSON
+Henry Baskerville,PERSON
+He,PERSON
+Holmes,PERSON
+Baskerville,PERSON
+Theophilus Johnson,PERSON
+Newcastle,ORGANIZATION
+Mrs. Oldmore,PERSON
+Alton,PERSON
+Johnson,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Johnson,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mrs. Oldmore,PERSON
+She,PERSON
+Gloucester,LOCATION
+Her,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Henry Baskerville,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+Western,MISC
+morning,TIME
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+German,MISC
+him,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Henry,PERSON
+Holmes,PERSON
+Baskerville,PERSON
+his,PERSON
+Baskerville Hall,LOCATION
+Holmes,PERSON
+London,LOCATION
+Mortimer,PERSON
+this morning,TIME
+Mortimer,PERSON
+Dartmoor,MISC
+Barrymore,PERSON
+Charles,PERSON
+Barrymore,PERSON
+He,PERSON
+London,LOCATION
+he,PERSON
+he,PERSON
+Henry,PERSON
+Mr. Barrymore,PERSON
+Baskerville Hall,LOCATION
+Grimpen,PERSON
+Grimpen,PERSON
+Mr. Barrymore,PERSON
+his,PERSON
+Henry Baskerville,PERSON
+Northumberland Hotel,LOCATION
+Barrymore,PERSON
+Devonshire,LOCATION
+his,PERSON
+Baskerville,PERSON
+Dr. Mortimer,PERSON
+Barrymore,PERSON
+caretaker,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+Baskerville,PERSON
+Barrymore,PERSON
+Charles,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Charles,PERSON
+his,PERSON
+Mortimer,PERSON
+Charles,PERSON
+Henry,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Charles,PERSON
+he,PERSON
+his,PERSON
+Mortimer,PERSON
+Rodger Baskerville,PERSON
+Charles,PERSON
+Desmonds,PERSON
+James Desmond,PERSON
+Westmoreland,LOCATION
+Mr. James Desmond,PERSON
+Charles,PERSON
+he,PERSON
+He,PERSON
+Charles,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Charles,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+Henry,PERSON
+Mr. Holmes,PERSON
+Baskervilles,LOCATION
+he,PERSON
+House,ORGANIZATION
+Henry,PERSON
+Devonshire,LOCATION
+Mortimer,PERSON
+Mortimer,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Henry,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+England,LOCATION
+Holmes,PERSON
+his,PERSON
+Baskerville,PERSON
+Watson,PERSON
+he,PERSON
+Baskerville Hall,LOCATION
+Holmes,PERSON
+Holmes,PERSON
+Saturday,DATE
+Watson,PERSON
+Saturday,DATE
+Paddington,LOCATION
+Baskerville,PERSON
+he,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Mortimer,PERSON
+Baskerville,PERSON
+German,MISC
+Charles,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+Barrymore,PERSON
+Baskerville,PERSON
+Times,ORGANIZATION
+Cartwright,PERSON
+Watson,PERSON
+his,PERSON
+2704,DATE
+he,PERSON
+Yard,MISC
+Holmes,PERSON
+John Clayton,PERSON
+Turpey Street,LOCATION
+Shipley,PERSON
+Waterloo Station,LOCATION
+Sherlock Holmes,PERSON
+Clayton,PERSON
+ten o'clock this morning,TIME
+Regent Street,LOCATION
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+He,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+him,PERSON
+Trafalgar Square,LOCATION
+He,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Northumberland Hotel,LOCATION
+Holmes,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+Regent Street,LOCATION
+Waterloo Station,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+John Clayton,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Henry Baskerville,PERSON
+Regent Street,LOCATION
+He,PERSON
+Watson,PERSON
+London,LOCATION
+Devonshire,LOCATION
+Watson,PERSON
+Baker Street,LOCATION
+Henry Baskerville,PERSON
+Mortimer,PERSON
+Devonshire,ORGANIZATION
+Mr. Sherlock Holmes,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Baskerville,PERSON
+Charles,PERSON
+his,PERSON
+Mr. James Desmond,PERSON
+him,PERSON
+him,PERSON
+Henry Baskerville,PERSON
+Barrymore,PERSON
+Mortimer,PERSON
+his,PERSON
+Stapleton,PERSON
+his,PERSON
+Mr. Frankland,PERSON
+Lafter Hall,LOCATION
+Mortimer,PERSON
+last two days,DATE
+Museum of the College of Surgeons,ORGANIZATION
+Baskerville,PERSON
+Holmes,PERSON
+his,PERSON
+Henry,PERSON
+he,PERSON
+Bear,MISC
+Henry,PERSON
+Mortimer,PERSON
+Holmes,PERSON
+Mortimer,PERSON
+Baskerville,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Devonshire,ORGANIZATION
+his,PERSON
+Mortimer,PERSON
+Celt,MISC
+Charles,PERSON
+Ivernian,MISC
+Baskerville Hall,PERSON
+South Coast,LOCATION
+he,PERSON
+America,LOCATION
+Watson,PERSON
+Mortimer,PERSON
+Baskerville,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+American,MISC
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Henry Baskerville,PERSON
+evening,TIME
+Baskerville,PERSON
+him,PERSON
+his,PERSON
+Nature,MISC
+Baskervilles,ORGANIZATION
+Mortimer,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+Perkins,PERSON
+Mortimer,PERSON
+his,PERSON
+Princetown,LOCATION
+He,PERSON
+him,PERSON
+he,PERSON
+Selden,PERSON
+Notting,LOCATION
+Hill,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Baskerville,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Baskerville Hall,PERSON
+he,PERSON
+Baskervilles,ORGANIZATION
+Charles,PERSON
+South African,MISC
+Baskerville,PERSON
+he,PERSON
+he,PERSON
+Yew Alley,LOCATION
+him,PERSON
+he,PERSON
+Edison,PERSON
+Henry,PERSON
+Baskerville Hall,PERSON
+She,PERSON
+Henry,PERSON
+Mortimer,PERSON
+Barrymore,PERSON
+Henry,PERSON
+Henry,PERSON
+Henry,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Barrymore,PERSON
+He,PERSON
+He,PERSON
+Henry,PERSON
+Charles,PERSON
+his,PERSON
+Charles,PERSON
+his,PERSON
+Baskerville Hall,LOCATION
+Charles,PERSON
+Baskerville,PERSON
+Elizabethan,MISC
+Henry,PERSON
+he,PERSON
+morning,TIME
+night,TIME
+Baskerville Hall,LOCATION
+Henry,PERSON
+Barrymore,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Henry,PERSON
+he,PERSON
+her,PERSON
+Mrs. Barrymore,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+night,TIME
+she,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+he,PERSON
+she,PERSON
+Charles,PERSON
+he,PERSON
+his,PERSON
+Barrymore,PERSON
+Regent Street,LOCATION
+Grimpen,PERSON
+Barrymore,PERSON
+Sherlock Holmes,PERSON
+Henry,PERSON
+Mortimer,PERSON
+Mr. Barrymore,PERSON
+he,PERSON
+James,PERSON
+Mr. Barrymore,PERSON
+Hall last week,DATE
+his,PERSON
+Mrs. Barrymore,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+Mr. Barrymore,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Barrymore,PERSON
+Holmes,PERSON
+Barrymore,PERSON
+London,LOCATION
+Charles,PERSON
+England,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Baskerville,PERSON
+he,PERSON
+Times,ORGANIZATION
+his,PERSON
+his,PERSON
+Henry,PERSON
+Barrymores,ORGANIZATION
+Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Mortimer,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+Mortimer,PERSON
+Stapleton,PERSON
+Merripit House,ORGANIZATION
+Mr. Stapleton,PERSON
+Mortimer,PERSON
+he,PERSON
+his,PERSON
+Henry,PERSON
+his,PERSON
+He,PERSON
+Charles,PERSON
+Henry,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Charles,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+Yew Alley,LOCATION
+he,PERSON
+his,PERSON
+Mortimer,PERSON
+Charles,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+Mortimer,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+Henry,PERSON
+Stapleton,PERSON
+brambles,ORGANIZATION
+Merripit House,ORGANIZATION
+he,PERSON
+Henry,PERSON
+his,PERSON
+Holmes,PERSON
+Stapleton,PERSON
+he,PERSON
+Charles,PERSON
+Stapleton,PERSON
+Grimpen Mire,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+George,PERSON
+he,PERSON
+him,PERSON
+Grimpen Mire,LOCATION
+He,PERSON
+he,PERSON
+Stapleton,PERSON
+his,PERSON
+he,PERSON
+Baskervilles,ORGANIZATION
+England,LOCATION
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Neolithic,MISC
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Stapleton,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Merripit House,ORGANIZATION
+She,PERSON
+her,PERSON
+she,PERSON
+Miss Stapleton,PERSON
+her,PERSON
+Stapleton,PERSON
+England,LOCATION
+she,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+Her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+London,LOCATION
+her,PERSON
+Her,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+London,LOCATION
+Stapleton,PERSON
+his,PERSON
+Halloa,PERSON
+Beryl,PERSON
+he,PERSON
+his,PERSON
+Jack,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Henry,PERSON
+him,PERSON
+Henry Baskerville,PERSON
+his,PERSON
+Watson,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+she,PERSON
+him,PERSON
+Merripit House,ORGANIZATION
+he,PERSON
+Beryl,PERSON
+she,PERSON
+her,PERSON
+Stapleton,PERSON
+Watson,PERSON
+she,PERSON
+Mortimer,PERSON
+his,PERSON
+Charles,PERSON
+him,PERSON
+him,PERSON
+this afternoon,TIME
+Henry,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+England,LOCATION
+Baskervilles,LOCATION
+Miss Stapleton,PERSON
+Miss Stapleton,PERSON
+Her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+she,PERSON
+Henry,PERSON
+Miss Stapleton,PERSON
+Henry,PERSON
+his,PERSON
+Henry,PERSON
+London,LOCATION
+Watson,PERSON
+Miss Stapleton,PERSON
+Henry,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Watson,PERSON
+she,PERSON
+Charles,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Henry,PERSON
+him,PERSON
+Miss Stapleton,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Baskerville Hall,LOCATION
+She,PERSON
+Mr. Sherlock Holmes,PERSON
+Baskerville Hall,LOCATION
+October 13th,DATE
+Holmes,PERSON
+God-forsaken,MISC
+England,LOCATION
+his,PERSON
+his,PERSON
+Henry Baskerville,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Hill,PERSON
+he,PERSON
+Henry,PERSON
+Perkins,PERSON
+Stapleton,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Baskerville,PERSON
+He,PERSON
+he,PERSON
+Henry,PERSON
+Stapleton,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Stapleton,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Merripit House,ORGANIZATION
+Henry,PERSON
+Miss Stapleton,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+He,PERSON
+her,PERSON
+Stapleton,PERSON
+Henry,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+Mortimer,PERSON
+Long Down,LOCATION
+He,PERSON
+him,PERSON
+he,PERSON
+Stapletons,MISC
+Yew Alley,LOCATION
+Henry,PERSON
+Yew Alley,LOCATION
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Barrymore,PERSON
+he,PERSON
+Mr. Frankland,PERSON
+Lafter Hall,LOCATION
+He,PERSON
+British,MISC
+His,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Fernworthy,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mortimer,PERSON
+Neolithic,MISC
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+Mortimer,PERSON
+Frankland,PERSON
+Lafter Hall,LOCATION
+Barrymores,ORGANIZATION
+last night,TIME
+London,LOCATION
+Barrymore,PERSON
+Henry,PERSON
+Barrymore,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Barrymore,PERSON
+he,PERSON
+Henry,PERSON
+Barrymore,PERSON
+he,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+this morning,TIME
+Henry,PERSON
+he,PERSON
+Henry,PERSON
+London,LOCATION
+him,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Mrs. Barrymore,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Barrymore,PERSON
+she,PERSON
+her,PERSON
+last night,TIME
+morning,TIME
+his,PERSON
+He,PERSON
+his,PERSON
+Barrymore,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Barrymore,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+this morning,TIME
+last night,TIME
+Baskerville Hall,LOCATION
+Oct. 15th,DATE
+Holmes,PERSON
+Barrymore,PERSON
+Barrymore,PERSON
+night before,TIME
+he,PERSON
+Barrymore,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+morning,TIME
+Barrymore,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+Barrymore,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Barrymore,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Charles,PERSON
+London,LOCATION
+Plymouth,LOCATION
+his,PERSON
+he,PERSON
+Miss Stapleton,PERSON
+he,PERSON
+Barrymore,PERSON
+Henry,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+Henry,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Merripit House,LOCATION
+him,PERSON
+Henry,PERSON
+him,PERSON
+Miss Stapleton,PERSON
+He,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Henry,PERSON
+Stapleton,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Henry,PERSON
+Miss Stapleton,PERSON
+his,PERSON
+His,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+hers,PERSON
+she,PERSON
+spring,DATE
+Stapleton,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+Stapleton,PERSON
+Henry,PERSON
+Stapleton,PERSON
+Henry,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+hers,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+Watson,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+hers,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+his,PERSON
+her,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Stapleton,PERSON
+morning,TIME
+Henry,PERSON
+Merripit House,ORGANIZATION
+Friday,DATE
+He,PERSON
+his,PERSON
+his,PERSON
+Henry,PERSON
+this morning,TIME
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+her,PERSON
+Stapleton,PERSON
+Henry,PERSON
+his,PERSON
+night,TIME
+Mrs. Barrymore,PERSON
+Holmes,PERSON
+Henry,PERSON
+morning,TIME
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Barrymore,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Henry,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Barrymore,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+Barrymore,PERSON
+Henry,PERSON
+he,PERSON
+his,PERSON
+Henry,PERSON
+He,PERSON
+night,TIME
+he,PERSON
+Watson,PERSON
+Mrs. Barrymore,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+Eliza,PERSON
+John,PERSON
+John,PERSON
+Henry,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Barrymore,PERSON
+Henry,PERSON
+Selden,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Christian,MISC
+he,PERSON
+he,PERSON
+Barrymore,PERSON
+Henry,PERSON
+morning,TIME
+Henry,PERSON
+Henry,PERSON
+he,PERSON
+Barrymore,PERSON
+he,PERSON
+Watson,PERSON
+Barrymores,ORGANIZATION
+him,PERSON
+he,PERSON
+his,PERSON
+Stapletons,MISC
+Henry,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Grimpen Mire,LOCATION
+his,PERSON
+night,TIME
+his,PERSON
+Watson,PERSON
+Watson,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Baskervilles,ORGANIZATION
+He,PERSON
+he,PERSON
+Watson,PERSON
+Stapleton,PERSON
+He,PERSON
+Watson,PERSON
+London,LOCATION
+him,PERSON
+he,PERSON
+Watson,PERSON
+Baskerville Hall,LOCATION
+Henry,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Barrymore,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Henry,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+moon,LOCATION
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Princetown,LOCATION
+him,PERSON
+last night,TIME
+Holmes,PERSON
+Barrymores,ORGANIZATION
+Sherlock Holmes,PERSON
+October 16th,DATE
+night,TIME
+Stapleton,PERSON
+Mortimer,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+London,LOCATION
+Henry,PERSON
+London,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+Stapleton,LOCATION
+Frankland,PERSON
+him,PERSON
+he,PERSON
+London,LOCATION
+him,PERSON
+Henry,PERSON
+He,PERSON
+His,PERSON
+his,PERSON
+this morning,TIME
+Barrymore,PERSON
+Henry,PERSON
+his,PERSON
+his,PERSON
+Barrymore,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+this morning,TIME
+Selden,PERSON
+his,PERSON
+Henry,PERSON
+he,PERSON
+his,PERSON
+Mr. Stapleton,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Henry,PERSON
+South America,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+Barrymore,PERSON
+he,PERSON
+Watson,PERSON
+Barrymore,PERSON
+he,PERSON
+Henry,PERSON
+Charles,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+Barrymore,PERSON
+Her,PERSON
+Henry,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Coombe Tracey,PERSON
+Charles,PERSON
+she,PERSON
+his,PERSON
+she,PERSON
+Charles,PERSON
+his,PERSON
+L. L.,PERSON
+Charles,PERSON
+Barrymore,PERSON
+Charles,PERSON
+he,PERSON
+his,PERSON
+Barrymore,PERSON
+Henry,PERSON
+Watson,PERSON
+L. L.,PERSON
+her,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+October 17th,DATE
+his,PERSON
+he,PERSON
+he,PERSON
+Baskerville Hall,ORGANIZATION
+Mortimer,PERSON
+Foulmire,LOCATION
+his,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Grimpen Mire,MISC
+him,PERSON
+he,PERSON
+his,PERSON
+Mortimer,PERSON
+L. L.,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Laura Lyons,PERSON
+L. L.--but,PERSON
+Coombe Tracey,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Frankland,PERSON
+She,PERSON
+Frankland,PERSON
+Lyons,PERSON
+She,PERSON
+He,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+she,PERSON
+his,PERSON
+she,PERSON
+Frankland,PERSON
+her,PERSON
+his,PERSON
+she,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+Stapleton,PERSON
+Charles,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Coombe Tracey,PERSON
+Mrs. Laura Lyons,PERSON
+Mortimer,PERSON
+Frankland,PERSON
+his,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+Barrymore,PERSON
+Mortimer,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Barrymore,PERSON
+him,PERSON
+him,PERSON
+Selden,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+Barrymore,PERSON
+him,PERSON
+Barrymore,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Henry,PERSON
+London,LOCATION
+his,PERSON
+Charles,PERSON
+he,PERSON
+he,PERSON
+Baskerville,PERSON
+Henry,PERSON
+him,PERSON
+Selden,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Selden,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Coombe Tracey,PERSON
+he,PERSON
+he,PERSON
+Barrymore,PERSON
+he,PERSON
+18th of October,DATE
+Mrs. Laura Lyons,PERSON
+Coombe Tracey,PERSON
+Charles Baskerville,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mrs. Lyons,PERSON
+Mortimer,PERSON
+him,PERSON
+Coombe Tracey,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+Coombe Tracey,PERSON
+Perkins,PERSON
+her,PERSON
+Remington,MISC
+Her,PERSON
+she,PERSON
+she,PERSON
+Mrs. Lyons,PERSON
+Her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+Charles Baskerville,PERSON
+Charles Baskerville,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Charles,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Coombe Tracey,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+She,PERSON
+Mr. Stapleton,PERSON
+Charles,PERSON
+Charles,PERSON
+He,PERSON
+him,PERSON
+Charles Baskerville,PERSON
+Stapleton,PERSON
+his,PERSON
+Charles,PERSON
+him,PERSON
+Mrs. Lyons,PERSON
+Charles,PERSON
+Her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+Charles,PERSON
+He,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+London,LOCATION
+he,PERSON
+Mrs. Lyons,PERSON
+Charles,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Mrs. Lyons,PERSON
+Charles,PERSON
+Charles,PERSON
+Charles,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Charles,PERSON
+Charles,PERSON
+he,PERSON
+he,PERSON
+Charles,PERSON
+his,PERSON
+she,PERSON
+her,PERSON
+Baskerville Hall,LOCATION
+Coombe Tracey,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Barrymore,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Regent Street,LOCATION
+He,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+London,LOCATION
+him,PERSON
+him,PERSON
+Mr. Frankland,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Perkins,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Henry,PERSON
+Frankland,PERSON
+his,PERSON
+he,PERSON
+Middleton,PERSON
+his,PERSON
+Fernworthy,MISC
+Dr. Watson,PERSON
+John Morland,PERSON
+he,PERSON
+his,PERSON
+Morland,PERSON
+Court of Queen's Bench,ORGANIZATION
+Frankland,PERSON
+Regina,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Barrymore,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Barrymore,PERSON
+Frankland,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Black Tor,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+Frankland,PERSON
+Frankland,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Frankland,LOCATION
+Regina,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Belliver,LOCATION
+Vixen Tor,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Stapleton,PERSON
+he,PERSON
+he,PERSON
+Neolithic,MISC
+Watson,PERSON
+Coombe Tracey,PERSON
+Henry,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Spartan,MISC
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Baskerville Hall,LOCATION
+Grimpen,LOCATION
+him,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Baker Street,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+Bradley,PERSON
+Oxford Street,LOCATION
+Watson,PERSON
+Watson,PERSON
+He,PERSON
+Cartwright,PERSON
+Coombe Tracey,PERSON
+Mrs. Laura Lyons,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+Henry,PERSON
+Cartwright,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mrs. Laura Lyons,PERSON
+Coombe Tracey,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Stapleton,PERSON
+his,PERSON
+His,PERSON
+Miss Stapleton,PERSON
+his,PERSON
+Holmes,PERSON
+Henry,PERSON
+he,PERSON
+her,PERSON
+Henry,PERSON
+Henry,PERSON
+Henry,PERSON
+He,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+London,LOCATION
+he,PERSON
+he,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+England,LOCATION
+He,PERSON
+his,PERSON
+Mrs. Laura Lyons,PERSON
+his,PERSON
+her,PERSON
+Stapleton,PERSON
+she,PERSON
+his,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+Baskerville Hall,LOCATION
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Henry,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+He,PERSON
+Watson,PERSON
+him,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Henry Baskerville,PERSON
+first morning,TIME
+Baker Street,LOCATION
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Stapleton,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Henry,PERSON
+fall,DATE
+he,PERSON
+Grimpen,LOCATION
+him,PERSON
+Holmes,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Selden,PERSON
+Barrymore,PERSON
+he,PERSON
+his,PERSON
+Barrymore,PERSON
+Selden,PERSON
+his,PERSON
+Henry,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Henry,PERSON
+Selden,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Stapleton,PERSON
+Henry,PERSON
+he,PERSON
+Halloa,PERSON
+Watson,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+this time of night,TIME
+Henry,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Selden,PERSON
+Princetown,LOCATION
+Stapleton,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Henry,PERSON
+Henry,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Stapleton,PERSON
+he,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+London,LOCATION
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Stapleton,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Stapleton,PERSON
+Holmes,PERSON
+Baskerville Hall,LOCATION
+him,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+London,LOCATION
+Watson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Charles,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Charles,PERSON
+him,PERSON
+Mrs. Laura Lyons,PERSON
+her,PERSON
+Baskerville,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Henry,PERSON
+Selden,PERSON
+Stapleton,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Henry,PERSON
+Sherlock Holmes,PERSON
+London,LOCATION
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Barrymore,PERSON
+his,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+Watson,PERSON
+Stapleton,PERSON
+Holmes,PERSON
+Henry,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+West,LOCATION
+him,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Henry,PERSON
+Barrymore,PERSON
+Rear-Admiral Baskerville,PERSON
+Rodney,PERSON
+West Indies,LOCATION
+William Baskerville,PERSON
+House of Commons,ORGANIZATION
+Pitt,PERSON
+him,PERSON
+Baskervilles,ORGANIZATION
+him,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+1647,DATE
+Holmes,PERSON
+supper,DATE
+him,PERSON
+his,PERSON
+Henry,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Henry,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Stapleton,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Baker Street,LOCATION
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+morning,TIME
+Holmes,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Grimpen,LOCATION
+Princetown,LOCATION
+Selden,PERSON
+Cartwright,PERSON
+his,PERSON
+his,PERSON
+Henry,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+Stapletons,MISC
+Watson,PERSON
+London,LOCATION
+London,LOCATION
+Devonshire,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+Coombe Tracey,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Stapleton,PERSON
+him,PERSON
+London,LOCATION
+Merripit House,ORGANIZATION
+Merripit House,ORGANIZATION
+Grimpen Road,LOCATION
+London,LOCATION
+afternoon,TIME
+Holmes,PERSON
+Stapleton,PERSON
+night,TIME
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Coombe Tracey,PERSON
+Cartwright,PERSON
+Henry Baskerville,PERSON
+Baker Street,LOCATION
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+this morning,TIME
+He,PERSON
+his,PERSON
+Watson,PERSON
+Mrs. Laura Lyons,PERSON
+His,PERSON
+Stapletons,MISC
+He,PERSON
+London,LOCATION
+Henry,PERSON
+Stapletons,PERSON
+Mrs. Laura Lyons,PERSON
+Sherlock Holmes,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+Charles Baskerville,PERSON
+he,PERSON
+Watson,PERSON
+she,PERSON
+Charles,PERSON
+his,PERSON
+Mrs. Lyons,PERSON
+Mr. Stapleton,PERSON
+his,PERSON
+her,PERSON
+His,PERSON
+she,PERSON
+his,PERSON
+his,PERSON
+Mrs. Lyons,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+His,PERSON
+she,PERSON
+His,PERSON
+He,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+York four years ago,DATE
+Mrs. Vandeleur,PERSON
+him,PERSON
+her,PERSON
+her,PERSON
+Mrs. Vandeleur,PERSON
+Oliver,PERSON
+She,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+Stapleton,PERSON
+He,PERSON
+Charles,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Charles,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+She,PERSON
+him,PERSON
+she,PERSON
+he,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+him,PERSON
+he,PERSON
+Mrs. Lyons,PERSON
+Holmes,PERSON
+Godno,LOCATION
+Little Russia,LOCATION
+'66,DATE
+Anderson,PERSON
+North Carolina,LOCATION
+this night,TIME
+London,LOCATION
+Lestrade,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+London,LOCATION
+Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Frankland,PERSON
+Coombe Tracey,PERSON
+Merripit House,ORGANIZATION
+Lestrade,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+Merripit House,ORGANIZATION
+Holmes,PERSON
+he,PERSON
+Lestrade,PERSON
+Watson,PERSON
+Henry,PERSON
+Stapleton,PERSON
+Stapleton,PERSON
+his,PERSON
+Stapleton,PERSON
+Henry,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+she,PERSON
+she,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+God,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Lestrade,PERSON
+him,PERSON
+Holmes,PERSON
+him,PERSON
+He,PERSON
+Henry,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Henry,PERSON
+spring,DATE
+him,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Henry,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+Henry,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+his,PERSON
+Mrs. Stapleton,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+her,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+he,PERSON
+she,PERSON
+he,PERSON
+He,PERSON
+Henry,PERSON
+he,PERSON
+She,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+She,PERSON
+she,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Grimpen Mire,MISC
+his,PERSON
+She,PERSON
+her,PERSON
+Her,PERSON
+He,PERSON
+his,PERSON
+she,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Baskerville Hall,LOCATION
+Stapletons,MISC
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+night,TIME
+Mortimer,PERSON
+his,PERSON
+he,PERSON
+Henry,PERSON
+he,PERSON
+he,PERSON
+Mrs. Stapleton,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Meyers,PERSON
+Toronto,LOCATION
+he,PERSON
+Henry,PERSON
+Stapleton,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Stapleton,PERSON
+last night,TIME
+he,PERSON
+Grimpen Mire,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Jove,PERSON
+Mortimer,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Merripit,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Charles,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+London,LOCATION
+Watson,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+November,DATE
+Holmes,PERSON
+Baker Street,LOCATION
+Devonshire,LOCATION
+Upwood,PERSON
+Nonpareil Club,ORGANIZATION
+Montpensier,PERSON
+Mlle. Carere,LOCATION
+New York,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Baskerville,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Henry,PERSON
+Mortimer,PERSON
+London,LOCATION
+his,PERSON
+Holmes,PERSON
+Stapleton,PERSON
+his,PERSON
+Mrs. Stapleton,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Baskerville Hall,LOCATION
+French,MISC
+Upwood,LOCATION
+Baskerville,LOCATION
+Rodger Baskerville,PERSON
+Charles,PERSON
+South America,LOCATION
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Beryl Garcia,PERSON
+Costa Rica,LOCATION
+Vandeleur,PERSON
+England,LOCATION
+Yorkshire,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+Fraser,PERSON
+Stapleton,PERSON
+England,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+British,MISC
+Vandeleur,LOCATION
+Yorkshire,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Devonshire,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Charles Baskerville,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Stapleton,PERSON
+him,PERSON
+him,PERSON
+Mortimer,PERSON
+he,PERSON
+Charles,PERSON
+He,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+London,LOCATION
+Ross,PERSON
+Fulham Road,LOCATION
+he,PERSON
+North Devon,LOCATION
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Stapleton,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Charles,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+she,PERSON
+She,PERSON
+him,PERSON
+his,PERSON
+her,PERSON
+Stapleton,PERSON
+She,PERSON
+Charles,PERSON
+Mrs. Laura Lyons,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+Charles,PERSON
+Mortimer,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mrs. Lyons,PERSON
+London,LOCATION
+He,PERSON
+her,PERSON
+his,PERSON
+He,PERSON
+her,PERSON
+he,PERSON
+evening,TIME
+Coombe Tracey,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Mortimer,PERSON
+Grimpen Mire,LOCATION
+Charles Baskerville,PERSON
+His,PERSON
+him,PERSON
+Mrs. Stapleton,PERSON
+Mrs. Laura Lyons,PERSON
+Stapleton,PERSON
+Mrs. Stapleton,PERSON
+he,PERSON
+Mrs. Lyons,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Stapleton,PERSON
+Canada,LOCATION
+Mortimer,PERSON
+Henry Baskerville,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Stapleton,PERSON
+Canada,LOCATION
+London,LOCATION
+Devonshire,LOCATION
+He,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+London,LOCATION
+he,PERSON
+her,PERSON
+him,PERSON
+Craven Street,LOCATION
+Mortimer,PERSON
+Baker Street,LOCATION
+Northumberland Hotel,LOCATION
+he,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Stapleton,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+Stapleton,PERSON
+Henry,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+Stapleton,PERSON
+Stapleton,PERSON
+Baskerville,PERSON
+his,PERSON
+his,PERSON
+West Country,LOCATION
+Folkestone Court,ORGANIZATION
+May,DATE
+Stapleton,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+London,LOCATION
+he,PERSON
+him,PERSON
+He,PERSON
+London,LOCATION
+Stapleton,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Merripit House,ORGANIZATION
+Anthony,PERSON
+Stapletons,MISC
+His,PERSON
+he,PERSON
+his,PERSON
+Anthony,PERSON
+England,LOCATION
+Antonio,PERSON
+Spanish,MISC
+Spanish-American,MISC
+Mrs. Stapleton,PERSON
+English,MISC
+Stapleton,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Stapletons,PERSON
+Devonshire,LOCATION
+Henry,PERSON
+Stapleton,PERSON
+he,PERSON
+his,PERSON
+London,LOCATION
+Coombe Tracey,ORGANIZATION
+Cartwright,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Stapleton,PERSON
+Cartwright,PERSON
+Baker Street,LOCATION
+Coombe Tracey,PERSON
+Stapleton,PERSON
+Barrymores,ORGANIZATION
+him,PERSON
+Stapleton,PERSON
+Henry,PERSON
+Henry,PERSON
+him,PERSON
+Stapleton,PERSON
+his,PERSON
+Henry,PERSON
+him,PERSON
+Mortimer,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+Stapleton,PERSON
+her,PERSON
+his,PERSON
+she,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+Henry,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Stapleton,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Henry,PERSON
+Merripit House,ORGANIZATION
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+evening,TIME
+Henry,PERSON
+She,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+his,PERSON
+Her,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+Henry,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+he,PERSON
+his,PERSON
+Spanish,MISC
+Watson,PERSON
+Henry,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Stapleton,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mrs. Stapleton,PERSON
+her,PERSON
+South America,LOCATION
+British,MISC
+England,LOCATION
+London,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Marcini,PERSON

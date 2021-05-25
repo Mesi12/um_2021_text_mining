@@ -1,680 +1,525 @@
-text,ner,normalizedner
-Mr. Sherlock Holmes,PERSON,
-one day in the autumn of last year,DATE,THIS P1Y OFFSET P-1Y INTERSECT FA INTERSECT P1D
-him,PERSON,
-Holmes,PERSON,
-Watson,PERSON,
-he,PERSON,
-Mr. Wilson,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-Watson,PERSON,
-the other day,DATE,THIS P1D
-Miss Mary Sutherland,PERSON,
-Now,DATE,PRESENT_REF
-Mr. Jabez Wilson,PERSON,
-this morning,TIME,THIS MO
-one,NUMBER,1.0
-present,DATE,PRESENT_REF
-Mr. Wilson,PERSON,
-Watson,PERSON,
-present,DATE,PRESENT_REF
-his,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-Albert,PERSON,
-He,PERSON,
-him,PERSON,
-his,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-China,LOCATION,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-Mr. Jabez Wilson,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-Mr. Holmes,PERSON,
-he,PERSON,
-five,NUMBER,5.0
-one,NUMBER,1.0
-China,LOCATION,
-China,LOCATION,
-China,LOCATION,
-Mr. Jabez Wilson,PERSON,
-he,PERSON,
-first,ORDINAL,1.0
-Watson,PERSON,
-Holmes,PERSON,
-Mr. Wilson,PERSON,
-now,DATE,PRESENT_REF
-he,PERSON,
-his,PERSON,
-Ezekiah Hopkins,PERSON,
-Lebanon,LOCATION,
-Pennsylvania,LOCATION,
-U. S. A.,PERSON,
-now,DATE,PRESENT_REF
-£4,MONEY,£4.0
-a week,DURATION,P1W
-him,PERSON,
-twenty-one years,DURATION,P21Y
-Monday,DATE,XXXX-WXX-1
-eleven o'clock,TIME,T11:00
-Duncan Ross,PERSON,
-League,ORGANIZATION,
-7,NUMBER,7.0
-his,PERSON,
-his,PERSON,
-he,PERSON,
-now,DATE,PRESENT_REF
-Mr. Wilson,PERSON,
-first,ORDINAL,1.0
-Morning,TIME,TMO
-"April 27, 1890",DATE,1890-04-27
-two months ago,DATE,OFFSET P-2M
-Now,DATE,PRESENT_REF
-Mr. Wilson,PERSON,
-Mr. Sherlock Holmes,PERSON,
-Jabez Wilson,PERSON,
-Coburg Square,LOCATION,
-City,LOCATION,
-his,PERSON,
-late years,DURATION,P1Y
-two,NUMBER,2.0
-now,DATE,PRESENT_REF
-one,NUMBER,1.0
-him,PERSON,
-he,PERSON,
-Sherlock Holmes,PERSON,
-Vincent Spaulding,PERSON,
-His,PERSON,
-he,PERSON,
-his,PERSON,
-Mr. Holmes,PERSON,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-his,PERSON,
-Mr. Wilson,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-He,PERSON,
-fourteen,NUMBER,14.0
-He,PERSON,
-three,NUMBER,3.0
-first,ORDINAL,1.0
-this day,DATE,THIS P1D
-eight weeks,DURATION,P8W
-Mr. Wilson,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-Mr. Holmes,PERSON,
-weeks,DURATION,PXW
-he,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-hundred,NUMBER,100.0
-a year,DURATION,P1Y
-one,NUMBER,1.0
-years,DURATION,PXY
-hundred,NUMBER,100.0
-League,ORGANIZATION,
-he,PERSON,
-Ezekiah Hopkins,PERSON,
-his,PERSON,
-He,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-London,LOCATION,
-he,PERSON,
-he,PERSON,
-Now,DATE,PRESENT_REF
-Mr. Wilson,PERSON,
-hundred pounds,MONEY,£100.0
-Now,DATE,PRESENT_REF
-Vincent Spaulding,PERSON,
-the day,DATE,THIS P1D
-he,PERSON,
-him,PERSON,
-He,PERSON,
-Mr. Holmes,PERSON,
-his,PERSON,
-Spaulding,PERSON,
-Spaulding,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-one,NUMBER,1.0
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-He,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-Mr. Jabez Wilson,PERSON,
-he,PERSON,
-he,PERSON,
-He,PERSON,
-one,NUMBER,1.0
-He,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-once,DATE,PAST_REF
-He,PERSON,
-his,PERSON,
-Mr. Duncan Ross,PERSON,
-one,NUMBER,1.0
-he,PERSON,
-Mr. Wilson,PERSON,
-His,PERSON,
-he,PERSON,
-Mr. Holmes,PERSON,
-a few minutes,DURATION,PTXM
-he,PERSON,
-he,PERSON,
-Mr. Wilson,PERSON,
-Vincent Spaulding,PERSON,
-the hours,DURATION,PTXH
-Ten,NUMBER,10.0
-two,NUMBER,2.0
-Now,DATE,PRESENT_REF
-evening,TIME,TEV
-Mr. Holmes,PERSON,
-Thursday,DATE,XXXX-WXX-4
-Friday,DATE,XXXX-WXX-5TEV
-evening,TIME,XXXX-WXX-5TEV
-mornings,TIME,TMO
-he,PERSON,
-£4,MONEY,£4.0
-a week,DURATION,P1W
-four hours,DURATION,PT4H
-a day,DURATION,P1D
-Mr. Duncan Ross,PERSON,
-first,ORDINAL,1.0
-Mr. Jabez Wilson,PERSON,
-once,DATE,PAST_REF
-He,PERSON,
-day,DURATION,P1D
-evening,TIME,TEV
-past,DATE,PAST_REF
-Vincent Spaulding,PERSON,
-he,PERSON,
-morning,TIME,TMO
-seven,NUMBER,7.0
-Pope's Court,ORGANIZATION,
-Mr. Duncan Ross,PERSON,
-He,PERSON,
-he,PERSON,
-he,PERSON,
-two o'clock,TIME,T02:00
-he,PERSON,
-day,DURATION,P1D
-day,DURATION,P1D
-Mr. Holmes,PERSON,
-Saturday,DATE,XXXX-WXX-6
-four,NUMBER,4.0
-week,DURATION,P1W
-next week,DATE,THIS P1W OFFSET P1W
-the week,DATE,THIS P1W
-Every morning,SET,
-ten,NUMBER,10.0
-every afternoon,SET,
-two,NUMBER,2.0
-Mr. Duncan Ross,PERSON,
-once,DATE,PAST_REF
-morning,TIME,TMO
-he,PERSON,
-one,NUMBER,1.0
-he,PERSON,
-Eight weeks,DURATION,P8W
-Armour,PERSON,
-Attica,LOCATION,
-this morning,TIME,THIS MO
-ten o'clock,TIME,T10:00
-He,PERSON,
-"October 9, 1890",DATE,1890-10-09
-Sherlock Holmes,PERSON,
-his,PERSON,
-Holmes,PERSON,
-him,PERSON,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-He,PERSON,
-he,PERSON,
-Mr. Duncan Ross,PERSON,
-him,PERSON,
-He,PERSON,
-him,PERSON,
-4,NUMBER,4.0
-William Morris,PERSON,
-he,PERSON,
-his,PERSON,
-He,PERSON,
-his,PERSON,
-yesterday,DATE,OFFSET P-1D
-He,PERSON,
-him,PERSON,
-his,PERSON,
-He,PERSON,
-17,NUMBER,17.0
-St. Paul's,ORGANIZATION,
-Mr. Holmes,PERSON,
-one,NUMBER,1.0
-Mr. William Morris,PERSON,
-Mr. Duncan Ross,PERSON,
-Holmes,PERSON,
-Saxe-Coburg Square,LOCATION,
-he,PERSON,
-He,PERSON,
-Mr. Holmes,PERSON,
-Holmes,PERSON,
-one,NUMBER,1.0
-first,ORDINAL,1.0
-Mr. Jabez Wilson,PERSON,
-four pound,MONEY,£4.0
-a week,DURATION,P1W
-Holmes,PERSON,
-£30,MONEY,£30.0
-the minute,DATE,THIS PT1M
-two,NUMBER,2.0
-thirty pounds,MONEY,£30.0
-first,ORDINAL,1.0
-one,NUMBER,1.0
-two,NUMBER,2.0
-Mr. Wilson,PERSON,
-first,ORDINAL,1.0
-he,PERSON,
-About a month,DURATION,P1M
-he,PERSON,
-he,PERSON,
-dozen,NUMBER,12.0
-him,PERSON,
-he,PERSON,
-Vincent Spaulding,PERSON,
-he,PERSON,
-thirty,NUMBER,30.0
-his,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-He,PERSON,
-him,PERSON,
-he,PERSON,
-Holmes,PERSON,
-He,PERSON,
-him,PERSON,
-morning,TIME,TMO
-Mr. Wilson,PERSON,
-a day,DURATION,P1D
-two,NUMBER,2.0
-Saturday,DATE,XXXX-WXX-6
-Monday,DATE,XXXX-WXX-1
-Watson,PERSON,
-Holmes,PERSON,
-Holmes,PERSON,
-he,PERSON,
-three,NUMBER,3.0
-fifty minutes,DURATION,PT50M
-He,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-St. James,LOCATION,
-Hall,PERSON,
-this afternoon,TIME,THIS AF
-he,PERSON,
-Watson,PERSON,
-a few hours,DURATION,PTXH
-City,LOCATION,
-first,ORDINAL,1.0
-Saxe-Coburg Square,LOCATION,
-morning,TIME,TMO
-four,NUMBER,4.0
-two-storied,NUMBER,2.0
-Three,NUMBER,3.0
-Jabez Wilson,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-one,NUMBER,1.0
-his,PERSON,
-his,PERSON,
-he,PERSON,
-two,NUMBER,2.0
-three,NUMBER,3.0
-he,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-Holmes,PERSON,
-Third,ORDINAL,3.0
-fourth,ORDINAL,4.0
-Holmes,PERSON,
-fourth,ORDINAL,4.0
-London,LOCATION,
-third,ORDINAL,3.0
-He,PERSON,
-he,PERSON,
-him,PERSON,
-Mr. Wilson,PERSON,
-him,PERSON,
-him,PERSON,
-his,PERSON,
-Saxe-Coburg Square,LOCATION,
-now,DATE,PRESENT_REF
-one,NUMBER,1.0
-City,LOCATION,
-Holmes,PERSON,
-London,LOCATION,
-Coburg,LOCATION,
-City,LOCATION,
-Suburban Bank,ORGANIZATION,
-McFarlane,PERSON,
-now,DATE,PRESENT_REF
-afternoon,TIME,TAF
-Holmes,PERSON,
-Holmes,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-him,PERSON,
-days,DURATION,PXD
-his,PERSON,
-him,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-him,PERSON,
-his,PERSON,
-his,PERSON,
-him,PERSON,
-afternoon,TIME,TAF
-St. James,LOCATION,
-Hall,PERSON,
-him,PERSON,
-he,PERSON,
-he,PERSON,
-hours,DURATION,PTXH
-Coburg Square,LOCATION,
-Saturday,DATE,XXXX-WXX-6
-Ten,NUMBER,10.0
-Baker Street,ORGANIZATION,
-ten,NUMBER,10.0
-He,PERSON,
-his,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-Saxe-Coburg Square,LOCATION,
-he,PERSON,
-Holmes,PERSON,
-night,TIME,TNI
-nine,NUMBER,9.0
-Baker Street,ORGANIZATION,
-Two,NUMBER,2.0
-Holmes,PERSON,
-two,NUMBER,2.0
-one,NUMBER,1.0
-Peter Jones,PERSON,
-his,PERSON,
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-Mr. Jones,PERSON,
-Scotland,LOCATION,
-Mr. Merryweather,PERSON,
-Jones,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-Mr. Merryweather,PERSON,
-Mr. Holmes,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-him,PERSON,
-once,DATE,PAST_REF
-Agra,LOCATION,
-he,PERSON,
-Mr. Jones,PERSON,
-the first Saturday,DATE,XXXX-WXX-6TNI-#1
-night,TIME,XXXX-WXX-6TNI-#1
-seven-and-twenty,NUMBER,27.0
-years,DURATION,PXY
-Sherlock Holmes,PERSON,
-Mr. Merryweather,PERSON,
-"£30,000",MONEY,£30000.0
-Jones,PERSON,
-John Clay,PERSON,
-Mr. Merryweather,PERSON,
-London,LOCATION,
-He,PERSON,
-he,PERSON,
-his,PERSON,
-him,PERSON,
-John Clay,PERSON,
-He,PERSON,
-Eton,ORGANIZATION,
-Oxford,ORGANIZATION,
-His,PERSON,
-he,PERSON,
-His,PERSON,
-his,PERSON,
-him,PERSON,
-Scotland,LOCATION,
-one week,DURATION,P1W
-Cornwall,LOCATION,
-He,PERSON,
-years,DURATION,PXY
-his,PERSON,
-him,PERSON,
-one,NUMBER,1.0
-two,NUMBER,2.0
-Mr. John Clay,PERSON,
-he,PERSON,
-his,PERSON,
-past,DATE,PAST_REF
-ten,NUMBER,10.0
-two,NUMBER,2.0
-first,ORDINAL,1.0
-Watson,PERSON,
-second,ORDINAL,2.0
-Sherlock Holmes,PERSON,
-afternoon,TIME,TAF
-he,PERSON,
-Farrington Street,ORGANIZATION,
-now,DATE,PRESENT_REF
-Merryweather,PERSON,
-He,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-He,PERSON,
-He,PERSON,
-he,PERSON,
-his,PERSON,
-morning,TIME,TMO
-Mr. Merryweather,PERSON,
-he,PERSON,
-Mr. Merryweather,PERSON,
-third,ORDINAL,3.0
-Holmes,PERSON,
-he,PERSON,
-him,PERSON,
-Mr. Merryweather,PERSON,
-his,PERSON,
-he,PERSON,
-Holmes,PERSON,
-one,NUMBER,1.0
-Mr. Merryweather,PERSON,
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-A few seconds,DURATION,PTXS
-him,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-at least an hour,DURATION,PT1H
-he,PERSON,
-a minute,DURATION,PT1M
-present,DATE,PRESENT_REF
-City,LOCATION,
-one,NUMBER,1.0
-London,LOCATION,
-Mr. Merryweather,PERSON,
-London,LOCATION,
-present,DATE,PRESENT_REF
-he,PERSON,
-months ago,DATE,OFFSET P-1M
-"30,000",NUMBER,30000.0
-Bank of France,ORGANIZATION,
-"2,000",NUMBER,2000.0
-present,DATE,PRESENT_REF
-Holmes,PERSON,
-now,DATE,PRESENT_REF
-an hour,DURATION,PT1H
-Mr. Merryweather,PERSON,
-first,ORDINAL,1.0
-Watson,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-Holmes,PERSON,
-Saxe-Coburg Square,LOCATION,
-two,NUMBER,2.0
-now,DATE,PRESENT_REF
-an hour,DURATION,PT1H
-a quarter,DURATION,P3M
-night,TIME,TNI
-first,ORDINAL,1.0
-a minute,DURATION,PT1M
-one,NUMBER,1.0
-one,NUMBER,1.0
-he,PERSON,
-him,PERSON,
-he,PERSON,
-Archie,PERSON,
-Sherlock Holmes,PERSON,
-his,PERSON,
-Holmes,PERSON,
-John Clay,PERSON,
-Holmes,PERSON,
-his,PERSON,
-three,NUMBER,3.0
-Holmes,PERSON,
-him,PERSON,
-Holmes,PERSON,
-Jones,PERSON,
-He,PERSON,
-his,PERSON,
-Jones,PERSON,
-march,DATE,XXXX-03
-John Clay,PERSON,
-three,NUMBER,3.0
-He,PERSON,
-Mr. Holmes,PERSON,
-Mr. Merryweather,PERSON,
-one,NUMBER,1.0
-one,NUMBER,1.0
-two,NUMBER,2.0
-Mr. John Clay,PERSON,
-Holmes,PERSON,
-Watson,PERSON,
-the early hours,DURATION,PTXH
-morning,TIME,TMO
-first,ORDINAL,1.0
-League,ORGANIZATION,
-hours,DURATION,PTXH
-every day,SET,
-he,PERSON,
-Clay,ORGANIZATION,
-his,PERSON,
-£4,MONEY,£4.0
-a week,DURATION,P1W
-him,PERSON,
-one,NUMBER,1.0
-every morning in the week,SET,
-his,PERSON,
-he,PERSON,
-one,NUMBER,1.0
-his,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-London,LOCATION,
-hours,DURATION,PTXH
-a day,DURATION,P1D
-months,DURATION,PXM
-He,PERSON,
-once,DATE,PAST_REF
-he,PERSON,
-his,PERSON,
-His,PERSON,
-hours,DURATION,PTXH
-City,LOCATION,
-Suburban Bank,ORGANIZATION,
-Scotland,LOCATION,
-Mr. Jabez Wilson,PERSON,
-Saturday,DATE,XXXX-WXX-6
-day,DURATION,P1D
-two days,DURATION,P2D
-he,PERSON,
-one,NUMBER,1.0
-He,PERSON,
-his,PERSON,
-he,PERSON,
-Gustave Flaubert,PERSON,
+text,ner
+Mr. Sherlock Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Wilson,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Miss Mary Sutherland,PERSON
+Mr. Jabez Wilson,PERSON
+this morning,TIME
+Mr. Wilson,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+British,MISC
+Albert,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+China,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Jabez Wilson,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+China,LOCATION
+China,LOCATION
+China,LOCATION
+Chinese,MISC
+Mr. Jabez Wilson,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Mr. Wilson,PERSON
+he,PERSON
+his,PERSON
+Red-headed League,MISC
+Ezekiah Hopkins,PERSON
+Lebanon,LOCATION
+Pennsylvania,LOCATION
+U. S. A.,PERSON
+League,MISC
+him,PERSON
+Monday,DATE
+Duncan Ross,PERSON
+League,MISC
+Pope's Court,ORGANIZATION
+Fleet Street,LOCATION
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Wilson,PERSON
+"April 27, 1890",DATE
+two months ago,DATE
+Mr. Wilson,PERSON
+Mr. Sherlock Holmes,PERSON
+Jabez Wilson,PERSON
+Coburg Square,LOCATION
+his,PERSON
+him,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Vincent Spaulding,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Wilson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+Spaulding,PERSON
+Mr. Wilson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+League of the Red-headed,MISC
+he,PERSON
+Mr. Holmes,PERSON
+League of the Red-headed,MISC
+he,PERSON
+his,PERSON
+League,MISC
+he,PERSON
+League,MISC
+American,MISC
+Ezekiah Hopkins,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+American,MISC
+London,LOCATION
+he,PERSON
+he,PERSON
+Mr. Wilson,PERSON
+Vincent Spaulding,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Fleet Street,LOCATION
+Pope,PERSON
+Spaulding,PERSON
+Spaulding,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Jabez Wilson,PERSON
+League,MISC
+he,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Mr. Duncan Ross,PERSON
+he,PERSON
+Mr. Wilson,PERSON
+His,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+Mr. Wilson,PERSON
+Vincent Spaulding,PERSON
+Mr. Holmes,PERSON
+Thursday,DATE
+Friday,DATE
+evening,TIME
+he,PERSON
+Mr. Duncan Ross,PERSON
+Mr. Jabez Wilson,PERSON
+He,PERSON
+Vincent Spaulding,PERSON
+he,PERSON
+Pope,PERSON
+Mr. Duncan Ross,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Saturday,DATE
+Mr. Duncan Ross,PERSON
+he,PERSON
+he,PERSON
+Abbots,MISC
+Armour,PERSON
+Attica,LOCATION
+this morning,TIME
+He,PERSON
+Red-headed League,MISC
+"October 9, 1890",DATE
+Sherlock Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Red-headed League,MISC
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Mr. Duncan Ross,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+William Morris,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+King Edward Street,LOCATION
+St. Paul,LOCATION
+Mr. Holmes,PERSON
+Mr. William Morris,PERSON
+Mr. Duncan Ross,PERSON
+Holmes,PERSON
+Saxe-Coburg Square,LOCATION
+he,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mr. Jabez Wilson,PERSON
+Holmes,PERSON
+Mr. Wilson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Vincent Spaulding,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+Mr. Wilson,PERSON
+Saturday,DATE
+Monday,DATE
+Watson,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Sarasate,PERSON
+St. James's Hall,LOCATION
+this afternoon,TIME
+he,PERSON
+Watson,PERSON
+German,MISC
+Italian,MISC
+French,MISC
+Aldersgate,LOCATION
+Saxe-Coburg Square,LOCATION
+morning,TIME
+Jabez Wilson,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+Holmes,PERSON
+London,LOCATION
+He,PERSON
+he,PERSON
+him,PERSON
+Mr. Wilson,PERSON
+Red-headed League,MISC
+him,PERSON
+him,PERSON
+his,PERSON
+Saxe-Coburg Square,LOCATION
+Saxe-Coburg Square,LOCATION
+City,LOCATION
+Holmes,PERSON
+London,LOCATION
+Mortimer,PERSON
+Coburg,LOCATION
+Suburban Bank,ORGANIZATION
+Vegetarian Restaurant,MISC
+McFarlane,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+St. James's Hall,ORGANIZATION
+him,PERSON
+he,PERSON
+he,PERSON
+Coburg Square,LOCATION
+Saturday,DATE
+Baker Street,LOCATION
+He,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Kensington,LOCATION
+Encyclopaedia,MISC
+Saxe-Coburg Square,LOCATION
+he,PERSON
+Holmes,PERSON
+Park,LOCATION
+Oxford Street,LOCATION
+Baker Street,LOCATION
+Holmes,PERSON
+Peter Jones,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Mr. Jones,PERSON
+Scotland Yard,LOCATION
+Mr. Merryweather,PERSON
+Jones,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Mr. Merryweather,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Agra,LOCATION
+he,PERSON
+Mr. Jones,PERSON
+Saturday,DATE
+night,TIME
+Sherlock Holmes,PERSON
+Mr. Merryweather,PERSON
+Jones,PERSON
+John Clay,PERSON
+Mr. Merryweather,PERSON
+London,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+John Clay,PERSON
+He,PERSON
+Eton,LOCATION
+Oxford,LOCATION
+His,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+him,PERSON
+Scotland,LOCATION
+Cornwall,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+Mr. John Clay,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Sherlock Holmes,PERSON
+afternoon,TIME
+he,PERSON
+Farrington Street,LOCATION
+Merryweather,PERSON
+Jones,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+morning,TIME
+Mr. Merryweather,PERSON
+he,PERSON
+Mr. Merryweather,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+Mr. Merryweather,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Merryweather,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+London,LOCATION
+Mr. Merryweather,PERSON
+London,LOCATION
+he,PERSON
+French,MISC
+French,MISC
+Bank of France,LOCATION
+Holmes,PERSON
+Mr. Merryweather,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Saxe-Coburg Square,LOCATION
+Jones,PERSON
+Jones,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Archie,PERSON
+Sherlock Holmes,PERSON
+Jones,PERSON
+his,PERSON
+Holmes,PERSON
+John Clay,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+Jones,PERSON
+He,PERSON
+his,PERSON
+Jones,PERSON
+John Clay,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+Mr. Merryweather,PERSON
+Mr. John Clay,PERSON
+Holmes,PERSON
+Red-headed League,MISC
+Watson,PERSON
+morning,TIME
+Baker Street,LOCATION
+League,MISC
+he,PERSON
+Clay,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+London,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+Suburban Bank,ORGANIZATION
+Scotland Yard,LOCATION
+League,MISC
+Mr. Jabez Wilson,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Gustave Flaubert,PERSON
+George Sand,PERSON

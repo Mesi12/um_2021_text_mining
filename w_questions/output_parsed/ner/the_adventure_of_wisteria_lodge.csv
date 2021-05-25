@@ -1,0 +1,787 @@
+text,ner
+Mr. John Scott Eccles,PERSON
+March in the year 1892,DATE
+Holmes,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+Scott Eccles,PERSON
+Post Office,ORGANIZATION
+Charing Cross,ORGANIZATION
+She,PERSON
+him,PERSON
+Watson,PERSON
+Carruthers,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Mr. Scott Eccles,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Garcia,PERSON
+Wisteria Lodge,LOCATION
+Holmes,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Mrs. Hudson,PERSON
+Gregson,PERSON
+Scotland Yard,LOCATION
+his,PERSON
+Holmes,PERSON
+Baynes,PERSON
+Surrey,LOCATION
+Constabulary,ORGANIZATION
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+Mr. John Scott Eccles,PERSON
+Popham House,ORGANIZATION
+Lee,LOCATION
+Holmes,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Charing Cross Post-Office,ORGANIZATION
+Mr. Scott Eccles,PERSON
+Mr. Aloysius Garcia,PERSON
+Wisteria Lodge,ORGANIZATION
+Esher,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+last night,TIME
+his,PERSON
+Gregson,PERSON
+Sherlock Holmes,PERSON
+Mr. Scott Eccles,PERSON
+him,PERSON
+Mr. Eccles,PERSON
+Watson,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Melville,PERSON
+Abermarle Mansion,LOCATION
+Kensington,LOCATION
+Garcia,PERSON
+his,PERSON
+Spanish,MISC
+He,PERSON
+English,MISC
+He,PERSON
+his,PERSON
+Lee,LOCATION
+He,PERSON
+he,PERSON
+Wisteria Lodge,ORGANIZATION
+Esher,PERSON
+his,PERSON
+his,PERSON
+Esher,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+English,MISC
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Surrey,LOCATION
+he,PERSON
+him,PERSON
+Esher,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Lee,LOCATION
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Garcia,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+Wisteria Lodge,ORGANIZATION
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Esher,PERSON
+Allan Brothers,ORGANIZATION
+March,DATE
+Spanish,MISC
+Melville,PERSON
+Garcia,PERSON
+he,PERSON
+him,PERSON
+Mr. Inspector,PERSON
+Mr. Scott Eccles,PERSON
+Gregson,PERSON
+Garcia,PERSON
+Mr. Baynes,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Gregson,PERSON
+Londoner,MISC
+Mr. Garcia,PERSON
+Wisteria Lodge,ORGANIZATION
+Holmes,PERSON
+Mr. Baynes,PERSON
+he,PERSON
+Mr. Scott Eccles,PERSON
+his,PERSON
+he,PERSON
+Mr. Garcia,PERSON
+his,PERSON
+Garcia,PERSON
+Gregson,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Mr. Scott Eccles,PERSON
+Baynes,PERSON
+night,TIME
+him,PERSON
+his,PERSON
+nine this morning,TIME
+his,PERSON
+Mr. Gregson,PERSON
+London,LOCATION
+Wisteria Lodge,ORGANIZATION
+Mr. Gregson,PERSON
+Gregson,PERSON
+Mr. Scott Eccles,PERSON
+Mr. Holmes,PERSON
+Mr. Baynes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Mr. Baynes,PERSON
+His,PERSON
+he,PERSON
+Holmes,PERSON
+Gregson,PERSON
+Mr. Baynes,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Mrs. Hudson,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Scott Eccles,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Scott Eccles,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+Scott Eccles,PERSON
+Wisteria Lodge,ORGANIZATION
+Spaniard,MISC
+Scott Eccles,PERSON
+Eccles,PERSON
+London,LOCATION
+Esher,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Eccles,PERSON
+he,PERSON
+Eccles,PERSON
+He,PERSON
+Garcia,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+British,MISC
+Briton,MISC
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Wisteria Lodge,ORGANIZATION
+Scott Eccles,PERSON
+Garcia,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Garcia,PERSON
+he,PERSON
+he,PERSON
+Englishman,MISC
+She,PERSON
+Spaniard,MISC
+Dolores,PERSON
+Spain,LOCATION
+Watson,PERSON
+Spaniard,MISC
+Spaniard,MISC
+Spanish,MISC
+English,MISC
+Holmes,PERSON
+Surrey,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Harringby,PERSON
+Dingle,PERSON
+George Ffolliott,PERSON
+Oxshott Towers,ORGANIZATION
+Mr. Hynes Hynes,PERSON
+J.P.,LOCATION
+Purdley Place,LOCATION
+Mr. James Baker Williams,PERSON
+Forton Old Hall,LOCATION
+Mr. Henderson,PERSON
+Joshua Stone,PERSON
+Holmes,PERSON
+Baynes,PERSON
+his,PERSON
+Garcia,PERSON
+Oxshott,LOCATION
+Garcia,PERSON
+Wisteria Lodge,LOCATION
+Oxshott,LOCATION
+Scott Eccles,PERSON
+Surrey,LOCATION
+Esher,LOCATION
+Baynes,PERSON
+Holmes,PERSON
+night,TIME
+Wisteria Lodge,LOCATION
+March,DATE
+San Pedro,LOCATION
+Baynes,PERSON
+He,PERSON
+his,PERSON
+spring,DATE
+his,PERSON
+Walters,PERSON
+Baynes,PERSON
+his,PERSON
+his,PERSON
+Walters,PERSON
+Walters,PERSON
+Walters,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Marx,PERSON
+High Holborn,PERSON
+Marx,PERSON
+his,PERSON
+he,PERSON
+Spanish,MISC
+Baynes,PERSON
+Mr. Holmes,PERSON
+last night,TIME
+Baynes,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Baynes,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Baynes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+this morning,TIME
+He,PERSON
+Holmes,PERSON
+his,PERSON
+Baynes,PERSON
+Mr. Holmes,PERSON
+Mr. Baynes,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+British,MISC
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Baynes,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Jove,PERSON
+he,PERSON
+Baynes,PERSON
+him,PERSON
+Esher,LOCATION
+late last night,TIME
+Mr. Garcia,PERSON
+Wisteria Lodge,ORGANIZATION
+his,PERSON
+his,PERSON
+his,PERSON
+Baynes,PERSON
+he,PERSON
+him,PERSON
+Walters,PERSON
+Wisteria Lodge,ORGANIZATION
+he,PERSON
+he,PERSON
+Baynes,PERSON
+last night,TIME
+his,PERSON
+Baynes,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Baynes,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Mr. Baynes,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+him,PERSON
+English,MISC
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+fall,DATE
+He,PERSON
+he,PERSON
+Baynes,PERSON
+Watson,PERSON
+Sherlock Holmes,PERSON
+Garcia,PERSON
+his,PERSON
+Baynes,PERSON
+Garcia,PERSON
+Scott Eccles,PERSON
+he,PERSON
+Garcia,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Garcia,PERSON
+Garcia,PERSON
+Englishman,MISC
+Garcia,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Garcia,PERSON
+Jacobean,MISC
+Oxshott,LOCATION
+Mr. Henderson,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Mr. Lucas,PERSON
+His,PERSON
+Watson,PERSON
+Wisteria Lodge,ORGANIZATION
+Henderson,PERSON
+Miss Burnet,MISC
+Englishwoman,MISC
+Henderson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+English,MISC
+his,PERSON
+Baynes,PERSON
+John Warner,PERSON
+High Gable,PERSON
+his,PERSON
+He,PERSON
+Watson,PERSON
+Henderson,PERSON
+Henderson,PERSON
+His,PERSON
+his,PERSON
+Warner,ORGANIZATION
+his,PERSON
+his,PERSON
+his,PERSON
+Henderson,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+Garcia,PERSON
+Miss Burnet,PERSON
+Garcia,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Watson,PERSON
+she,PERSON
+her,PERSON
+Warner,ORGANIZATION
+her,PERSON
+Holmes,LOCATION
+he,PERSON
+his,PERSON
+March,DATE
+Mr. Holmes,PERSON
+her,PERSON
+Warner,ORGANIZATION
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+She,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+Mr. Holmes,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Baynes,PERSON
+Holmes,PERSON
+him,PERSON
+Henderson,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Baynes,PERSON
+Henderson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Baynes,PERSON
+he,PERSON
+Miss Burnet,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+she,PERSON
+Baynes,PERSON
+Henderson,PERSON
+Henderson,PERSON
+Don Murillo,PERSON
+San Pedro,LOCATION
+San Pedro,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Central America,LOCATION
+His,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+European,MISC
+he,PERSON
+his,PERSON
+Don Murillo,PERSON
+San Pedro,LOCATION
+Baynes,PERSON
+San Pedro,LOCATION
+Mr. Holmes,PERSON
+Henderson,PERSON
+Paris,LOCATION
+Rome,LOCATION
+Madrid,LOCATION
+Barcelona,LOCATION
+'86,DATE
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Miss Burnet,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Garcia,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+English,MISC
+England,LOCATION
+San Pedro,LOCATION
+Juan Murillo,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Signora Victor Durando,PERSON
+San Pedro,LOCATION
+London,LOCATION
+He,PERSON
+Murillo,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+His,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Henderson,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Paris,LOCATION
+Europe,LOCATION
+England,LOCATION
+he,PERSON
+his,PERSON
+Garcia,PERSON
+San Pedro,LOCATION
+he,PERSON
+Murillo,PERSON
+Lucas,PERSON
+Lopez,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Lopez,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+Garcia,PERSON
+Murillo,PERSON
+him,PERSON
+Garcia,PERSON
+he,PERSON
+Lopez,PERSON
+Jose,PERSON
+his,PERSON
+Murillo,PERSON
+Lopez,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Garcia,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Baynes,PERSON
+him,PERSON
+him,PERSON
+Guildford Assizes,LOCATION
+San Pedro,LOCATION
+his,PERSON
+Edmonton Street,LOCATION
+Curzon Square,LOCATION
+he,PERSON
+his,PERSON
+England,LOCATION
+Montalva,LOCATION
+Signor Rulli,PERSON
+Madrid,LOCATION
+his,PERSON
+Nihilism,MISC
+Baynes,PERSON
+Baker Street,LOCATION
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+Scott Eccles,PERSON
+Garcia,PERSON
+San Pedro,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Walters,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Baynes,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+British Museum,LOCATION
+Eckermann,ORGANIZATION
+Negroid Religions,MISC
+his,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON

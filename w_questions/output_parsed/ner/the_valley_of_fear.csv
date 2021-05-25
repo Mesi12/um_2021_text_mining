@@ -1,0 +1,3956 @@
+text,ner
+Sherlock Holmes,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Porlock,PERSON
+he,PERSON
+Porlock,PERSON
+Greek,MISC
+Porlock,LOCATION
+He,PERSON
+Porlock,PERSON
+Porlock,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Moriarty,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+Moriarty,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Porlock,PERSON
+He,PERSON
+Watson,PERSON
+Porlock,LOCATION
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+C2 13 127 36 31 4 17 21 41,DATE
+DOUGLAS,ORGANIZATION
+BIRLSTONE,ORGANIZATION
+BIRLSTONE,ORGANIZATION
+Holmes,PERSON
+him,PERSON
+Douglas,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Billy,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+His,PERSON
+he,PERSON
+Watson,PERSON
+Porlock,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Fred Porlock,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Moriarty,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+Europe,LOCATION
+his,PERSON
+Porlock,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Machiavellian,MISC
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+this morning,TIME
+Watson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+Watson,PERSON
+Moriarty,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Bradshaw,PERSON
+Watson,PERSON
+Bradshaw,PERSON
+Bradshaw,PERSON
+Watson,PERSON
+Whitaker,PERSON
+He,PERSON
+his,PERSON
+India,LOCATION
+Watson,PERSON
+Moriarty,PERSON
+Mahratta,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+January,DATE
+Porlock,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Douglas,PERSON
+House,ORGANIZATION
+Watson,PERSON
+Billy,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Douglas,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Billy,PERSON
+MacDonald,PERSON
+Scotland Yard,LOCATION
+He,PERSON
+his,PERSON
+Alec MacDonald,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+Aberdonian,MISC
+He,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Scotchman,MISC
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+MacDonald,PERSON
+Europe,LOCATION
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Scotchman,MISC
+he,PERSON
+him,PERSON
+Mr. Mac,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Douglas,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Mr. Douglas,PERSON
+Birlstone Manor House,ORGANIZATION
+last night,TIME
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Mac,PERSON
+he,PERSON
+MacDonald,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Birlstone,LOCATION
+this morning,TIME
+he,PERSON
+London,LOCATION
+Holmes,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+Mr. Mac,PERSON
+MacDonald,PERSON
+Holmes,PERSON
+him,PERSON
+Camberwell,LOCATION
+him,PERSON
+Camberwell,LOCATION
+he,PERSON
+him,PERSON
+him,PERSON
+MacDonald,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Aberdeen,LOCATION
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Friend MacDonald,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+her,PERSON
+Jean Baptiste Greuze,PERSON
+Jean Baptiste Greuze,PERSON
+Holmes,PERSON
+French,MISC
+1750,DATE
+1800,DATE
+his,PERSON
+his,PERSON
+his,PERSON
+Modern,MISC
+him,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+MacDonald,PERSON
+Mr. Holmes,PERSON
+Birlstone,LOCATION
+Holmes,PERSON
+Greuze,PERSON
+Portalis,MISC
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+He,PERSON
+Birlstone,PERSON
+he,PERSON
+his,PERSON
+Victoria,LOCATION
+Mr. Holmes,PERSON
+Moriarty,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+England,LOCATION
+His,PERSON
+His,PERSON
+Greuze,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Greuze,PERSON
+Mr. Holmes,PERSON
+Jonathan Wild,PERSON
+he,PERSON
+Jonathan Wild,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Mr. Mac,PERSON
+Moriarty,PERSON
+Jonathan Wild,PERSON
+London,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+Moriarty,PERSON
+his,PERSON
+Sebastian Moran,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+American,MISC
+Moriarty,PERSON
+he,PERSON
+Moriarty,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Deutsche Bank,ORGANIZATION
+Credit Lyonnais,ORGANIZATION
+he,PERSON
+his,PERSON
+Moriarty,PERSON
+MacDonald,PERSON
+He,PERSON
+his,PERSON
+Scotch,MISC
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Porlock,PERSON
+Moriarty,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+His,PERSON
+Mr. Holmes,PERSON
+Moriarty,PERSON
+Moriarty,PERSON
+he,PERSON
+Birlstone,LOCATION
+he,PERSON
+him,PERSON
+Birlstone,LOCATION
+MacDonald,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Mac,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+MacDonald,PERSON
+Sussex,LOCATION
+he,PERSON
+he,PERSON
+him,PERSON
+White Mason,PERSON
+MacDonald,PERSON
+Scotland Yard,LOCATION
+Metropolitan,MISC
+MacDonald,PERSON
+he,PERSON
+Birlstone,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+White Mason,PERSON
+he,PERSON
+Mr. Douglas,PERSON
+he,PERSON
+John Douglas,PERSON
+his,PERSON
+midnight last night,TIME
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+London,LOCATION
+Sussex,LOCATION
+Birlstone,LOCATION
+Sussex,LOCATION
+Weald,LOCATION
+Birlstone,LOCATION
+Tunbridge Wells,LOCATION
+Kent,LOCATION
+Birlstone,LOCATION
+Hugo de Capus,PERSON
+him,PERSON
+1543,DATE
+Manor House,ORGANIZATION
+early seventeenth century,DATE
+Manor House,ORGANIZATION
+Manor House,ORGANIZATION
+England,LOCATION
+Douglases,ORGANIZATION
+Douglas,PERSON
+his,PERSON
+Douglas,PERSON
+he,PERSON
+Sussex,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+California,LOCATION
+America,LOCATION
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+John Douglas,PERSON
+Manor House,ORGANIZATION
+Birlstone,LOCATION
+English,MISC
+His,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+English,MISC
+Mr. Douglas,PERSON
+London,LOCATION
+she,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+Mrs. Douglas,PERSON
+she,PERSON
+her,PERSON
+his,PERSON
+Manor House,ORGANIZATION
+his,PERSON
+Cecil James Barker,PERSON
+Hales Lodge,LOCATION
+Hampstead,LOCATION
+Cecil Barker,PERSON
+Birlstone,LOCATION
+Manor House,ORGANIZATION
+he,PERSON
+Mr. Douglas,PERSON
+English,MISC
+He,PERSON
+his,PERSON
+Barker,PERSON
+Englishman,MISC
+Douglas,PERSON
+America,LOCATION
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+Douglas,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Ames,PERSON
+him,PERSON
+Douglas,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Ames,PERSON
+Mrs. Allen,PERSON
+her,PERSON
+January 6th,DATE
+Wilson,PERSON
+Sussex,LOCATION
+Constabulary,ORGANIZATION
+Cecil Barker,PERSON
+Manor House,ORGANIZATION
+John Douglas,PERSON
+his,PERSON
+He,PERSON
+Manor House,ORGANIZATION
+his,PERSON
+Cecil Barker,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Wood,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Cecil Barker,PERSON
+his,PERSON
+Douglas,PERSON
+him,PERSON
+His,PERSON
+Mrs. Douglas,PERSON
+her,PERSON
+Mrs. Allen,PERSON
+her,PERSON
+Ames,PERSON
+Mr. Douglas,PERSON
+Barker,PERSON
+He,PERSON
+he,PERSON
+Mrs. Douglas,PERSON
+her,PERSON
+he,PERSON
+Barker,PERSON
+Ames,PERSON
+Mrs. Douglas,PERSON
+Ames,PERSON
+Mr. Douglas,PERSON
+Mr. Douglas,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Barker,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Wood,PERSON
+Cecil Barker,PERSON
+Mr. Douglas,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+London,LOCATION
+He,PERSON
+he,PERSON
+He,PERSON
+Mr. Barker,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Douglas,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Barker,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Cecil Barker,PERSON
+Douglas,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Barker,PERSON
+He,PERSON
+his,PERSON
+London,LOCATION
+he,PERSON
+White Mason,ORGANIZATION
+White Mason,ORGANIZATION
+he,PERSON
+London,LOCATION
+Sussex,LOCATION
+Wilson,PERSON
+Birlstone,LOCATION
+Scotland Yard,LOCATION
+Birlstone,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+White Mason,PERSON
+Mr. MacDonald,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Westville,LOCATION
+Sussex,LOCATION
+He,PERSON
+MacDonald,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+White Mason,PERSON
+Sussex,LOCATION
+Wilson,PERSON
+this morning,TIME
+Wilson,PERSON
+Holmes,PERSON
+Wood,PERSON
+Mr. Douglas,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+MacDonald,PERSON
+Wilson,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Pennsylvania,LOCATION
+American,MISC
+Holmes,PERSON
+White Mason,PERSON
+Harley Street,LOCATION
+him,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+American,MISC
+White Mason,PERSON
+America,LOCATION
+American,MISC
+MacDonald,PERSON
+his,PERSON
+he,PERSON
+Mr. Douglas,PERSON
+American,MISC
+America,LOCATION
+Mr. Barker,PERSON
+American,MISC
+American,MISC
+him,PERSON
+he,PERSON
+Charles Chandos,PERSON
+Douglas,PERSON
+Manor House,ORGANIZATION
+He,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+MacDonald,PERSON
+his,PERSON
+he,PERSON
+Aberdonian,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Mr. White Mason,PERSON
+Mr. Holmes,PERSON
+Mr. White Mason,PERSON
+Mr. Holmes,PERSON
+White Mason,ORGANIZATION
+Mr. Holmes,PERSON
+MacDonald,PERSON
+He,PERSON
+Holmes,PERSON
+Mr. White Mason,PERSON
+White Mason,PERSON
+Watson,PERSON
+Capus,PERSON
+Birlstone,LOCATION
+England,LOCATION
+Jacobean,MISC
+Manor House,ORGANIZATION
+White Mason,PERSON
+last night,TIME
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+White Mason,PERSON
+he,PERSON
+he,PERSON
+Ames,PERSON
+his,PERSON
+Wilson,PERSON
+White Mason,PERSON
+Mr. Cecil Barker,PERSON
+Mrs. Douglas,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+MacDonald,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Cecil Barker,PERSON
+Ames,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+Mr. Douglas,PERSON
+He,PERSON
+he,PERSON
+Mr. Douglas,PERSON
+America,LOCATION
+American,MISC
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Douglas,PERSON
+Mrs. Douglas,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Barker,PERSON
+Mr. Douglas,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+Mr. Douglas,PERSON
+Douglas,PERSON
+he,PERSON
+Cecil Barker,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+MacDonald,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. White Mason,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Mr. Mac,PERSON
+he,PERSON
+Ames,PERSON
+Mr. Douglas,PERSON
+Ames,PERSON
+Mr. Douglas,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Ames,PERSON
+his,PERSON
+he,PERSON
+Mr. Mac,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Ames,PERSON
+Mr. Mac,PERSON
+his,PERSON
+White Mason,PERSON
+Mr. Douglas,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Douglas,PERSON
+Ames,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+Cecil Barker,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Rudge-Whitworth,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+White Mason,PERSON
+Holmes,PERSON
+Ames,LOCATION
+he,PERSON
+Douglas,PERSON
+Birlstone,LOCATION
+He,PERSON
+Mr. Douglas,PERSON
+America,LOCATION
+He,PERSON
+his,PERSON
+Ames,PERSON
+He,PERSON
+Mr. Douglas,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Mr. Douglas,PERSON
+London,LOCATION
+Tunbridge Wells,LOCATION
+he,PERSON
+Ames,ORGANIZATION
+Mr. Douglas,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+her,PERSON
+Mrs. Douglas,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+Mr. Barker,PERSON
+she,PERSON
+Mrs. Douglas,PERSON
+He,PERSON
+her,PERSON
+he,PERSON
+Jack,PERSON
+Mrs. Douglas,PERSON
+She,PERSON
+She,PERSON
+Mrs. Allen,PERSON
+her,PERSON
+her,PERSON
+Ames,PERSON
+Mr. Barker,PERSON
+night,TIME
+Ames,PERSON
+Mr. Barker,PERSON
+Mrs. Allen,PERSON
+her,PERSON
+Ames,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+Mr. Ames,PERSON
+she,PERSON
+him,PERSON
+Mr. Barker,PERSON
+She,PERSON
+Mrs. Douglas,PERSON
+He,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Mrs. Allen,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Mrs. Allen,PERSON
+night,TIME
+her,PERSON
+Cecil Barker,PERSON
+Mrs. Allen,PERSON
+night before,TIME
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Douglas,PERSON
+his,PERSON
+he,PERSON
+America,LOCATION
+He,PERSON
+he,PERSON
+Barker,PERSON
+California,LOCATION
+Benito Canyon,LOCATION
+He,PERSON
+him,PERSON
+Douglas,PERSON
+England,LOCATION
+He,PERSON
+Barker,PERSON
+London,LOCATION
+his,PERSON
+Douglas,PERSON
+California,LOCATION
+England,LOCATION
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Douglas,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+California,LOCATION
+MacDonald,PERSON
+He,PERSON
+his,PERSON
+German,MISC
+his,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+She,PERSON
+him,PERSON
+America,LOCATION
+his,PERSON
+Chicago,LOCATION
+him,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+California,LOCATION
+his,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Europe,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Europe,LOCATION
+he,PERSON
+him,PERSON
+him,PERSON
+Americans,MISC
+Californians,MISC
+Americans,MISC
+California,LOCATION
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+His,PERSON
+his,PERSON
+last night,TIME
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+MacDonald,PERSON
+Douglas,PERSON
+California,LOCATION
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mrs. Douglas,PERSON
+her,PERSON
+England,LOCATION
+her,PERSON
+Barker,PERSON
+him,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+Mr. Barker,PERSON
+Barker,PERSON
+Mr. Douglas,PERSON
+his,PERSON
+Barker,PERSON
+his,PERSON
+he,PERSON
+Barker,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mrs. Douglas,PERSON
+she,PERSON
+her,PERSON
+Douglas,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+MacDonald,PERSON
+he,PERSON
+his,PERSON
+Barker,PERSON
+he,PERSON
+Barker,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+MacDonald,PERSON
+Sherlock Holmes,PERSON
+Barker,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Barker,PERSON
+MacDonald,PERSON
+Mrs. Douglas,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Her,PERSON
+she,PERSON
+Mrs. Douglas,PERSON
+she,PERSON
+Mr. Cecil Barker,PERSON
+he,PERSON
+He,PERSON
+Mr. Barker,PERSON
+He,PERSON
+He,PERSON
+Mrs. Allen,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Mrs. Douglas,PERSON
+England,LOCATION
+America,LOCATION
+him,PERSON
+him,PERSON
+Mrs. Douglas,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Mrs. Douglas,PERSON
+his,PERSON
+him,PERSON
+American,MISC
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Valley of Fear,MISC
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+McGinty,PERSON
+McGinty,PERSON
+Bodymaster McGinty,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Bodymaster McGinty,PERSON
+MacDonald,PERSON
+Mr. Douglas,PERSON
+London,LOCATION
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+MacDonald,PERSON
+She,PERSON
+her,PERSON
+Barker,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Ames,PERSON
+Mr. Cecil Barker,PERSON
+he,PERSON
+Barker,PERSON
+He,PERSON
+Ames,PERSON
+Mr. Barker,PERSON
+last night,TIME
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Ames,PERSON
+Mr. Barker,PERSON
+Ames,PERSON
+Holmes,PERSON
+him,PERSON
+Ames,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+Barker,PERSON
+Mr. Holmes,PERSON
+White Mason,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mrs. Douglas,PERSON
+Barker,PERSON
+Her,PERSON
+she,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Barker,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Mrs. Douglas,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Watson,PERSON
+Barker,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Barker,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+her,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+Manor House,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Barker,PERSON
+Barker,PERSON
+Mrs. Douglas,PERSON
+she,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Douglas,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Barker,PERSON
+Douglas,PERSON
+Barker,PERSON
+him,PERSON
+Ames,PERSON
+this afternoon,TIME
+MacDonald,PERSON
+Mrs. Allen,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+Barker,PERSON
+Mrs. Douglas,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Watson,PERSON
+Watson,PERSON
+her,PERSON
+her,PERSON
+Barker,PERSON
+Mrs. Douglas,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Mrs. Douglas,PERSON
+Barker,PERSON
+Douglases,ORGANIZATION
+he,PERSON
+He,PERSON
+Holmes,PERSON
+Watson,PERSON
+Valley of Fear,MISC
+Watson,PERSON
+American,MISC
+Mrs. Allen,PERSON
+Watson,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+Douglas,PERSON
+his,PERSON
+Barker,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Barker,PERSON
+he,PERSON
+Barker,PERSON
+Watson,PERSON
+Watson,PERSON
+Tunbridge Wells,LOCATION
+MacDonald,PERSON
+White Mason,PERSON
+MacDonald,PERSON
+Holmes,PERSON
+Mr. Douglas,PERSON
+Tunbridge Wells,LOCATION
+he,PERSON
+Tunbridge Wells,LOCATION
+he,PERSON
+Tunbridge Wells,LOCATION
+he,PERSON
+Eagle Commercial,LOCATION
+Hargrave,PERSON
+his,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+London,LOCATION
+British,MISC
+American,MISC
+Holmes,PERSON
+Mr. Mac,PERSON
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+White Mason,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+MacDonald,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Douglas,PERSON
+Holmes,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+MacDonald,PERSON
+his,PERSON
+American,MISC
+Hargrave,PERSON
+Tunbridge Wells,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Mr. Douglas,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+English,MISC
+he,PERSON
+Holmes,PERSON
+Mr. Douglas,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Douglas,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+London,LOCATION
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+Mrs. Douglas,PERSON
+Barker,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+White Mason,PERSON
+America,LOCATION
+her,PERSON
+American,MISC
+she,PERSON
+her,PERSON
+him,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Ames,PERSON
+Ames,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+MacDonald,PERSON
+White Mason,PERSON
+Holmes,PERSON
+MacDonald,PERSON
+his,PERSON
+Leicester,LOCATION
+Nottingham,LOCATION
+Southampton,LOCATION
+Derby,LOCATION
+East Ham,LOCATION
+Richmond,LOCATION
+He,PERSON
+Leicester,LOCATION
+Liverpool,ORGANIZATION
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Mac,PERSON
+Mr. White Mason,PERSON
+this morning,TIME
+MacDonald,PERSON
+White Mason,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Liverpool,ORGANIZATION
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+London,LOCATION
+Mr. Holmes,PERSON
+Tunbridge Wells,LOCATION
+last night,TIME
+last night,TIME
+Manor House,ORGANIZATION
+Holmes,PERSON
+Manor House,LOCATION
+his,PERSON
+Mr. Mac,PERSON
+James,PERSON
+Manor House of Birlstone,ORGANIZATION
+moated Jacobean,MISC
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+1644,DATE
+Charles,PERSON
+Civil War,MISC
+George,PERSON
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+last night,TIME
+Manor House,ORGANIZATION
+Barker,PERSON
+Mrs. Douglas,PERSON
+she,PERSON
+Mr. Ames,PERSON
+his,PERSON
+Mr. Mac,PERSON
+Mr. Mac,PERSON
+Mr. John Douglas,PERSON
+Birlstone Manor,LOCATION
+Mr. White Mason,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Birlstone Ridge,LOCATION
+evening,TIME
+MacDonald,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+Mr. Mac,PERSON
+Mr. Barker,PERSON
+Holmes,PERSON
+his,PERSON
+Manor House,ORGANIZATION
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+MacDonald,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Mac,PERSON
+Mr. Mac,PERSON
+London,LOCATION
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Ames,PERSON
+Holmes,PERSON
+him,PERSON
+Cecil Barker,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Barker,PERSON
+Barker,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+MacDonald,PERSON
+Ames,PERSON
+Watson,PERSON
+last night,DATE
+him,PERSON
+Mr. Barker,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+American,MISC
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+Outfitter,ORGANIZATION
+Vermissa,PERSON
+U. S. A.,PERSON
+Vermissa,PERSON
+United States,LOCATION
+Mr. Barker,PERSON
+Mr. Douglas,PERSON
+Vermissa Valley,LOCATION
+Mr. Barker,PERSON
+Cecil Barker,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Barker,PERSON
+Mr. Barker,PERSON
+Barker,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Mrs. Douglas,PERSON
+she,PERSON
+Cecil,PERSON
+she,PERSON
+Sherlock Holmes,PERSON
+Watson,PERSON
+Mr. Douglas,PERSON
+his,PERSON
+Mrs. Douglas,PERSON
+Holmes,PERSON
+he,PERSON
+Mrs. Douglas,PERSON
+her,PERSON
+him,PERSON
+Barker,PERSON
+his,PERSON
+Jack,PERSON
+his,PERSON
+Mr. Douglas,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+he,PERSON
+English,MISC
+American,MISC
+he,PERSON
+Watson,PERSON
+Mr. Douglas,PERSON
+Sherlock Holmes,PERSON
+Douglas,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+MacDonald,PERSON
+he,PERSON
+Mr. John Douglas,PERSON
+Birlstone Manor,LOCATION
+Mr. Mac,PERSON
+Holmes,PERSON
+Charles,PERSON
+Mr. Douglas,PERSON
+Mr. Holmes,PERSON
+Mr. Mac,PERSON
+last night,TIME
+this evening,TIME
+Mr. John Douglas,PERSON
+Tunbridge Wells,LOCATION
+Mr. John Douglas,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Douglas,PERSON
+British,MISC
+he,PERSON
+Chicago,LOCATION
+California,LOCATION
+America,LOCATION
+her,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Barker,PERSON
+night,TIME
+She,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+his,PERSON
+Tunbridge Wells,LOCATION
+States,LOCATION
+'76,DATE
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Barker,PERSON
+her,PERSON
+her,PERSON
+Barker,PERSON
+he,PERSON
+his,PERSON
+Douglas,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Barker,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Baldwin,PERSON
+his,PERSON
+Barker,PERSON
+Ames,PERSON
+his,PERSON
+Barker,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+English,MISC
+Sherlock Holmes,PERSON
+English,MISC
+Mr. Douglas,PERSON
+Holmes,PERSON
+he,PERSON
+English,MISC
+America,LOCATION
+Mr. Douglas,PERSON
+Sussex,LOCATION
+Manor House of Birlstone,ORGANIZATION
+John Douglas,PERSON
+Baker Street,LOCATION
+February,DATE
+1875,DATE
+Gilmerton Mountains,LOCATION
+Stagville,LOCATION
+Vermissa,LOCATION
+Vermissa Valley,LOCATION
+Bartons Crossing,LOCATION
+Helmdale,LOCATION
+Merton,LOCATION
+United States of America,LOCATION
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Irishman,MISC
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Vermissa,LOCATION
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Chicago,LOCATION
+his,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Scanlan,PERSON
+Vermissa Valley,LOCATION
+John McMurdo,PERSON
+Lodge,ORGANIZATION
+Chicago,LOCATION
+Bodymaster J. H. Scott,PERSON
+States,LOCATION
+Vermissa Valley,LOCATION
+Chicago,LOCATION
+McMurdo,LOCATION
+he,PERSON
+Scanlan,PERSON
+he,PERSON
+McMurdo,LOCATION
+he,PERSON
+Chicago,LOCATION
+His,PERSON
+his,PERSON
+McMurdo,PERSON
+Sheridan Street,LOCATION
+Chicago,LOCATION
+Vermissa,PERSON
+Hobson,PERSON
+Patch,PERSON
+Vermissa,LOCATION
+Union House,ORGANIZATION
+Boss McGinty,PERSON
+Vermissa Lodge,ORGANIZATION
+Black Jack McGinty,ORGANIZATION
+He,PERSON
+Boss McGinty,PERSON
+Scanlan,PERSON
+McMurdo,PERSON
+his,PERSON
+McMurdo,LOCATION
+his,PERSON
+McMurdo,LOCATION
+Mike Scanlan,PERSON
+his,PERSON
+McMurdo,ORGANIZATION
+He,PERSON
+his,PERSON
+McMurdo,LOCATION
+Jack McMurdo--see,PERSON
+Jacob Shafter,LOCATION
+Sheridan Street,LOCATION
+Vermissa,PERSON
+Vermissa,PERSON
+McMurdo,PERSON
+his,PERSON
+him,PERSON
+Gar,PERSON
+he,PERSON
+Shafter,LOCATION
+McMurdo,LOCATION
+Vermissa,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+Union House,ORGANIZATION
+Jack McGinty,PERSON
+he,PERSON
+McMurdo,LOCATION
+him,PERSON
+his,PERSON
+his,PERSON
+Chicago,LOCATION
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Jack McGinty,PERSON
+him,PERSON
+he,PERSON
+Jacob Shafter,PERSON
+McMurdo,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+German,MISC
+She,PERSON
+she,PERSON
+her,PERSON
+McMurdo,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+she,PERSON
+German,MISC
+she,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+McMurdo,LOCATION
+her,PERSON
+her,PERSON
+he,PERSON
+him,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+Miss Ettie Shafter,PERSON
+Mr. Shafter,PERSON
+he,PERSON
+him,PERSON
+McMurdo,PERSON
+his,PERSON
+Murphy,PERSON
+Chicago,LOCATION
+him,PERSON
+He,PERSON
+Shafter,LOCATION
+seven dollars,MONEY
+he,PERSON
+McMurdo,LOCATION
+his,PERSON
+McMurdo,PERSON
+his,PERSON
+he,PERSON
+Shafter,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+He,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Ettie,PERSON
+Irish,MISC
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+her,PERSON
+Monaghan,PERSON
+He,PERSON
+he,PERSON
+Detroit,LOCATION
+Michigan,LOCATION
+Chicago,LOCATION
+he,PERSON
+he,PERSON
+him,PERSON
+Ettie,PERSON
+He,PERSON
+her,PERSON
+McMurdo,ORGANIZATION
+he,PERSON
+him,PERSON
+he,PERSON
+Mike Scanlan,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Scanlan,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+McMurdo,PERSON
+he,PERSON
+Boss McGinty,PERSON
+him,PERSON
+Union House,ORGANIZATION
+him,PERSON
+McMurdo,LOCATION
+Scanlan,PERSON
+Chicago,LOCATION
+Scanlan,PERSON
+him,PERSON
+his,PERSON
+McGinty,PERSON
+he,PERSON
+Scanlan,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+McMurdo,ORGANIZATION
+him,PERSON
+Ettie,PERSON
+German,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+Ettie,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+McMurdo,LOCATION
+him,PERSON
+Teddy Baldwin,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Scowrers,MISC
+he,PERSON
+he,PERSON
+Milman,PERSON
+Van Shorst,PERSON
+Nicholson,PERSON
+Mr. Hyam,PERSON
+Billy James,PERSON
+McMurdo,LOCATION
+States,LOCATION
+Mr. Shafter,PERSON
+McMurdo,LOCATION
+Ettie,PERSON
+him,PERSON
+McMurdo,LOCATION
+his,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+Ettie,PERSON
+Mr. McMurdo,PERSON
+him,PERSON
+Ettie,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+McMurdo,PERSON
+his,PERSON
+her,PERSON
+Ettie,PERSON
+he,PERSON
+Ettie,PERSON
+He,PERSON
+his,PERSON
+Jack,PERSON
+His,PERSON
+her,PERSON
+McMurdo,ORGANIZATION
+he,PERSON
+Ettie,PERSON
+Ettie,PERSON
+Jack,PERSON
+Baldwin,PERSON
+McGinty,PERSON
+his,PERSON
+McMurdo,LOCATION
+Ettie,PERSON
+Ettie,PERSON
+He,PERSON
+he,PERSON
+Jack,PERSON
+United States,LOCATION
+Jack,PERSON
+he,PERSON
+Baldwin,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Jack,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Jack,PERSON
+Ettie,PERSON
+Jack,PERSON
+McMurdo,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+Ettie,PERSON
+her,PERSON
+Mr. Baldwin,PERSON
+she,PERSON
+Baldwin,PERSON
+McMurdo,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Baldwin,PERSON
+Mr. McMurdo,PERSON
+Mr. Baldwin,PERSON
+Miss Ettie,PERSON
+Baldwin,PERSON
+Mr. Boarder,PERSON
+his,PERSON
+Jack,PERSON
+Ettie,PERSON
+Jack,PERSON
+Jack,PERSON
+he,PERSON
+Jack,PERSON
+Baldwin,PERSON
+Ted,PERSON
+Ted,PERSON
+Ettie,PERSON
+McMurdo,LOCATION
+Mr. Baldwin,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Miss Ettie,PERSON
+Ettie,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+McMurdo,LOCATION
+she,PERSON
+her,PERSON
+him,PERSON
+Jack,PERSON
+He,PERSON
+his,PERSON
+Boss McGinty,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Freeman,PERSON
+Jack,PERSON
+Freeman,PERSON
+Jack,PERSON
+Boss McGinty,PERSON
+Jack,PERSON
+McMurdo,LOCATION
+morning,TIME
+McGinty,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Boss McGinty,PERSON
+Market Square,LOCATION
+his,PERSON
+his,PERSON
+McMurdo,LOCATION
+his,PERSON
+McGinty,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Italian,MISC
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+McMurdo,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Mr. McGinty,PERSON
+his,PERSON
+McGinty,PERSON
+He,PERSON
+McMurdo,LOCATION
+Gar,PERSON
+Irish,MISC
+his,PERSON
+McMurdo,LOCATION
+Scanlan,PERSON
+Vermissa,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+McGinty,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Mr. McMurdo,PERSON
+McGinty,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+McMurdo,PERSON
+his,PERSON
+his,PERSON
+McGinty,PERSON
+he,PERSON
+McMurdo,LOCATION
+Freemen,MISC
+McGinty,PERSON
+Chicago,LOCATION
+"June 24, 1872",DATE
+James H. Scott,PERSON
+Bartholomew Wilson,PERSON
+Mr. McMurdo,PERSON
+Chicago,LOCATION
+McGinty,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+Bodymaster,PERSON
+he,PERSON
+McMurdo,LOCATION
+he,PERSON
+he,PERSON
+McGinty,PERSON
+McGinty,PERSON
+Jonas Pinto,PERSON
+Lake Saloon,LOCATION
+Chicago,LOCATION
+New Year,MISC
+1874,DATE
+his,PERSON
+he,PERSON
+he,PERSON
+McMurdo,LOCATION
+him,PERSON
+Uncle Sam,PERSON
+his,PERSON
+Pinto,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+McGinty,PERSON
+McMurdo,LOCATION
+McMurdo,PERSON
+his,PERSON
+Philadelphia,LOCATION
+he,PERSON
+McGinty,PERSON
+his,PERSON
+Gar,PERSON
+Friend McMurdo,PERSON
+McMurdo,PERSON
+his,PERSON
+Gar,PERSON
+McGinty,PERSON
+Ted Baldwin,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+McMurdo,LOCATION
+he,PERSON
+Tut,PERSON
+McGinty,PERSON
+his,PERSON
+Baldwin,PERSON
+him,PERSON
+Baldwin,PERSON
+McMurdo,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+Baldwin,PERSON
+she,PERSON
+Ted Baldwin,PERSON
+McGinty,PERSON
+Bodymaster,PERSON
+Jack McGinty,PERSON
+him,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+McMurdo,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+McGinty,PERSON
+Baldwin,PERSON
+his,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+McGinty,PERSON
+his,PERSON
+Bodymaster,PERSON
+his,PERSON
+Baldwin,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+Baldwin,PERSON
+Baldwin,PERSON
+McGinty,PERSON
+his,PERSON
+Baldwin,PERSON
+Brother McMurdo,PERSON
+McMurdo,LOCATION
+Baldwin,PERSON
+He,PERSON
+his,PERSON
+Irish,MISC
+Baldwin,PERSON
+Boss,MISC
+him,PERSON
+his,PERSON
+him,PERSON
+McGinty,PERSON
+he,PERSON
+Bodymaster,MISC
+Brother McMurdo,PERSON
+Chicago,LOCATION
+Saturday,DATE
+night,TIME
+Vermissa Valley,LOCATION
+McMurdo,PERSON
+Jacob Shafter,PERSON
+MacNamara,PERSON
+his,PERSON
+his,PERSON
+Scanlan,PERSON
+Vermissa,LOCATION
+his,PERSON
+Irishwoman,MISC
+Shafter,LOCATION
+Ettie,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+McMurdo,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+McMurdo,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+McGinty,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+States,LOCATION
+McGinty,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+McGinty,PERSON
+Marvin,PERSON
+Marvin,PERSON
+McGinty,PERSON
+Jack McMurdo,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+McMurdo,ORGANIZATION
+him,PERSON
+he,PERSON
+Jack McMurdo,PERSON
+Chicago,LOCATION
+McMurdo,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Jack,PERSON
+Chicago,LOCATION
+Chicago,LOCATION
+Marvin of the Chicago Central,PERSON
+he,PERSON
+Teddy Marvin,PERSON
+Jonas Pinto,PERSON
+him,PERSON
+his,PERSON
+Chicago,LOCATION
+McMurdo,LOCATION
+He,PERSON
+he,PERSON
+McMurdo,LOCATION
+Chicago,LOCATION
+He,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+Scanlan,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Saturday,DATE
+night,TIME
+Chicago,LOCATION
+He,PERSON
+Union House,ORGANIZATION
+Vermissa,LOCATION
+McGinty,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+McMurdo,LOCATION
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Bodymaster,MISC
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+McGinty,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+John McMurdo,PERSON
+He,PERSON
+Chicago,LOCATION
+He,PERSON
+he,PERSON
+McGinty,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+McMurdo,PERSON
+McGinty,PERSON
+McMurdo,LOCATION
+Vermissa,PERSON
+Scanlan,PERSON
+McMurdo,LOCATION
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+McMurdo,LOCATION
+Chicago,LOCATION
+he,PERSON
+McGinty,PERSON
+Windle,PERSON
+Merton County Lodge,LOCATION
+Andrew Rae,PERSON
+Rae & Sturmash,ORGANIZATION
+He,PERSON
+last fall,DATE
+Higgins,PERSON
+He,PERSON
+"J. W. Windle D. M. A. O. F.
+
+""Windle",PERSON
+him,PERSON
+McGinty,PERSON
+his,PERSON
+Tiger Cormac,PERSON
+Wilson,PERSON
+his,PERSON
+Monday,DATE
+Cormac,PERSON
+him,PERSON
+Wilson,PERSON
+He,PERSON
+Merton,LOCATION
+this quarter,DATE
+Ted Baldwin,PERSON
+last week,DATE
+Foreman Blaker,PERSON
+him,PERSON
+he,PERSON
+McMurdo,LOCATION
+his,PERSON
+McMurdo,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Eminent Bodymaster,PERSON
+Harraway,PERSON
+Brother McMurdo,PERSON
+him,PERSON
+McMurdo,LOCATION
+he,PERSON
+his,PERSON
+Jim Carnaway,PERSON
+He,PERSON
+she,PERSON
+Jim,PERSON
+Chester Wilcox,PERSON
+Marley Creek,PERSON
+McMurdo,LOCATION
+him,PERSON
+him,PERSON
+Max Linder & Co.,ORGANIZATION
+Walker Brothers,ORGANIZATION
+Wednesday,DATE
+West Section Coaling Company,ORGANIZATION
+Archie Swindon,PERSON
+He,PERSON
+New York,LOCATION
+he,PERSON
+Gar,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Treasurer,PERSON
+he,PERSON
+Morris,PERSON
+State & Merton County Railroad Company,ORGANIZATION
+Todman,PERSON
+Lee,LOCATION
+Morris,PERSON
+Manson,PERSON
+Shuman,PERSON
+Van Deher,PERSON
+Atwood,PERSON
+West Gilmerton General Mining Company,ORGANIZATION
+Morris,PERSON
+Eminent Bodymaster,PERSON
+Railroad,MISC
+General Iron,ORGANIZATION
+New York,LOCATION
+Philadelphia,LOCATION
+his,PERSON
+McGinty,PERSON
+his,PERSON
+Morris,PERSON
+he,PERSON
+United States,LOCATION
+McGinty,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+McMurdo,PERSON
+Stile,LOCATION
+Mary,PERSON
+Allan Water,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Freeman,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+James Stanger,PERSON
+Herald,ORGANIZATION
+he,PERSON
+his,PERSON
+McGinty,PERSON
+his,PERSON
+he,PERSON
+Europe,LOCATION
+East,LOCATION
+he,PERSON
+him,PERSON
+him,PERSON
+Morris,PERSON
+Brethren,PERSON
+James Stanger,PERSON
+He,PERSON
+His,PERSON
+Mr. Standback,PERSON
+McGinty,PERSON
+Lynch,PERSON
+Morris,PERSON
+McGinty,PERSON
+Morris,PERSON
+his,PERSON
+his,PERSON
+Morris,PERSON
+Morris,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Morris,PERSON
+Stanger,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Baldwin,PERSON
+Gower,PERSON
+Mansel,PERSON
+Scanlan,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+McMurdo,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Vermissa Herald,ORGANIZATION
+Baldwin,PERSON
+McMurdo,LOCATION
+Arthur Willaby,PERSON
+Baldwin,PERSON
+his,PERSON
+McMurdo,LOCATION
+McMurdo,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Baldwin,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+Baldwin,PERSON
+McMurdo,LOCATION
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Baldwin,PERSON
+him,PERSON
+he,PERSON
+McMurdo,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Bodymaster,MISC
+him,PERSON
+he,PERSON
+Gar,PERSON
+Union House,ORGANIZATION
+McGinty,PERSON
+McMurdo,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Daily Herald,ORGANIZATION
+he,PERSON
+he,PERSON
+he,PERSON
+Herald,ORGANIZATION
+Mr. Stanger,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Winchester,PERSON
+McMurdo,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Miller Hill,PERSON
+McMurdo,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Miller Hill,PERSON
+summer,DATE
+McMurdo,LOCATION
+summer,DATE
+he,PERSON
+his,PERSON
+his,PERSON
+McMurdo,LOCATION
+Morris,PERSON
+Bodymaster,MISC
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. McMurdo,PERSON
+he,PERSON
+Morris,PERSON
+McGinty,PERSON
+McMurdo,LOCATION
+last night,TIME
+Morris,PERSON
+McMurdo,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Morris,PERSON
+Boss McGinty,PERSON
+Morris,PERSON
+Morris,PERSON
+last night,TIME
+Freeman,PERSON
+Chicago,LOCATION
+McMurdo,LOCATION
+Morris,PERSON
+his,PERSON
+last night,TIME
+his,PERSON
+McMurdo,PERSON
+Freeman,PERSON
+Chicago,LOCATION
+Philadelphia,LOCATION
+Market Square,LOCATION
+Freeman,PERSON
+last night,TIME
+last night,TIME
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+McMurdo,PERSON
+his,PERSON
+he,PERSON
+last night,TIME
+his,PERSON
+Fred,PERSON
+his,PERSON
+Catholic,MISC
+he,PERSON
+McMurdo,PERSON
+Morris,PERSON
+McMurdo,LOCATION
+Valley of Fear,MISC
+Valley of Death,LOCATION
+McMurdo,LOCATION
+Gar,PERSON
+Morris,PERSON
+Morris,PERSON
+Morris,PERSON
+McMurdo,LOCATION
+Boss McGinty,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Brother McMurdo,PERSON
+he,PERSON
+McMurdo,LOCATION
+his,PERSON
+McMurdo,PERSON
+he,PERSON
+Morris,PERSON
+Miller Hill,PERSON
+this morning,TIME
+he,PERSON
+his,PERSON
+He,PERSON
+Morris,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Morris,PERSON
+McMurdo,LOCATION
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Morris,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+McGinty,PERSON
+his,PERSON
+Morris,PERSON
+McGinty,PERSON
+he,PERSON
+his,PERSON
+McMurdo,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Marvin,PERSON
+Chicago,LOCATION
+McMurdo,LOCATION
+He,PERSON
+his,PERSON
+Mr. Crooked McMurdo,PERSON
+Chicago,LOCATION
+he,PERSON
+Marvin,PERSON
+McGinty,PERSON
+McGinty,PERSON
+McMurdo,LOCATION
+He,PERSON
+his,PERSON
+Mr. McGinty,PERSON
+McMurdo,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Marvin,PERSON
+McGinty,PERSON
+Gar,PERSON
+Russia,LOCATION
+Vermissa,LOCATION
+McMurdo,PERSON
+Stanger,PERSON
+Herald,ORGANIZATION
+McGinty,PERSON
+him,PERSON
+midnight,TIME
+McMurdo,LOCATION
+Mr. McGinty,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Boss,MISC
+Reilly,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Baldwin,PERSON
+he,PERSON
+he,PERSON
+McGinty,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+McGinty,PERSON
+Union House,ORGANIZATION
+Marvin,PERSON
+McMurdo,LOCATION
+him,PERSON
+he,PERSON
+Jack McMurdo,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+McGinty,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Ettie Shafter,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Ettie,PERSON
+him,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+She,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+her,PERSON
+she,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+spring,DATE
+he,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Jack,PERSON
+she,PERSON
+Jack,PERSON
+Jack,PERSON
+her,PERSON
+Ettie,PERSON
+Her,PERSON
+she,PERSON
+Ettie,PERSON
+Christ,PERSON
+He,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+he,PERSON
+She,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+He,PERSON
+Jack,PERSON
+McMurdo the Scowrer,PERSON
+Ettie,PERSON
+her,PERSON
+her,PERSON
+Jack,PERSON
+Jack,PERSON
+He,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+Jack,PERSON
+He,PERSON
+He,PERSON
+Philadelphia,LOCATION
+New York,LOCATION
+Philadelphia,LOCATION
+New York,LOCATION
+West,LOCATION
+England,LOCATION
+Germany,LOCATION
+Morris,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+he,PERSON
+his,PERSON
+Gar,PERSON
+him,PERSON
+him,PERSON
+she,PERSON
+Ettie,PERSON
+Jack McMurdo,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+Boss McGinty,PERSON
+Hobson,PERSON
+he,PERSON
+McMurdo,PERSON
+him,PERSON
+Evans Pott,PERSON
+Vermissa,PERSON
+Danton,PERSON
+Robespierre,LOCATION
+his,PERSON
+him,PERSON
+Scanlan,PERSON
+McGinty,PERSON
+Evans Pott,PERSON
+Lawler,PERSON
+Andrews,PERSON
+him,PERSON
+he,PERSON
+Bodymaster,LOCATION
+McGinty,PERSON
+Union House,ORGANIZATION
+McMurdo,PERSON
+Scanlan,PERSON
+he,PERSON
+his,PERSON
+Lawler,PERSON
+his,PERSON
+him,PERSON
+Andrews,PERSON
+His,PERSON
+Lawler,PERSON
+Andrews,PERSON
+McMurdo,LOCATION
+Lawler,PERSON
+Scanlan,PERSON
+McMurdo,LOCATION
+supper,DATE
+Charlie Williams,PERSON
+Simon Bird,PERSON
+McMurdo,LOCATION
+Jack Knox,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Herman Strauss,PERSON
+him,PERSON
+Lawler,PERSON
+his,PERSON
+He,PERSON
+Scanlan,PERSON
+McMurdo,LOCATION
+Scanlan,PERSON
+he,PERSON
+Lawler,PERSON
+Andrews,PERSON
+Crow,LOCATION
+Hill,PERSON
+New England,LOCATION
+Josiah H. Dunn,PERSON
+McMurdo,LOCATION
+Scanlan,PERSON
+Scanlan,PERSON
+McMurdo,LOCATION
+Scotchman,PERSON
+Menzies,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Andrews,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Menzies,PERSON
+Scotchman,MISC
+him,PERSON
+Vermissa,LOCATION
+morning,TIME
+Scanlan,PERSON
+McMurdo,LOCATION
+Scanlan,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+McMurdo,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+Crow,LOCATION
+Hill,PERSON
+Vermissa,LOCATION
+William Hales,PERSON
+Stake Royal,LOCATION
+Gilmerton,LOCATION
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+His,PERSON
+night,TIME
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Gilmerton,LOCATION
+his,PERSON
+Boss McGinty,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+McMurdo,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+McMurdo,LOCATION
+Reilly,PERSON
+Chester Wilcox,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+McGinty,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Iron Dike Company,ORGANIZATION
+He,PERSON
+He,PERSON
+Jim Carnaway,PERSON
+him,PERSON
+his,PERSON
+Iron Dike,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+Jim Carnaway,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Carnaway,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+McGinty,PERSON
+him,PERSON
+his,PERSON
+Chester Wilcox,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Manders,PERSON
+Reilly,PERSON
+he,PERSON
+his,PERSON
+McMurdo,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Chester Wilcox,PERSON
+he,PERSON
+his,PERSON
+Iron Dike,MISC
+McMurdo,LOCATION
+him,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+Wilcox,PERSON
+McMurdo,PERSON
+his,PERSON
+Society of Freemen,ORGANIZATION
+Scowrers,MISC
+Policemen Hunt,MISC
+Evans,PERSON
+Vermissa,LOCATION
+Mrs. Larbey,PERSON
+Boss McGinty,PERSON
+she,PERSON
+her,PERSON
+Jenkins,PERSON
+James Murdoch,PERSON
+his,PERSON
+spring,DATE
+summer of the year 1875,DATE
+McMurdo,LOCATION
+McGinty,PERSON
+his,PERSON
+his,PERSON
+Freemen,ORGANIZATION
+Vermissa,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+Herald,ORGANIZATION
+McGinty,PERSON
+his,PERSON
+McGinty,PERSON
+McMurdo,LOCATION
+Saturday,DATE
+evening,TIME
+May,DATE
+Saturday,DATE
+McMurdo,PERSON
+Morris,PERSON
+his,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+Mr. McMurdo,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+McMurdo,LOCATION
+He,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Morris,PERSON
+his,PERSON
+he,PERSON
+McMurdo,LOCATION
+him,PERSON
+he,PERSON
+Pinkerton's,ORGANIZATION
+Pinkerton,ORGANIZATION
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Morris,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+McMurdo,LOCATION
+Pinkerton,ORGANIZATION
+Birdy Edwards,PERSON
+his,PERSON
+McMurdo,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Birdy Edwards,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+Pinkerton,ORGANIZATION
+he,PERSON
+McMurdo,LOCATION
+Gar,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Morris,PERSON
+Pinkerton,PERSON
+Morris,PERSON
+Morris,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+McMurdo,LOCATION
+him,PERSON
+him,PERSON
+Morris,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Pinkerton organization,ORGANIZATION
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Shafter,LOCATION
+him,PERSON
+his,PERSON
+he,PERSON
+Ettie,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Irish,MISC
+her,PERSON
+She,PERSON
+his,PERSON
+his,PERSON
+she,PERSON
+Jack,PERSON
+Pinkerton,ORGANIZATION
+Jack,PERSON
+Ettie,PERSON
+She,PERSON
+her,PERSON
+his,PERSON
+Jack,PERSON
+Jack,PERSON
+Ettie,PERSON
+Jack,PERSON
+McMurdo,LOCATION
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Baldwin,PERSON
+Harraway,LOCATION
+he,PERSON
+He,PERSON
+his,PERSON
+Solomon,ORGANIZATION
+Egan,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Crabbe,PERSON
+Stylestown,LOCATION
+McMurdo,ORGANIZATION
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+McMurdo,PERSON
+McGinty,PERSON
+McMurdo,PERSON
+his,PERSON
+he,PERSON
+Pinkerton,LOCATION
+Birdy Edwards,PERSON
+McMurdo,PERSON
+he,PERSON
+McMurdo,LOCATION
+He,PERSON
+Mr. Chairman,PERSON
+Birdy Edwards,PERSON
+Pinkerton service,ORGANIZATION
+he,PERSON
+him,PERSON
+McGinty,PERSON
+McMurdo,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Baldwin,PERSON
+he,PERSON
+McMurdo,LOCATION
+Baldwin,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+McMurdo,LOCATION
+him,PERSON
+Mr. Chairman--yourself,PERSON
+Baldwin,PERSON
+Baldwin,PERSON
+Harraway,LOCATION
+Tiger Cormac,PERSON
+Carter,PERSON
+Willaby,PERSON
+McGinty,PERSON
+Birdy Edwards,PERSON
+McMurdo,LOCATION
+he,PERSON
+He,PERSON
+Steve Wilson,PERSON
+Hobson,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Wednesday,DATE
+him,PERSON
+He,PERSON
+he,PERSON
+New York,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Hobson,PERSON
+Patch,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Chinese,MISC
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Gar,PERSON
+McGinty,PERSON
+him,PERSON
+McMurdo,PERSON
+him,PERSON
+Hobson,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+Freeman,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+MacNamara,PERSON
+She,PERSON
+Scanlan,PERSON
+his,PERSON
+him,PERSON
+Birdy Edwards,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Pinkerton's,ORGANIZATION
+McMurdo,LOCATION
+him,PERSON
+McMurdo,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+McMurdo,ORGANIZATION
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+McMurdo,PERSON
+Hobson,PERSON
+Patch,PERSON
+Marvin--he,PERSON
+Chicago,LOCATION
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+McMurdo,PERSON
+him,PERSON
+afternoon,TIME
+McGinty,PERSON
+Union House,ORGANIZATION
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+McGinty,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+McMurdo,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+McGinty,PERSON
+Morris,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+McMurdo,LOCATION
+Morris,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+McGinty,PERSON
+him,PERSON
+McMurdo,PERSON
+Pinkerton,ORGANIZATION
+McGinty,PERSON
+Birdy Edwards,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+McMurdo,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+McGinty,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Marvin,PERSON
+McGinty,PERSON
+Hobson,PERSON
+him,PERSON
+him,PERSON
+McMurdo,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+McGinty,PERSON
+McMurdo,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Smith & Wesson,ORGANIZATION
+he,PERSON
+his,PERSON
+he,PERSON
+McMurdo,LOCATION
+him,PERSON
+he,PERSON
+his,PERSON
+Scanlan,PERSON
+his,PERSON
+he,PERSON
+McMurdo,PERSON
+him,PERSON
+Mike Scanlan,PERSON
+Mac,PERSON
+Scanlan,PERSON
+Dunn,PERSON
+McGinty,PERSON
+Birdy Edwards,PERSON
+Harraway,PERSON
+Carter,PERSON
+He,PERSON
+his,PERSON
+Tiger Cormac,PERSON
+his,PERSON
+his,PERSON
+McMurdo,LOCATION
+Pinkerton,ORGANIZATION
+Baldwin,PERSON
+Cormac,PERSON
+Cormac,PERSON
+his,PERSON
+he,PERSON
+Baldwin,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+McMurdo,LOCATION
+him,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+Boss,MISC
+him,PERSON
+he,PERSON
+his,PERSON
+McMurdo,LOCATION
+he,PERSON
+he,PERSON
+McMurdo,LOCATION
+He,PERSON
+He,PERSON
+him,PERSON
+McMurdo,PERSON
+his,PERSON
+McMurdo,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Tiger Cormac,PERSON
+Boss McGinty,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+McMurdo,LOCATION
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+His,PERSON
+His,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Boss McGinty,PERSON
+he,PERSON
+Birdy Edwards,PERSON
+McMurdo,LOCATION
+Birdy Edwards,PERSON
+Birdy Edwards,PERSON
+Boss McGinty,PERSON
+Marvin,PERSON
+Mine Police,ORGANIZATION
+him,PERSON
+his,PERSON
+McMurdo,LOCATION
+Baldwin,PERSON
+Marvin,PERSON
+Birdy Edwards,PERSON
+Pinkerton's,ORGANIZATION
+Marvin,PERSON
+him,PERSON
+He,PERSON
+this night,TIME
+Freemen,MISC
+Chicago,LOCATION
+Chicago,LOCATION
+Stanger,PERSON
+Baldwin,PERSON
+him,PERSON
+him,PERSON
+Dunn,PERSON
+Menzies,PERSON
+Chester Wilcox,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+McGinty,PERSON
+his,PERSON
+John McGinty,PERSON
+Washington,LOCATION
+Marvin,PERSON
+Scanlan,PERSON
+Miss Ettie Shafter,PERSON
+he,PERSON
+Ettie,PERSON
+her,PERSON
+Chicago,LOCATION
+Jacob Shafter,PERSON
+McGinty,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Birdy Edwards,PERSON
+he,PERSON
+Ted Baldwin,PERSON
+Willabys,LOCATION
+Edwards,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Chicago,LOCATION
+he,PERSON
+him,PERSON
+Chicago,LOCATION
+California,LOCATION
+Ettie Edwards,PERSON
+he,PERSON
+his,PERSON
+Douglas,PERSON
+English,MISC
+Barker,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+England,LOCATION
+him,PERSON
+his,PERSON
+he,PERSON
+John Douglas,PERSON
+Sussex,LOCATION
+John Douglas,PERSON
+he,PERSON
+England,LOCATION
+Holmes,PERSON
+him,PERSON
+he,PERSON
+England,LOCATION
+Mr. Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+last night,TIME
+Mrs. Hudson,PERSON
+Holmes,PERSON
+Cecil Barker,PERSON
+his,PERSON
+His,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Douglas,PERSON
+Edwards,PERSON
+Jack Douglas,PERSON
+Benito Canyon,LOCATION
+his,PERSON
+he,PERSON
+South Africa,LOCATION
+Palmyra,LOCATION
+three weeks ago,DATE
+Cape Town,LOCATION
+last night,TIME
+Mrs. Douglas,PERSON
+this morning,TIME
+Jack,PERSON
+St. Helena,LOCATION
+Holmes,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+Moriarty,PERSON
+London,LOCATION
+America,LOCATION
+he,PERSON
+his,PERSON
+Americans,MISC
+English,MISC
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Birlstone Manor House,ORGANIZATION
+Barker,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON

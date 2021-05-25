@@ -1,0 +1,509 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+summer,DATE
+evening,TIME
+his,PERSON
+his,PERSON
+he,PERSON
+French,MISC
+Mycroft,PERSON
+England,LOCATION
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Mycroft,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Diogenes Club,ORGANIZATION
+Sherlock Holmes,PERSON
+his,PERSON
+Diogenes Club,ORGANIZATION
+London,LOCATION
+Mycroft,PERSON
+He,PERSON
+Circus,MISC
+Mycroft,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+Mycroft,PERSON
+Pall Mall,LOCATION
+Whitehall,ORGANIZATION
+he,PERSON
+Diogenes Club,ORGANIZATION
+he,PERSON
+his,PERSON
+London,LOCATION
+Diogenes Club,ORGANIZATION
+Pall Mall,LOCATION
+James,PERSON
+Sherlock Holmes,PERSON
+Carlton,LOCATION
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Pall Mall,LOCATION
+he,PERSON
+his,PERSON
+Mycroft Holmes,PERSON
+Sherlock,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+Sherlock,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Sherlock,PERSON
+his,PERSON
+Sherlock,PERSON
+Manor House,ORGANIZATION
+Adams,PERSON
+Adams,PERSON
+Mycroft,PERSON
+his,PERSON
+his,PERSON
+Sherlock,PERSON
+India,LOCATION
+Sherlock,PERSON
+Holmes,PERSON
+India,LOCATION
+Mycroft,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+Mycroft,PERSON
+his,PERSON
+Sherlock,PERSON
+he,PERSON
+Mycroft,PERSON
+his,PERSON
+he,PERSON
+Mr. Melas,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Mr. Melas,PERSON
+Greek,MISC
+he,PERSON
+Northumberland Avenue,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Southern,MISC
+Englishman,MISC
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+Wednesday,DATE
+evening,TIME
+Mr. Melas,PERSON
+Monday,DATE
+night,TIME
+Greek,MISC
+Grecian,MISC
+Greek,MISC
+London,LOCATION
+Monday,DATE
+night,TIME
+Mr. Latimer,PERSON
+him,PERSON
+Greek,MISC
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Kensington,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+London,LOCATION
+Mr. Latimer,PERSON
+Charing Cross,ORGANIZATION
+Shaftesbury Avenue,LOCATION
+Oxford Street,LOCATION
+Kensington,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Mr. Melas,PERSON
+he,PERSON
+him,PERSON
+Mr. Latimer,PERSON
+he,PERSON
+Mr. Melas,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+Pall Mall,LOCATION
+he,PERSON
+he,PERSON
+Mr. Melas,PERSON
+Harold,PERSON
+he,PERSON
+Mr. Melas,PERSON
+He,PERSON
+he,PERSON
+Greek,MISC
+he,PERSON
+he,PERSON
+Japanese,MISC
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Harold,PERSON
+his,PERSON
+him,PERSON
+Mr. Melas,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Greek,MISC
+he,PERSON
+Greek,MISC
+her,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+London,LOCATION
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Athens,LOCATION
+Mr. Holmes,PERSON
+her,PERSON
+she,PERSON
+Harold,PERSON
+English,MISC
+she,PERSON
+Paul,PERSON
+Greek,MISC
+his,PERSON
+Sophy,PERSON
+her,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Mr. Melas,PERSON
+he,PERSON
+Greek,MISC
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+St. Vitus,ORGANIZATION
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Latimer,PERSON
+his,PERSON
+midnight,TIME
+Mr. Melas,PERSON
+spring,DATE
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Wandsworth Common,ORGANIZATION
+he,PERSON
+Clapham Junction,LOCATION
+Victoria,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Mr. Mycroft Holmes,PERSON
+Sherlock,PERSON
+his,PERSON
+he,PERSON
+Mycroft,PERSON
+Daily News,ORGANIZATION
+Greek,MISC
+Paul Kratides,PERSON
+Athens,LOCATION
+English,MISC
+Greek,MISC
+Sophy,PERSON
+2473,DATE
+Athens,LOCATION
+Sherlock,PERSON
+Mycroft,PERSON
+his,PERSON
+Mr. Melas,PERSON
+Mr. Melas,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Mycroft,PERSON
+Greek,MISC
+Englishman,MISC
+Harold Latimer,PERSON
+Athens,LOCATION
+Sherlock Holmes,PERSON
+his,PERSON
+Greek,MISC
+English,MISC
+England,LOCATION
+Greece,LOCATION
+she,PERSON
+he,PERSON
+England,LOCATION
+Harold,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+Greece,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Mr. Melas,PERSON
+him,PERSON
+her,PERSON
+Watson,PERSON
+Holmes,PERSON
+Sophy Kratides,PERSON
+her,PERSON
+Harold,PERSON
+Greece,LOCATION
+Mycroft,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mycroft,PERSON
+His,PERSON
+Sherlock,PERSON
+he,PERSON
+Sherlock,PERSON
+Mycroft Holmes,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+Beckenham,LOCATION
+She,PERSON
+J. Davenport,PERSON
+Lower Brixton,LOCATION
+Mycroft Holmes,PERSON
+He,PERSON
+Sherlock,PERSON
+him,PERSON
+Mycroft,PERSON
+Scotland Yard,LOCATION
+Gregson,PERSON
+Beckenham,LOCATION
+Mr. Melas,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Pall Mall,LOCATION
+Mr. Melas,PERSON
+him,PERSON
+he,PERSON
+Mycroft Holmes,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Scotland Yard,LOCATION
+he,PERSON
+Melas,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Beckenham,LOCATION
+Scotland Yard,LOCATION
+Gregson,PERSON
+London Bridge,LOCATION
+Beckenham,LOCATION
+Holmes,PERSON
+his,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Melas,PERSON
+Japanese,MISC
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Mycroft,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Mycroft,PERSON
+Greek,MISC
+Diogenes Club,ORGANIZATION
+his,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+Mr. Melas,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Beckenham,LOCATION
+Englishmen,MISC
+He,PERSON
+he,PERSON
+Melas,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Grecian Interpreter,MISC
+Grecian,PERSON
+England,LOCATION
+she,PERSON
+Harold Latimer,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+Athens,LOCATION
+Her,PERSON
+her,PERSON
+England,LOCATION
+Latimer,PERSON
+Wilson Kemp,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+she,PERSON
+him,PERSON
+Her,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+Buda-Pesth,PERSON
+Englishmen,MISC
+Hungarian,MISC
+Holmes,PERSON
+Grecian,MISC
+her,PERSON

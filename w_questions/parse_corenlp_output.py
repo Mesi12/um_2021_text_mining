@@ -25,12 +25,13 @@ def extract_relations(annots):
     """
     kbps = []
     for sentence in annots['sentences']:
-        for kbp in sentence['kbp']:
-            kbps.append([
-                kbp['subject'],
-                kbp['relation'],
-                kbp['object']
-            ])
+        if "kbp" in sentence.keys():
+            for kbp in sentence['kbp']:
+                kbps.append([
+                    kbp['subject'],
+                    kbp['relation'],
+                    kbp['object']
+                ])
 
     return kbps
 
@@ -54,10 +55,9 @@ def extract_quotes(annots):
 
 if __name__ == "__main__":
 
-    folder = os.path.join("output", "novel_ a_study_in_scarlet")
-    output_folder = os.path.join("output_parsed", "novel_a_study_in_scarlet")
+    folder = os.path.join("output")
+    output_folder = os.path.join("output_parsed")
     os.makedirs(output_folder, exist_ok=True)
-
 
     all_relations = []
     for file_name in os.listdir(folder):

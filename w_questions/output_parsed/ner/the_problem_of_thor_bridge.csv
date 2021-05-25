@@ -1,0 +1,644 @@
+text,ner
+Cox and Co.,ORGANIZATION
+Charing Cross,ORGANIZATION
+John H. Watson,PERSON
+Mr. Sherlock Holmes,PERSON
+Mr. James Phillimore,PERSON
+his,PERSON
+his,PERSON
+Alicia,PERSON
+spring,DATE
+she,PERSON
+her,PERSON
+Isadora Persano,PERSON
+him,PERSON
+his,PERSON
+October,DATE
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Family Herald,ORGANIZATION
+He,PERSON
+his,PERSON
+Neil Gibson,PERSON
+he,PERSON
+American,MISC
+Western,MISC
+he,PERSON
+him,PERSON
+England,LOCATION
+He,PERSON
+His,PERSON
+Hampshire,LOCATION
+five years ago,DATE
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Assizes,LOCATION
+Winchester,LOCATION
+Watson,PERSON
+Watson,PERSON
+Claridge,PERSON
+October,DATE
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+her,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+J. Neil Gibson,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+He,PERSON
+she,PERSON
+her,PERSON
+English,MISC
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+her,PERSON
+evening,TIME
+her,PERSON
+His,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+her,PERSON
+Gibson,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+Holmes,PERSON
+she,PERSON
+Thor Bridge,LOCATION
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+Watson,PERSON
+Thor Mere,PERSON
+his,PERSON
+Billy,PERSON
+he,PERSON
+Mr. Marlow Bates,PERSON
+He,PERSON
+Mr. Bates,PERSON
+Holmes,PERSON
+Mr. Gibson,PERSON
+Mr. Gibson,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Bates,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+He,PERSON
+Mr. Ferguson,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Brazilian,MISC
+She,PERSON
+She,PERSON
+him,PERSON
+her,PERSON
+him,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+Holmes,PERSON
+Mr. Gibson,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Mr. Neil Gibson,PERSON
+His,PERSON
+Abraham Lincoln,PERSON
+His,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+England,LOCATION
+America,LOCATION
+Mr. Gibson,PERSON
+Miss Dunbar,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+she,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Gibson,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Gibson,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Mr. Gibson,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+this morning,TIME
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mr. Gibson,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+Bates,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+Mr. Gibson,PERSON
+Watson,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Miss Dunbar,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+his,PERSON
+His,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Brazil,LOCATION
+Maria Pinto,PERSON
+Manaos,LOCATION
+she,PERSON
+she,PERSON
+her,PERSON
+American,MISC
+her,PERSON
+her,PERSON
+hers,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+English,MISC
+Amazon,LOCATION
+She,PERSON
+she,PERSON
+she,PERSON
+Miss Grace Dunbar,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+Holmes,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+he,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+English,MISC
+she,PERSON
+she,PERSON
+she,PERSON
+Amazon,LOCATION
+She,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+Holmes,PERSON
+his,PERSON
+this morning,TIME
+Winchester,PERSON
+Winchester,PERSON
+Thor Place,PERSON
+Hampshire,LOCATION
+Mr. Neil Gibson,PERSON
+Coventry,LOCATION
+He,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Scotland Yard,LOCATION
+Mr. Holmes,PERSON
+he,PERSON
+Yard,MISC
+Holmes,PERSON
+Watson,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+he,PERSON
+Mr. Neil Gibson,PERSON
+Miss Dunbar,PERSON
+She,PERSON
+He,PERSON
+his,PERSON
+Americans,MISC
+his,PERSON
+he,PERSON
+Coventry,LOCATION
+Tudor,PERSON
+Georgian,MISC
+Beside,MISC
+he,PERSON
+Mrs. Gibson,PERSON
+Mr. Gibson,PERSON
+he,PERSON
+he,PERSON
+Miss Dunbar,PERSON
+her,PERSON
+Thor Bridge,LOCATION
+G. Dunbar,PERSON
+Miss Dunbar,PERSON
+her,PERSON
+Her,PERSON
+She,PERSON
+Holmes,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Winchester,PERSON
+Miss Dunbar,PERSON
+Mr. Neil Gibson,PERSON
+Mr. Bates,PERSON
+morning,TIME
+He,PERSON
+his,PERSON
+Mr. Gibson,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+her,PERSON
+Holmes,PERSON
+Watson,PERSON
+Mr. Bates,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+evening,TIME
+Mr. Gibson,PERSON
+his,PERSON
+Miss Dunbar,PERSON
+Mrs. Gibson,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+her,PERSON
+Holmes,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Miss Dunbar,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+night,TIME
+Winchester,LOCATION
+Mr. Joyce Cummings,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+her,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Mr. Neil Gibson,PERSON
+she,PERSON
+Holmes,PERSON
+Mr. Gibson,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+Mr. Cummings,PERSON
+Mr. Gibson,PERSON
+Mr. Holmes,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+Miss Dunbar,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Thor Bridge,LOCATION
+Mrs. Gibson,PERSON
+morning,TIME
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+Mr. Gibson,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Mr. Gibson,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Miss Dunbar,PERSON
+Miss Dunbar,PERSON
+Holmes,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Mr. Cummings,PERSON
+England,LOCATION
+Miss Dunbar,PERSON
+Winchester,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+Hampshire,LOCATION
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+Hampshire,LOCATION
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Winchester,LOCATION
+Watson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+Mr. Gibson,PERSON
+Miss Dunbar,PERSON
+him,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+Miss Dunbar,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+Mr. Neil Gibson,PERSON

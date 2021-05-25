@@ -1,0 +1,412 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Scarlet,LOCATION
+Gloria Scott,PERSON
+Charybdis,MISC
+October,DATE
+Holmes,PERSON
+he,PERSON
+India,LOCATION
+Parliament,ORGANIZATION
+Southsea,LOCATION
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+end of the first year,DATE
+Holmes,PERSON
+Baker Street,LOCATION
+October,DATE
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+London,LOCATION
+Fleet Street,LOCATION
+His,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+Holmes,PERSON
+Percy Trevelyan,PERSON
+Brook Street,LOCATION
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Brook Street,LOCATION
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+Trevelyan,PERSON
+London University,ORGANIZATION
+King's College Hospital,ORGANIZATION
+Bruce Pinkerton,PERSON
+Cavendish Square,LOCATION
+quarter,DATE
+he,PERSON
+Blessington,PERSON
+He,PERSON
+Percy Trevelyan,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Brook Street,LOCATION
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Blessington,PERSON
+Lady Day,MISC
+he,PERSON
+He,PERSON
+His,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Mr. Blessington,PERSON
+Mr. Blessington,PERSON
+West End,LOCATION
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Russian,MISC
+England,LOCATION
+Percy Trevelyan,PERSON
+Trevelyan,PERSON
+He,PERSON
+Trevelyan,PERSON
+He,PERSON
+Russian,MISC
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+English,MISC
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+Mr. Blessington,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Russian,MISC
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Mr. Blessington,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+this afternoon,TIME
+Mr. Blessington,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Trevelyan,PERSON
+his,PERSON
+Brook Street,LOCATION
+West-End,MISC
+Mr. Blessington,PERSON
+Trevelyan,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Trevelyan,PERSON
+Holmes,PERSON
+Mr. Blessington,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Trevelyan,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Blessington,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Trevelyan,PERSON
+he,PERSON
+Blessington,PERSON
+Oxford Street,LOCATION
+Harley Street,PERSON
+Watson,PERSON
+he,PERSON
+Blessington,PERSON
+Blessington,PERSON
+his,PERSON
+Watson,PERSON
+Blessington,PERSON
+Blessington,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Russian,MISC
+Trevelyan,PERSON
+Blessington,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Blessington,PERSON
+his,PERSON
+his,PERSON
+Brook Street,LOCATION
+morning,TIME
+Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Brook Street,LOCATION
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Blessington,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Blessington,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Lanner,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+morning,TIME
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+Holmes,PERSON
+Havana,LOCATION
+Dutch,MISC
+East Indian,MISC
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Lanner,PERSON
+him,PERSON
+morning,TIME
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Trevelyan,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Blessington,PERSON
+Holmes,PERSON
+Russian,MISC
+his,PERSON
+Trevelyan,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+last night,TIME
+Mr. Blessington,PERSON
+Mr. Blessington,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Blessington,PERSON
+Blessington,PERSON
+him,PERSON
+night,TIME
+Holmes,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Blessington,PERSON
+his,PERSON
+Biddle,PERSON
+Hayward,PERSON
+Moffat,PERSON
+Worthingdon,MISC
+Holmes,PERSON
+Blessington,PERSON
+Sutton,PERSON
+Holmes,PERSON
+Trevelyan,PERSON
+Worthingdon,MISC
+Holmes,PERSON
+Cartwright,PERSON
+Tobin,PERSON
+1875,DATE
+Blessington,PERSON
+Sutton,PERSON
+Cartwright,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Trevelyan,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+British,MISC
+he,PERSON
+he,PERSON
+Resident Patient,MISC
+Scotland Yard,LOCATION
+Norah Creina,PERSON
+Portuguese,MISC
+Oporto,LOCATION
+Brook Street Mystery,ORGANIZATION

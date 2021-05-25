@@ -1,0 +1,622 @@
+text,ner
+1894,DATE
+1901,DATE
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+Miss Violet Smith,PERSON
+Charlington,LOCATION
+1895,DATE
+Saturday,DATE
+23rd of April,DATE
+Miss Violet Smith,PERSON
+Holmes,PERSON
+John Vincent Harden,PERSON
+Her,PERSON
+he,PERSON
+his,PERSON
+Baker Street,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Farnham,LOCATION
+Surrey,LOCATION
+Watson,PERSON
+Archie Stamford,PERSON
+Farnham,LOCATION
+Surrey,LOCATION
+Mr. Holmes,PERSON
+James Smith,PERSON
+Imperial Theatre,ORGANIZATION
+He,PERSON
+Ralph Smith,PERSON
+Africa,LOCATION
+him,PERSON
+Times,ORGANIZATION
+Mr. Carruthers,PERSON
+Mr. Woodley,PERSON
+South Africa,LOCATION
+Johannesburg,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Uncle Ralph,PERSON
+Mr. Carruthers,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+December,DATE
+Mr. Woodley,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Cyril,PERSON
+he,PERSON
+Cyril,PERSON
+his,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Cyril Morton,PERSON
+end of the summer,DATE
+him,PERSON
+Mr. Woodley,PERSON
+Mr. Carruthers,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+week-end,DATE
+he,PERSON
+her,PERSON
+he,PERSON
+Chiltern Grange,PERSON
+Farnham,LOCATION
+Mr. Carruthers,PERSON
+Mrs. Dixon,PERSON
+he,PERSON
+his,PERSON
+Mr. Carruthers,PERSON
+Mr. Woodley,PERSON
+He,PERSON
+He,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Mr. Carruthers,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Mr. Carruthers,PERSON
+Mr. Woodley,PERSON
+Mr. Holmes,PERSON
+Saturday,DATE
+Farnham Station,LOCATION
+Chiltern Grange,LOCATION
+Charlington Heath,PERSON
+Crooksbury,LOCATION
+Hill,PERSON
+He,PERSON
+Farnham,LOCATION
+Mr. Holmes,PERSON
+Monday,DATE
+Saturday,DATE
+Monday,DATE
+He,PERSON
+his,PERSON
+Mr. Carruthers,PERSON
+he,PERSON
+this morning,TIME
+Charlington Heath,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Charlington Hall,LOCATION
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Midland Electrical Company,ORGANIZATION
+Coventry,LOCATION
+He,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+Cyril,PERSON
+Woodley,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Carruthers,PERSON
+evening,TIME
+his,PERSON
+He,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+South African,MISC
+He,PERSON
+Miss Smith,PERSON
+Nature,MISC
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Charlington Hall,LOCATION
+Carruthers,PERSON
+Woodley,PERSON
+Ralph Smith,PERSON
+Watson,PERSON
+Monday,DATE
+Farnham,LOCATION
+Charlington Heath,LOCATION
+Watson,PERSON
+Monday,DATE
+Waterloo,LOCATION
+she,PERSON
+Farnham Station,LOCATION
+Charlington Heath,PERSON
+spring,DATE
+He,PERSON
+he,PERSON
+Charlington,MISC
+he,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+She,PERSON
+him,PERSON
+her,PERSON
+He,PERSON
+She,PERSON
+He,PERSON
+her,PERSON
+Her,PERSON
+She,PERSON
+her,PERSON
+him,PERSON
+He,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Farnham,LOCATION
+Charlington Hall,LOCATION
+Pall Mall,LOCATION
+Charlington Hall,PERSON
+summer,DATE
+Mr. Williamson,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Miss Smith,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+he,PERSON
+she,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+London,LOCATION
+Williamson,PERSON
+he,PERSON
+he,PERSON
+Williamson,PERSON
+Saturday,DATE
+Miss Smith,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+Scotland Yard,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+British,MISC
+him,PERSON
+Williamson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Woodley,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+Mr. Woodley,PERSON
+Surrey,LOCATION
+Thursday,DATE
+Mr. Holmes [,PERSON
+Mr. Carruthers,PERSON
+she,PERSON
+Saturday,DATE
+Mr. Carruthers,PERSON
+Mr. Carruthers,PERSON
+Mr. Woodley,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Mr. Carruthers,PERSON
+He,PERSON
+Woodley,PERSON
+this morning,TIME
+he,PERSON
+him,PERSON
+him,PERSON
+Mr. Carruthers,PERSON
+Saturday,DATE
+Watson,PERSON
+Holmes,PERSON
+her,PERSON
+Watson,PERSON
+Saturday,DATE
+morning,TIME
+he,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+Woodley,PERSON
+Carruthers,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+week-end,DATE
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+London,LOCATION
+Holmes,PERSON
+spring,DATE
+Crooksbury,LOCATION
+Hill,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+Watson,PERSON
+she,PERSON
+her,PERSON
+Holmes,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+Holmes,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+George,PERSON
+Holmes,PERSON
+Miss Violet Smith,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+she,PERSON
+Woodley,PERSON
+her,PERSON
+her,PERSON
+Charlington Wood,LOCATION
+her,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Peter,PERSON
+He,PERSON
+her,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+her,PERSON
+Holmes,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Williamson,PERSON
+Woodley,PERSON
+Bob,PERSON
+he,PERSON
+Mrs. Woodley,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Bob Carruthers,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+Woodley,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+his,PERSON
+Carruthers,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+Farnham,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Williamson,PERSON
+Carruthers,PERSON
+Woodley,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+Carruthers,PERSON
+his,PERSON
+him,PERSON
+Jack Woodley,PERSON
+Holmes,PERSON
+she,PERSON
+his,PERSON
+Mr. Williamson,PERSON
+Carruthers,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+South Africa,LOCATION
+Kimberley,LOCATION
+Johannesburg,LOCATION
+her,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Mr. Carruthers,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Carruthers,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Bob Carruthers,PERSON
+Jack Woodley,PERSON
+he,PERSON
+Holmes,PERSON
+South Africa,LOCATION
+Williamson,PERSON
+Carruthers,PERSON
+Woodley,PERSON
+Africa,LOCATION
+Mr. Busybody Holmes,PERSON
+Carruthers,PERSON
+he,PERSON
+His,PERSON
+Ralph Smith,PERSON
+South Africa,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+Carruthers,PERSON
+Williamson,PERSON
+She,PERSON
+Carruthers,PERSON
+her,PERSON
+Woodley,PERSON
+her,PERSON
+He,PERSON
+Woodley,PERSON
+She,PERSON
+he,PERSON
+him,PERSON
+her,PERSON
+George,PERSON
+He,PERSON
+his,PERSON
+Williamson,PERSON
+Carruthers,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+she,PERSON
+her,PERSON
+Woodley,PERSON
+Ralph Smith,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+she,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+week-end,DATE
+She,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Miss Smith,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Midlands,LOCATION
+she,PERSON
+Mr. Carruthers,PERSON
+Miss Violet Smith,PERSON
+Cyril Morton,PERSON
+Morton,PERSON
+& Kennedy,ORGANIZATION
+Westminster electricians,MISC
+she,PERSON
+Williamson,PERSON
+Woodley,PERSON
+Carruthers,PERSON
+Woodley,PERSON
+his,PERSON

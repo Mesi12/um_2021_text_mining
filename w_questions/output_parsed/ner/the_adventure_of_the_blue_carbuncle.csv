@@ -1,567 +1,431 @@
-text,ner,normalizedner
-Sherlock Holmes,PERSON,
-the second morning,DATE,THIS PT1S INTERSECT MO
-Christmas,DATE,XXXX-12-25
-him,PERSON,
-morning,TIME,TMO
-He,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-one,NUMBER,1.0
-four million,NUMBER,4000000.0
-six,NUMBER,6.0
-three,NUMBER,3.0
-Irene Adler,PERSON,
-Miss Mary Sutherland,PERSON,
-Peterson,PERSON,
-him,PERSON,
-his,PERSON,
-he,PERSON,
-first,ORDINAL,1.0
-Christmas,DATE,XXXX-12-25TMO
-morning,TIME,XXXX-12-25TMO
-Peterson,PERSON,
-about four o'clock,TIME,T04:00
-Christmas,DATE,XXXX-12-25TMO
-morning,TIME,XXXX-12-25TMO
-Peterson,PERSON,
-Tottenham Court Road,ORGANIZATION,
-his,PERSON,
-him,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-One,NUMBER,1.0
-he,PERSON,
-his,PERSON,
-his,PERSON,
-him,PERSON,
-Peterson,PERSON,
-Tottenham Court Road,ORGANIZATION,
-his,PERSON,
-him,PERSON,
-his,PERSON,
-his,PERSON,
-Peterson,LOCATION,
-Christmas,DATE,XXXX-12-25
-he,PERSON,
-he,PERSON,
-Mrs. Henry Baker,PERSON,
-Henry Bakers,ORGANIZATION,
-one,NUMBER,1.0
-Peterson,PERSON,
-Christmas,DATE,XXXX-12-25TMO
-morning,TIME,XXXX-12-25TMO
-He,PERSON,
-this morning,TIME,THIS MO
-Christmas,DATE,XXXX-12-25
-his,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-Holmes,PERSON,
-one,NUMBER,1.0
-Watson,PERSON,
-He,PERSON,
-him,PERSON,
-he,PERSON,
-the,DURATION,P3Y
-last three years,DATE,P3Y
-now,DATE,PRESENT_REF
-days,DURATION,PXD
-he,PERSON,
-he,PERSON,
-now,DATE,PRESENT_REF
-He,PERSON,
-his,PERSON,
-him,PERSON,
-This may,DATE,THIS XXXX-05
-his,PERSON,
-him,PERSON,
-He,PERSON,
-he,PERSON,
-the last few days,DURATION,PXD
-He,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-Holmes,PERSON,
-now,DATE,PRESENT_REF
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-three years old,DURATION,P3Y
-three years ago,DATE,OFFSET P-3Y
-he,PERSON,
-Sherlock Holmes,PERSON,
-he,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-he,PERSON,
-his,PERSON,
-now,DATE,PRESENT_REF
-he,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-recently,DATE,PAST_REF
-he,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-she,PERSON,
-him,PERSON,
-weeks,DURATION,PXW
-Watson,PERSON,
-a week,DURATION,P1W
-he,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-One,NUMBER,1.0
-two,NUMBER,2.0
-five,NUMBER,>=5.0
-night,TIME,TNI
-one,NUMBER,1.0
-his,PERSON,
-he,PERSON,
-now,DATE,PRESENT_REF
-Sherlock Holmes,PERSON,
-Peterson,PERSON,
-his,PERSON,
-Mr. Holmes,PERSON,
-he,PERSON,
-He,PERSON,
-his,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-Peterson,PERSON,
-he,PERSON,
-every day,SET,
-£,MONEY,£
-1000,DATE,1000
-twentieth,ORDINAL,20.0
-thousand pounds,MONEY,£1000.0
-one,NUMBER,1.0
-her,PERSON,
-she,PERSON,
-December 22nd,DATE,XXXX-12-22
-five days ago,DATE,OFFSET P-5D
-John Horner,PERSON,
-Assizes,LOCATION,
-him,PERSON,
-one,NUMBER,1.0
-He,PERSON,
-his,PERSON,
-he,PERSON,
-John Horner,PERSON,
-26,NUMBER,26.0
-22nd,ORDINAL,22.0
-James Ryder,PERSON,
-Horner,PERSON,
-the day,DATE,THIS P1D
-second,ORDINAL,2.0
-his,PERSON,
-he,PERSON,
-he,PERSON,
-Horner,PERSON,
-He,PERSON,
-Horner,PERSON,
-morocco,LOCATION,
-he,PERSON,
-her,PERSON,
-Horner,PERSON,
-evening,TIME,TEV
-his,PERSON,
-his,PERSON,
-Catherine Cusack,PERSON,
-she,PERSON,
-Horner,PERSON,
-his,PERSON,
-Assizes,LOCATION,
-Horner,PERSON,
-Holmes,PERSON,
-now,DATE,PRESENT_REF
-one,NUMBER,1.0
-Tottenham Court Road,ORGANIZATION,
-Watson,PERSON,
-Mr. Henry Baker,PERSON,
-now,DATE,PRESENT_REF
-he,PERSON,
-first,ORDINAL,1.0
-evening,TIME,TEV
-Now,DATE,PRESENT_REF
-Mr. Henry Baker,PERSON,
-6.30,TIME,
-this evening,TIME,THIS EV
-221b,NUMBER,2.21E11
-Baker Street,ORGANIZATION,
-he,PERSON,
-one,NUMBER,1.0
-he,PERSON,
-Peterson,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-him,PERSON,
-his,PERSON,
-his,PERSON,
-him,PERSON,
-him,PERSON,
-his,PERSON,
-Peterson,PERSON,
-evening,TIME,TEV
-Globe,ORGANIZATION,
-Pall Mall,ORGANIZATION,
-St. James,LOCATION,
-Evening News,ORGANIZATION,
-Standard,ORGANIZATION,
-Peterson,PERSON,
-one,NUMBER,1.0
-one,NUMBER,1.0
-now,DATE,PRESENT_REF
-Holmes,PERSON,
-he,PERSON,
-twenty years old,DURATION,P20Y
-Amoy River,LOCATION,
-China,LOCATION,
-two,NUMBER,2.0
-forty-grain,NUMBER,40.0
-now,DATE,PRESENT_REF
-Horner,PERSON,
-one,NUMBER,1.0
-Henry Baker,PERSON,
-Henry Baker,PERSON,
-he,PERSON,
-evening,TIME,TEV
-the hour,DATE,THIS PT1H
-seven,NUMBER,7.0
-Mrs. Hudson,PERSON,
-six,NUMBER,6.0
-once,DATE,PAST_REF
-his,PERSON,
-Holmes,PERSON,
-Mr. Henry Baker,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-Mr. Baker,PERSON,
-night,TIME,TNI
-summer,DATE,XXXX-SU
-winter,DATE,XXXX-WI
-Watson,PERSON,
-Mr. Baker,PERSON,
-He,PERSON,
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-His,PERSON,
-his,PERSON,
-his,PERSON,
-He,PERSON,
-his,PERSON,
-days,DURATION,PXD
-Holmes,PERSON,
-now,DATE,PRESENT_REF
-once,DATE,PAST_REF
-he,PERSON,
-his,PERSON,
-his,PERSON,
-Mr. Baker,PERSON,
-he,PERSON,
-Sherlock Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-one,NUMBER,1.0
-Baker,PERSON,
-his,PERSON,
-his,PERSON,
-Alpha Inn,ORGANIZATION,
-the day,DATE,THIS P1D
-This year,DATE,THIS P1Y
-every week,SET,
-Christmas,LOCATION,
-years,DURATION,PXY
-he,PERSON,
-his,PERSON,
-Mr. Henry Baker,PERSON,
-Holmes,PERSON,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-Watson,PERSON,
-supper,DATE,supper 
-night,TIME,TNI
-' quarter,DATE,' quarter 
-Harley Street,PERSON,
-a quarter,DURATION,P3M
-an hour,DURATION,PT1H
-Alpha Inn,ORGANIZATION,
-one,NUMBER,1.0
-Holborn,PERSON,
-two,NUMBER,2.0
-he,PERSON,
-an hour ago,DATE,OFFSET PT-1H
-Mr. Henry Baker,PERSON,
-two dozen,NUMBER,24.0
-Breckinridge,PERSON,
-his,PERSON,
-him,PERSON,
-Now,DATE,PRESENT_REF
-Mr. Breckinridge,PERSON,
-he,PERSON,
-his,PERSON,
-Watson,PERSON,
-one,NUMBER,1.0
-seven years,DURATION,P7Y
-his,PERSON,
-his,PERSON,
-march,DATE,XXXX-03
-Holborn,PERSON,
-Covent Garden Market,ORGANIZATION,
-One,NUMBER,1.0
-Breckinridge,PERSON,
-night,TIME,TNI
-Holmes,PERSON,
-Holmes,PERSON,
-five hundred,NUMBER,500.0
-morning,TIME,TMO
-dozen,NUMBER,12.0
-him,PERSON,
-Now,DATE,PRESENT_REF
-Now,DATE,PRESENT_REF
-he,PERSON,
-his,PERSON,
-his,PERSON,
-now,DATE,PRESENT_REF
-now,DATE,PRESENT_REF
-One,NUMBER,1.0
-Holmes,PERSON,
-Bill,PERSON,
-he,PERSON,
-one,NUMBER,1.0
-Now,DATE,PRESENT_REF
-Mr. Cocksure,PERSON,
-one,NUMBER,1.0
-Now,DATE,PRESENT_REF
-Now,DATE,PRESENT_REF
-third,ORDINAL,3.0
-Mrs. Oakshott,PERSON,
-117,NUMBER,117.0
-Brixton,LOCATION,
-Holmes,PERSON,
-Now,DATE,PRESENT_REF
-Holmes,PERSON,
-Mrs. Oakshott,PERSON,
-117,NUMBER,117.0
-Brixton,LOCATION,
-Now,DATE,PRESENT_REF
-December 22nd,DATE,XXXX-12-22
-Twenty-four,NUMBER,24.0
-Mr. Windigate,PERSON,
-now,DATE,PRESENT_REF
-Sherlock Holmes,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-his,PERSON,
-him,PERSON,
-he,PERSON,
-£100,MONEY,£100.0
-him,PERSON,
-him,PERSON,
-he,PERSON,
-Watson,PERSON,
-Mrs. Oakshott to-night,PERSON,
-His,PERSON,
-Breckinridge,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-Mrs. Oakshott,PERSON,
-her,PERSON,
-one,NUMBER,1.0
-Mrs. Oakshott,PERSON,
-She,PERSON,
-King of Proosia,ORGANIZATION,
-He,PERSON,
-this may,DATE,THIS XXXX-05
-Brixton,LOCATION,
-Holmes,PERSON,
-him,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-Holmes,PERSON,
-now,DATE,PRESENT_REF
-Sherlock Holmes,PERSON,
-Mrs. Oakshott,PERSON,
-Brixton Road,LOCATION,
-Breckinridge,PERSON,
-Mr. Windigate,PERSON,
-Alpha,ORGANIZATION,
-Mr. Henry Baker,PERSON,
-him,PERSON,
-him,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-four-wheeler,NUMBER,4.0
-he,PERSON,
-John Robinson,PERSON,
-he,PERSON,
-Holmes,PERSON,
-James Ryder,PERSON,
-he,PERSON,
-Hotel Cosmopolitan,ORGANIZATION,
-one,NUMBER,1.0
-one,NUMBER,1.0
-he,PERSON,
-an hour,DURATION,PT1H
-Baker Street,ORGANIZATION,
-he,PERSON,
-his,PERSON,
-him,PERSON,
-Holmes,PERSON,
-Mr. Ryder,PERSON,
-Now,DATE,PRESENT_REF
-one,NUMBER,1.0
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-Holmes,PERSON,
-Watson,PERSON,
-him,PERSON,
-his,PERSON,
-He,PERSON,
-him,PERSON,
-Now,DATE,PRESENT_REF
-he,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-Ryder,ORGANIZATION,
-Countess of Morcar,ORGANIZATION,
-Catherine Cusack,PERSON,
-he,PERSON,
-her,PERSON,
-Horner,PERSON,
-him,PERSON,
-Cusack,PERSON,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-Bible,LOCATION,
-Christ,ORGANIZATION,
-Holmes,PERSON,
-now,DATE,PRESENT_REF
-Horner,PERSON,
-he,PERSON,
-Mr. Holmes,PERSON,
-him,PERSON,
-now,DATE,PRESENT_REF
-his,PERSON,
-his,PERSON,
-he,PERSON,
-Horner,PERSON,
-once,DATE,PAST_REF
-Brixton Road,LOCATION,
-She,PERSON,
-she,PERSON,
-night,TIME,TNI
-Brixton Road,LOCATION,
-her,PERSON,
-once,DATE,PAST_REF
-Pentonville,LOCATION,
-his,PERSON,
-One day,DURATION,P1D
-he,PERSON,
-one,NUMBER,1.0
-two,NUMBER,2.0
-Kilburn,LOCATION,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-him,PERSON,
-He,PERSON,
-him,PERSON,
-time,DATE,PAST_REF
-weeks,DURATION,PXW
-Christmas,DATE,XXXX-12-25
-present,DATE,PRESENT_REF
-her,PERSON,
-she,PERSON,
-her,PERSON,
-now,DATE,PRESENT_REF
-Kilburn,PERSON,
-one,NUMBER,1.0
-one,NUMBER,1.0
-her,PERSON,
-she,PERSON,
-one,NUMBER,1.0
-Christmas,DATE,XXXX-12-25
-she,PERSON,
-one,NUMBER,1.0
-twenty-six,NUMBER,26.0
-one,NUMBER,1.0
-one,NUMBER,1.0
-two dozen,NUMBER,24.0
-Maggie,PERSON,
-one,NUMBER,1.0
-now,DATE,PRESENT_REF
-three pound,MONEY,£3.0
-she,PERSON,
-now,DATE,PRESENT_REF
-she,PERSON,
-one,NUMBER,1.0
-Mr. Holmes,PERSON,
-Kilburn,PERSON,
-she,PERSON,
-he,PERSON,
-He,PERSON,
-he,PERSON,
-Maggie,PERSON,
-Jem,PERSON,
-Breckinridge,PERSON,
-one,NUMBER,1.0
-Jem,PERSON,
-two,NUMBER,2.0
-Breckinridge,PERSON,
-once,DATE,PAST_REF
-one,NUMBER,1.0
-he,PERSON,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-now,DATE,PRESENT_REF
-now,DATE,PRESENT_REF
-He,PERSON,
-his,PERSON,
-his,PERSON,
-Sherlock Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-Watson,PERSON,
-Holmes,PERSON,
-his,PERSON,
-his,PERSON,
-Horner,PERSON,
-him,PERSON,
-he,PERSON,
-now,DATE,PRESENT_REF
-him,PERSON,
-him,PERSON,
+text,ner
+Sherlock Holmes,PERSON
+Christmas,DATE
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+Irene Adler,PERSON
+Miss Mary Sutherland,PERSON
+Peterson,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Christmas,DATE
+morning,TIME
+Peterson,PERSON
+Christmas,DATE
+morning,TIME
+Peterson,PERSON
+Tottenham Court Road,ORGANIZATION
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Goodge Street,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Peterson,PERSON
+Tottenham Court Road,LOCATION
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Peterson,PERSON
+he,PERSON
+he,PERSON
+Mrs. Henry Baker,PERSON
+Henry Bakers,PERSON
+Peterson,PERSON
+Christmas,DATE
+morning,TIME
+He,PERSON
+this morning,TIME
+Christmas,MISC
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+last three years,DATE
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+--you,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+Peterson,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+Jove,PERSON
+Peterson,PERSON
+he,PERSON
+Morcar,PERSON
+Times,ORGANIZATION
+1000,DATE
+her,PERSON
+she,PERSON
+December 22nd,DATE
+John Horner,PERSON
+Assizes,LOCATION
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+John Horner,PERSON
+Morcar,LOCATION
+James Ryder,PERSON
+Horner,PERSON
+Morcar,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+Horner,PERSON
+He,PERSON
+Horner,PERSON
+he,PERSON
+her,PERSON
+Horner,PERSON
+his,PERSON
+his,PERSON
+Catherine Cusack,PERSON
+Ryder,ORGANIZATION
+she,PERSON
+Bradstreet,PERSON
+Horner,PERSON
+his,PERSON
+Assizes,LOCATION
+Horner,PERSON
+Holmes,PERSON
+Tottenham Court Road,LOCATION
+Watson,PERSON
+Mr. Henry Baker,PERSON
+he,PERSON
+Goodge Street,LOCATION
+Mr. Henry Baker,PERSON
+6.30 this evening,TIME
+Baker Street,LOCATION
+he,PERSON
+he,PERSON
+Peterson,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Peterson,PERSON
+Pall Mall,LOCATION
+St. James,PERSON
+Standard,ORGANIZATION
+Peterson,PERSON
+Holmes,PERSON
+he,PERSON
+Amoy River,LOCATION
+China,LOCATION
+Countess,MISC
+Horner,PERSON
+Henry Baker,PERSON
+Henry Baker,PERSON
+he,PERSON
+Mrs. Hudson,PERSON
+Baker Street,LOCATION
+his,PERSON
+Holmes,PERSON
+Mr. Henry Baker,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Baker,PERSON
+summer,DATE
+Watson,PERSON
+Mr. Baker,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Baker,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+Baker,PERSON
+his,PERSON
+his,PERSON
+Alpha Inn,LOCATION
+Scotch,MISC
+he,PERSON
+his,PERSON
+Mr. Henry Baker,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+supper,DATE
+' quarter,DATE
+Wimpole Street,LOCATION
+Harley Street,PERSON
+Wigmore Street,LOCATION
+Oxford Street,LOCATION
+Bloomsbury,LOCATION
+Alpha Inn,LOCATION
+Holborn,LOCATION
+Holmes,PERSON
+he,PERSON
+Mr. Henry Baker,PERSON
+Covent Garden,LOCATION
+Breckinridge,PERSON
+his,PERSON
+him,PERSON
+Mr. Breckinridge,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+Holborn,LOCATION
+Endell Street,LOCATION
+Breckinridge,PERSON
+Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Bill,PERSON
+he,PERSON
+Mr. Cocksure,PERSON
+Mrs. Oakshott,PERSON
+Brixton,LOCATION
+Holmes,PERSON
+Holmes,PERSON
+Mrs. Oakshott,PERSON
+Brixton Road,LOCATION
+December,DATE
+Mr. Windigate,PERSON
+Alpha,LOCATION
+Sherlock Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Mrs. Oakshott,PERSON
+His,PERSON
+Breckinridge,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mrs. Oakshott,PERSON
+her,PERSON
+Mrs. Oakshott,PERSON
+She,PERSON
+Proosia,LOCATION
+He,PERSON
+Brixton Road,LOCATION
+Holmes,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Sherlock Holmes,PERSON
+Mrs. Oakshott,PERSON
+Brixton Road,LOCATION
+Breckinridge,PERSON
+Mr. Windigate,PERSON
+Mr. Henry Baker,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+John Robinson,PERSON
+he,PERSON
+Holmes,PERSON
+James Ryder,PERSON
+he,PERSON
+he,PERSON
+Baker Street,LOCATION
+he,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+Mr. Ryder,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Morcar,PERSON
+Catherine Cusack,PERSON
+he,PERSON
+her,PERSON
+Horner,PERSON
+him,PERSON
+Cusack,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Christ,PERSON
+Holmes,PERSON
+Horner,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Horner,PERSON
+Oakshott,PERSON
+Brixton Road,LOCATION
+She,PERSON
+she,PERSON
+Brixton Road,LOCATION
+her,PERSON
+Maudsley,PERSON
+Pentonville,LOCATION
+his,PERSON
+he,PERSON
+Kilburn,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+Christmas,MISC
+her,PERSON
+she,PERSON
+her,PERSON
+Kilburn,PERSON
+her,PERSON
+Jem,PERSON
+she,PERSON
+Christmas,DATE
+she,PERSON
+Maggie,PERSON
+she,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+Kilburn,PERSON
+she,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Maggie,PERSON
+Jem,PERSON
+Breckinridge,PERSON
+Jem,PERSON
+Breckinridge,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Horner,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON

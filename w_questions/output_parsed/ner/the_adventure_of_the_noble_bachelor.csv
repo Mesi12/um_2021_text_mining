@@ -1,659 +1,569 @@
-text,ner,normalizedner
-Lord St. Simon,ORGANIZATION,
-this four-year-old,DATE,THIS P4Y
-Sherlock Holmes,PERSON,
-him,PERSON,
-a few weeks,DURATION,PXW
-the days,DURATION,PXD
-Holmes,PERSON,
-afternoon,TIME,TAF
-he,PERSON,
-him,PERSON,
-day,DURATION,P1D
-one,NUMBER,1.0
-one,NUMBER,1.0
-the day,DATE,THIS P1D
-he,PERSON,
-morning,TIME,TMO
-he,PERSON,
-one,NUMBER,1.0
-He,PERSON,
-One,NUMBER,1.0
-England,LOCATION,
-Watson,PERSON,
-his,PERSON,
-Simon,PERSON,
-his,PERSON,
-Lord St. Simon,LOCATION,
-Mr. Sherlock Holmes,PERSON,
-he,PERSON,
-Mr. Lestrade,PERSON,
-Scotland,LOCATION,
-he,PERSON,
-he,PERSON,
-he,PERSON,
-four o'clock in the afternoon,TIME,T16:00
-Simon,PERSON,
-Grosvenor Mansions,PERSON,
-Holmes,PERSON,
-his,PERSON,
-he,PERSON,
-four o'clock,TIME,T04:00
-He,PERSON,
-three,NUMBER,3.0
-now,DATE,PRESENT_REF
-an hour,DURATION,PT1H
-He,PERSON,
-He,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-Robert Walsingham de Vere St. Simon,PERSON,
-second,ORDINAL,2.0
-Duke of Balmoral,ORGANIZATION,
-three,NUMBER,3.0
-1846,DATE,1846
-forty-one years,DURATION,P41Y
-He,PERSON,
-one,NUMBER,1.0
-Secretary for Foreign Affairs,ORGANIZATION,
-his,PERSON,
-Tudor,PERSON,
-Watson,PERSON,
-Grosvenor Square,LOCATION,
-now,DATE,PRESENT_REF
-first,ORDINAL,1.0
-first,ORDINAL,1.0
-Morning Post,ORGANIZATION,
-weeks,DURATION,PXW
-Robert St. Simon,PERSON,
-second,ORDINAL,2.0
-Balmoral,LOCATION,
-Miss Hatty Doran,PERSON,
-Aloysius Doran,PERSON,
-San Francisco,LOCATION,
-Cal.,LOCATION,
-U.S.A.,LOCATION,
-Holmes,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-the same week,DATE,THIS P1W
-present,DATE,PRESENT_REF
-One,NUMBER,1.0
-one,NUMBER,1.0
-Great Britain,LOCATION,
-Atlantic,LOCATION,
-the last week,DATE,PREV_IMMEDIATE P1W
-St. Simon,LOCATION,
-twenty years,DURATION,P20Y
-now,DATE,PRESENT_REF
-Miss Hatty Doran,PERSON,
-California,LOCATION,
-his,PERSON,
-Miss Doran,PERSON,
-Westbury House,ORGANIZATION,
-currently,DATE,PRESENT_REF
-six,NUMBER,6.0
-the future,DATE,FUTURE_REF
-her,PERSON,
-Duke of Balmoral,ORGANIZATION,
-the last few years,DURATION,PXY
-Lord St. Simon,ORGANIZATION,
-his,PERSON,
-his,PERSON,
-her,PERSON,
-Holmes,PERSON,
-Morning,TIME,TMO
-one,NUMBER,1.0
-St. George,LOCATION,
-Hanover Square,LOCATION,
-dozen,NUMBER,12.0
-Lancaster Gate,ORGANIZATION,
-Mr. Aloysius Doran,PERSON,
-Two days later,DATE,OFFSET P2D
-Wednesday,DATE,XXXX-WXX-3
-Lord Backwater,ORGANIZATION,
-Petersfield,LOCATION,
-Holmes,PERSON,
-she,PERSON,
-morning,TIME,TMO
-yesterday,DATE,OFFSET P-1D
-Lord Robert St. Simon,ORGANIZATION,
-his,PERSON,
-yesterday,DATE,OFFSET P-1D
-the previous morning,DATE,PREV_IMMEDIATE MO
-now,DATE,PRESENT_REF
-now,DATE,PRESENT_REF
-St. George's,ORGANIZATION,
-Hanover Square,LOCATION,
-one,NUMBER,1.0
-one,NUMBER,1.0
-present,DATE,PRESENT_REF
-Mr. Aloysius Doran,PERSON,
-Balmoral,LOCATION,
-Lord Backwater,PERSON,
-Lord Eustace,PERSON,
-Lady Clara St. Simon,ORGANIZATION,
-Alicia Whittington,PERSON,
-Mr. Aloysius Doran,PERSON,
-Lancaster Gate,LOCATION,
-Lord St. Simon,ORGANIZATION,
-her,PERSON,
-she,PERSON,
-she,PERSON,
-she,PERSON,
-her,PERSON,
-Her,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-One,NUMBER,1.0
-he,PERSON,
-his,PERSON,
-her,PERSON,
-Mr. Aloysius Doran,PERSON,
-his,PERSON,
-late hour,DATE,TNI OFFSET P-1D INTERSECT PT1H
-last night,TIME,TNI OFFSET P-1D INTERSECT PT1H
-she,PERSON,
-one,NUMBER,1.0
-morning,TIME,TMO
-one,NUMBER,1.0
-Miss Flora Millar,PERSON,
-years,DURATION,PXY
-she,PERSON,
-she,PERSON,
-now,DATE,PRESENT_REF
-Watson,PERSON,
-a few minutes,DURATION,PTXM
-four,NUMBER,4.0
-Watson,PERSON,
-Robert St. Simon,PERSON,
-His,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-His,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-He,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-Lord St. Simon,ORGANIZATION,
-Holmes,PERSON,
-Watson,PERSON,
-Mr. Holmes,PERSON,
-Scandinavia,LOCATION,
-he,PERSON,
-his,PERSON,
-Holmes,PERSON,
-Lord St. Simon,ORGANIZATION,
-first,ORDINAL,1.0
-Miss Hatty Doran,PERSON,
-San Francisco,LOCATION,
-a year ago,DATE,OFFSET P-1Y
-her,PERSON,
-she,PERSON,
-Her,PERSON,
-Pacific,LOCATION,
-He,PERSON,
-he,PERSON,
-his,PERSON,
-a few years ago,DATE,OFFSET P-1Y
-He,PERSON,
-he,PERSON,
-Now,DATE,PRESENT_REF
-his,PERSON,
-Mr. Holmes,PERSON,
-twenty,NUMBER,20.0
-he,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-England,LOCATION,
-She,PERSON,
-She,PERSON,
-She,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-he,PERSON,
-her,PERSON,
-she,PERSON,
-her,PERSON,
-her,PERSON,
-He,PERSON,
-Lord St. Simon,ORGANIZATION,
-he,PERSON,
-London,LOCATION,
-London,LOCATION,
-her,PERSON,
-her,PERSON,
-now,DATE,PRESENT_REF
-her,PERSON,
-her,PERSON,
-her,PERSON,
-She,PERSON,
-Miss Doran,PERSON,
-the day before,DATE,THIS P1D
-she,PERSON,
-future,DATE,FUTURE_REF
-She,PERSON,
-morning,TIME,TMO
-She,PERSON,
-her,PERSON,
-first,ORDINAL,1.0
-her,PERSON,
-She,PERSON,
-her,PERSON,
-time,DATE,PAST_REF
-She,PERSON,
-fall,DATE,XXXX-FA
-her,PERSON,
-her,PERSON,
-she,PERSON,
-she,PERSON,
-present,DATE,PRESENT_REF
-one,NUMBER,1.0
-him,PERSON,
-he,PERSON,
-his,PERSON,
-St. Simon,ORGANIZATION,
-she,PERSON,
-she,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-California,LOCATION,
-She,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-America,LOCATION,
-Alice,PERSON,
-she,PERSON,
-a few minutes,DURATION,PTXM
-Simon,PERSON,
-She,PERSON,
-she,PERSON,
-she,PERSON,
-her,PERSON,
-She,PERSON,
-She,PERSON,
-ten minutes,DURATION,PT10M
-she,PERSON,
-She,PERSON,
-Alice,PERSON,
-she,PERSON,
-her,PERSON,
-her,PERSON,
-Hyde Park,LOCATION,
-Flora Millar,PERSON,
-now,DATE,PRESENT_REF
-Mr. Doran,PERSON,
-morning,TIME,TMO
-she,PERSON,
-her,PERSON,
-Simon,PERSON,
-his,PERSON,
-his,PERSON,
-years,DURATION,PXY
-She,PERSON,
-Mr. Holmes,PERSON,
-her,PERSON,
-she,PERSON,
-She,PERSON,
-she,PERSON,
-Mr. Doran,PERSON,
-two,NUMBER,2.0
-She,PERSON,
-she,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-She,PERSON,
-she,PERSON,
-she,PERSON,
-she,PERSON,
-Mr. Lestrade,PERSON,
-Scotland,LOCATION,
-Flora,PERSON,
-her,PERSON,
-one,NUMBER,1.0
-Flora,PERSON,
-one,NUMBER,1.0
-she,PERSON,
-she,PERSON,
-she,PERSON,
-her,PERSON,
-Holmes,PERSON,
-now,DATE,PRESENT_REF
-Lord St. Simon,ORGANIZATION,
-Park,LOCATION,
-Simon,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-Lord St. Simon,ORGANIZATION,
-Sherlock Holmes,PERSON,
-his,PERSON,
-Thoreau,PERSON,
-Aberdeen,LOCATION,
-years,DURATION,PXY
-Munich,LOCATION,
-the year,DATE,THIS P1Y
-one,NUMBER,1.0
-him,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-Holmes,PERSON,
-his,PERSON,
-St. Simon,ORGANIZATION,
-day,DURATION,P1D
-Holmes,PERSON,
-his,PERSON,
-St. Simon,LOCATION,
-Sherlock Holmes,PERSON,
-his,PERSON,
-Trafalgar Square,LOCATION,
-he,PERSON,
-one,NUMBER,1.0
-he,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-Master Holmes,ORGANIZATION,
-her,PERSON,
-his,PERSON,
-Flora Millar,PERSON,
-now,DATE,PRESENT_REF
-Holmes,PERSON,
-two,NUMBER,2.0
-minutes,DURATION,PTXM
-Miss Flora Millar,PERSON,
-He,PERSON,
-him,PERSON,
-once,DATE,PAST_REF
-Now,DATE,PRESENT_REF
-St. Simon,LOCATION,
-Flora Millar,PERSON,
-she,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-Holmes,PERSON,
-He,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-he,PERSON,
-Oct. 4th,DATE,XXXX-10-04
-Lestrade,PERSON,
-Mr. Holmes,PERSON,
-first,ORDINAL,1.0
-He,PERSON,
-one,NUMBER,1.0
-Holmes,PERSON,
-his,PERSON,
-St. Simon,ORGANIZATION,
-three,NUMBER,3.0
-he,PERSON,
-his,PERSON,
-his,PERSON,
-Holmes,PERSON,
-He,PERSON,
-him,PERSON,
-his,PERSON,
-Watson,PERSON,
-he,PERSON,
-five o'clock,TIME,T05:00
-Sherlock Holmes,PERSON,
-an hour,DURATION,PT1H
-he,PERSON,
-he,PERSON,
-him,PERSON,
-two,NUMBER,2.0
-Nights,TIME,TNI
-nine o'clock,TIME,T09:00
-Sherlock Holmes,PERSON,
-His,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-his,PERSON,
-five,NUMBER,5.0
-he,PERSON,
-Lord St. Simon,ORGANIZATION,
-now,DATE,PRESENT_REF
-his,PERSON,
-afternoon,TIME,TAF
-his,PERSON,
-his,PERSON,
-Holmes,PERSON,
-Lord St. Simon,ORGANIZATION,
-his,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-he,PERSON,
-he,PERSON,
-her,PERSON,
-one,NUMBER,1.0
-she,PERSON,
-her,PERSON,
-Lord St. Simon,PERSON,
-his,PERSON,
-Holmes,PERSON,
-Lord St. Simon,ORGANIZATION,
-He,PERSON,
-St. Simon,ORGANIZATION,
-Mrs. Francis Hay Moulton,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-his,PERSON,
-her,PERSON,
-him,PERSON,
-he,PERSON,
-his,PERSON,
-one,NUMBER,1.0
-his,PERSON,
-her,PERSON,
-Robert,PERSON,
-she,PERSON,
-Lord St. Simon,ORGANIZATION,
-Mrs. Moulton,PERSON,
-Europe,LOCATION,
-America,LOCATION,
-He,PERSON,
-'84,DATE,XX84
-McQuire,ORGANIZATION,
-Rockies,LOCATION,
-one day,DURATION,P1D
-pa,ORGANIZATION,
-Frisco,LOCATION,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-he,PERSON,
-him,PERSON,
-pa,ORGANIZATION,
-he,PERSON,
-his,PERSON,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-he,PERSON,
-Frank,PERSON,
-pa,ORGANIZATION,
-he,PERSON,
-his,PERSON,
-Montana,LOCATION,
-Arizona,LOCATION,
-New Mexico,LOCATION,
-he,PERSON,
-he,PERSON,
-him,PERSON,
-months,DURATION,PXM
-Frisco,LOCATION,
-a year,DURATION,P1Y
-Lord St. Simon,ORGANIZATION,
-Frisco,LOCATION,
-London,LOCATION,
-St. Simon,LOCATION,
-him,PERSON,
-him,PERSON,
-him,PERSON,
-first,ORDINAL,1.0
-first,ORDINAL,1.0
-his,PERSON,
-he,PERSON,
-his,PERSON,
-him,PERSON,
-him,PERSON,
-he,PERSON,
-he,PERSON,
-his,PERSON,
-his,PERSON,
-him,PERSON,
-he,PERSON,
-his,PERSON,
-him,PERSON,
-he,PERSON,
-he,PERSON,
-him,PERSON,
-he,PERSON,
-first,ORDINAL,1.0
-now,DATE,PRESENT_REF
-him,PERSON,
-he,PERSON,
-California,LOCATION,
-him,PERSON,
-his,PERSON,
-her,PERSON,
-Lord St. Simon,ORGANIZATION,
-his,PERSON,
-ten minutes,DURATION,PT10M
-Park,LOCATION,
-He,PERSON,
-him,PERSON,
-Lord St. Simon,ORGANIZATION,
-he,PERSON,
-his,PERSON,
-her,PERSON,
-Gordon Square,LOCATION,
-years,DURATION,PXY
-he,PERSON,
-Frisco,LOCATION,
-England,LOCATION,
-morning,TIME,TMO
-second,ORDINAL,2.0
-him,PERSON,
-Frank,PERSON,
-pa,ORGANIZATION,
-him,PERSON,
-one,NUMBER,1.0
-Paris,LOCATION,
-Mr. Holmes,PERSON,
-this evening,TIME,THIS EV
-Frank,PERSON,
-he,PERSON,
-he,PERSON,
-Lord St. Simon,ORGANIZATION,
-once,DATE,PAST_REF
-he,PERSON,
-his,PERSON,
-Now,DATE,PRESENT_REF
-Robert,PERSON,
-Lord St. Simon,ORGANIZATION,
-his,PERSON,
-he,PERSON,
-He,PERSON,
-his,PERSON,
-she,PERSON,
-him,PERSON,
-Holmes,PERSON,
-supper,DATE,supper 
-his,PERSON,
-now,DATE,PRESENT_REF
-He,PERSON,
-Sherlock Holmes,PERSON,
-Mr. Moulton,PERSON,
-one,NUMBER,1.0
-years,DURATION,PXY
-day,DURATION,P1D
-Union Jack,ORGANIZATION,
-one,NUMBER,1.0
-Holmes,PERSON,
-first,ORDINAL,1.0
-Mr. Lestrade,PERSON,
-Scotland,LOCATION,
-first,ORDINAL,1.0
-two,NUMBER,2.0
-one,NUMBER,1.0
-a few minutes,DURATION,PTXM
-she,PERSON,
-morning,TIME,TMO
-her,PERSON,
-her,PERSON,
-She,PERSON,
-she,PERSON,
-she,PERSON,
-she,PERSON,
-America,LOCATION,
-she,PERSON,
-she,PERSON,
-she,PERSON,
-her,PERSON,
-him,PERSON,
-her,PERSON,
-her,PERSON,
-she,PERSON,
-he,PERSON,
-her,PERSON,
-Her,PERSON,
-Lord St. Simon,ORGANIZATION,
-he,PERSON,
-her,PERSON,
-her,PERSON,
-her,PERSON,
-She,PERSON,
-his,PERSON,
-he,PERSON,
-a week,DURATION,P1W
-one,NUMBER,1.0
-London,LOCATION,
-he,PERSON,
-his,PERSON,
-Eight,NUMBER,8.0
-one,NUMBER,1.0
-London,LOCATION,
-second,ORDINAL,2.0
-one,NUMBER,1.0
-Northumberland Avenue,LOCATION,
-Francis H. Moulton,PERSON,
-the day before,DATE,THIS P1D
-him,PERSON,
-226,NUMBER,226.0
-Lord St. Simon,ORGANIZATION,
-His,PERSON,
-him,PERSON,
-him,PERSON,
-His,PERSON,
-Watson,PERSON,
-Holmes,PERSON,
-Lord St. Simon,ORGANIZATION,
-evenings,TIME,TEV
+text,ner
+St. Simon,LOCATION
+Sherlock Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+he,PERSON
+him,PERSON
+Jezail,MISC
+Afghan,MISC
+he,PERSON
+he,PERSON
+He,PERSON
+England,LOCATION
+Watson,PERSON
+his,PERSON
+St. Simon,PERSON
+his,PERSON
+Lord St. Simon,LOCATION
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+Mr. Lestrade,PERSON
+Scotland Yard,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+afternoon,TIME
+Simon,PERSON
+Grosvenor Mansions,ORGANIZATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Robert Walsingham de Vere St. Simon,PERSON
+Balmoral,LOCATION
+1846,DATE
+He,PERSON
+Duke,PERSON
+his,PERSON
+Tudor,PERSON
+Watson,PERSON
+Grosvenor Square,LOCATION
+Robert St. Simon,PERSON
+Balmoral,LOCATION
+Miss Hatty Doran,PERSON
+Aloysius Doran,PERSON
+Esq.,LOCATION
+San Francisco,LOCATION
+Cal.,LOCATION
+U.S.A.,LOCATION
+Holmes,PERSON
+his,PERSON
+Great Britain,LOCATION
+Atlantic,LOCATION
+St. Simon,PERSON
+Miss Hatty Doran,PERSON
+California,LOCATION
+his,PERSON
+Miss Doran,PERSON
+Westbury House,ORGANIZATION
+her,PERSON
+Balmoral,LOCATION
+St. Simon,PERSON
+Birchmoor,LOCATION
+Republican,MISC
+British,MISC
+his,PERSON
+his,PERSON
+her,PERSON
+Holmes,PERSON
+St. George's,LOCATION
+Hanover Square,LOCATION
+Lancaster Gate,LOCATION
+Mr. Aloysius Doran,PERSON
+Wednesday,DATE
+Lord Backwater,ORGANIZATION
+Petersfield,LOCATION
+Holmes,PERSON
+she,PERSON
+Fashionable Wedding,MISC
+Robert St. Simon,PERSON
+his,PERSON
+St. George's,LOCATION
+Hanover Square,LOCATION
+Mr. Aloysius Doran,PERSON
+Balmoral,LOCATION
+Eustace,PERSON
+Lady Clara St. Simon,PERSON
+Alicia Whittington,PERSON
+Mr. Aloysius Doran,PERSON
+Lancaster Gate,LOCATION
+St. Simon,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Mr. Aloysius Doran,PERSON
+his,PERSON
+last night,TIME
+she,PERSON
+Miss Flora Millar,PERSON
+Allegro,LOCATION
+she,PERSON
+she,PERSON
+Watson,PERSON
+Watson,PERSON
+Robert St. Simon,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+St. Simon,PERSON
+Holmes,PERSON
+Watson,PERSON
+Mr. Holmes,PERSON
+King of Scandinavia,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+St. Simon,PERSON
+Miss Hatty Doran,PERSON
+San Francisco,LOCATION
+States,LOCATION
+her,PERSON
+she,PERSON
+Her,PERSON
+Pacific,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+England,LOCATION
+She,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+He,PERSON
+Holmes,PERSON
+St. Simon,LOCATION
+he,PERSON
+London,LOCATION
+London,LOCATION
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+Miss Doran,PERSON
+she,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+fall,DATE
+her,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Lady St. Simon,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Alice,PERSON
+her,PERSON
+American,MISC
+California,LOCATION
+She,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+America,LOCATION
+Alice,PERSON
+she,PERSON
+Lady St. Simon,PERSON
+She,PERSON
+she,PERSON
+American,MISC
+she,PERSON
+her,PERSON
+She,PERSON
+She,PERSON
+she,PERSON
+She,PERSON
+Alice,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Hyde Park,LOCATION
+Flora Millar,PERSON
+Mr. Doran,PERSON
+she,PERSON
+her,PERSON
+St. Simon,PERSON
+his,PERSON
+his,PERSON
+She,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+she,PERSON
+Flora,PERSON
+She,PERSON
+she,PERSON
+Mr. Doran,PERSON
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+Mr. Lestrade,PERSON
+Scotland Yard,LOCATION
+Flora,PERSON
+her,PERSON
+Flora,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Holmes,PERSON
+St. Simon,PERSON
+St. Simon,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+St. Simon,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Thoreau,PERSON
+Aberdeen,LOCATION
+Munich,LOCATION
+Franco-Prussian War,MISC
+Lestrade,PERSON
+Lestrade,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Simon,PERSON
+Holmes,PERSON
+his,PERSON
+Lady St. Simon,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Trafalgar Square,LOCATION
+he,PERSON
+Lestrade,PERSON
+he,PERSON
+Serpentine,MISC
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Master Holmes,PERSON
+her,PERSON
+his,PERSON
+Millar,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Miss Flora Millar,PERSON
+He,PERSON
+him,PERSON
+Lady St. Simon,PERSON
+Flora Millar,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Lestrade,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+Oct. 4th,DATE
+Lestrade,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+his,PERSON
+Lady St. Simon,PERSON
+Lestrade,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Arabian Nights,MISC
+Sherlock Holmes,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+St. Simon,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+St. Simon,PERSON
+his,PERSON
+his,PERSON
+Duke,ORGANIZATION
+he,PERSON
+he,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+St. Simon,PERSON
+his,PERSON
+Holmes,PERSON
+St. Simon,PERSON
+He,PERSON
+St. Simon,PERSON
+Mrs. Francis Hay Moulton,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+Robert,PERSON
+she,PERSON
+St. Simon,PERSON
+Frank,PERSON
+Mrs. Moulton,PERSON
+Europe,LOCATION
+America,LOCATION
+He,PERSON
+Frank,PERSON
+'84,DATE
+McQuire,PERSON
+Rockies,LOCATION
+Frank,PERSON
+Frank,PERSON
+Frank,PERSON
+Frisco,LOCATION
+he,PERSON
+Frank,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Frank,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Frank,PERSON
+he,PERSON
+his,PERSON
+Frank,PERSON
+Montana,LOCATION
+Arizona,LOCATION
+New Mexico,LOCATION
+he,PERSON
+he,PERSON
+him,PERSON
+Apache Indians,MISC
+Frank,PERSON
+Frisco,LOCATION
+Frank,PERSON
+St. Simon,PERSON
+Frisco,LOCATION
+London,LOCATION
+Frank,PERSON
+St. Simon,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Frank,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+California,LOCATION
+him,PERSON
+his,PERSON
+her,PERSON
+St. Simon,PERSON
+his,PERSON
+Frank,PERSON
+He,PERSON
+him,PERSON
+St. Simon,LOCATION
+Frank,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Gordon Square,LOCATION
+he,PERSON
+Frank,PERSON
+Apaches,MISC
+Frisco,LOCATION
+England,LOCATION
+him,PERSON
+American,MISC
+Frank,PERSON
+him,PERSON
+Frank,PERSON
+Paris,LOCATION
+Mr. Holmes,PERSON
+this evening,TIME
+Frank,PERSON
+he,PERSON
+he,PERSON
+St. Simon,PERSON
+he,PERSON
+his,PERSON
+Robert,PERSON
+St. Simon,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+she,PERSON
+him,PERSON
+Holmes,PERSON
+supper,DATE
+Lordship,MISC
+his,PERSON
+He,PERSON
+Sherlock Holmes,PERSON
+American,MISC
+Mr. Moulton,PERSON
+Jack,PERSON
+Holmes,PERSON
+Mr. Lestrade,PERSON
+Scotland Yard,LOCATION
+she,PERSON
+morning,TIME
+her,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+America,LOCATION
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+him,PERSON
+her,PERSON
+her,PERSON
+American,MISC
+she,PERSON
+American,MISC
+he,PERSON
+her,PERSON
+Her,PERSON
+St. Simon,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+She,PERSON
+Lestrade,PERSON
+his,PERSON
+he,PERSON
+London,LOCATION
+he,PERSON
+his,PERSON
+London,LOCATION
+Northumberland Avenue,LOCATION
+Francis H. Moulton,PERSON
+American,MISC
+him,PERSON
+Gordon Square,LOCATION
+St. Simon,PERSON
+His,PERSON
+him,PERSON
+him,PERSON
+His,PERSON
+Watson,PERSON
+Holmes,PERSON
+St. Simon,PERSON

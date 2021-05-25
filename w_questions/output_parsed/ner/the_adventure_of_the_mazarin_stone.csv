@@ -1,0 +1,386 @@
+text,ner
+Watson,PERSON
+Baker Street,LOCATION
+He,PERSON
+him,PERSON
+Billy,PERSON
+his,PERSON
+Billy,PERSON
+him,PERSON
+Billy,PERSON
+he,PERSON
+he,PERSON
+summer,DATE
+Watson,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Mrs. Hudson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Billy,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Billy,PERSON
+he,PERSON
+Billy,PERSON
+Billy,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Cantlemere,PERSON
+he,PERSON
+Billy,PERSON
+Mr. Holmes,PERSON
+Billy,PERSON
+Watson,PERSON
+his,PERSON
+Billy,PERSON
+Billy,PERSON
+He,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+spring,DATE
+he,PERSON
+Billy,PERSON
+he,PERSON
+Watson,PERSON
+Billy,PERSON
+Watson,PERSON
+him,PERSON
+Holmes,PERSON
+this evening,TIME
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+Watson,PERSON
+Holmes,PERSON
+Scotland Yard,LOCATION
+Sylvius,MISC
+Moorside Gardens,LOCATION
+N. W. Got,PERSON
+Watson,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+him,PERSON
+Watson,PERSON
+him,PERSON
+Billy,PERSON
+he,PERSON
+He,PERSON
+Sam Merton,PERSON
+Sam,PERSON
+him,PERSON
+Sam,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+He,PERSON
+Southern,MISC
+he,PERSON
+Watson,PERSON
+Straubenzee,PERSON
+Minories,LOCATION
+him,PERSON
+Straubenzee,PERSON
+Billy,PERSON
+Billy,PERSON
+Holmes,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Watson,PERSON
+Sam Merton,PERSON
+Sam,PERSON
+Billy,PERSON
+him,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Scotland Yard,LOCATION
+Youghal,PERSON
+He,PERSON
+his,PERSON
+Billy,PERSON
+Count Sylvius,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+spring,DATE
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Tavernier,PERSON
+French,MISC
+Straubenzee,PERSON
+He,PERSON
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Baron Dowson,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Algeria,LOCATION
+his,PERSON
+his,PERSON
+his,PERSON
+Sylvius,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Sylvius,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Mrs. Harold,PERSON
+Blymer,MISC
+Miss Minnie Warrender,PERSON
+Riviera,LOCATION
+"February 13, 1892",DATE
+Credit Lyonnais,ORGANIZATION
+Whitehall,ORGANIZATION
+Ikey Sanders,PERSON
+Ikey,PERSON
+His,PERSON
+He,PERSON
+Holmes,PERSON
+Sam Merton,PERSON
+Sam,PERSON
+Billy,PERSON
+Sam,PERSON
+his,PERSON
+Billy,PERSON
+him,PERSON
+he,PERSON
+Billy,PERSON
+him,PERSON
+Count Sylvius,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Billy,PERSON
+Watson,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Mr. Merton,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Merton,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Hoffman,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Merton,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Ikey Sanders,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Tut,PERSON
+Madame Tussaud,ORGANIZATION
+him,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Merton,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+Merton,PERSON
+he,PERSON
+England,LOCATION
+Amsterdam,LOCATION
+Sunday,DATE
+Van Seddar,PERSON
+He,PERSON
+Van Seddar,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Holland,LOCATION
+him,PERSON
+he,PERSON
+Sam Merton,PERSON
+Dutchman,MISC
+him,PERSON
+him,PERSON
+Liverpool,LOCATION
+him,PERSON
+Liverpool,LOCATION
+he,PERSON
+Whitehall,ORGANIZATION
+his,PERSON
+him,PERSON
+Sam,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+Sam Merton,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+Billy,PERSON
+his,PERSON
+Cantlemere,PERSON
+Billy,PERSON
+him,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+mid-Victorian,MISC
+Holmes,PERSON
+Cantlemere,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+Lordship,MISC
+His,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+Cantlemere,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Cantlemere,PERSON
+Holmes,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Cantlemere,PERSON
+Billy,PERSON
+Lordship,MISC
+Mrs. Hudson,PERSON
+his,PERSON
+she,PERSON

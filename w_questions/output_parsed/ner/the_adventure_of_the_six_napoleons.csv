@@ -1,0 +1,602 @@
+text,ner
+Mr. Lestrade,PERSON
+Scotland Yard,LOCATION
+Sherlock Holmes,PERSON
+his,PERSON
+him,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+his,PERSON
+Lestrade,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Napoleon,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Morse Hudson,PERSON
+Kennington Road,LOCATION
+Napoleon,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Hooliganism,MISC
+last night,TIME
+Kennington Road,LOCATION
+Morse Hudson,LOCATION
+Barnicot,PERSON
+Kennington Road,LOCATION
+Lower Brixton Road,LOCATION
+His,PERSON
+he,PERSON
+Barnicot,PERSON
+Napoleon,PERSON
+French,MISC
+his,PERSON
+Morse Hudson,LOCATION
+Napoleon,PERSON
+French,MISC
+Devine,PERSON
+he,PERSON
+Kennington Road,LOCATION
+Lower Brixton,LOCATION
+he,PERSON
+his,PERSON
+Barnicot,PERSON
+night,TIME
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Barnicot,PERSON
+night,TIME
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Barnicot,PERSON
+Morse Hudson,LOCATION
+Napoleon,PERSON
+Emperor,MISC
+London,LOCATION
+Lestrade,PERSON
+Morse Hudson,PERSON
+London,LOCATION
+his,PERSON
+London,LOCATION
+Watson,PERSON
+French,MISC
+Napoleon,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Barnicot,PERSON
+Watson,PERSON
+Abernetty,PERSON
+Lestrade,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Pitt Street,LOCATION
+Kensington,LOCATION
+He,PERSON
+Lestrade,PERSON
+London,LOCATION
+Watson,PERSON
+Pitt Street,LOCATION
+London,LOCATION
+Holmes,PERSON
+George,PERSON
+London,LOCATION
+Watson,PERSON
+Lestrade,PERSON
+Horace Harker,PERSON
+Central Press Syndicate,ORGANIZATION
+He,PERSON
+Napoleon,PERSON
+Lestrade,PERSON
+last night,TIME
+Mr. Holmes,PERSON
+Mr. Harker,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Holmes,PERSON
+Napoleon,PERSON
+Harding Brothers,ORGANIZATION
+Mr. Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+London,LOCATION
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Campden House Road,LOCATION
+He,PERSON
+he,PERSON
+Mr. Harker,PERSON
+he,PERSON
+Doncaster,ORGANIZATION
+his,PERSON
+Emperor,MISC
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+Lestrade,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Jove,PERSON
+Barnicot,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Lestrade,PERSON
+Pitt Street,LOCATION
+last night,TIME
+Mr. Horace Harker,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Lestrade,PERSON
+Pitt Street,ORGANIZATION
+Mr. Horace Harker,PERSON
+Napoleonic,MISC
+last night,TIME
+him,PERSON
+his,PERSON
+his,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Mr. Horace Harker,PERSON
+Central Press Syndicate,ORGANIZATION
+Watson,PERSON
+Lestrade,PERSON
+Baker Street,LOCATION
+o'clock this evening,TIME
+Sherlock Holmes,PERSON
+Harding Brothers,ORGANIZATION
+he,PERSON
+Mr. Harding,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Harding,PERSON
+Mr. Morse Hudson,PERSON
+Kennington Road,LOCATION
+he,PERSON
+He,PERSON
+he,PERSON
+Barnicot,PERSON
+his,PERSON
+Nihilist,MISC
+Anarchist,MISC
+Gelder & Co.,ORGANIZATION
+Church Street,LOCATION
+Stepney,PERSON
+Barnicot,PERSON
+Italian,MISC
+He,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+Morse Hudson,PERSON
+Holmes,PERSON
+Beppo,PERSON
+Kennington,LOCATION
+Kensington,LOCATION
+Watson,PERSON
+Gelder & Co.,ORGANIZATION
+Stepney,PERSON
+London,LOCATION
+London,LOCATION
+London,LOCATION
+London,LOCATION
+London,LOCATION
+London,LOCATION
+Europe,LOCATION
+German,MISC
+Holmes,PERSON
+Devine,PERSON
+Napoleon,PERSON
+Morse Hudson,LOCATION
+Harding Brothers,ORGANIZATION
+Kensington,LOCATION
+his,PERSON
+He,PERSON
+he,PERSON
+Paris,LOCATION
+Italians,MISC
+he,PERSON
+Teutonic,MISC
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Italian,MISC
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Beppo,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+June 3rd of last year,DATE
+Beppo,PERSON
+May 20th,DATE
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Kensington Outrage,LOCATION
+Madman,MISC
+Mr. Horace Harker,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Lestrade,PERSON
+Mr. Sherlock Holmes,PERSON
+Watson,PERSON
+Kensington,LOCATION
+Harding Brothers,ORGANIZATION
+Mr. Horace Harker,PERSON
+him,PERSON
+Gelder & Co.,ORGANIZATION
+Stepney,PERSON
+Mr. Harker,PERSON
+Mr. Josiah Brown,PERSON
+Laburnum Lodge,ORGANIZATION
+Laburnum Vale,ORGANIZATION
+Chiswick,PERSON
+Mr. Sandeford,PERSON
+Lower Grove Road,LOCATION
+Italians,MISC
+Holmes,PERSON
+Mr. Harding,PERSON
+he,PERSON
+Lestrade,PERSON
+He,PERSON
+Baker Street,LOCATION
+him,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Lestrade,PERSON
+Mr. Sherlock Holmes,PERSON
+Saffron,LOCATION
+Hill,PERSON
+Italian,MISC
+Catholic,MISC
+South,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+Hill,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Pietro Venucci,PERSON
+Naples,LOCATION
+London,LOCATION
+His,PERSON
+he,PERSON
+Mafia,ORGANIZATION
+He,PERSON
+Italian,MISC
+Mafia,ORGANIZATION
+He,PERSON
+Pietro,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+Lestrade,PERSON
+he,PERSON
+Hill,PERSON
+Italian,MISC
+him,PERSON
+him,PERSON
+Italian,MISC
+Chiswick,LOCATION
+him,PERSON
+Chiswick,ORGANIZATION
+Lestrade,PERSON
+Italian,MISC
+Lestrade,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Chiswick,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Hammersmith Bridge,LOCATION
+Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Napoleon,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Mr. Josiah Brown,PERSON
+Holmes,PERSON
+Mr. Sherlock Holmes,PERSON
+Lestrade,PERSON
+London,LOCATION
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Lestrade,PERSON
+Hill,PERSON
+he,PERSON
+him,PERSON
+Mafia,ORGANIZATION
+Mr. Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+Watson,PERSON
+Napoleonic,MISC
+Lestrade,PERSON
+Beppo,PERSON
+His,PERSON
+Italian,MISC
+He,PERSON
+He,PERSON
+he,PERSON
+English,MISC
+He,PERSON
+Gelder & Co,ORGANIZATION
+His,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Mr. Sandeford,PERSON
+he,PERSON
+Devine,PERSON
+Napoleon,PERSON
+Mr. Harding,PERSON
+Harding Brothers,ORGANIZATION
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Sandeford,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Sandeford,PERSON
+Mr. Sandeford,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Napoleon,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Colonna,PERSON
+Dacre Hotel,LOCATION
+Napoleon,PERSON
+Gelder & Co.,ORGANIZATION
+Stepney,PERSON
+he,PERSON
+Lestrade,PERSON
+London,LOCATION
+Italian,MISC
+London,LOCATION
+she,PERSON
+Lucretia Venucci,PERSON
+Pietro,PERSON
+Gelder & Co.,ORGANIZATION
+Beppo,PERSON
+his,PERSON
+Pietro,LOCATION
+Pietro,PERSON
+Pietro,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Napoleon,PERSON
+Beppo,PERSON
+Beppo,PERSON
+London,LOCATION
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Beppo,PERSON
+he,PERSON
+his,PERSON
+Gelder,PERSON
+he,PERSON
+Morse Hudson,PERSON
+He,PERSON
+Italian,MISC
+he,PERSON
+Harker,PERSON
+Beppo,ORGANIZATION
+he,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Beppo,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Harker,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Harker,PERSON
+London,LOCATION
+he,PERSON
+Borgia,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+Scotland Yard,LOCATION
+Holmes,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Conk-Singleton,LOCATION
+he,PERSON
+Lestrade,PERSON

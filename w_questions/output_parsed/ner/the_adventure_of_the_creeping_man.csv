@@ -1,0 +1,563 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+Presbury,PERSON
+London,LOCATION
+Holmes,PERSON
+his,PERSON
+Sunday,DATE
+evening,TIME
+September of the year 1903,DATE
+Holmes,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+His,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Baker Street,LOCATION
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+Copper Beeches,MISC
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Presbury,PERSON
+Roy,PERSON
+him,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Presbury,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Mr. Bennett,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Presbury,PERSON
+Mr. Bennett,PERSON
+Watson,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Mr. Trevor Bennett,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+European,MISC
+His,PERSON
+Edith,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+Morphy,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Alice Morphy,PERSON
+his,PERSON
+Presbury,PERSON
+her,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+Mr. Bennett,PERSON
+Prague,LOCATION
+Presbury,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+His,PERSON
+His,PERSON
+him,PERSON
+her,PERSON
+Mr. Bennett,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+London,LOCATION
+He,PERSON
+him,PERSON
+his,PERSON
+E. C.,MISC
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Continental,ORGANIZATION
+Germany,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Bennett,PERSON
+his,PERSON
+July,DATE
+he,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+July,DATE
+Roy,PERSON
+he,PERSON
+his,PERSON
+July 11th,DATE
+July 20th,DATE
+Roy,PERSON
+He,PERSON
+Mr. Bennett,PERSON
+Holmes,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Bennett,PERSON
+he,PERSON
+morning,TIME
+Holmes,PERSON
+September,DATE
+Holmes,PERSON
+he,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+His,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Bennett,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Edith,PERSON
+Watson,PERSON
+He,PERSON
+His,PERSON
+Watson,PERSON
+Sherlock Holmes,PERSON
+Mr. Bennett,PERSON
+she,PERSON
+his,PERSON
+she,PERSON
+Edith,PERSON
+Jack,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+Miss Presbury,PERSON
+English,MISC
+Holmes,PERSON
+Mr. Bennett,PERSON
+she,PERSON
+Mr. Bennett,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Miss Presbury,PERSON
+last night,TIME
+Mr. Holmes,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+His,PERSON
+he,PERSON
+Roy,PERSON
+he,PERSON
+Jack,PERSON
+Mr. Bennett,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+spring,DATE
+night,TIME
+he,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+September,DATE
+Holmes,PERSON
+Mr. Holmes,PERSON
+Bennett,PERSON
+Watson,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Mr. Bennett,PERSON
+Holmes,PERSON
+Mr. Bennett,PERSON
+Camford,LOCATION
+Chequers,LOCATION
+Watson,PERSON
+Monday,DATE
+morning,TIME
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+August 26th,DATE
+he,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+Excelsior,LOCATION
+Presbury,PERSON
+London,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+Presbury,PERSON
+Camford,LOCATION
+Holmes,PERSON
+He,PERSON
+London,LOCATION
+Mr. Bennett,PERSON
+Mr. Bennett,PERSON
+London,LOCATION
+Holmes,PERSON
+Bennett,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+Mr. Bennett,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Bennett,PERSON
+his,PERSON
+Mr. Bennett,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+this morning,TIME
+He,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Slavonic,MISC
+London,LOCATION
+this afternoon,TIME
+Mr. Bennett,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Mr. Bennett,PERSON
+Tuesday,DATE
+Camford,LOCATION
+Miss Presbury,MISC
+her,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Bennett,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Bennett,PERSON
+Holmes,PERSON
+evening,TIME
+he,PERSON
+Commercial Road,LOCATION
+Dorak,PERSON
+Bohemian,MISC
+Mercer,PERSON
+Mercer,PERSON
+Holmes,PERSON
+He,PERSON
+Prague,LOCATION
+His,PERSON
+Bohemia,LOCATION
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+July,DATE
+Friday,DATE
+September,DATE
+August 26th,DATE
+His,PERSON
+Prague,LOCATION
+Bohemian,MISC
+London,LOCATION
+He,PERSON
+he,PERSON
+Watson,PERSON
+Tuesday,DATE
+Bennett,PERSON
+Mr. Bennett,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Bennett,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+his,PERSON
+Tuesday,DATE
+Monday,DATE
+evening,TIME
+him,PERSON
+Camford,LOCATION
+he,PERSON
+his,PERSON
+Mr. Bennett,PERSON
+Chequers,LOCATION
+he,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Mr. Bennett,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+Watson,PERSON
+his,PERSON
+Macphail,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Prague,LOCATION
+Bohemian,MISC
+London,LOCATION
+Prague,LOCATION
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Prague,LOCATION
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+he,PERSON
+Presbury,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+Bennett,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Newfoundland,LOCATION
+him,PERSON
+he,PERSON
+Bennett,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Bennett,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Bennett,PERSON
+European,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Mr. Bennett,PERSON
+Macphail,PERSON
+Commercial Road,MISC
+Presbury,PERSON
+Austrian,MISC
+Prague,LOCATION
+Holmes,PERSON
+he,PERSON
+Langur,MISC
+England,LOCATION
+Dorak,PERSON
+H. Lowenstein,PERSON
+Lowenstein,PERSON
+Lowenstein,PERSON
+Prague,LOCATION
+Lowenstein,PERSON
+he,PERSON
+Bennett,PERSON
+Langur,MISC
+Himalayan,MISC
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Bennett,PERSON
+His,PERSON
+Roy,PERSON
+Roy,PERSON
+him,PERSON
+Watson,LOCATION
+Chequers,LOCATION

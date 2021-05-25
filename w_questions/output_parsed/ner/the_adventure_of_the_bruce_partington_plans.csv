@@ -1,0 +1,790 @@
+text,ner
+third week of November,DATE
+1895,DATE
+London,LOCATION
+Monday,DATE
+Thursday,DATE
+Baker Street,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+London,LOCATION
+he,PERSON
+him,PERSON
+Watson,PERSON
+London,LOCATION
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Brooks,PERSON
+Woodhouse,PERSON
+Jove,PERSON
+Holmes,PERSON
+he,PERSON
+Mycroft,PERSON
+Mycroft,PERSON
+his,PERSON
+he,PERSON
+Diogenes Club,PERSON
+Whitehall,ORGANIZATION
+His,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Cadogen West,LOCATION
+Mycroft,PERSON
+Cadogen West,PERSON
+Mycroft,PERSON
+Mycroft,PERSON
+British,MISC
+he,PERSON
+Holmes,PERSON
+British,MISC
+he,PERSON
+British,MISC
+he,PERSON
+Holmes,PERSON
+Mycroft,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Navy,ORGANIZATION
+India,LOCATION
+Canada,LOCATION
+Mycroft,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Jupiter,LOCATION
+Cadogan West,PERSON
+Mycroft,PERSON
+he,PERSON
+he,PERSON
+Cadogen West,PERSON
+Tuesday,DATE
+morning,TIME
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+Arthur Cadogan West,PERSON
+Woolwich Arsenal,ORGANIZATION
+He,PERSON
+Mycroft,PERSON
+Woolwich,ORGANIZATION
+Monday,DATE
+night,TIME
+He,PERSON
+Miss Violet Westbury,PERSON
+his,PERSON
+he,PERSON
+she,PERSON
+his,PERSON
+Mason,PERSON
+Aldgate Station,LOCATION
+London,LOCATION
+him,PERSON
+his,PERSON
+Tuesday,DATE
+morning,TIME
+Willesden,LOCATION
+night,TIME
+he,PERSON
+his,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+Watson,PERSON
+Metropolitan,MISC
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+His,PERSON
+Woolwich,ORGANIZATION
+Capital and Counties Bank,ORGANIZATION
+He,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+British,MISC
+Mycroft,PERSON
+he,PERSON
+Mycroft Holmes,PERSON
+Lestrade,PERSON
+Scotland Yard,LOCATION
+his,PERSON
+Mycroft Holmes,PERSON
+his,PERSON
+Sherlock,PERSON
+he,PERSON
+Siam,LOCATION
+Bruce-Partington,LOCATION
+his,PERSON
+Mycroft Holmes,PERSON
+his,PERSON
+His,PERSON
+Bruce-Partington,PERSON
+Navy,ORGANIZATION
+Woolwich,ORGANIZATION
+he,PERSON
+London,LOCATION
+Sherlock,PERSON
+Woolwich,ORGANIZATION
+Cadogan West,LOCATION
+Sherlock,PERSON
+Cadogan West,PERSON
+he,PERSON
+his,PERSON
+Mycroft,PERSON
+Sherlock,PERSON
+his,PERSON
+he,PERSON
+James Walter,PERSON
+He,PERSON
+He,PERSON
+Monday,DATE
+James,PERSON
+London,LOCATION
+his,PERSON
+him,PERSON
+Sinclair,PERSON
+Barclay Square,LOCATION
+evening,TIME
+He,PERSON
+Valentine Walter,PERSON
+Woolwich,ORGANIZATION
+Sinclair,PERSON
+London,LOCATION
+James,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mr. Sidney Johnson,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Monday,DATE
+evening,TIME
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Cadogan West,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+Sidney Johnson,PERSON
+He,PERSON
+His,PERSON
+him,PERSON
+Mr. Sidney Johnson,PERSON
+Cadogan West,PERSON
+Sherlock,PERSON
+he,PERSON
+He,PERSON
+London,LOCATION
+Young West,PERSON
+He,PERSON
+He,PERSON
+London,LOCATION
+He,PERSON
+London,LOCATION
+he,PERSON
+his,PERSON
+Woolwich,ORGANIZATION
+he,PERSON
+he,PERSON
+Aldgate,LOCATION
+London Bridge,LOCATION
+Woolwich,ORGANIZATION
+his,PERSON
+London Bridge,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Sherlock,PERSON
+Cadogan West,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Lestrade,PERSON
+London,LOCATION
+he,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Lestrade,PERSON
+He,PERSON
+He,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Bruce-Partington,LOCATION
+Sherlock,PERSON
+Mycroft,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+Lestrade,PERSON
+Aldgate Station,LOCATION
+Mycroft,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+Aldgate Station,LOCATION
+he,PERSON
+midnight,TIME
+Monday,DATE
+this morning,TIME
+Lestrade,PERSON
+Aldgate,LOCATION
+Monday,DATE
+night,TIME
+he,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Aldgate,LOCATION
+his,PERSON
+his,PERSON
+he,PERSON
+Jove,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+Lestrade,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Mr. Lestrade,PERSON
+Woolwich,ORGANIZATION
+London Bridge,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Baker Street,LOCATION
+England,LOCATION
+Sherlock,PERSON
+Watson,PERSON
+Woolwich,ORGANIZATION
+he,PERSON
+Mycroft,PERSON
+His,PERSON
+Holmes,PERSON
+morning,TIME
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Woolwich Station,LOCATION
+He,PERSON
+Mycroft,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+James Walter,PERSON
+James,PERSON
+he,PERSON
+James,PERSON
+Holmes,PERSON
+he,PERSON
+Valentine,PERSON
+his,PERSON
+His,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+James,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Cadogan West,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Cadogan Wests,ORGANIZATION
+her,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+Arthur,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Miss Westbury,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+Miss Westbury,LOCATION
+her,PERSON
+She,PERSON
+she,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Miss Westbury,LOCATION
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+last evening,TIME
+he,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+her,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+Mr. Sidney Johnson,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+Cadogan West,PERSON
+Monday,DATE
+evening,TIME
+his,PERSON
+him,PERSON
+Monday,DATE
+he,PERSON
+He,PERSON
+He,PERSON
+Cadogan West,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+James Walter,PERSON
+James,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+London,LOCATION
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+James,PERSON
+West,LOCATION
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Bruce-Partington,LOCATION
+He,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+Woolwich,ORGANIZATION
+London,LOCATION
+Woolwich Station,ORGANIZATION
+Cadogan,PERSON
+Monday,DATE
+night,TIME
+London,LOCATION
+London Bridge,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+West,LOCATION
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Woolwich,ORGANIZATION
+Cadogan West,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Cadogan West,PERSON
+he,PERSON
+West,PERSON
+West,LOCATION
+London,LOCATION
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+West,LOCATION
+Metropolitan,ORGANIZATION
+his,PERSON
+Mycroft,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+Adolph Mayer,PERSON
+Great George Street,LOCATION
+Westminster,LOCATION
+Louis La Rothiere,PERSON
+Notting,LOCATION
+Hill,PERSON
+Hugo Oberstein,PERSON
+Caulfield Gardens,ORGANIZATION
+Kensington,LOCATION
+Monday,DATE
+Cabinet,ORGANIZATION
+Mycroft,PERSON
+Holmes,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+November,DATE
+his,PERSON
+Goldini,LOCATION
+Gloucester Road,LOCATION
+Kensington,LOCATION
+S.H,PERSON
+Italian,MISC
+Watson,PERSON
+he,PERSON
+Cadogan West,PERSON
+he,PERSON
+Underground,MISC
+West End,MISC
+London,LOCATION
+Underground,MISC
+Mr. Hugo Oberstein,PERSON
+Caulfield Gardens,ORGANIZATION
+Gloucester Road Station,LOCATION
+Caulfield Gardens,LOCATION
+Holmes,PERSON
+Watson,PERSON
+Caulfield Gardens,LOCATION
+Oberstein,PERSON
+his,PERSON
+Oberstein,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+Mycroft,PERSON
+Cabinet,ORGANIZATION
+Holmes,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Caulfield Gardens,LOCATION
+Victorian,MISC
+West End of London,LOCATION
+night,TIME
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+His,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Halloa,PERSON
+Watson,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+His,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+Daily Telegraph,ORGANIZATION
+Finally:,MISC
+Monday,DATE
+night,TIME
+Watson,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Daily Telegraph,ORGANIZATION
+Mycroft Holmes,PERSON
+Lestrade,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+England,LOCATION
+Watson,PERSON
+Mycroft,PERSON
+Sherlock,PERSON
+Holmes,PERSON
+Pierrot,PERSON
+George,PERSON
+Lestrade,PERSON
+he,PERSON
+him,PERSON
+Caulfield Gardens,LOCATION
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Lassus,PERSON
+he,PERSON
+he,PERSON
+Lestrade,PERSON
+Mycroft,PERSON
+Gloucester Road Station,LOCATION
+Oberstein,PERSON
+night before,TIME
+Mycroft Holmes,PERSON
+Lestrade,PERSON
+Mycroft,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Valentine Walter,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+Mycroft,PERSON
+James Walter,PERSON
+Submarine Department,ORGANIZATION
+He,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Oberstein,PERSON
+Walter,PERSON
+Holmes,PERSON
+English,MISC
+Oberstein,PERSON
+Cadogan West,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Oberstein,PERSON
+Daily Telegraph,ORGANIZATION
+Monday,DATE
+night,TIME
+Cadogan West,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Walter,PERSON
+he,PERSON
+Cadogan West,PERSON
+his,PERSON
+him,PERSON
+Stock Exchange,ORGANIZATION
+Oberstein,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Oberstein,PERSON
+Oberstein,PERSON
+He,PERSON
+him,PERSON
+Oberstein,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Oberstein,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Woolwich,ORGANIZATION
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+West,LOCATION
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mycroft Holmes,PERSON
+Oberstein,PERSON
+he,PERSON
+Hôtel du Louvre,LOCATION
+Paris,LOCATION
+He,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+Charing Cross Hotel,ORGANIZATION
+Saturday,DATE
+English,MISC
+Oberstein,PERSON
+British,MISC
+his,PERSON
+Bruce-Partington,MISC
+Europe,LOCATION
+his,PERSON
+he,PERSON
+Walter,PERSON
+end of the second year,DATE
+his,PERSON
+Holmes,PERSON
+Polyphonic Motets of Lassus,MISC
+he,PERSON
+his,PERSON
+Windsor,LOCATION
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+august,DATE
+Bruce-Partington,LOCATION
+He,PERSON

@@ -1,0 +1,622 @@
+text,ner
+Turkish,MISC
+Mr. Sherlock Holmes,PERSON
+his,PERSON
+English,MISC
+Latimer,PERSON
+Oxford Street,LOCATION
+Holmes,PERSON
+he,PERSON
+Turkish,MISC
+Turkish,MISC
+Holmes,PERSON
+Turkish,MISC
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+Turkish,MISC
+Lausanne,LOCATION
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+She,PERSON
+She,PERSON
+She,PERSON
+her,PERSON
+She,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+Frances Carfax,PERSON
+Holmes,PERSON
+his,PERSON
+Lady Frances,PERSON
+Earl of Rufton,PERSON
+he,PERSON
+Spanish,MISC
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Lady Frances,PERSON
+twenty years ago,DATE
+her,PERSON
+Frances,PERSON
+she,PERSON
+Miss Dobney,PERSON
+Camberwell,LOCATION
+She,PERSON
+her,PERSON
+her,PERSON
+Miss Dobney,MISC
+Lausanne,LOCATION
+Lady Frances,PERSON
+Is Miss Dobney,MISC
+she,PERSON
+Watson,PERSON
+Silvester,PERSON
+She,PERSON
+her,PERSON
+Lausanne,LOCATION
+her,PERSON
+her,PERSON
+Miss Marie Devine,PERSON
+Credit Lyonnais,ORGANIZATION
+Montpellier,LOCATION
+Miss Marie Devine,PERSON
+Miss Marie Devine,PERSON
+Frances Carfax,PERSON
+she,PERSON
+her,PERSON
+Lausanne,LOCATION
+London,LOCATION
+Abrahams,PERSON
+his,PERSON
+Scotland Yard,LOCATION
+Watson,PERSON
+two pence,MONEY
+Continental,ORGANIZATION
+Lausanne,LOCATION
+M. Moser,PERSON
+Lady Frances,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+Her,PERSON
+She,PERSON
+her,PERSON
+M. Moser,PERSON
+Marie Devine,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+Rue de Trajan,PERSON
+Montpellier,ORGANIZATION
+Holmes,PERSON
+his,PERSON
+Lausanne,LOCATION
+She,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Jules Vibart,PERSON
+He,PERSON
+Jules Vibart,PERSON
+He,PERSON
+he,PERSON
+She,PERSON
+him,PERSON
+English,MISC
+He,PERSON
+his,PERSON
+Jules Vibart,PERSON
+Jules Vibart,PERSON
+Jules,PERSON
+Marie,PERSON
+her,PERSON
+he,PERSON
+Montpellier,ORGANIZATION
+her,PERSON
+Lady Frances Carfax,PERSON
+Lausanne,LOCATION
+she,PERSON
+she,PERSON
+her,PERSON
+Baden,PERSON
+her,PERSON
+Rhenish,MISC
+she,PERSON
+Cook,PERSON
+Baden,PERSON
+Holmes,PERSON
+Lady Frances,PERSON
+Englischer Hof,PERSON
+Shlessinger,PERSON
+South America,LOCATION
+she,PERSON
+his,PERSON
+Lady Frances,PERSON
+her,PERSON
+Shlessinger,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Mrs. Shlessinger,PERSON
+She,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+London,LOCATION
+Lady Frances,PERSON
+he,PERSON
+his,PERSON
+Marie,PERSON
+she,PERSON
+she,PERSON
+Shlessinger,PERSON
+his,PERSON
+Lady Frances Carfax,PERSON
+her,PERSON
+he,PERSON
+Englishman,MISC
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Lausanne,LOCATION
+She,PERSON
+him,PERSON
+she,PERSON
+He,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Shlessinger,PERSON
+Holmes,PERSON
+Montpellier,ORGANIZATION
+Marie,PERSON
+his,PERSON
+his,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Baden,LOCATION
+Her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Frances,PERSON
+her,PERSON
+Marie,PERSON
+Lausanne,LOCATION
+her,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+He,PERSON
+Lady Frances,PERSON
+London,LOCATION
+She,PERSON
+him,PERSON
+Marie,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Englishman,MISC
+he,PERSON
+May,DATE
+he,PERSON
+Frances Carfax,PERSON
+He,PERSON
+her,PERSON
+her,PERSON
+French,MISC
+His,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+London,LOCATION
+Sherlock Holmes,PERSON
+his,PERSON
+London,LOCATION
+His,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Philip Green,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Dr. Watson,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Miss Dobney,PERSON
+Lady Frances,PERSON
+Susan Dobney,PERSON
+her,PERSON
+she,PERSON
+South Africa,LOCATION
+Mr. Holmes,PERSON
+Frances,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Barberton,LOCATION
+her,PERSON
+her,PERSON
+Lausanne,LOCATION
+she,PERSON
+her,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+Baden,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+London,LOCATION
+Mr. Green,PERSON
+Langham Hotel,LOCATION
+Lady Frances,PERSON
+Watson,PERSON
+Mrs. Hudson,PERSON
+her,PERSON
+Baker Street,LOCATION
+Holmes,PERSON
+Baden,PERSON
+Holmes,PERSON
+Baden,PERSON
+Englischer Hof,PERSON
+Watson,PERSON
+Shlessinger,PERSON
+South America,LOCATION
+Holy Peters,PERSON
+Australia,LOCATION
+Englishwoman,MISC
+Fraser,PERSON
+His,PERSON
+his,PERSON
+Adelaide,LOCATION
+'89,DATE
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+she,PERSON
+Miss Dobney,PERSON
+she,PERSON
+her,PERSON
+London,LOCATION
+Continental,ORGANIZATION
+she,PERSON
+she,PERSON
+London,LOCATION
+she,PERSON
+Lestrade,PERSON
+Scotland Yard,LOCATION
+Holmes,PERSON
+London,LOCATION
+Shlessinger,PERSON
+His,PERSON
+him,PERSON
+Spanish,MISC
+Bovington,LOCATION
+Westminster Road,LOCATION
+His,PERSON
+Langham,PERSON
+His,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+Frances,PERSON
+Holmes,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+Bovington,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Philip Green,PERSON
+Sea of Azof fleet,ORGANIZATION
+Crimean War,MISC
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+She,PERSON
+Holmes,PERSON
+She,PERSON
+her,PERSON
+Kennington Road,LOCATION
+She,PERSON
+her,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+Her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+Poultney Square,LOCATION
+Brixton,LOCATION
+She,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+her,PERSON
+her,PERSON
+Mr. Green,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+Poultney Square,LOCATION
+Houses of Parliament,ORGANIZATION
+Westminster Bridge,LOCATION
+he,PERSON
+London,LOCATION
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+Watson,PERSON
+Watson,PERSON
+Poultney Square,LOCATION
+Watson,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Poultney Square,LOCATION
+He,PERSON
+she,PERSON
+Shlessinger,PERSON
+Holmes,PERSON
+Holmes,PERSON
+she,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+She,PERSON
+she,PERSON
+Mr. Peters,PERSON
+she,PERSON
+Her,PERSON
+He,PERSON
+he,PERSON
+Henry Peters,PERSON
+Adelaide,LOCATION
+Shlessinger,PERSON
+Baden,PERSON
+South America,LOCATION
+Sherlock Holmes,PERSON
+Peters,PERSON
+him,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+him,PERSON
+Frances Carfax,PERSON
+Baden,PERSON
+Peters,PERSON
+her,PERSON
+Mrs. Peters,PERSON
+London,LOCATION
+She,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+London,LOCATION
+she,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+her,PERSON
+Sherlock Holmes,PERSON
+her,PERSON
+her,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Annie,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Peters,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Lady Frances,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+Peters,PERSON
+Brixton Workhouse Infirmary,LOCATION
+she,PERSON
+Horsom,PERSON
+Mr. Holmes,PERSON
+Christian,MISC
+her,PERSON
+her,PERSON
+she,PERSON
+Stimson,PERSON
+Kennington Road,LOCATION
+her,PERSON
+her,PERSON
+Mr. Holmes,PERSON
+Frances Carfax,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Peters,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+him,PERSON
+Peters,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+Brixton Workhoused Infirmary,LOCATION
+her,PERSON
+she,PERSON
+He,PERSON
+her,PERSON
+he,PERSON
+him,PERSON
+Scotland Yard,LOCATION
+Holmes,PERSON
+Lestrade,PERSON
+he,PERSON
+midnight,TIME
+he,PERSON
+Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+morning,TIME
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Baker Street,LOCATION
+Ben,PERSON
+Brixton Road,LOCATION
+Holmes,PERSON
+he,PERSON
+his,PERSON
+Peters,PERSON
+his,PERSON
+Holmes,PERSON
+Peters,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Watson,PERSON
+she,PERSON
+Frances,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Green,PERSON
+her,PERSON
+Watson,PERSON
+Holmes,PERSON
+he,PERSON
+Philip Green,PERSON
+She,PERSON
+she,PERSON
+Frances,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+her,PERSON
+Watson,PERSON
+Lestrade,PERSON

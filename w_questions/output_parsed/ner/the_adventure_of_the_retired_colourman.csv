@@ -1,0 +1,374 @@
+text,ner
+Sherlock Holmes,PERSON
+His,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+Josiah Amberley,PERSON
+Brickfall,LOCATION
+Amberley,LOCATION
+He,PERSON
+he,PERSON
+Lewisham,LOCATION
+He,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+1896,DATE
+Watson,PERSON
+1897,DATE
+he,PERSON
+him,PERSON
+he,PERSON
+Watson,PERSON
+Amberley,LOCATION
+Lewisham,LOCATION
+him,PERSON
+Ray Ernest,PERSON
+his,PERSON
+Ernest,PERSON
+Mrs. Amberley,PERSON
+him,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+Josiah Amberley,PERSON
+Watson,PERSON
+Coptic Patriarchs,MISC
+Lewisham,LOCATION
+He,PERSON
+summer,DATE
+afternoon,TIME
+Lewisham,LOCATION
+England,LOCATION
+Baker Street,LOCATION
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Haven,MISC
+Mr. Josiah Amberley,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+him,PERSON
+He,PERSON
+He,PERSON
+Mr. Amberley,PERSON
+this morning,TIME
+him,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Nature,MISC
+he,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+her,PERSON
+he,PERSON
+He,PERSON
+Watson,PERSON
+his,PERSON
+He,PERSON
+Amberley,LOCATION
+his,PERSON
+she,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+Watson,PERSON
+His,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+midnight,TIME
+He,PERSON
+he,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+her,PERSON
+he,PERSON
+Watson,PERSON
+Blackheath Station,LOCATION
+Holmes,PERSON
+London Bridge,LOCATION
+him,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Masonic,MISC
+Holmes,PERSON
+Watson,PERSON
+Amberley,LOCATION
+his,PERSON
+Ernest,PERSON
+he,PERSON
+Watson,PERSON
+Blue Anchor,ORGANIZATION
+He,PERSON
+he,PERSON
+his,PERSON
+Ernest,PERSON
+Amberley,LOCATION
+his,PERSON
+Watson,PERSON
+Carina,PERSON
+Albert Hall,LOCATION
+Mr. Josiah Amberley,PERSON
+Holmes,PERSON
+he,PERSON
+him,PERSON
+Amberley,LOCATION
+him,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+He,PERSON
+Elman,PERSON
+Holmes,PERSON
+Essex,LOCATION
+Frinton,LOCATION
+Crockford,PERSON
+J. C. Elman,PERSON
+him,PERSON
+Watson,PERSON
+Liverpool Street,LOCATION
+Watson,PERSON
+him,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Mr. Amberley,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Mr. Josiah Amberley,PERSON
+his,PERSON
+his,PERSON
+Elman,PERSON
+Mr. Amberley,PERSON
+England,LOCATION
+Holmes,PERSON
+Watson,PERSON
+Watson,PERSON
+Josiah Amberley,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+London,LOCATION
+Baker Street,LOCATION
+Mr. Holmes,PERSON
+Amberley,LOCATION
+he,PERSON
+Holmes,PERSON
+Lewisham,LOCATION
+he,PERSON
+he,PERSON
+Masonic,MISC
+him,PERSON
+his,PERSON
+Mr. Barker,PERSON
+Holmes,PERSON
+Mr. Josiah Amberley,PERSON
+He,PERSON
+Mr. Amberley,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+Josiah Amberley,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Josiah Amberley,PERSON
+Barker,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Barker,PERSON
+Holmes,PERSON
+Barker,PERSON
+Watson,PERSON
+Surrey,LOCATION
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+His,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+MacKinnon,PERSON
+Barker,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Broadmoor,MISC
+his,PERSON
+Italian,MISC
+modern Briton,MISC
+He,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+she,PERSON
+Amberley,LOCATION
+Watson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Holmes,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Amberley,LOCATION
+his,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+him,PERSON
+Crockford,PERSON
+Burglary,MISC
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Mr. Barker,PERSON
+Ray Ernest,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+Watson,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Amberley,LOCATION
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+Sherlock Holmes,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+North,ORGANIZATION
+Surrey,LOCATION
+Observer,ORGANIZATION
+Haven Horror,MISC
+MacKinnon,PERSON
+MacKinnon,PERSON
+Holmes,PERSON
+Watson,PERSON

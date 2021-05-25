@@ -1,0 +1,399 @@
+text,ner
+Paddington,LOCATION
+Mr. Farquhar,PERSON
+St. Vitus,ORGANIZATION
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Sherlock Holmes,PERSON
+Baker Street,LOCATION
+he,PERSON
+June,DATE
+British Medical Journal,ORGANIZATION
+Watson,PERSON
+he,PERSON
+Mrs. Watson,PERSON
+him,PERSON
+he,PERSON
+last night,TIME
+Birmingham,LOCATION
+he,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+June,DATE
+he,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Birmingham,LOCATION
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mr. Hall Pycroft,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+Birmingham,LOCATION
+Sherlock Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+Mr. Hall Pycroft,PERSON
+Watson,PERSON
+Mr. Pycroft,PERSON
+his,PERSON
+he,PERSON
+Johnnie,PERSON
+Watson,PERSON
+Coxon & Woodhouse,ORGANIZATION
+Draper,PERSON
+Gardens,LOCATION
+spring,DATE
+Venezuelan,MISC
+Coxon,PERSON
+Coxon,PERSON
+Mawson & Williams,ORGANIZATION
+Lombard Street,LOCATION
+London,LOCATION
+Monday,DATE
+his,PERSON
+Coxon,PERSON
+Hampstead,LOCATION
+Potter,PERSON
+Arthur Pinner,PERSON
+Financial Agent,MISC
+he,PERSON
+her,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+Mr. Hall Pycroft,PERSON
+he,PERSON
+him,PERSON
+Coxon & Woodhouse,ORGANIZATION
+Mawson,PERSON
+he,PERSON
+Parker,PERSON
+Coxon,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+New Zealand,LOCATION
+Broken Hills,LOCATION
+he,PERSON
+his,PERSON
+Mawson,ORGANIZATION
+Mr. Pinner,PERSON
+Mawson,PERSON
+Mawson,PERSON
+Monday,DATE
+Mawson,PERSON
+Franco-Midland Hardware Company,ORGANIZATION
+France,LOCATION
+Brussels,LOCATION
+San Remo,LOCATION
+Harry Pinner,PERSON
+He,PERSON
+him,PERSON
+Parker,PERSON
+Mawson,ORGANIZATION
+Mawson,PERSON
+he,PERSON
+Birmingham,LOCATION
+he,PERSON
+him,PERSON
+he,PERSON
+Mr. Pinner,PERSON
+Franco-Midland Hardware Company,ORGANIZATION
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mawson,PERSON
+Mawson,PERSON
+Mawson,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Birmingham,LOCATION
+New Street,LOCATION
+Franco-Midland Hardware Company,ORGANIZATION
+He,PERSON
+he,PERSON
+his,PERSON
+Mr. Hall Pycroft,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Mr. Pycroft,PERSON
+Rome,LOCATION
+him,PERSON
+her,PERSON
+Arthur,PERSON
+he,PERSON
+he,PERSON
+London,LOCATION
+Birmingham,LOCATION
+He,PERSON
+his,PERSON
+Paris,LOCATION
+English,MISC
+France,LOCATION
+Birmingham,LOCATION
+he,PERSON
+Paris,LOCATION
+he,PERSON
+Monday,DATE
+Mr. Pycroft,PERSON
+Sunday,DATE
+Monday,DATE
+Wednesday,DATE
+him,PERSON
+Wednesday,DATE
+Friday,DATE
+Mr. Harry Pinner,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+Watson,PERSON
+London,LOCATION
+Mawson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+London,LOCATION
+Birmingham,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Sherlock Holmes,PERSON
+this morning,TIME
+Birmingham,LOCATION
+him,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Arthur Harry Pinner,PERSON
+Franco-Midland Hardware Company,ORGANIZATION
+Hall Pycroft,PERSON
+Holmes,PERSON
+his,PERSON
+New Street,LOCATION
+He,PERSON
+his,PERSON
+him,PERSON
+Corporation Street,ORGANIZATION
+He,PERSON
+he,PERSON
+Holmes,PERSON
+Jove,PERSON
+he,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Hall Pycroft,PERSON
+he,PERSON
+his,PERSON
+Hall Pycroft,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Mr. Pinner,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. Harris,PERSON
+Bermondsey,LOCATION
+Mr. Pinner,PERSON
+Mr. Harris,PERSON
+Holmes,PERSON
+Mr. Price,PERSON
+him,PERSON
+he,PERSON
+Holmes,PERSON
+Hall Pycroft,PERSON
+Mr. Pinner,PERSON
+he,PERSON
+Mr. Pycroft,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Pinner,PERSON
+him,PERSON
+He,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+He,PERSON
+he,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+his,PERSON
+Holmes,PERSON
+Franco-Midland Hardware Company,ORGANIZATION
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Pycroft,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+him,PERSON
+Holmes,PERSON
+him,PERSON
+him,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Pycroft,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+Pycroft,LOCATION
+he,PERSON
+him,PERSON
+Pinner,PERSON
+Mr. Hall Pycroft,PERSON
+Monday,DATE
+morning,TIME
+he,PERSON
+his,PERSON
+Mawson,ORGANIZATION
+Midlands,LOCATION
+London,LOCATION
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Hall Pycroft,PERSON
+his,PERSON
+Mawson,ORGANIZATION
+he,PERSON
+Mr. Holmes,PERSON
+Mawson,PERSON
+Saturdays,DATE
+him,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+London,LOCATION
+Mawson & Williams,ORGANIZATION
+Watson,PERSON
+Mawson & Williams,ORGANIZATION
+him,PERSON
+Hall Pycroft,PERSON
+Beddington,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mawson,ORGANIZATION
+midday,TIME
+Saturday,DATE
+Tuson,PERSON
+Pollack,PERSON
+His,PERSON
+him,PERSON
+American,MISC
+Monday,DATE
+morning,TIME
+Tuson,PERSON
+Beddington,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Pycroft,PERSON

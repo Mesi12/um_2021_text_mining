@@ -1,0 +1,604 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+London,LOCATION
+Moriarty,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Europe,LOCATION
+London,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Baker Street,LOCATION
+his,PERSON
+Verner,PERSON
+Kensington,LOCATION
+Verner,PERSON
+Holmes,PERSON
+Murillo,PERSON
+Dutch,MISC
+Friesland,ORGANIZATION
+he,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+John Hector McFarlane,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Mr. McFarlane,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+London,LOCATION
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mr. Jonas Oldacre,PERSON
+Lower Norwood,LOCATION
+Watson,PERSON
+he,PERSON
+Daily Telegraph,ORGANIZATION
+Holmes,PERSON
+this morning,TIME
+He,PERSON
+Mr. Holmes,PERSON
+Lower Norwood,LOCATION
+Well-known Builder,MISC
+Clue,MISC
+Mr. Holmes,PERSON
+London Bridge Station,LOCATION
+her,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+His,PERSON
+his,PERSON
+summer,DATE
+his,PERSON
+his,PERSON
+Holmes,PERSON
+Watson,PERSON
+early this morning,TIME
+Lower Norwood,LOCATION
+Mr. Jonas Oldacre,PERSON
+he,PERSON
+his,PERSON
+Mr. Oldacre,PERSON
+Deep Dene House,ORGANIZATION
+Sydenham,LOCATION
+He,PERSON
+he,PERSON
+he,PERSON
+last night,TIME
+he,PERSON
+his,PERSON
+Mr. Jonas Oldacre,PERSON
+London,LOCATION
+John Hector McFarlane,PERSON
+Graham,PERSON
+McFarlane,PERSON
+Gresham Buildings,ORGANIZATION
+his,PERSON
+Mr. John Hector McFarlane,PERSON
+Mr. Jonas Oldacre,PERSON
+Norwood,LOCATION
+French,MISC
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Lestrade,PERSON
+Scotland Yard,LOCATION
+his,PERSON
+Sherlock Holmes,PERSON
+he,PERSON
+his,PERSON
+Mr. McFarlane,PERSON
+Torrington Lodge,LOCATION
+Mr. Holmes,PERSON
+last night,TIME
+Mr. Jonas Oldacre,PERSON
+Norwood,LOCATION
+London Bridge Station,LOCATION
+Lestrade,PERSON
+his,PERSON
+Mr. John Hector McFarlane,PERSON
+Lestrade,PERSON
+Mr. Jonas Oldacre,PERSON
+McFarlane,PERSON
+his,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Scotland Yard,LOCATION
+Lestrade,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Lestrade,PERSON
+his,PERSON
+he,PERSON
+McFarlane,PERSON
+Mr. Jonas Oldacre,PERSON
+His,PERSON
+him,PERSON
+afternoon,TIME
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. McFarlane,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Jonas Oldacre,PERSON
+Norwood,LOCATION
+that night,TIME
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+Mr. Oldacre,PERSON
+supper,DATE
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+she,PERSON
+McFarlane,PERSON
+McFarlane,PERSON
+his,PERSON
+his,PERSON
+Mr. Jonas Oldacre,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+French,MISC
+He,PERSON
+his,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Blackheath,PERSON
+Anerley Arms,MISC
+morning,TIME
+Mr. Holmes,PERSON
+Lestrade,PERSON
+Norwood,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+his,PERSON
+Lestrade,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+Mr. McFarlane,PERSON
+Lestrade,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Lestrade,PERSON
+he,PERSON
+he,PERSON
+Holmes,PERSON
+Norwood,LOCATION
+London Bridge,LOCATION
+his,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Jonas Oldacre,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Lestrade,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+He,PERSON
+Holmes,PERSON
+He,PERSON
+he,PERSON
+McFarlane,PERSON
+he,PERSON
+Lestrade,PERSON
+his,PERSON
+his,PERSON
+Mr. Sherlock Holmes,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+Norwood,LOCATION
+his,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Norwood,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+Lestrade,PERSON
+British,MISC
+Lestrade,PERSON
+Blackheath,PERSON
+Watson,PERSON
+Oldacre,PERSON
+his,PERSON
+she,PERSON
+his,PERSON
+Oldacre,LOCATION
+she,PERSON
+she,PERSON
+him,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+him,PERSON
+He,PERSON
+she,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Jonas Oldacre,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+His,PERSON
+his,PERSON
+Norwood,PERSON
+Deep Dene House,PERSON
+Oldacre,PERSON
+Lestrade,PERSON
+his,PERSON
+morning,TIME
+Hyams,PERSON
+Oldacre,PERSON
+August,DATE
+He,PERSON
+Mr. Oldacre,PERSON
+Lestrade,PERSON
+he,PERSON
+he,PERSON
+Mrs. Lexington,PERSON
+her,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+Mr. McFarlane,PERSON
+she,PERSON
+She,PERSON
+her,PERSON
+she,PERSON
+She,PERSON
+Her,PERSON
+she,PERSON
+Mr. McFarlane,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+She,PERSON
+Her,PERSON
+he,PERSON
+Mr. Oldacre,PERSON
+last night,TIME
+She,PERSON
+he,PERSON
+she,PERSON
+She,PERSON
+Mr. Oldacre,PERSON
+She,PERSON
+Watson,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+Watson,PERSON
+Watson,PERSON
+Bert Stevens,PERSON
+'87,DATE
+him,PERSON
+him,PERSON
+Mr. Cornelius,PERSON
+Mr. Cornelius,PERSON
+he,PERSON
+Cornelius,PERSON
+Lestrade,PERSON
+Scotland Yard,LOCATION
+Sherlock Holmes,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Norwood,LOCATION
+McFarlane,PERSON
+Lestrade,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Norwood,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Deep Dene House,ORGANIZATION
+Lestrade,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+he,PERSON
+Watson,PERSON
+his,PERSON
+he,PERSON
+John McFarlane,PERSON
+He,PERSON
+McFarlane,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+McFarlane,PERSON
+he,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+he,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+Mrs. Lexington,PERSON
+He,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+McFarlane,PERSON
+Lestrade,PERSON
+his,PERSON
+his,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+him,PERSON
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+He,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Lestrade,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Scotland Yard,LOCATION
+Holmes,PERSON
+him,PERSON
+he,PERSON
+Lestrade,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+him,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+Mr. Lestrade,PERSON
+Sherlock Holmes,PERSON
+Lestrade,PERSON
+his,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+Mr. Sherlock Holmes,PERSON
+he,PERSON
+Lestrade,PERSON
+Watson,PERSON
+Lestrade,PERSON
+Norwood,PERSON
+Holmes,PERSON
+Watson,PERSON
+Lestrade,PERSON
+Mr. Jonas Oldacre,PERSON
+Lestrade,PERSON
+Oldacre,PERSON
+him,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Watson,PERSON
+he,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+Lestrade,PERSON
+Watson,PERSON
+his,PERSON
+Holmes,PERSON
+Lestrade,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+he,PERSON
+Lestrade,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Lestrade,PERSON
+night,TIME
+Jonas Oldacre,PERSON
+McFarlane,PERSON
+his,PERSON
+Oldacre,PERSON
+he,PERSON
+McFarlane,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Lestrade,PERSON
+Mr. Holmes,PERSON
+McFarlane,PERSON
+he,PERSON
+Norwood,LOCATION
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Mr. Cornelius,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Lestrade,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Mr. McFarlane,PERSON
+Lestrade,PERSON
+Mr. Cornelius,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+he,PERSON
+Watson,PERSON

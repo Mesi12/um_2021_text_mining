@@ -1,0 +1,577 @@
+text,ner
+Mr. Sherlock Holmes,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Tuesday,DATE
+Cornish horror,MISC
+he,PERSON
+his,PERSON
+him,PERSON
+spring of the year 1897,DATE
+Holmes,PERSON
+his,PERSON
+March,DATE
+Moore Agar,PERSON
+Harley Street,LOCATION
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+early spring,DATE
+Poldhu Bay,LOCATION
+Mounts Bay,LOCATION
+he,PERSON
+his,PERSON
+Cornish,PERSON
+Chaldean,MISC
+Phoenician,MISC
+his,PERSON
+he,PERSON
+London,LOCATION
+He,PERSON
+his,PERSON
+Cornwall,LOCATION
+England,LOCATION
+Cornish Horror,MISC
+London,LOCATION
+Cornwall,LOCATION
+Tredannick Wollas,LOCATION
+Mr. Roundhay,PERSON
+Holmes,PERSON
+his,PERSON
+He,PERSON
+Mr. Mortimer Tregennis,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Tuesday,DATE
+March the 16th,DATE
+Mr. Holmes,PERSON
+Providence,LOCATION
+England,LOCATION
+Holmes,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Mr. Mortimer Tregennis,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+Mr. Tregennis,PERSON
+Owen,PERSON
+George,PERSON
+Brenda,PERSON
+Tredannick Wartha,LOCATION
+his,PERSON
+his,PERSON
+He,PERSON
+Richards,PERSON
+Tredannick Wartha,PERSON
+he,PERSON
+he,PERSON
+Mr. Mortimer Tregennis,PERSON
+him,PERSON
+Tredannick Wartha,LOCATION
+he,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Mrs. Porter,PERSON
+she,PERSON
+Mr. Holmes,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+Mr. Roundhay,PERSON
+Mr. Holmes,PERSON
+Mr. Tregennis,PERSON
+him,PERSON
+Mr. Mortimer Tregennis,PERSON
+his,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+last night,TIME
+Mr. Holmes,PERSON
+George,PERSON
+Mrs. Porter,PERSON
+this morning,TIME
+Brenda,PERSON
+her,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Mortimer Tregennis,PERSON
+Holmes,PERSON
+Mr. Tregennis,PERSON
+Mr. Holmes,PERSON
+Redruth,LOCATION
+Mr. Tregennis,PERSON
+Mortimer Tregennis,PERSON
+he,PERSON
+George,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+this morning,TIME
+his,PERSON
+Mrs. Porter,PERSON
+He,PERSON
+him,PERSON
+Brenda,PERSON
+She,PERSON
+her,PERSON
+George,PERSON
+Owen,PERSON
+he,PERSON
+him,PERSON
+Holmes,PERSON
+his,PERSON
+Tredannick Wartha,LOCATION
+Mortimer Tregennis,PERSON
+his,PERSON
+Helston,PERSON
+Cornish,PERSON
+spring,DATE
+Mortimer Tregennis,PERSON
+Holmes,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Cornish,PERSON
+Mrs. Porter,PERSON
+Holmes,PERSON
+She,PERSON
+night,TIME
+She,PERSON
+Her,PERSON
+she,PERSON
+She,PERSON
+She,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+St. Ives,LOCATION
+She,PERSON
+her,PERSON
+Miss Brenda Tregennis,PERSON
+Her,PERSON
+her,PERSON
+her,PERSON
+night before,TIME
+Holmes,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+spring,DATE
+Mortimer Tregennis,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Poldhu Cottage,LOCATION
+Holmes,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Watson,PERSON
+he,PERSON
+Watson,PERSON
+Watson,PERSON
+he,PERSON
+Mr. Mortimer Tregennis,PERSON
+his,PERSON
+eleven o'clock last night,TIME
+his,PERSON
+Mortimer Tregennis,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+Mortimer Tregennis,PERSON
+Mrs. Porter,PERSON
+She,PERSON
+he,PERSON
+Mortimer Tregennis,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Holmes,PERSON
+Watson,PERSON
+spring,DATE
+Cornwall,LOCATION
+he,PERSON
+his,PERSON
+London,LOCATION
+Africa,LOCATION
+Leon Sterndale,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Beauchamp Arriance,LOCATION
+He,PERSON
+him,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Cornish,MISC
+Plymouth,LOCATION
+Africa,LOCATION
+this morning,TIME
+Holmes,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+Sterndale,PERSON
+his,PERSON
+he,PERSON
+Mr. Roundhay,PERSON
+Holmes,PERSON
+Holmes,PERSON
+him,PERSON
+evening,TIME
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+him,PERSON
+Plymouth,ORGANIZATION
+Watson,PERSON
+he,PERSON
+Leon Sterndale,PERSON
+last night,TIME
+Africa,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+He,PERSON
+Watson,PERSON
+Holmes,PERSON
+morning,TIME
+Holmes,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Mr. Mortimer Tregennis,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+Watson,PERSON
+Mr. Roundhay,PERSON
+his,PERSON
+March,DATE
+morning,TIME
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+His,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+early morning,TIME
+his,PERSON
+him,PERSON
+Holmes,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+Mr. Roundhay,PERSON
+his,PERSON
+Watson,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Mortimer Tregennis,PERSON
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+he,PERSON
+Mortimer Tregennis,PERSON
+his,PERSON
+his,PERSON
+Mrs. Porter,PERSON
+she,PERSON
+Mortimer Tregennis,PERSON
+she,PERSON
+her,PERSON
+Watson,PERSON
+Tregennis,MISC
+Mortimer Tregennis,PERSON
+Holmes,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+Holmes,PERSON
+Holmes,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+Watson,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+Watson,PERSON
+Mortimer Tregennis,PERSON
+he,PERSON
+Mortimer Tregennis,PERSON
+he,PERSON
+him,PERSON
+He,PERSON
+he,PERSON
+his,PERSON
+Cornwall,LOCATION
+Mortimer Tregennis,PERSON
+his,PERSON
+Watson,PERSON
+his,PERSON
+his,PERSON
+England,LOCATION
+his,PERSON
+he,PERSON
+his,PERSON
+Leon Sterndale,PERSON
+African,MISC
+He,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Watson,PERSON
+Cornish Horror,MISC
+his,PERSON
+his,PERSON
+he,PERSON
+Mortimer Tregennis,PERSON
+Holmes,PERSON
+Sterndale,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Sterndale,PERSON
+Sterndale,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+Mortimer Tregennis,PERSON
+Sterndale,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Leon Sterndale,PERSON
+Plymouth,ORGANIZATION
+Africa,LOCATION
+Sterndale,PERSON
+Holmes,LOCATION
+Tregennis,PERSON
+Sterndale,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+him,PERSON
+He,PERSON
+his,PERSON
+Sterndale,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+Holmes,PERSON
+Brenda Tregennis,PERSON
+he,PERSON
+Brenda Tregennis,PERSON
+her,PERSON
+she,PERSON
+England,LOCATION
+her,PERSON
+Brenda,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+He,PERSON
+she,PERSON
+he,PERSON
+Africa,LOCATION
+Mr. Holmes,PERSON
+Sterndale,PERSON
+his,PERSON
+Radix pedis diaboli,MISC
+He,PERSON
+Buda,LOCATION
+Europe,LOCATION
+he,PERSON
+West Africa,LOCATION
+Ubangi,LOCATION
+He,PERSON
+he,PERSON
+Holmes,PERSON
+Mr. Holmes,PERSON
+Tregennis,MISC
+Mortimer,PERSON
+him,PERSON
+He,PERSON
+him,PERSON
+African,MISC
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+European,MISC
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Plymouth,LOCATION
+Africa,LOCATION
+Mortimer Tregennis,PERSON
+Brenda,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+Mr. Holmes,PERSON
+he,PERSON
+him,PERSON
+England,LOCATION
+his,PERSON
+him,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+Mr. Holmes,PERSON
+Holmes,PERSON
+he,PERSON
+Africa,LOCATION
+Holmes,PERSON
+Sterndale,PERSON
+his,PERSON
+Holmes,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Watson,PERSON
+Watson,PERSON
+Watson,PERSON
+Sterndale,PERSON
+his,PERSON
+Watson,PERSON
+Chaldean,MISC
+Cornish,PERSON
