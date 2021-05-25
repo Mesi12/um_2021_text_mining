@@ -1,3 +1,7 @@
+# load metadata and load stories according to publishing date
+# load vocab easily without tf-idf
+# do tf-idf for a novel only
+
 # %%
 import os
 import json
@@ -5,7 +9,7 @@ import string
 from sklearn.decomposition import NMF
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-
+# gather all story and novel text
 corpora = []
 for file_name in os.listdir("output"):
     filepath = os.path.join("output", file_name)
@@ -50,5 +54,5 @@ feature_array = np.array(vectorizer.get_feature_names())
 tfidf_sorting = np.argsort(X.toarray()).flatten()[::-1]
 
 n = 10
-print(feature_array[tfidf_sorting][:n])
+print(feature_array[tfidf_sorting][-n:])
 # %%
