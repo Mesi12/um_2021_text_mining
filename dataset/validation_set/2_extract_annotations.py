@@ -1,4 +1,5 @@
 #%%
+from sklearn.metrics import cohen_kappa_score
 import zipfile
 import json
 import os
@@ -66,6 +67,7 @@ def transform_to_dataframe(legend, annotations):
         df_entity_class = df_entity_class.pivot_table(index='doc', columns='judge', values='entity', aggfunc=(lambda x: " | ".join(sorted(x, reverse=False))))
         df_entity_class.columns.name = None
         df_entity_class = df_entity_class.reset_index()
+        df_entity_class = df_entity_class.rename(columns={"Mesi":"judge1", "accordionmonkey":"judge2"})
         dfs[entity_class] = df_entity_class
 
     return dfs
@@ -90,65 +92,52 @@ def add_sentences(dfs):
     return dfs
 
 
-def calculate_kappa(df):
-    # Observed proportion of the times the judges agreed
-    p_a = sum(df.judge1 == df.judge2) / df.shape[0]
+def calculate_kappa(col1, col2):
+    num_samples = col1.shape[0]
 
-    # Pooled marginals
-    p_0 = (sum(df.judge1 == 0) + sum(df.judge2 == 0)) / (2*df.shape[0])
-    p_1 = (sum(df.judge1 == 1) + sum(df.judge2 == 1)) / (2*df.shape[0])
+    # extract all possible classes for multiclass problem
+    classes = set()
+    classes.update(list(col1.unique()))
+    classes.update(list(col2.unique()))
+
+    # Observed proportion of the times the judges agreed
+    p_a = sum(col1 == col2) / num_samples
 
     # Probability that the two judges agreed by chance
-    p_e = p_0**2 + p_1**2
+    # Pooled marginals
+    p_e_factors = []
+    for c in classes:
+        p_c = (sum(col1 == c) / num_samples) * (sum(col2 == c) / num_samples)
+        p_e_factors.append(p_c)
+    p_e = sum([p_e for p_e in p_e_factors])
 
     # Kappa statistic
     k = (p_a - p_e) / (1 - p_e)
 
-    k_measure = f"agreed: {p_a:.2f}, by chance {p_e:.2f}\nkappa: {k:.2f}"
-
+    k_measure = f"agreed: {p_a:.4f}, by chance {p_e:.4f}, kappa: {k:.4f}"
     print(k_measure)
+    print(f"For comparison with cohen sklearn: {cohen_kappa_score(df_characters.judge1, df_characters.judge2):.4f}")
     return k_measure
 
 
 if __name__ == "__main__":
 
     extract_zip()
-
     (legend, annotations) = load_annotations()
-
     dfs = transform_to_dataframe(legend, annotations)
-
     dfs_output = add_sentences(dfs)
 
+    # kappa measure
     df_characters = dfs_output['character']
-    df_characters['judge1'] = df_characters['Mesi']
-    df_characters['judge2'] = df_characters['accordionmonkey']
-    df_characters['judge1'].fillna('0', inplace=True)
-    df_characters['judge2'].fillna('0', inplace=True)
-    df_characters.loc[df_characters['judge1'] != "0", "judge1"] = "1"
-    df_characters.loc[df_characters['judge2'] != "0", "judge2"] = "1"
-    df_characters = df_characters.astype({"judge1":int, "judge2":int})
+    df_characters[['judge1', 'judge2']] = df_characters[['judge1', 'judge2']].fillna("no_entity")
+    df_locations = dfs_output['location']
 
-    cols = ['doc', 'sentences', 'Mesi', 'accordionmonkey', 'judge1', 'judge2']
-    df_characters = df_characters[cols]
-
+    k_measure_character = calculate_kappa(df_characters.judge1, df_characters.judge2)
     
-    k_measure = calculate_kappa(df_characters)
+    # todo add location entity type to tagtog
+    #k_measure_location = calculate_kappa(df_locations.judge1, df_locations.judge2)
 
     print("export to output_characters.csv")
     df_characters.to_csv("output_characters.csv", index=False)
     with open("output_characters_kappa.txt", "w") as fp:
-        fp.write(k_measure)
-
-    #exporting overview table
-    #df_overview = pd.concat(dfs, axis=1, keys=entity_classes)
-    
-
-
-# %%
-
-
-
-
-
-# %%
+        fp.write(k_measure_character)

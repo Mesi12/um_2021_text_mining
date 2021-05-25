@@ -113,3 +113,46 @@ def calculation_trial_multiclass():
     k = (p_a - p_e) / (1 - p_e)
 
     print(k)
+
+
+# %%
+
+# tutorial from:
+# https://towardsdatascience.com/multi-class-metrics-made-simple-the-kappa-score-aka-cohens-kappa-coefficient-bdea137af09c
+
+from sklearn.metrics import confusion_matrix, cohen_kappa_score
+import pandas as pd
+import numpy as np
+
+
+def calculate_kappa(col1, col2):
+    num_samples = col1.shape[0]
+
+    # extract all possible classes for multiclass problem
+    classes = set()
+    classes.update(list(col1.unique()))
+    classes.update(list(col2.unique()))
+
+    # Observed proportion of the times the judges agreed
+    p_a = sum(col1 == col2) / num_samples
+
+    # Probability that the two judges agreed by chance
+    # Pooled marginals
+    p_e_factors = []
+    for c in classes:
+        p_c = (sum(col1 == c) / num_samples) * (sum(col2 == c) / num_samples)
+        p_e_factors.append(p_c)
+    p_e = sum([p_e for p_e in p_e_factors])
+
+    # Kappa statistic
+    k = (p_a - p_e) / (1 - p_e)
+
+    k_measure = f"agreed: {p_a:.4f}, by chance {p_e:.4f}, kappa: {k:.4f}"
+    print(k_measure)
+    print(f"For comparison with cohen sklearn: {cohen_kappa_score(df_characters.judge1, df_characters.judge2):.4f}")
+    return k_measure
+
+df_ex = pd.read_csv("tmp_example.csv")
+calculate_kappa(df_ex.professor_a, df_ex.professor_b)
+print(f"cohen sklearn: {cohen_kappa_score(df_ex.professor_a, df_ex.professor_b)}")
+
