@@ -1,3656 +1,3656 @@
-text,ner
-Mr. Sherlock Holmes,PERSON
-he,PERSON
-him,PERSON
-James Mortimer,PERSON
-C.C.H.,MISC
-his,PERSON
-Watson,PERSON
-Holmes,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-Watson,PERSON
-him,PERSON
-his,PERSON
-Mortimer,PERSON
-him,PERSON
-him,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Holmes,PERSON
-he,PERSON
-him,PERSON
-Watson,PERSON
-Holmes,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-Watson,PERSON
-Charing Cross,ORGANIZATION
-Charing Cross Hospital,ORGANIZATION
-his,PERSON
-him,PERSON
-Mortimer,PERSON
-London,LOCATION
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Watson,PERSON
-Sherlock Holmes,PERSON
-his,PERSON
-Medical Directory,ORGANIZATION
-his,PERSON
-Mortimer,PERSON
-James,PERSON
-M.R.C.S.,ORGANIZATION
-1882,DATE
-Grimpen,PERSON
-Devon,PERSON
-1882,DATE
-1884,DATE
-Charing Cross Hospital,ORGANIZATION
-Jackson,PERSON
-Swedish Pathological Society,ORGANIZATION
-"March, 1883",DATE
-Grimpen,LOCATION
-Thorsley,LOCATION
-Watson,PERSON
-Holmes,PERSON
-London,LOCATION
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-Jove,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-He,PERSON
-Watson,PERSON
-James Mortimer,PERSON
-Sherlock Holmes,PERSON
-He,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Holmes,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-Shipping Office,ORGANIZATION
-Holmes,PERSON
-Charing Cross Hospital,ORGANIZATION
-Holmes,PERSON
-his,PERSON
-Mortimer,PERSON
-his,PERSON
-Holmes,PERSON
-James Mortimer,PERSON
-Mr. Holmes,PERSON
-Mr. Sherlock Holmes,PERSON
-Watson,PERSON
-Mr. Holmes,PERSON
-Sherlock Holmes,PERSON
-he,PERSON
-He,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-last night,TIME
-he,PERSON
-Mr. Holmes,PERSON
-Europe,LOCATION
-Holmes,PERSON
-Monsieur Bertillon,PERSON
-him,PERSON
-Holmes,PERSON
-Mortimer,PERSON
-James Mortimer,PERSON
-Holmes,PERSON
-1730,DATE
-Mortimer,PERSON
-his,PERSON
-Charles Baskerville,PERSON
-Devonshire,LOCATION
-his,PERSON
-his,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-Watson,PERSON
-his,PERSON
-Baskerville Hall,PERSON
-Baskerville,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-Mortimer,PERSON
-Baskervilles,ORGANIZATION
-Hugo Baskerville,PERSON
-his,PERSON
-Clarendon,PERSON
-Baskerville,PERSON
-he,PERSON
-West,LOCATION
-his,PERSON
-him,PERSON
-his,PERSON
-Baskerville,LOCATION
-him,PERSON
-she,PERSON
-his,PERSON
-his,PERSON
-her,PERSON
-he,PERSON
-Hugo,PERSON
-her,PERSON
-his,PERSON
-Hugo Baskerville,PERSON
-her,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-her,PERSON
-Hugo,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-her,PERSON
-Whereat Hugo,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-she,PERSON
-her,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-her,PERSON
-Hugo Baskerville,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-she,PERSON
-Hugo Baskerville,PERSON
-her,PERSON
-her,PERSON
-his,PERSON
-Hugo Baskerville,PERSON
-he,PERSON
-Providence,LOCATION
-Providence,LOCATION
-Hugo Baskerville,PERSON
-Rodger,PERSON
-John,PERSON
-Elizabeth,PERSON
-his,PERSON
-Mortimer,PERSON
-Mr. Sherlock Holmes,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Mortimer,PERSON
-his,PERSON
-Mr. Holmes,PERSON
-Devon County,LOCATION
-May 14th,DATE
-Charles Baskerville,PERSON
-his,PERSON
-Charles Baskerville,PERSON
-Mid-Devon,LOCATION
-his,PERSON
-Charles,PERSON
-Baskerville Hall,LOCATION
-his,PERSON
-him,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-Charles,PERSON
-South African,MISC
-England,LOCATION
-he,PERSON
-his,PERSON
-Baskerville Hall,LOCATION
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-His,PERSON
-Charles,PERSON
-Charles,PERSON
-Baskerville Hall,LOCATION
-Barrymore,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-Charles,PERSON
-James Mortimer,PERSON
-Charles Baskerville,PERSON
-Yew Alley,PERSON
-Baskerville Hall,LOCATION
-Barrymores,ORGANIZATION
-his,PERSON
-May,DATE
-Charles,PERSON
-London,LOCATION
-Barrymore,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-He,PERSON
-Barrymore,PERSON
-his,PERSON
-Charles,PERSON
-Charles,PERSON
-Alley,LOCATION
-He,PERSON
-his,PERSON
-Barrymore,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Murphy,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-he,PERSON
-Charles,PERSON
-Mortimer,PERSON
-his,PERSON
-him,PERSON
-Charles,PERSON
-Baskerville Hall,LOCATION
-Mr. Henry Baskerville,PERSON
-Charles Baskerville,PERSON
-he,PERSON
-America,LOCATION
-him,PERSON
-his,PERSON
-Mortimer,PERSON
-his,PERSON
-his,PERSON
-Mr. Holmes,PERSON
-Charles Baskerville,PERSON
-Sherlock Holmes,PERSON
-English,MISC
-He,PERSON
-his,PERSON
-his,PERSON
-Mortimer,PERSON
-Baskerville Hall,LOCATION
-Charles Baskerville,PERSON
-Mr. Frankland,PERSON
-Lafter Hall,LOCATION
-Mr. Stapleton,PERSON
-Charles,PERSON
-his,PERSON
-South Africa,LOCATION
-Bushman,PERSON
-He,PERSON
-Charles,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-Mr. Holmes,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-evening,TIME
-him,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Charles,PERSON
-London,LOCATION
-His,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-Mr. Stapleton,PERSON
-his,PERSON
-Charles,PERSON
-Barrymore,PERSON
-Perkins,PERSON
-Baskerville Hall,LOCATION
-Yew Alley,LOCATION
-Barrymore,PERSON
-he,PERSON
-Charles,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-Barrymore,PERSON
-He,PERSON
-He,PERSON
-Mortimer,PERSON
-Mr. Holmes,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Charles,PERSON
-he,PERSON
-Mortimer,PERSON
-Charles,PERSON
-his,PERSON
-Watson,PERSON
-He,PERSON
-his,PERSON
-Sherlock Holmes,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Mortimer,PERSON
-Mortimer,PERSON
-Mr. Holmes,PERSON
-Mr. Holmes,PERSON
-Baskerville,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-Father of Evil,MISC
-he,PERSON
-Mortimer,PERSON
-Charles,PERSON
-Henry Baskerville,PERSON
-Waterloo Station,LOCATION
-his,PERSON
-He,PERSON
-Charles,PERSON
-Canada,LOCATION
-he,PERSON
-he,PERSON
-Charles,PERSON
-Rodger Baskerville,PERSON
-Charles,PERSON
-Henry,PERSON
-Rodger,PERSON
-He,PERSON
-England,LOCATION
-Central America,LOCATION
-1876,DATE
-He,PERSON
-him,PERSON
-Henry,PERSON
-Baskervilles,ORGANIZATION
-Waterloo Station,LOCATION
-him,PERSON
-Southampton,LOCATION
-this morning,TIME
-he,PERSON
-Mr. Holmes,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-Baskerville,PERSON
-Charles,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Charles,PERSON
-Holmes,PERSON
-he,PERSON
-Dartmoor,MISC
-London,LOCATION
-Devonshire,LOCATION
-Mr. Holmes,PERSON
-Devonshire,LOCATION
-London,LOCATION
-He,PERSON
-Waterloo,LOCATION
-Henry Baskerville,PERSON
-him,PERSON
-Mortimer,PERSON
-Henry Baskerville,PERSON
-Mr. Holmes,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-Holmes,PERSON
-him,PERSON
-Mortimer,PERSON
-Charles Baskerville,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-Watson,PERSON
-Bradley,PERSON
-him,PERSON
-this morning,TIME
-he,PERSON
-his,PERSON
-Baker Street,LOCATION
-Holmes,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-Watson,PERSON
-he,PERSON
-Holmes,PERSON
-He,PERSON
-Watson,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-He,PERSON
-He,PERSON
-he,PERSON
-Devonshire,LOCATION
-Stamford,LOCATION
-He,PERSON
-his,PERSON
-Baskerville Hall,LOCATION
-Yew Alley,PERSON
-Grimpen,LOCATION
-Mortimer,PERSON
-his,PERSON
-Lafter Hall,PERSON
-his,PERSON
-Princetown,LOCATION
-Mortimer,PERSON
-Mortimer,PERSON
-He,PERSON
-Watson,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-Yew Alley,LOCATION
-he,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Mortimer,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-London,LOCATION
-he,PERSON
-his,PERSON
-Watson,PERSON
-Mortimer,PERSON
-Henry Baskerville,PERSON
-morning,TIME
-Holmes,PERSON
-his,PERSON
-Mortimer,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-Henry Baskerville,PERSON
-Mortimer,PERSON
-Mr. Sherlock Holmes,PERSON
-he,PERSON
-this morning,TIME
-Henry,PERSON
-London,LOCATION
-Mr. Holmes,PERSON
-this morning,TIME
-He,PERSON
-Henry Baskerville,PERSON
-Northumberland Hotel,LOCATION
-Charing Cross,ORGANIZATION
-Northumberland Hotel,LOCATION
-Holmes,PERSON
-Mortimer,PERSON
-Mortimer,PERSON
-he,PERSON
-he,PERSON
-Henry Baskerville,PERSON
-Mr. Holmes,PERSON
-Mortimer,PERSON
-Henry,PERSON
-Henry,PERSON
-Sherlock Holmes,PERSON
-Watson,PERSON
-He,PERSON
-his,PERSON
-Watson,PERSON
-Holmes,PERSON
-his,PERSON
-Mortimer,PERSON
-Holmes,PERSON
-Henry Baskerville,PERSON
-he,PERSON
-Henry,PERSON
-Watson,PERSON
-he,PERSON
-Watson,PERSON
-Henry,PERSON
-Mr. Holmes,PERSON
-Mortimer,PERSON
-Times,ORGANIZATION
-Times,ORGANIZATION
-Mr. Holmes,PERSON
-Henry Baskerville,PERSON
-Holmes,PERSON
-Holmes,PERSON
-he,PERSON
-Mr. Holmes,PERSON
-Times,ORGANIZATION
-his,PERSON
-his,PERSON
-Henry,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Mortimer,PERSON
-Charing Cross,LOCATION
-He,PERSON
-his,PERSON
-he,PERSON
-Henry,PERSON
-London,LOCATION
-Mr. Holmes,PERSON
-Henry,PERSON
-British,MISC
-States,LOCATION
-Canada,LOCATION
-Mortimer,PERSON
-Mr. Holmes,PERSON
-he,PERSON
-Holmes,PERSON
-last night,TIME
-London,LOCATION
-Mortimer,PERSON
-West,LOCATION
-Sherlock Holmes,PERSON
-Mortimer,PERSON
-Holmes,PERSON
-Mortimer,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Henry Baskerville,PERSON
-he,PERSON
-Mortimer,PERSON
-Holmes,PERSON
-Mortimer,PERSON
-Henry,PERSON
-Baskerville Hall,LOCATION
-Mr. Holmes,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-Baskervilles,ORGANIZATION
-he,PERSON
-Mr. Holmes,PERSON
-Watson,PERSON
-Watson,PERSON
-his,PERSON
-Holmes,PERSON
-Watson,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-Mortimer,PERSON
-Baskerville,PERSON
-Oxford Street,LOCATION
-Watson,PERSON
-He,PERSON
-his,PERSON
-Oxford Street,LOCATION
-Regent Street,LOCATION
-Holmes,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-him,PERSON
-Regent Street,LOCATION
-Holmes,PERSON
-he,PERSON
-Holmes,PERSON
-he,PERSON
-Watson,PERSON
-Watson,PERSON
-Baskerville,PERSON
-he,PERSON
-Northumberland Hotel,LOCATION
-he,PERSON
-him,PERSON
-him,PERSON
-Mortimer,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-His,PERSON
-he,PERSON
-him,PERSON
-Watson,PERSON
-Northumberland Hotel,LOCATION
-Baskerville,PERSON
-his,PERSON
-he,PERSON
-Regent Street,LOCATION
-Mortimer,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-Watson,PERSON
-He,PERSON
-he,PERSON
-Wilson,PERSON
-Wilson,PERSON
-Cartwright,PERSON
-he,PERSON
-him,PERSON
-He,PERSON
-Holmes,PERSON
-Cartwright,PERSON
-Charing Cross,ORGANIZATION
-him,PERSON
-Times,ORGANIZATION
-Times,ORGANIZATION
-Times,ORGANIZATION
-Baker Street,LOCATION
-evening,TIME
-Watson,PERSON
-2704,DATE
-Sherlock Holmes,PERSON
-his,PERSON
-Belgian,MISC
-he,PERSON
-Northumberland Hotel,LOCATION
-He,PERSON
-he,PERSON
-Henry Baskerville,PERSON
-He,PERSON
-Holmes,PERSON
-Baskerville,PERSON
-Theophilus Johnson,PERSON
-Newcastle,ORGANIZATION
-Mrs. Oldmore,PERSON
-Alton,PERSON
-Johnson,PERSON
-Holmes,PERSON
-he,PERSON
-Mr. Johnson,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-Mrs. Oldmore,PERSON
-She,PERSON
-Gloucester,LOCATION
-Her,PERSON
-She,PERSON
-she,PERSON
-her,PERSON
-Watson,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-Henry Baskerville,PERSON
-His,PERSON
-he,PERSON
-his,PERSON
-Western,MISC
-morning,TIME
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-Mr. Holmes,PERSON
-German,MISC
-him,PERSON
-Mr. Holmes,PERSON
-Holmes,PERSON
-Henry,PERSON
-Holmes,PERSON
-Baskerville,PERSON
-his,PERSON
-Baskerville Hall,LOCATION
-Holmes,PERSON
-London,LOCATION
-Mortimer,PERSON
-this morning,TIME
-Mortimer,PERSON
-Dartmoor,MISC
-Barrymore,PERSON
-Charles,PERSON
-Barrymore,PERSON
-He,PERSON
-London,LOCATION
-he,PERSON
-he,PERSON
-Henry,PERSON
-Mr. Barrymore,PERSON
-Baskerville Hall,LOCATION
-Grimpen,PERSON
-Grimpen,PERSON
-Mr. Barrymore,PERSON
-his,PERSON
-Henry Baskerville,PERSON
-Northumberland Hotel,LOCATION
-Barrymore,PERSON
-Devonshire,LOCATION
-his,PERSON
-Baskerville,PERSON
-Dr. Mortimer,PERSON
-Barrymore,PERSON
-caretaker,MISC
-He,PERSON
-he,PERSON
-his,PERSON
-Baskerville,PERSON
-Barrymore,PERSON
-Charles,PERSON
-Holmes,PERSON
-He,PERSON
-his,PERSON
-Charles,PERSON
-his,PERSON
-Mortimer,PERSON
-Charles,PERSON
-Henry,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-Charles,PERSON
-he,PERSON
-his,PERSON
-Mortimer,PERSON
-Rodger Baskerville,PERSON
-Charles,PERSON
-Desmonds,PERSON
-James Desmond,PERSON
-Westmoreland,LOCATION
-Mr. James Desmond,PERSON
-Charles,PERSON
-he,PERSON
-He,PERSON
-Charles,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-Charles,PERSON
-He,PERSON
-He,PERSON
-he,PERSON
-Henry,PERSON
-Mr. Holmes,PERSON
-Baskervilles,LOCATION
-he,PERSON
-House,ORGANIZATION
-Henry,PERSON
-Devonshire,LOCATION
-Mortimer,PERSON
-Mortimer,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Henry,PERSON
-Mr. Holmes,PERSON
-London,LOCATION
-England,LOCATION
-Holmes,PERSON
-his,PERSON
-Baskerville,PERSON
-Watson,PERSON
-he,PERSON
-Baskerville Hall,LOCATION
-Holmes,PERSON
-Holmes,PERSON
-Saturday,DATE
-Watson,PERSON
-Saturday,DATE
-Paddington,LOCATION
-Baskerville,PERSON
-he,PERSON
-he,PERSON
-Sherlock Holmes,PERSON
-Mortimer,PERSON
-Baskerville,PERSON
-German,MISC
-Charles,PERSON
-Holmes,PERSON
-Baker Street,LOCATION
-his,PERSON
-his,PERSON
-he,PERSON
-Barrymore,PERSON
-Baskerville,PERSON
-Times,ORGANIZATION
-Cartwright,PERSON
-Watson,PERSON
-his,PERSON
-2704,DATE
-he,PERSON
-Yard,MISC
-Holmes,PERSON
-John Clayton,PERSON
-Turpey Street,LOCATION
-Shipley,PERSON
-Waterloo Station,LOCATION
-Sherlock Holmes,PERSON
-Clayton,PERSON
-ten o'clock this morning,TIME
-Regent Street,LOCATION
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-Holmes,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-Mr. Sherlock Holmes,PERSON
-His,PERSON
-he,PERSON
-he,PERSON
-Watson,PERSON
-he,PERSON
-He,PERSON
-Sherlock Holmes,PERSON
-his,PERSON
-him,PERSON
-Trafalgar Square,LOCATION
-He,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Northumberland Hotel,LOCATION
-Holmes,PERSON
-Baker Street,LOCATION
-Holmes,PERSON
-Regent Street,LOCATION
-Waterloo Station,LOCATION
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Mr. Sherlock Holmes,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-Mr. Sherlock Holmes,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-John Clayton,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-Henry Baskerville,PERSON
-Regent Street,LOCATION
-He,PERSON
-Watson,PERSON
-London,LOCATION
-Devonshire,LOCATION
-Watson,PERSON
-Baker Street,LOCATION
-Henry Baskerville,PERSON
-Mortimer,PERSON
-Devonshire,ORGANIZATION
-Mr. Sherlock Holmes,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-Baskerville,PERSON
-Charles,PERSON
-his,PERSON
-Mr. James Desmond,PERSON
-him,PERSON
-him,PERSON
-Henry Baskerville,PERSON
-Barrymore,PERSON
-Mortimer,PERSON
-his,PERSON
-Stapleton,PERSON
-his,PERSON
-Mr. Frankland,PERSON
-Lafter Hall,LOCATION
-Mortimer,PERSON
-last two days,DATE
-Museum of the College of Surgeons,ORGANIZATION
-Baskerville,PERSON
-Holmes,PERSON
-his,PERSON
-Henry,PERSON
-he,PERSON
-Bear,MISC
-Henry,PERSON
-Mortimer,PERSON
-Holmes,PERSON
-Mortimer,PERSON
-Baskerville,PERSON
-he,PERSON
-Watson,PERSON
-he,PERSON
-Devonshire,ORGANIZATION
-his,PERSON
-Mortimer,PERSON
-Celt,MISC
-Charles,PERSON
-Ivernian,MISC
-Baskerville Hall,PERSON
-South Coast,LOCATION
-he,PERSON
-America,LOCATION
-Watson,PERSON
-Mortimer,PERSON
-Baskerville,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-American,MISC
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Henry Baskerville,PERSON
-evening,TIME
-Baskerville,PERSON
-him,PERSON
-his,PERSON
-Nature,MISC
-Baskervilles,ORGANIZATION
-Mortimer,PERSON
-his,PERSON
-his,PERSON
-He,PERSON
-Perkins,PERSON
-Mortimer,PERSON
-his,PERSON
-Princetown,LOCATION
-He,PERSON
-him,PERSON
-he,PERSON
-Selden,PERSON
-Notting,LOCATION
-Hill,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-Baskerville,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-Baskerville Hall,PERSON
-he,PERSON
-Baskervilles,ORGANIZATION
-Charles,PERSON
-South African,MISC
-Baskerville,PERSON
-he,PERSON
-he,PERSON
-Yew Alley,LOCATION
-him,PERSON
-he,PERSON
-Edison,PERSON
-Henry,PERSON
-Baskerville Hall,PERSON
-She,PERSON
-Henry,PERSON
-Mortimer,PERSON
-Barrymore,PERSON
-Henry,PERSON
-Henry,PERSON
-Henry,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-Barrymore,PERSON
-He,PERSON
-He,PERSON
-Henry,PERSON
-Charles,PERSON
-his,PERSON
-Charles,PERSON
-his,PERSON
-Baskerville Hall,LOCATION
-Charles,PERSON
-Baskerville,PERSON
-Elizabethan,MISC
-Henry,PERSON
-he,PERSON
-morning,TIME
-night,TIME
-Baskerville Hall,LOCATION
-Henry,PERSON
-Barrymore,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Henry,PERSON
-he,PERSON
-her,PERSON
-Mrs. Barrymore,PERSON
-he,PERSON
-he,PERSON
-her,PERSON
-She,PERSON
-her,PERSON
-night,TIME
-she,PERSON
-she,PERSON
-her,PERSON
-he,PERSON
-he,PERSON
-she,PERSON
-Charles,PERSON
-he,PERSON
-his,PERSON
-Barrymore,PERSON
-Regent Street,LOCATION
-Grimpen,PERSON
-Barrymore,PERSON
-Sherlock Holmes,PERSON
-Henry,PERSON
-Mortimer,PERSON
-Mr. Barrymore,PERSON
-he,PERSON
-James,PERSON
-Mr. Barrymore,PERSON
-Hall last week,DATE
-his,PERSON
-Mrs. Barrymore,PERSON
-he,PERSON
-his,PERSON
-she,PERSON
-Mr. Barrymore,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-Mr. Barrymore,PERSON
-Holmes,PERSON
-Barrymore,PERSON
-London,LOCATION
-Charles,PERSON
-England,LOCATION
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Baskerville,PERSON
-he,PERSON
-Times,ORGANIZATION
-his,PERSON
-his,PERSON
-Henry,PERSON
-Barrymores,ORGANIZATION
-Holmes,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-Mortimer,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-he,PERSON
-Mortimer,PERSON
-Stapleton,PERSON
-Merripit House,ORGANIZATION
-Mr. Stapleton,PERSON
-Mortimer,PERSON
-he,PERSON
-his,PERSON
-Henry,PERSON
-his,PERSON
-He,PERSON
-Charles,PERSON
-Henry,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-Charles,PERSON
-his,PERSON
-His,PERSON
-his,PERSON
-Yew Alley,LOCATION
-he,PERSON
-his,PERSON
-Mortimer,PERSON
-Charles,PERSON
-he,PERSON
-Mr. Sherlock Holmes,PERSON
-Watson,PERSON
-he,PERSON
-him,PERSON
-Mortimer,PERSON
-he,PERSON
-Mr. Sherlock Holmes,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-He,PERSON
-his,PERSON
-He,PERSON
-Henry,PERSON
-Stapleton,PERSON
-brambles,ORGANIZATION
-Merripit House,ORGANIZATION
-he,PERSON
-Henry,PERSON
-his,PERSON
-Holmes,PERSON
-Stapleton,PERSON
-he,PERSON
-Charles,PERSON
-Stapleton,PERSON
-Grimpen Mire,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-him,PERSON
-George,PERSON
-he,PERSON
-him,PERSON
-Grimpen Mire,LOCATION
-He,PERSON
-he,PERSON
-Stapleton,PERSON
-his,PERSON
-he,PERSON
-Baskervilles,ORGANIZATION
-England,LOCATION
-his,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-Neolithic,MISC
-he,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-Stapleton,PERSON
-his,PERSON
-His,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Merripit House,ORGANIZATION
-She,PERSON
-her,PERSON
-she,PERSON
-Miss Stapleton,PERSON
-her,PERSON
-Stapleton,PERSON
-England,LOCATION
-she,PERSON
-She,PERSON
-her,PERSON
-she,PERSON
-Her,PERSON
-her,PERSON
-she,PERSON
-her,PERSON
-her,PERSON
-she,PERSON
-London,LOCATION
-her,PERSON
-Her,PERSON
-she,PERSON
-her,PERSON
-She,PERSON
-her,PERSON
-she,PERSON
-London,LOCATION
-Stapleton,PERSON
-his,PERSON
-Halloa,PERSON
-Beryl,PERSON
-he,PERSON
-his,PERSON
-Jack,PERSON
-He,PERSON
-him,PERSON
-He,PERSON
-his,PERSON
-Henry,PERSON
-him,PERSON
-Henry Baskerville,PERSON
-his,PERSON
-Watson,PERSON
-her,PERSON
-she,PERSON
-her,PERSON
-Watson,PERSON
-she,PERSON
-him,PERSON
-Merripit House,ORGANIZATION
-he,PERSON
-Beryl,PERSON
-she,PERSON
-her,PERSON
-Stapleton,PERSON
-Watson,PERSON
-she,PERSON
-Mortimer,PERSON
-his,PERSON
-Charles,PERSON
-him,PERSON
-him,PERSON
-this afternoon,TIME
-Henry,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-England,LOCATION
-Baskervilles,LOCATION
-Miss Stapleton,PERSON
-Miss Stapleton,PERSON
-Her,PERSON
-her,PERSON
-she,PERSON
-her,PERSON
-her,PERSON
-Watson,PERSON
-she,PERSON
-Henry,PERSON
-Miss Stapleton,PERSON
-Henry,PERSON
-his,PERSON
-Henry,PERSON
-London,LOCATION
-Watson,PERSON
-Miss Stapleton,PERSON
-Henry,PERSON
-her,PERSON
-her,PERSON
-she,PERSON
-Watson,PERSON
-she,PERSON
-Charles,PERSON
-him,PERSON
-his,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-Henry,PERSON
-him,PERSON
-Miss Stapleton,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-Baskerville Hall,LOCATION
-She,PERSON
-Mr. Sherlock Holmes,PERSON
-Baskerville Hall,LOCATION
-October 13th,DATE
-Holmes,PERSON
-God-forsaken,MISC
-England,LOCATION
-his,PERSON
-his,PERSON
-Henry Baskerville,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-Hill,PERSON
-he,PERSON
-Henry,PERSON
-Perkins,PERSON
-Stapleton,PERSON
-him,PERSON
-she,PERSON
-her,PERSON
-her,PERSON
-he,PERSON
-He,PERSON
-her,PERSON
-her,PERSON
-him,PERSON
-she,PERSON
-she,PERSON
-he,PERSON
-her,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-Baskerville,PERSON
-He,PERSON
-he,PERSON
-Henry,PERSON
-Stapleton,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-Stapleton,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-Merripit House,ORGANIZATION
-Henry,PERSON
-Miss Stapleton,PERSON
-he,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-He,PERSON
-her,PERSON
-Stapleton,PERSON
-Henry,PERSON
-his,PERSON
-his,PERSON
-He,PERSON
-her,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-Mortimer,PERSON
-Long Down,LOCATION
-He,PERSON
-him,PERSON
-he,PERSON
-Stapletons,MISC
-Yew Alley,LOCATION
-Henry,PERSON
-Yew Alley,LOCATION
-his,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-Barrymore,PERSON
-he,PERSON
-Mr. Frankland,PERSON
-Lafter Hall,LOCATION
-He,PERSON
-British,MISC
-His,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-Fernworthy,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Mortimer,PERSON
-Neolithic,MISC
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-Mortimer,PERSON
-Frankland,PERSON
-Lafter Hall,LOCATION
-Barrymores,ORGANIZATION
-last night,TIME
-London,LOCATION
-Barrymore,PERSON
-Henry,PERSON
-Barrymore,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-Barrymore,PERSON
-he,PERSON
-Henry,PERSON
-Barrymore,PERSON
-he,PERSON
-she,PERSON
-he,PERSON
-his,PERSON
-this morning,TIME
-Henry,PERSON
-he,PERSON
-Henry,PERSON
-London,LOCATION
-him,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-Mrs. Barrymore,PERSON
-She,PERSON
-her,PERSON
-her,PERSON
-her,PERSON
-Barrymore,PERSON
-she,PERSON
-her,PERSON
-last night,TIME
-morning,TIME
-his,PERSON
-He,PERSON
-his,PERSON
-Barrymore,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Barrymore,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-this morning,TIME
-last night,TIME
-Baskerville Hall,LOCATION
-Oct. 15th,DATE
-Holmes,PERSON
-Barrymore,PERSON
-Barrymore,PERSON
-night before,TIME
-he,PERSON
-Barrymore,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-morning,TIME
-Barrymore,PERSON
-his,PERSON
-him,PERSON
-He,PERSON
-Barrymore,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-Holmes,PERSON
-he,PERSON
-Barrymore,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Charles,PERSON
-London,LOCATION
-Plymouth,LOCATION
-his,PERSON
-he,PERSON
-Miss Stapleton,PERSON
-he,PERSON
-Barrymore,PERSON
-Henry,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-Holmes,PERSON
-Henry,PERSON
-his,PERSON
-Holmes,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-Merripit House,LOCATION
-him,PERSON
-Henry,PERSON
-him,PERSON
-Miss Stapleton,PERSON
-He,PERSON
-his,PERSON
-her,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-Henry,PERSON
-Stapleton,PERSON
-his,PERSON
-He,PERSON
-he,PERSON
-Henry,PERSON
-Miss Stapleton,PERSON
-his,PERSON
-His,PERSON
-her,PERSON
-she,PERSON
-him,PERSON
-her,PERSON
-He,PERSON
-his,PERSON
-hers,PERSON
-she,PERSON
-spring,DATE
-Stapleton,PERSON
-He,PERSON
-his,PERSON
-him,PERSON
-He,PERSON
-Stapleton,PERSON
-Henry,PERSON
-Stapleton,PERSON
-Henry,PERSON
-his,PERSON
-his,PERSON
-her,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-His,PERSON
-his,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-her,PERSON
-him,PERSON
-he,PERSON
-hers,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-Watson,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-her,PERSON
-he,PERSON
-Watson,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-she,PERSON
-she,PERSON
-he,PERSON
-her,PERSON
-She,PERSON
-she,PERSON
-she,PERSON
-she,PERSON
-she,PERSON
-She,PERSON
-she,PERSON
-her,PERSON
-her,PERSON
-she,PERSON
-her,PERSON
-her,PERSON
-she,PERSON
-hers,PERSON
-him,PERSON
-He,PERSON
-his,PERSON
-her,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-she,PERSON
-him,PERSON
-she,PERSON
-his,PERSON
-her,PERSON
-Watson,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-Stapleton,PERSON
-morning,TIME
-Henry,PERSON
-Merripit House,ORGANIZATION
-Friday,DATE
-He,PERSON
-his,PERSON
-his,PERSON
-Henry,PERSON
-this morning,TIME
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-her,PERSON
-his,PERSON
-he,PERSON
-her,PERSON
-her,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-her,PERSON
-he,PERSON
-his,PERSON
-she,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-her,PERSON
-she,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-her,PERSON
-Stapleton,PERSON
-Henry,PERSON
-his,PERSON
-night,TIME
-Mrs. Barrymore,PERSON
-Holmes,PERSON
-Henry,PERSON
-morning,TIME
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-him,PERSON
-Barrymore,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-Henry,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-Barrymore,PERSON
-His,PERSON
-he,PERSON
-his,PERSON
-Barrymore,PERSON
-Henry,PERSON
-he,PERSON
-his,PERSON
-Henry,PERSON
-He,PERSON
-night,TIME
-he,PERSON
-Watson,PERSON
-Mrs. Barrymore,PERSON
-her,PERSON
-Her,PERSON
-her,PERSON
-Eliza,PERSON
-John,PERSON
-John,PERSON
-Henry,PERSON
-He,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-Barrymore,PERSON
-Henry,PERSON
-Selden,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-Christian,MISC
-he,PERSON
-he,PERSON
-Barrymore,PERSON
-Henry,PERSON
-morning,TIME
-Henry,PERSON
-Henry,PERSON
-he,PERSON
-Barrymore,PERSON
-he,PERSON
-Watson,PERSON
-Barrymores,ORGANIZATION
-him,PERSON
-he,PERSON
-his,PERSON
-Stapletons,MISC
-Henry,PERSON
-him,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-Watson,PERSON
-Holmes,PERSON
-Grimpen Mire,LOCATION
-his,PERSON
-night,TIME
-his,PERSON
-Watson,PERSON
-Watson,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-Watson,PERSON
-Baskervilles,ORGANIZATION
-He,PERSON
-he,PERSON
-Watson,PERSON
-Stapleton,PERSON
-He,PERSON
-Watson,PERSON
-London,LOCATION
-him,PERSON
-he,PERSON
-Watson,PERSON
-Baskerville Hall,LOCATION
-Henry,PERSON
-He,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-Barrymore,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Henry,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-Holmes,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-moon,LOCATION
-his,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Princetown,LOCATION
-him,PERSON
-last night,TIME
-Holmes,PERSON
-Barrymores,ORGANIZATION
-Sherlock Holmes,PERSON
-October 16th,DATE
-night,TIME
-Stapleton,PERSON
-Mortimer,PERSON
-him,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-London,LOCATION
-Henry,PERSON
-London,LOCATION
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-He,PERSON
-Stapleton,LOCATION
-Frankland,PERSON
-him,PERSON
-he,PERSON
-London,LOCATION
-him,PERSON
-Henry,PERSON
-He,PERSON
-His,PERSON
-his,PERSON
-this morning,TIME
-Barrymore,PERSON
-Henry,PERSON
-his,PERSON
-his,PERSON
-Barrymore,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-this morning,TIME
-Selden,PERSON
-his,PERSON
-Henry,PERSON
-he,PERSON
-his,PERSON
-Mr. Stapleton,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-Henry,PERSON
-South America,LOCATION
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-Watson,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-He,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-Barrymore,PERSON
-he,PERSON
-Watson,PERSON
-Barrymore,PERSON
-he,PERSON
-Henry,PERSON
-Charles,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-Barrymore,PERSON
-Her,PERSON
-Henry,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-Coombe Tracey,PERSON
-Charles,PERSON
-she,PERSON
-his,PERSON
-she,PERSON
-Charles,PERSON
-his,PERSON
-L. L.,PERSON
-Charles,PERSON
-Barrymore,PERSON
-Charles,PERSON
-he,PERSON
-his,PERSON
-Barrymore,PERSON
-Henry,PERSON
-Watson,PERSON
-L. L.,PERSON
-her,PERSON
-Holmes,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-Holmes,PERSON
-Baker Street,LOCATION
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-October 17th,DATE
-his,PERSON
-he,PERSON
-he,PERSON
-Baskerville Hall,ORGANIZATION
-Mortimer,PERSON
-Foulmire,LOCATION
-his,PERSON
-He,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-Grimpen Mire,MISC
-him,PERSON
-he,PERSON
-his,PERSON
-Mortimer,PERSON
-L. L.,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-Laura Lyons,PERSON
-L. L.--but,PERSON
-Coombe Tracey,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-Frankland,PERSON
-She,PERSON
-Frankland,PERSON
-Lyons,PERSON
-She,PERSON
-He,PERSON
-her,PERSON
-Her,PERSON
-her,PERSON
-she,PERSON
-his,PERSON
-she,PERSON
-Frankland,PERSON
-her,PERSON
-his,PERSON
-she,PERSON
-her,PERSON
-Her,PERSON
-her,PERSON
-Stapleton,PERSON
-Charles,PERSON
-her,PERSON
-He,PERSON
-his,PERSON
-him,PERSON
-Coombe Tracey,PERSON
-Mrs. Laura Lyons,PERSON
-Mortimer,PERSON
-Frankland,PERSON
-his,PERSON
-him,PERSON
-Sherlock Holmes,PERSON
-Barrymore,PERSON
-Mortimer,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-Barrymore,PERSON
-him,PERSON
-him,PERSON
-Selden,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-Watson,PERSON
-He,PERSON
-Barrymore,PERSON
-him,PERSON
-Barrymore,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Henry,PERSON
-London,LOCATION
-his,PERSON
-Charles,PERSON
-he,PERSON
-he,PERSON
-Baskerville,PERSON
-Henry,PERSON
-him,PERSON
-Selden,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Selden,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-Coombe Tracey,PERSON
-he,PERSON
-he,PERSON
-Barrymore,PERSON
-he,PERSON
-18th of October,DATE
-Mrs. Laura Lyons,PERSON
-Coombe Tracey,PERSON
-Charles Baskerville,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-Mrs. Lyons,PERSON
-Mortimer,PERSON
-him,PERSON
-Coombe Tracey,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-Coombe Tracey,PERSON
-Perkins,PERSON
-her,PERSON
-Remington,MISC
-Her,PERSON
-she,PERSON
-she,PERSON
-Mrs. Lyons,PERSON
-Her,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-him,PERSON
-his,PERSON
-Charles Baskerville,PERSON
-Charles Baskerville,PERSON
-him,PERSON
-she,PERSON
-her,PERSON
-her,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-her,PERSON
-she,PERSON
-She,PERSON
-her,PERSON
-she,PERSON
-her,PERSON
-she,PERSON
-Charles,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-Coombe Tracey,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-She,PERSON
-Mr. Stapleton,PERSON
-Charles,PERSON
-Charles,PERSON
-He,PERSON
-him,PERSON
-Charles Baskerville,PERSON
-Stapleton,PERSON
-his,PERSON
-Charles,PERSON
-him,PERSON
-Mrs. Lyons,PERSON
-Charles,PERSON
-Her,PERSON
-she,PERSON
-she,PERSON
-she,PERSON
-Charles,PERSON
-He,PERSON
-she,PERSON
-her,PERSON
-him,PERSON
-his,PERSON
-him,PERSON
-London,LOCATION
-he,PERSON
-Mrs. Lyons,PERSON
-Charles,PERSON
-he,PERSON
-his,PERSON
-her,PERSON
-Mrs. Lyons,PERSON
-Charles,PERSON
-Charles,PERSON
-Charles,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-Charles,PERSON
-Charles,PERSON
-he,PERSON
-he,PERSON
-Charles,PERSON
-his,PERSON
-she,PERSON
-her,PERSON
-Baskerville Hall,LOCATION
-Coombe Tracey,PERSON
-she,PERSON
-she,PERSON
-she,PERSON
-her,PERSON
-she,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-Barrymore,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-Regent Street,LOCATION
-He,PERSON
-him,PERSON
-he,PERSON
-Holmes,PERSON
-London,LOCATION
-him,PERSON
-him,PERSON
-Mr. Frankland,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-Perkins,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-Henry,PERSON
-Frankland,PERSON
-his,PERSON
-he,PERSON
-Middleton,PERSON
-his,PERSON
-Fernworthy,MISC
-Dr. Watson,PERSON
-John Morland,PERSON
-he,PERSON
-his,PERSON
-Morland,PERSON
-Court of Queen's Bench,ORGANIZATION
-Frankland,PERSON
-Regina,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-Barrymore,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-Barrymore,PERSON
-Frankland,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-Black Tor,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-Watson,PERSON
-Frankland,PERSON
-Frankland,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-He,PERSON
-him,PERSON
-he,PERSON
-Watson,PERSON
-Frankland,LOCATION
-Regina,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-Belliver,LOCATION
-Vixen Tor,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-Stapleton,PERSON
-he,PERSON
-he,PERSON
-Neolithic,MISC
-Watson,PERSON
-Coombe Tracey,PERSON
-Henry,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-Spartan,MISC
-he,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-Baskerville Hall,LOCATION
-Grimpen,LOCATION
-him,PERSON
-he,PERSON
-Watson,PERSON
-Holmes,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-Baker Street,LOCATION
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-Watson,PERSON
-Bradley,PERSON
-Oxford Street,LOCATION
-Watson,PERSON
-Watson,PERSON
-He,PERSON
-Cartwright,PERSON
-Coombe Tracey,PERSON
-Mrs. Laura Lyons,PERSON
-Baker Street,LOCATION
-Holmes,PERSON
-Henry,PERSON
-Cartwright,PERSON
-he,PERSON
-He,PERSON
-Holmes,PERSON
-his,PERSON
-Holmes,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Mrs. Laura Lyons,PERSON
-Coombe Tracey,PERSON
-her,PERSON
-she,PERSON
-Holmes,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Stapleton,PERSON
-his,PERSON
-His,PERSON
-Miss Stapleton,PERSON
-his,PERSON
-Holmes,PERSON
-Henry,PERSON
-he,PERSON
-her,PERSON
-Henry,PERSON
-Henry,PERSON
-Henry,PERSON
-He,PERSON
-her,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-she,PERSON
-him,PERSON
-his,PERSON
-his,PERSON
-London,LOCATION
-he,PERSON
-he,PERSON
-her,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-England,LOCATION
-He,PERSON
-his,PERSON
-Mrs. Laura Lyons,PERSON
-his,PERSON
-her,PERSON
-Stapleton,PERSON
-she,PERSON
-his,PERSON
-she,PERSON
-her,PERSON
-Watson,PERSON
-Baskerville Hall,LOCATION
-Holmes,PERSON
-he,PERSON
-Holmes,PERSON
-Watson,PERSON
-he,PERSON
-Henry,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-her,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-Watson,PERSON
-Holmes,PERSON
-Watson,PERSON
-He,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-Watson,PERSON
-He,PERSON
-Watson,PERSON
-him,PERSON
-Holmes,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-Henry Baskerville,PERSON
-first morning,TIME
-Baker Street,LOCATION
-he,PERSON
-him,PERSON
-Holmes,PERSON
-his,PERSON
-Holmes,PERSON
-him,PERSON
-his,PERSON
-Watson,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-Stapleton,PERSON
-he,PERSON
-He,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-Henry,PERSON
-fall,DATE
-he,PERSON
-Grimpen,LOCATION
-him,PERSON
-Holmes,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-Selden,PERSON
-Barrymore,PERSON
-he,PERSON
-his,PERSON
-Barrymore,PERSON
-Selden,PERSON
-his,PERSON
-Henry,PERSON
-his,PERSON
-Holmes,PERSON
-he,PERSON
-Henry,PERSON
-Selden,PERSON
-his,PERSON
-He,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Stapleton,PERSON
-Henry,PERSON
-he,PERSON
-Halloa,PERSON
-Watson,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-Watson,PERSON
-this time of night,TIME
-Henry,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Selden,PERSON
-Princetown,LOCATION
-Stapleton,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-Holmes,PERSON
-He,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-Henry,PERSON
-Henry,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-Holmes,PERSON
-him,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-Stapleton,PERSON
-he,PERSON
-his,PERSON
-Mr. Sherlock Holmes,PERSON
-his,PERSON
-he,PERSON
-Watson,PERSON
-London,LOCATION
-Holmes,PERSON
-his,PERSON
-his,PERSON
-Stapleton,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Stapleton,PERSON
-Holmes,PERSON
-Baskerville Hall,LOCATION
-him,PERSON
-his,PERSON
-Holmes,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-London,LOCATION
-Watson,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-Watson,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-Charles,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-Charles,PERSON
-him,PERSON
-Mrs. Laura Lyons,PERSON
-her,PERSON
-Baskerville,PERSON
-him,PERSON
-he,PERSON
-Watson,PERSON
-Henry,PERSON
-Selden,PERSON
-Stapleton,PERSON
-him,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Henry,PERSON
-Sherlock Holmes,PERSON
-London,LOCATION
-he,PERSON
-him,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Barrymore,PERSON
-his,PERSON
-him,PERSON
-she,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-her,PERSON
-him,PERSON
-Watson,PERSON
-Stapleton,PERSON
-Holmes,PERSON
-Henry,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-Watson,PERSON
-Watson,PERSON
-Watson,PERSON
-West,LOCATION
-him,PERSON
-him,PERSON
-him,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-Henry,PERSON
-Barrymore,PERSON
-Rear-Admiral Baskerville,PERSON
-Rodney,PERSON
-West Indies,LOCATION
-William Baskerville,PERSON
-House of Commons,ORGANIZATION
-Pitt,PERSON
-him,PERSON
-Baskervilles,ORGANIZATION
-him,PERSON
-Holmes,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-1647,DATE
-Holmes,PERSON
-supper,DATE
-him,PERSON
-his,PERSON
-Henry,PERSON
-his,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Henry,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Stapleton,PERSON
-he,PERSON
-his,PERSON
-Watson,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-Baker Street,LOCATION
-him,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-morning,TIME
-Holmes,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Grimpen,LOCATION
-Princetown,LOCATION
-Selden,PERSON
-Cartwright,PERSON
-his,PERSON
-his,PERSON
-Henry,PERSON
-he,PERSON
-Holmes,PERSON
-his,PERSON
-Watson,PERSON
-Stapletons,MISC
-Watson,PERSON
-London,LOCATION
-London,LOCATION
-Devonshire,LOCATION
-he,PERSON
-he,PERSON
-he,PERSON
-Coombe Tracey,PERSON
-Watson,PERSON
-his,PERSON
-he,PERSON
-Watson,PERSON
-Stapleton,PERSON
-him,PERSON
-London,LOCATION
-Merripit House,ORGANIZATION
-Merripit House,ORGANIZATION
-Grimpen Road,LOCATION
-London,LOCATION
-afternoon,TIME
-Holmes,PERSON
-Stapleton,PERSON
-night,TIME
-his,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-Coombe Tracey,PERSON
-Cartwright,PERSON
-Henry Baskerville,PERSON
-Baker Street,LOCATION
-he,PERSON
-he,PERSON
-Holmes,PERSON
-Lestrade,PERSON
-this morning,TIME
-He,PERSON
-his,PERSON
-Watson,PERSON
-Mrs. Laura Lyons,PERSON
-His,PERSON
-Stapletons,MISC
-He,PERSON
-London,LOCATION
-Henry,PERSON
-Stapletons,PERSON
-Mrs. Laura Lyons,PERSON
-Sherlock Holmes,PERSON
-her,PERSON
-his,PERSON
-her,PERSON
-Charles Baskerville,PERSON
-he,PERSON
-Watson,PERSON
-she,PERSON
-Charles,PERSON
-his,PERSON
-Mrs. Lyons,PERSON
-Mr. Stapleton,PERSON
-his,PERSON
-her,PERSON
-His,PERSON
-she,PERSON
-his,PERSON
-his,PERSON
-Mrs. Lyons,PERSON
-her,PERSON
-Her,PERSON
-her,PERSON
-her,PERSON
-His,PERSON
-she,PERSON
-His,PERSON
-He,PERSON
-Sherlock Holmes,PERSON
-his,PERSON
-her,PERSON
-Holmes,PERSON
-his,PERSON
-York four years ago,DATE
-Mrs. Vandeleur,PERSON
-him,PERSON
-her,PERSON
-her,PERSON
-Mrs. Vandeleur,PERSON
-Oliver,PERSON
-She,PERSON
-Mr. Holmes,PERSON
-she,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-Sherlock Holmes,PERSON
-Stapleton,PERSON
-He,PERSON
-Charles,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-Charles,PERSON
-he,PERSON
-He,PERSON
-He,PERSON
-He,PERSON
-She,PERSON
-him,PERSON
-she,PERSON
-he,PERSON
-him,PERSON
-Sherlock Holmes,PERSON
-him,PERSON
-he,PERSON
-Mrs. Lyons,PERSON
-Holmes,PERSON
-Godno,LOCATION
-Little Russia,LOCATION
-'66,DATE
-Anderson,PERSON
-North Carolina,LOCATION
-this night,TIME
-London,LOCATION
-Lestrade,PERSON
-he,PERSON
-he,PERSON
-Holmes,PERSON
-Lestrade,PERSON
-London,LOCATION
-Sherlock Holmes,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-Frankland,PERSON
-Coombe Tracey,PERSON
-Merripit House,ORGANIZATION
-Lestrade,PERSON
-Mr. Holmes,PERSON
-him,PERSON
-Merripit House,ORGANIZATION
-Holmes,PERSON
-he,PERSON
-Lestrade,PERSON
-Watson,PERSON
-Henry,PERSON
-Stapleton,PERSON
-Stapleton,PERSON
-his,PERSON
-Stapleton,PERSON
-Henry,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-He,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-Watson,PERSON
-Holmes,PERSON
-she,PERSON
-she,PERSON
-Holmes,PERSON
-he,PERSON
-he,PERSON
-Watson,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-God,PERSON
-him,PERSON
-He,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Holmes,PERSON
-Holmes,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-Lestrade,PERSON
-him,PERSON
-Holmes,PERSON
-him,PERSON
-He,PERSON
-Henry,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-him,PERSON
-Holmes,PERSON
-he,PERSON
-Henry,PERSON
-spring,DATE
-him,PERSON
-his,PERSON
-Holmes,PERSON
-his,PERSON
-Henry,PERSON
-he,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-Lestrade,PERSON
-his,PERSON
-he,PERSON
-Holmes,PERSON
-Holmes,PERSON
-his,PERSON
-Henry,PERSON
-him,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-Holmes,PERSON
-him,PERSON
-he,PERSON
-him,PERSON
-He,PERSON
-him,PERSON
-he,PERSON
-Holmes,PERSON
-Lestrade,PERSON
-Holmes,PERSON
-his,PERSON
-Mrs. Stapleton,PERSON
-her,PERSON
-her,PERSON
-her,PERSON
-Holmes,PERSON
-Lestrade,PERSON
-her,PERSON
-She,PERSON
-She,PERSON
-her,PERSON
-he,PERSON
-she,PERSON
-he,PERSON
-He,PERSON
-Henry,PERSON
-he,PERSON
-She,PERSON
-he,PERSON
-She,PERSON
-her,PERSON
-her,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-She,PERSON
-she,PERSON
-Holmes,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-she,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Holmes,PERSON
-he,PERSON
-Grimpen Mire,MISC
-his,PERSON
-She,PERSON
-her,PERSON
-Her,PERSON
-He,PERSON
-his,PERSON
-she,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-Lestrade,PERSON
-Holmes,PERSON
-Baskerville Hall,LOCATION
-Stapletons,MISC
-him,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-night,TIME
-Mortimer,PERSON
-his,PERSON
-he,PERSON
-Henry,PERSON
-he,PERSON
-he,PERSON
-Mrs. Stapleton,PERSON
-she,PERSON
-her,PERSON
-her,PERSON
-Holmes,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-Meyers,PERSON
-Toronto,LOCATION
-he,PERSON
-Henry,PERSON
-Stapleton,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-He,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Stapleton,PERSON
-last night,TIME
-he,PERSON
-Grimpen Mire,PERSON
-him,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-Holmes,PERSON
-Jove,PERSON
-Mortimer,PERSON
-his,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-Merripit,LOCATION
-he,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Charles,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-London,LOCATION
-Watson,LOCATION
-he,PERSON
-he,PERSON
-his,PERSON
-November,DATE
-Holmes,PERSON
-Baker Street,LOCATION
-Devonshire,LOCATION
-Upwood,PERSON
-Nonpareil Club,ORGANIZATION
-Montpensier,PERSON
-Mlle. Carere,LOCATION
-New York,LOCATION
-he,PERSON
-he,PERSON
-he,PERSON
-her,PERSON
-her,PERSON
-Baskerville,PERSON
-him,PERSON
-he,PERSON
-his,PERSON
-Henry,PERSON
-Mortimer,PERSON
-London,LOCATION
-his,PERSON
-Holmes,PERSON
-Stapleton,PERSON
-his,PERSON
-Mrs. Stapleton,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-Baskerville Hall,LOCATION
-French,MISC
-Upwood,LOCATION
-Baskerville,LOCATION
-Rodger Baskerville,PERSON
-Charles,PERSON
-South America,LOCATION
-He,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-Beryl Garcia,PERSON
-Costa Rica,LOCATION
-Vandeleur,PERSON
-England,LOCATION
-Yorkshire,LOCATION
-He,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-His,PERSON
-he,PERSON
-he,PERSON
-Fraser,PERSON
-Stapleton,PERSON
-England,LOCATION
-he,PERSON
-his,PERSON
-his,PERSON
-his,PERSON
-British,MISC
-Vandeleur,LOCATION
-Yorkshire,LOCATION
-he,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-Devonshire,LOCATION
-he,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-her,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-He,PERSON
-he,PERSON
-Charles Baskerville,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-Stapleton,PERSON
-him,PERSON
-him,PERSON
-Mortimer,PERSON
-he,PERSON
-Charles,PERSON
-He,PERSON
-His,PERSON
-he,PERSON
-his,PERSON
-London,LOCATION
-Ross,PERSON
-Fulham Road,LOCATION
-he,PERSON
-North Devon,LOCATION
-He,PERSON
-He,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-Stapleton,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Charles,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-she,PERSON
-She,PERSON
-him,PERSON
-his,PERSON
-her,PERSON
-Stapleton,PERSON
-She,PERSON
-Charles,PERSON
-Mrs. Laura Lyons,PERSON
-He,PERSON
-his,PERSON
-him,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-her,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-Charles,PERSON
-Mortimer,PERSON
-His,PERSON
-his,PERSON
-he,PERSON
-He,PERSON
-his,PERSON
-his,PERSON
-Mrs. Lyons,PERSON
-London,LOCATION
-He,PERSON
-her,PERSON
-his,PERSON
-He,PERSON
-her,PERSON
-he,PERSON
-evening,TIME
-Coombe Tracey,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-He,PERSON
-him,PERSON
-him,PERSON
-him,PERSON
-Mortimer,PERSON
-Grimpen Mire,LOCATION
-Charles Baskerville,PERSON
-His,PERSON
-him,PERSON
-Mrs. Stapleton,PERSON
-Mrs. Laura Lyons,PERSON
-Stapleton,PERSON
-Mrs. Stapleton,PERSON
-he,PERSON
-Mrs. Lyons,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Stapleton,PERSON
-Canada,LOCATION
-Mortimer,PERSON
-Henry Baskerville,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-Stapleton,PERSON
-Canada,LOCATION
-London,LOCATION
-Devonshire,LOCATION
-He,PERSON
-his,PERSON
-she,PERSON
-him,PERSON
-he,PERSON
-her,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-her,PERSON
-London,LOCATION
-he,PERSON
-her,PERSON
-him,PERSON
-Craven Street,LOCATION
-Mortimer,PERSON
-Baker Street,LOCATION
-Northumberland Hotel,LOCATION
-he,PERSON
-his,PERSON
-her,PERSON
-he,PERSON
-His,PERSON
-his,PERSON
-she,PERSON
-her,PERSON
-she,PERSON
-she,PERSON
-Stapleton,PERSON
-her,PERSON
-she,PERSON
-him,PERSON
-his,PERSON
-Stapleton,PERSON
-Henry,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-him,PERSON
-his,PERSON
-He,PERSON
-Stapleton,PERSON
-Stapleton,PERSON
-Baskerville,PERSON
-his,PERSON
-his,PERSON
-West Country,LOCATION
-Folkestone Court,ORGANIZATION
-May,DATE
-Stapleton,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-London,LOCATION
-he,PERSON
-him,PERSON
-He,PERSON
-London,LOCATION
-Stapleton,PERSON
-he,PERSON
-his,PERSON
-his,PERSON
-him,PERSON
-Merripit House,ORGANIZATION
-Anthony,PERSON
-Stapletons,MISC
-His,PERSON
-he,PERSON
-his,PERSON
-Anthony,PERSON
-England,LOCATION
-Antonio,PERSON
-Spanish,MISC
-Spanish-American,MISC
-Mrs. Stapleton,PERSON
-English,MISC
-Stapleton,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-Stapletons,PERSON
-Devonshire,LOCATION
-Henry,PERSON
-Stapleton,PERSON
-he,PERSON
-his,PERSON
-London,LOCATION
-Coombe Tracey,ORGANIZATION
-Cartwright,PERSON
-his,PERSON
-he,PERSON
-him,PERSON
-Stapleton,PERSON
-Cartwright,PERSON
-Baker Street,LOCATION
-Coombe Tracey,PERSON
-Stapleton,PERSON
-Barrymores,ORGANIZATION
-him,PERSON
-Stapleton,PERSON
-Henry,PERSON
-Henry,PERSON
-him,PERSON
-Stapleton,PERSON
-his,PERSON
-Henry,PERSON
-him,PERSON
-Mortimer,PERSON
-his,PERSON
-his,PERSON
-His,PERSON
-him,PERSON
-he,PERSON
-her,PERSON
-she,PERSON
-Stapleton,PERSON
-her,PERSON
-his,PERSON
-she,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-her,PERSON
-he,PERSON
-her,PERSON
-Henry,PERSON
-She,PERSON
-she,PERSON
-her,PERSON
-she,PERSON
-Stapleton,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-Henry,PERSON
-Merripit House,ORGANIZATION
-he,PERSON
-he,PERSON
-he,PERSON
-his,PERSON
-him,PERSON
-evening,TIME
-Henry,PERSON
-She,PERSON
-she,PERSON
-She,PERSON
-her,PERSON
-his,PERSON
-he,PERSON
-her,PERSON
-she,PERSON
-his,PERSON
-Her,PERSON
-he,PERSON
-she,PERSON
-him,PERSON
-Henry,PERSON
-He,PERSON
-her,PERSON
-she,PERSON
-he,PERSON
-his,PERSON
-he,PERSON
-his,PERSON
-she,PERSON
-he,PERSON
-his,PERSON
-Spanish,MISC
-Watson,PERSON
-Henry,PERSON
-He,PERSON
-he,PERSON
-his,PERSON
-Stapleton,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-Mrs. Stapleton,PERSON
-her,PERSON
-South America,LOCATION
-British,MISC
-England,LOCATION
-London,LOCATION
-He,PERSON
-his,PERSON
-he,PERSON
-he,PERSON
-he,PERSON
-him,PERSON
-his,PERSON
-him,PERSON
-he,PERSON
-Watson,PERSON
-Marcini,PERSON
+docTokenBegin,text,ner,nerConfidences
+0,Mr. Sherlock Holmes,PERSON,
+20,he,PERSON,
+51,him,PERSON,
+99,James Mortimer,PERSON,{'PERSON': 0.99931130729946}
+109,C.C.H.,MISC,{'MISC': 0.46032493090274}
+105,his,PERSON,
+151,Watson,PERSON,{'PERSON': 0.96388371485034}
+161,Holmes,PERSON,{'PERSON': 0.9985900617716}
+165,his,PERSON,
+174,him,PERSON,
+229,he,PERSON,
+237,Watson,PERSON,{'PERSON': 0.93748540633384}
+258,him,PERSON,
+264,his,PERSON,
+311,Mortimer,PERSON,{'PERSON': 0.99864804011094}
+327,him,PERSON,
+329,him,PERSON,
+342,Holmes,PERSON,{'PERSON': 0.98770483246369}
+359,his,PERSON,
+370,his,PERSON,
+422,he,PERSON,
+440,Holmes,PERSON,{'PERSON': 0.98770483246369}
+472,he,PERSON,
+484,him,PERSON,
+495,Watson,PERSON,{'PERSON': 0.94362923020128}
+503,Holmes,PERSON,{'PERSON': 0.98883712542665}
+507,his,PERSON,
+595,He,PERSON,
+608,his,PERSON,
+622,his,PERSON,
+639,his,PERSON,
+656,his,PERSON,
+667,his,PERSON,
+670,He,PERSON,
+686,his,PERSON,
+696,he,PERSON,
+699,his,PERSON,
+710,he,PERSON,
+728,he,PERSON,
+730,he,PERSON,
+733,his,PERSON,
+799,Watson,PERSON,{'PERSON': 0.98342937869955}
+855,he,PERSON,
+889,Watson,PERSON,{'PERSON': 0.91692639312453}
+941,Charing Cross,ORGANIZATION,{'ORGANIZATION': 0.98330639105807}
+1005,Charing Cross Hospital,ORGANIZATION,{'ORGANIZATION': 0.99640372299058}
+1094,his,PERSON,
+1099,him,PERSON,
+1113,Mortimer,PERSON,{'PERSON': 0.99953245365707}
+1213,London,LOCATION,{'LOCATION': 0.99820338508714}
+1192,he,PERSON,
+1234,he,PERSON,
+1239,he,PERSON,
+1250,he,PERSON,
+1273,he,PERSON,
+1302,Watson,PERSON,{'PERSON': 0.88552003183271}
+1351,Sherlock Holmes,PERSON,{'PERSON': 0.99982829694986}
+1356,his,PERSON,
+1422,Medical Directory,ORGANIZATION,{'ORGANIZATION': 0.66098379742971}
+1446,his,PERSON,
+1451,Mortimer,PERSON,{'PERSON': 0.84504974114645}
+1453,James,PERSON,{'PERSON': 0.97295410442145}
+1455,M.R.C.S.,ORGANIZATION,{'ORGANIZATION': 0.44007722786042}
+1457,1882,DATE,{'DATE': 0.78348764902965}
+1459,Grimpen,PERSON,{'PERSON': 0.61279065967823}
+1463,Devon,PERSON,{'PERSON': 0.54578490510422}
+1470,1882,DATE,{'DATE': 0.79705191568254}
+1472,1884,DATE,{'DATE': 0.81352676719773}
+1475,Charing Cross Hospital,ORGANIZATION,{'ORGANIZATION': 0.96812831208666}
+1482,Jackson,PERSON,{'PERSON': 0.6895992782621}
+1502,Swedish Pathological Society,ORGANIZATION,{'ORGANIZATION': 0.61516893402303}
+1530,"March, 1883",DATE,{'DATE': 0.76096795954495}
+1541,Grimpen,LOCATION,{'LOCATION': 0.61013797134884}
+1543,Thorsley,LOCATION,{'LOCATION': 0.47017589538667}
+1558,Watson,PERSON,{'PERSON': 0.87995509708727}
+1562,Holmes,PERSON,{'PERSON': 0.99280601809314}
+1638,London,LOCATION,{'LOCATION': 0.99124991253768}
+1653,his,PERSON,
+1657,his,PERSON,
+1687,his,PERSON,
+1708,his,PERSON,
+1754,Jove,PERSON,{'PERSON': 0.77976108135277}
+1765,He,PERSON,
+1773,he,PERSON,
+1777,he,PERSON,
+1794,his,PERSON,
+1855,Watson,PERSON,{'PERSON': 0.96459373467012}
+1857,He,PERSON,
+1883,Watson,PERSON,{'PERSON': 0.92123281080365}
+1913,James Mortimer,PERSON,{'PERSON': 0.99993284416077}
+1923,Sherlock Holmes,PERSON,{'PERSON': 0.984829889861}
+1955,He,PERSON,
+1998,He,PERSON,
+2010,his,PERSON,
+2017,his,PERSON,
+2024,his,PERSON,
+2032,he,PERSON,
+2039,his,PERSON,
+2059,Holmes,PERSON,{'PERSON': 0.94422597305145}
+2050,he,PERSON,
+2052,his,PERSON,
+2064,he,PERSON,
+2083,he,PERSON,
+2099,Shipping Office,ORGANIZATION,{'ORGANIZATION': 0.77498226335092}
+2122,Holmes,PERSON,{'PERSON': 0.97861665448446}
+2132,Charing Cross Hospital,ORGANIZATION,{'ORGANIZATION': 0.79142248679361}
+2163,Holmes,PERSON,{'PERSON': 0.99232617704398}
+2166,his,PERSON,
+2170,Mortimer,PERSON,{'PERSON': 0.99970724956427}
+2173,his,PERSON,
+2256,Holmes,PERSON,{'PERSON': 0.98955883393804}
+2263,James Mortimer,PERSON,{'PERSON': 0.99872492962959}
+2295,Mr. Holmes,PERSON,
+2317,Mr. Sherlock Holmes,PERSON,
+2336,Watson,PERSON,{'PERSON': 0.99944154732384}
+2367,Mr. Holmes,PERSON,
+2445,Sherlock Holmes,PERSON,{'PERSON': 0.99910071715128}
+2479,he,PERSON,
+2521,He,PERSON,
+2538,Holmes,PERSON,{'PERSON': 0.99753417910303}
+2543,his,PERSON,
+2552,he,PERSON,
+2594,last night,TIME,{'TIME': 0.91459052809416}
+2567,he,PERSON,
+2630,Mr. Holmes,PERSON,
+2671,Europe,LOCATION,{'LOCATION': 0.930387662133}
+2693,Holmes,PERSON,{'PERSON': 0.96716454147211}
+2709,Monsieur Bertillon,PERSON,{'PERSON': 0.86994406876974}
+2724,him,PERSON,
+2773,Holmes,PERSON,{'PERSON': 0.97136861611171}
+2780,Mortimer,PERSON,{'PERSON': 0.99956598839424}
+2824,James Mortimer,PERSON,{'PERSON': 0.99982954393755}
+2839,Holmes,PERSON,{'PERSON': 0.98579531475046}
+2930,1730,DATE,{'DATE': 0.79959919235815}
+2942,Mortimer,PERSON,{'PERSON': 0.999816948132}
+2946,his,PERSON,
+2962,Charles Baskerville,PERSON,{'PERSON': 0.99993614519502}
+2979,Devonshire,LOCATION,{'LOCATION': 0.94020144930017}
+2987,his,PERSON,
+2993,his,PERSON,
+2997,He,PERSON,
+3020,he,PERSON,
+3028,his,PERSON,
+3041,him,PERSON,
+3044,Holmes,PERSON,{'PERSON': 0.99729773170996}
+3047,his,PERSON,
+3056,his,PERSON,
+3064,Watson,PERSON,{'PERSON': 0.74379118823777}
+3095,his,PERSON,
+3113,Baskerville Hall,PERSON,{'PERSON': 0.8667625369756}
+3156,Baskerville,PERSON,{'PERSON': 0.96275562610862}
+3226,Holmes,PERSON,{'PERSON': 0.99700494653234}
+3230,his,PERSON,
+3234,his,PERSON,
+3242,his,PERSON,
+3252,Mortimer,PERSON,{'PERSON': 0.99977703624448}
+3286,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.72018065836921}
+3302,Hugo Baskerville,PERSON,{'PERSON': 0.94781331327707}
+3320,his,PERSON,
+3445,Clarendon,PERSON,{'PERSON': 0.64685531006118}
+3457,Baskerville,PERSON,{'PERSON': 0.77039472620613}
+3472,he,PERSON,
+3524,West,LOCATION,{'LOCATION': 0.577070452647}
+3489,his,PERSON,
+3509,him,PERSON,
+3518,his,PERSON,
+3562,Baskerville,LOCATION,{'LOCATION': 0.81539819029268}
+3580,him,PERSON,
+3583,she,PERSON,
+3585,his,PERSON,
+3605,his,PERSON,
+3622,her,PERSON,
+3631,he,PERSON,
+3653,Hugo,PERSON,{'PERSON': 0.73327193561373}
+3639,her,PERSON,
+3655,his,PERSON,
+3707,Hugo Baskerville,PERSON,{'PERSON': 0.99805703220284}
+3680,her,PERSON,
+3695,her,PERSON,
+3711,he,PERSON,
+3733,her,PERSON,
+3735,she,PERSON,
+3768,she,PERSON,
+3791,her,PERSON,
+3804,Hugo,PERSON,{'PERSON': 0.63982997299988}
+3806,his,PERSON,
+3822,his,PERSON,
+3843,he,PERSON,
+3864,he,PERSON,
+3876,him,PERSON,
+3879,he,PERSON,
+3887,he,PERSON,
+3893,his,PERSON,
+3903,he,PERSON,
+3947,her,PERSON,
+3949,Whereat Hugo,PERSON,{'PERSON': 0.71944689390973}
+3958,his,PERSON,
+3964,his,PERSON,
+3982,he,PERSON,
+4125,she,PERSON,
+4129,her,PERSON,
+4157,him,PERSON,
+4161,he,PERSON,
+4182,he,PERSON,
+4190,he,PERSON,
+4193,he,PERSON,
+4205,her,PERSON,
+4223,Hugo Baskerville,PERSON,{'PERSON': 0.90426424740876}
+4219,he,PERSON,
+4228,his,PERSON,
+4237,him,PERSON,
+4327,he,PERSON,
+4339,his,PERSON,
+4523,she,PERSON,
+4553,Hugo Baskerville,PERSON,{'PERSON': 0.59763967666054}
+4541,her,PERSON,
+4557,her,PERSON,
+4584,his,PERSON,
+4629,Hugo Baskerville,PERSON,{'PERSON': 0.63676654276279}
+4677,he,PERSON,
+4788,Providence,LOCATION,{'LOCATION': 0.95527767801825}
+4812,Providence,LOCATION,{'LOCATION': 0.81775192042775}
+4852,Hugo Baskerville,PERSON,{'PERSON': 0.99744497056688}
+4857,Rodger,PERSON,{'PERSON': 0.99182152412085}
+4859,John,PERSON,{'PERSON': 0.83289475837856}
+4871,Elizabeth,PERSON,{'PERSON': 0.99815981276489}
+4855,his,PERSON,
+4877,Mortimer,PERSON,{'PERSON': 0.9998331336821}
+4896,Mr. Sherlock Holmes,PERSON,
+4884,he,PERSON,
+4886,his,PERSON,
+4890,his,PERSON,
+4908,his,PERSON,
+4919,he,PERSON,
+4940,Mortimer,PERSON,{'PERSON': 0.99983127324612}
+4947,his,PERSON,
+4953,Mr. Holmes,PERSON,
+4969,Devon County,LOCATION,{'LOCATION': 0.96762578804611}
+4973,May 14th,DATE,{'DATE': 0.90332564147403}
+4993,Charles Baskerville,PERSON,{'PERSON': 0.99713769438704}
+5012,his,PERSON,
+5033,Charles Baskerville,PERSON,{'PERSON': 0.99985792688164}
+5047,Mid-Devon,LOCATION,{'LOCATION': 0.61114159280768}
+5020,his,PERSON,
+5063,Charles,PERSON,{'PERSON': 0.9980211313009}
+5067,Baskerville Hall,LOCATION,{'LOCATION': 0.94529624858685}
+5074,his,PERSON,
+5096,him,PERSON,
+5129,his,PERSON,
+5138,him,PERSON,
+5145,his,PERSON,
+5149,Charles,PERSON,{'PERSON': 0.99670466841996}
+5162,South African,MISC,{'MISC': 0.99791217670859}
+5187,England,LOCATION,{'LOCATION': 0.99971245186509}
+5180,he,PERSON,
+5182,his,PERSON,
+5203,Baskerville Hall,LOCATION,{'LOCATION': 0.89410358499774}
+5197,he,PERSON,
+5200,his,PERSON,
+5225,his,PERSON,
+5234,his,PERSON,
+5247,his,PERSON,
+5253,his,PERSON,
+5265,his,PERSON,
+5269,His,PERSON,
+5294,Charles,PERSON,{'PERSON': 0.99246969797968}
+5353,Charles,PERSON,{'PERSON': 0.9991336126571}
+5397,Baskerville Hall,LOCATION,{'LOCATION': 0.67294840587136}
+5405,Barrymore,PERSON,{'PERSON': 0.98297507077626}
+5381,his,PERSON,
+5384,he,PERSON,
+5388,his,PERSON,
+5393,his,PERSON,
+5433,Charles,PERSON,{'PERSON': 0.99599064598734}
+5470,James Mortimer,PERSON,{'PERSON': 0.99993993875403}
+5500,Charles Baskerville,PERSON,{'PERSON': 0.99975277465575}
+5517,Yew Alley,PERSON,{'PERSON': 0.46465075705602}
+5520,Baskerville Hall,LOCATION,{'LOCATION': 0.9672365611706}
+5527,Barrymores,ORGANIZATION,{'ORGANIZATION': 0.89028830701003}
+5533,his,PERSON,
+5540,May,DATE,{'DATE': 0.75988658963316}
+5542,Charles,PERSON,{'PERSON': 0.99874522736626}
+5552,London,LOCATION,{'LOCATION': 0.9927531854497}
+5557,Barrymore,PERSON,{'PERSON': 0.98383216038279}
+5545,his,PERSON,
+5560,his,PERSON,
+5565,he,PERSON,
+5571,his,PERSON,
+5580,he,PERSON,
+5590,He,PERSON,
+5597,Barrymore,PERSON,{'PERSON': 0.84970736616134}
+5619,his,PERSON,
+5630,Charles,PERSON,{'PERSON': 0.99718985153629}
+5663,Charles,PERSON,{'PERSON': 0.99657513635452}
+5677,Alley,LOCATION,{'LOCATION': 0.5158922222492}
+5672,He,PERSON,
+5689,his,PERSON,
+5705,Barrymore,PERSON,{'PERSON': 0.98607979531739}
+5707,his,PERSON,
+5718,he,PERSON,
+5725,he,PERSON,
+5735,his,PERSON,
+5739,Murphy,PERSON,{'PERSON': 0.64314802442491}
+5760,he,PERSON,
+5763,his,PERSON,
+5774,He,PERSON,
+5777,he,PERSON,
+5802,Charles,PERSON,{'PERSON': 0.99847427686107}
+5824,Mortimer,PERSON,{'PERSON': 0.99984118755249}
+5834,his,PERSON,
+5841,him,PERSON,
+5916,Charles,PERSON,{'PERSON': 0.99695562351225}
+5972,Baskerville Hall,LOCATION,{'LOCATION': 0.48795197361331}
+5984,Mr. Henry Baskerville,PERSON,
+5998,Charles Baskerville,PERSON,{'PERSON': 0.99980499649365}
+5989,he,PERSON,
+6013,America,LOCATION,{'LOCATION': 0.99518758320702}
+6025,him,PERSON,
+6027,his,PERSON,
+6033,Mortimer,PERSON,{'PERSON': 0.99986207542174}
+6035,his,PERSON,
+6041,his,PERSON,
+6051,Mr. Holmes,PERSON,
+6061,Charles Baskerville,PERSON,{'PERSON': 0.99986826787876}
+6073,Sherlock Holmes,PERSON,{'PERSON': 0.99954829398989}
+6130,English,MISC,{'MISC': 0.99999851657215}
+6161,He,PERSON,
+6166,his,PERSON,
+6174,his,PERSON,
+6189,Mortimer,PERSON,{'PERSON': 0.99979542438314}
+6253,Baskerville Hall,LOCATION,{'LOCATION': 0.5804332188876}
+6350,Charles Baskerville,PERSON,{'PERSON': 0.99973671035257}
+6357,Mr. Frankland,PERSON,
+6361,Lafter Hall,LOCATION,{'LOCATION': 0.91522630381608}
+6365,Mr. Stapleton,PERSON,
+6383,Charles,PERSON,{'PERSON': 0.99923137042962}
+6393,his,PERSON,
+6418,South Africa,LOCATION,{'LOCATION': 0.99960943580532}
+6436,Bushman,PERSON,{'PERSON': 0.6026595585996}
+6410,He,PERSON,
+6455,Charles,PERSON,{'PERSON': 0.99734001256547}
+6466,He,PERSON,
+6486,he,PERSON,
+6490,his,PERSON,
+6497,him,PERSON,
+6515,Mr. Holmes,PERSON,
+6518,he,PERSON,
+6527,his,PERSON,
+6535,he,PERSON,
+6541,his,PERSON,
+6555,him,PERSON,
+6563,he,PERSON,
+6592,he,PERSON,
+6617,his,PERSON,
+6630,He,PERSON,
+6635,his,PERSON,
+6651,him,PERSON,
+6656,his,PERSON,
+6712,he,PERSON,
+6750,his,PERSON,
+6759,evening,TIME,{'TIME': 0.64449770532066}
+6756,him,PERSON,
+6773,he,PERSON,
+6778,he,PERSON,
+6828,his,PERSON,
+6842,Charles,PERSON,{'PERSON': 0.9991101067262}
+6848,London,LOCATION,{'LOCATION': 0.99679306461908}
+6850,His,PERSON,
+6865,he,PERSON,
+6884,his,PERSON,
+6900,him,PERSON,
+6906,Mr. Stapleton,PERSON,
+6917,his,PERSON,
+6943,Charles,PERSON,{'PERSON': 0.99727822361724}
+6946,Barrymore,PERSON,{'PERSON': 0.82423848123676}
+6956,Perkins,PERSON,{'PERSON': 0.85925620132249}
+6976,Baskerville Hall,LOCATION,{'LOCATION': 0.58897619394929}
+7005,Yew Alley,LOCATION,{'LOCATION': 0.60989941869468}
+7047,Barrymore,PERSON,{'PERSON': 0.82814461875499}
+7016,he,PERSON,
+7071,Charles,PERSON,{'PERSON': 0.99914518780613}
+7074,his,PERSON,
+7077,his,PERSON,
+7081,his,PERSON,
+7089,his,PERSON,
+7107,his,PERSON,
+7127,Barrymore,PERSON,{'PERSON': 0.9923686208587}
+7132,He,PERSON,
+7146,He,PERSON,
+7186,Mortimer,PERSON,{'PERSON': 0.99840421458849}
+7209,Mr. Holmes,PERSON,
+7196,his,PERSON,
+7204,he,PERSON,
+7245,he,PERSON,
+7253,he,PERSON,
+7257,Holmes,PERSON,{'PERSON': 0.99377653427382}
+7261,his,PERSON,
+7264,his,PERSON,
+7277,he,PERSON,
+7590,Charles,PERSON,{'PERSON': 0.99710585600157}
+7598,he,PERSON,
+7614,Mortimer,PERSON,{'PERSON': 0.99488752645621}
+7781,Charles,PERSON,{'PERSON': 0.99841736450712}
+7809,his,PERSON,
+7821,Watson,PERSON,{'PERSON': 0.84348007492229}
+7834,He,PERSON,
+7837,his,PERSON,
+7855,Sherlock Holmes,PERSON,{'PERSON': 0.99961259764929}
+7858,his,PERSON,
+7861,his,PERSON,
+7877,he,PERSON,
+7933,Mortimer,PERSON,{'PERSON': 0.99713878010093}
+7936,Mortimer,PERSON,{'PERSON': 0.99888222659814}
+7966,Mr. Holmes,PERSON,
+8056,Mr. Holmes,PERSON,
+8107,Baskerville,PERSON,{'PERSON': 0.36920520847334}
+8243,Holmes,PERSON,{'PERSON': 0.99522069950111}
+8245,his,PERSON,
+8261,he,PERSON,
+8278,Father of Evil,MISC,{'MISC': 0.89721234476674}
+8320,he,PERSON,
+8344,Mortimer,PERSON,{'PERSON': 0.99697524243738}
+8380,Charles,PERSON,{'PERSON': 0.99851784831148}
+8430,Henry Baskerville,PERSON,{'PERSON': 0.99997038403576}
+8436,Waterloo Station,LOCATION,{'ORGANIZATION': 0.50400382564205}
+8444,his,PERSON,
+8458,He,PERSON,
+8472,Charles,PERSON,{'PERSON': 0.99372889504018}
+8487,Canada,LOCATION,{'LOCATION': 0.99927323436819}
+8482,he,PERSON,
+8496,he,PERSON,
+8520,Charles,PERSON,{'PERSON': 0.99676709469235}
+8551,Rodger Baskerville,PERSON,{'PERSON': 0.99988185559439}
+8563,Charles,PERSON,{'PERSON': 0.99912895386386}
+8582,Henry,PERSON,{'PERSON': 0.99469275669508}
+8587,Rodger,PERSON,{'PERSON': 0.99831713621128}
+8597,He,PERSON,
+8626,England,LOCATION,{'LOCATION': 0.9918477546458}
+8635,Central America,LOCATION,{'LOCATION': 0.97944345099667}
+8642,1876,DATE,{'DATE': 0.98240598315527}
+8624,He,PERSON,
+8631,him,PERSON,
+8647,Henry,PERSON,{'PERSON': 0.97543291986499}
+8653,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.57605412978128}
+8665,Waterloo Station,LOCATION,{'LOCATION': 0.98579415674654}
+8663,him,PERSON,
+8677,Southampton,LOCATION,{'LOCATION': 0.95634900557947}
+8678,this morning,TIME,{'TIME': 0.98922160051218}
+8674,he,PERSON,
+8683,Mr. Holmes,PERSON,
+8694,him,PERSON,
+8700,he,PERSON,
+8707,his,PERSON,
+8726,Baskerville,PERSON,{'PERSON': 0.83580793557457}
+8742,Charles,PERSON,{'PERSON': 0.983095392053}
+8749,his,PERSON,
+8751,he,PERSON,
+8800,his,PERSON,
+8813,Charles,PERSON,{'PERSON': 0.99762000005276}
+8863,Holmes,PERSON,{'PERSON': 0.99456439088193}
+8883,he,PERSON,
+8896,Dartmoor,MISC,{'MISC': 0.62243850286578}
+8953,London,LOCATION,{'LOCATION': 0.99968041744892}
+8958,Devonshire,LOCATION,{'LOCATION': 0.92619777081959}
+8986,Mr. Holmes,PERSON,
+9025,Devonshire,LOCATION,{'LOCATION': 0.8415623975602}
+9028,London,LOCATION,{'LOCATION': 0.99864400246048}
+9030,He,PERSON,
+9069,Waterloo,LOCATION,{'LOCATION': 0.99518154331662}
+9073,Henry Baskerville,PERSON,{'PERSON': 0.99994427137721}
+9090,him,PERSON,
+9133,Mortimer,PERSON,{'PERSON': 0.99746168000264}
+9169,Henry Baskerville,PERSON,{'PERSON': 0.99986482303222}
+9181,Mr. Holmes,PERSON,
+9185,He,PERSON,
+9190,his,PERSON,
+9196,his,PERSON,
+9206,Holmes,PERSON,{'PERSON': 0.99018423580485}
+9208,him,PERSON,
+9223,Mortimer,PERSON,{'PERSON': 0.99435637616753}
+9230,Charles Baskerville,PERSON,{'PERSON': 0.99982164773143}
+9275,Holmes,PERSON,{'PERSON': 0.99856843382473}
+9278,his,PERSON,
+9290,he,PERSON,
+9296,him,PERSON,
+9302,Watson,PERSON,{'PERSON': 0.99516055821304}
+9351,Bradley,PERSON,{'PERSON': 0.98151546902874}
+9357,him,PERSON,
+9410,this morning,TIME,{'TIME': 0.84051026003395}
+9435,he,PERSON,
+9455,his,PERSON,
+9480,Baker Street,LOCATION,{'LOCATION': 0.82468322134257}
+9583,Holmes,PERSON,{'PERSON': 0.79910517070453}
+9585,his,PERSON,
+9595,his,PERSON,
+9600,his,PERSON,
+9609,him,PERSON,
+9615,Watson,PERSON,{'PERSON': 0.99819428955426}
+9619,he,PERSON,
+9677,Holmes,PERSON,{'PERSON': 0.95316301171585}
+9693,He,PERSON,
+9709,Watson,PERSON,{'PERSON': 0.66108498660462}
+9739,He,PERSON,
+9750,his,PERSON,
+9753,his,PERSON,
+9756,He,PERSON,
+9765,He,PERSON,
+9779,he,PERSON,
+9839,Devonshire,LOCATION,{'LOCATION': 0.68335292812721}
+9890,Stamford,LOCATION,{'LOCATION': 0.97061791640851}
+9940,He,PERSON,
+9948,his,PERSON,
+9964,Baskerville Hall,LOCATION,{'LOCATION': 0.83494793704519}
+9985,Yew Alley,PERSON,{'PERSON': 0.47711439327659}
+10025,Grimpen,LOCATION,{'LOCATION': 0.88089826587946}
+10031,Mortimer,PERSON,{'PERSON': 0.99990720745905}
+10033,his,PERSON,
+10058,Lafter Hall,PERSON,{'PERSON': 0.55096529825152}
+10091,his,PERSON,
+10116,Princetown,LOCATION,{'LOCATION': 0.94203670595403}
+10262,Mortimer,PERSON,{'PERSON': 0.99809194549137}
+10448,Mortimer,PERSON,{'PERSON': 0.96915129385788}
+10466,He,PERSON,
+10500,Watson,PERSON,{'PERSON': 0.96000322413664}
+10496,He,PERSON,
+10507,his,PERSON,
+10512,he,PERSON,
+10514,his,PERSON,
+10520,his,PERSON,
+10548,he,PERSON,
+10570,his,PERSON,
+10574,him,PERSON,
+10596,his,PERSON,
+10620,he,PERSON,
+10658,Yew Alley,LOCATION,{'LOCATION': 0.69249838819305}
+10643,he,PERSON,
+10652,he,PERSON,
+10655,him,PERSON,
+10663,his,PERSON,
+10672,he,PERSON,
+10690,his,PERSON,
+10721,Mortimer,PERSON,{'PERSON': 0.99398271957855}
+10710,he,PERSON,
+10732,him,PERSON,
+10745,he,PERSON,
+10758,he,PERSON,
+10774,he,PERSON,
+10781,he,PERSON,
+10795,London,LOCATION,{'LOCATION': 0.99384078301022}
+10790,he,PERSON,
+10792,his,PERSON,
+10802,Watson,PERSON,{'PERSON': 0.8969272485773}
+10837,Mortimer,PERSON,{'PERSON': 0.99861133548216}
+10840,Henry Baskerville,PERSON,{'PERSON': 0.99977916198024}
+10844,morning,TIME,{'TIME': 0.52845120470542}
+10856,Holmes,PERSON,{'PERSON': 0.99623436031612}
+10859,his,PERSON,
+10885,Mortimer,PERSON,{'PERSON': 0.99990065972269}
+10929,He,PERSON,
+10951,his,PERSON,
+10964,his,PERSON,
+10972,his,PERSON,
+10983,Henry Baskerville,PERSON,{'PERSON': 0.99993742158756}
+10989,Mortimer,PERSON,{'PERSON': 0.99688447514532}
+11007,Mr. Sherlock Holmes,PERSON,
+10998,he,PERSON,
+11048,this morning,TIME,{'TIME': 0.67466826518622}
+11071,Henry,PERSON,{'PERSON': 0.99530646083035}
+11091,London,LOCATION,{'LOCATION': 0.99771282724297}
+11100,Mr. Holmes,PERSON,
+11128,this morning,TIME,{'TIME': 0.58197976020132}
+11132,He,PERSON,
+11162,Henry Baskerville,PERSON,{'PERSON': 0.99919781988164}
+11165,Northumberland Hotel,LOCATION,{'LOCATION': 0.57278287874011}
+11178,Charing Cross,ORGANIZATION,{'ORGANIZATION': 0.96998788836054}
+11200,Northumberland Hotel,LOCATION,{'LOCATION': 0.8451727868934}
+11205,Holmes,PERSON,{'PERSON': 0.94700884601727}
+11228,Mortimer,PERSON,{'PERSON': 0.99882965209971}
+11234,Mortimer,PERSON,{'PERSON': 0.99966829955152}
+11294,he,PERSON,
+11308,he,PERSON,
+11372,Henry Baskerville,PERSON,{'PERSON': 0.99995652487814}
+11382,Mr. Holmes,PERSON,
+11417,Mortimer,PERSON,{'PERSON': 0.99910104883283}
+11465,Henry,PERSON,{'PERSON': 0.99664667709351}
+11504,Henry,PERSON,{'PERSON': 0.99599242891684}
+11513,Sherlock Holmes,PERSON,{'PERSON': 0.9996918264527}
+11550,Watson,PERSON,{'PERSON': 0.99592169761478}
+11582,He,PERSON,
+11589,his,PERSON,
+11687,Watson,PERSON,{'PERSON': 0.99720810266152}
+11691,Holmes,PERSON,{'PERSON': 0.91033348767838}
+11697,his,PERSON,
+11716,Mortimer,PERSON,{'PERSON': 0.99791760716423}
+11719,Holmes,PERSON,{'PERSON': 0.48415214119132}
+11729,Henry Baskerville,PERSON,{'PERSON': 0.99866366017253}
+11758,he,PERSON,
+11799,Henry,PERSON,{'PERSON': 0.99602185842613}
+11801,Watson,PERSON,{'PERSON': 0.97508728145431}
+11817,he,PERSON,
+11847,Watson,PERSON,{'PERSON': 0.96756984053431}
+11932,Henry,PERSON,{'PERSON': 0.99497710701047}
+11977,Mr. Holmes,PERSON,
+11992,Mortimer,PERSON,{'PERSON': 0.99911052855484}
+12145,Times,ORGANIZATION,{'ORGANIZATION': 0.82233835697914}
+12212,Times,ORGANIZATION,{'ORGANIZATION': 0.60211113720463}
+12261,Mr. Holmes,PERSON,
+12267,Henry Baskerville,PERSON,{'PERSON': 0.99998351934358}
+12288,Holmes,PERSON,{'PERSON': 0.98156519479069}
+12352,Holmes,PERSON,{'PERSON': 0.98156519479035}
+12381,he,PERSON,
+12433,Mr. Holmes,PERSON,
+12471,Times,ORGANIZATION,{'ORGANIZATION': 0.98695047776907}
+12515,his,PERSON,
+12519,his,PERSON,
+12662,Henry,PERSON,{'PERSON': 0.99530469933424}
+12632,he,PERSON,
+12644,he,PERSON,
+12664,he,PERSON,
+12667,his,PERSON,
+12697,Mortimer,PERSON,{'PERSON': 0.99299173495375}
+12905,Charing Cross,LOCATION,{'LOCATION': 0.68895494284731}
+12941,He,PERSON,
+12963,his,PERSON,
+12975,he,PERSON,
+13020,Henry,PERSON,{'PERSON': 0.98998163884597}
+13035,London,LOCATION,{'LOCATION': 0.99753889210819}
+13043,Mr. Holmes,PERSON,
+13148,Henry,PERSON,{'PERSON': 0.99790241862735}
+13158,British,MISC,{'MISC': 0.99998715048158}
+13172,States,LOCATION,{'LOCATION': 0.97097691077741}
+13175,Canada,LOCATION,{'LOCATION': 0.99676813097312}
+13218,Mortimer,PERSON,{'PERSON': 0.99579247179072}
+13243,Mr. Holmes,PERSON,
+13255,he,PERSON,
+13271,Holmes,PERSON,{'PERSON': 0.95816344448955}
+13308,last night,TIME,{'TIME': 0.91211751155243}
+13407,London,LOCATION,{'LOCATION': 0.99913289253721}
+13432,Mortimer,PERSON,{'PERSON': 0.99954495646809}
+13471,West,LOCATION,{'LOCATION': 0.65990498213466}
+13514,Sherlock Holmes,PERSON,{'PERSON': 0.99950560590276}
+13524,Mortimer,PERSON,{'PERSON': 0.99841958449847}
+13606,Holmes,PERSON,{'PERSON': 0.98824659645163}
+13611,Mortimer,PERSON,{'PERSON': 0.99929309995279}
+13640,his,PERSON,
+13643,his,PERSON,
+13652,he,PERSON,
+13661,Henry Baskerville,PERSON,{'PERSON': 0.9998936639779}
+13694,he,PERSON,
+13843,Mortimer,PERSON,{'PERSON': 0.99299199375853}
+13851,Holmes,PERSON,{'PERSON': 0.98387688185453}
+13912,Mortimer,PERSON,{'PERSON': 0.99821259919505}
+13938,Henry,PERSON,{'PERSON': 0.98263150482336}
+13953,Baskerville Hall,LOCATION,{'LOCATION': 0.89039665071284}
+14022,Mr. Holmes,PERSON,
+14058,His,PERSON,
+14063,his,PERSON,
+14071,he,PERSON,
+14083,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.42338523169665}
+14098,he,PERSON,
+14156,Mr. Holmes,PERSON,
+14184,Watson,PERSON,{'PERSON': 0.99962637235132}
+14219,Watson,PERSON,{'PERSON': 0.99657000394855}
+14271,his,PERSON,
+14313,Holmes,PERSON,{'PERSON': 0.95098390217988}
+14332,Watson,PERSON,{'PERSON': 0.89879835497919}
+14343,He,PERSON,
+14346,his,PERSON,
+14349,his,PERSON,
+14379,Mortimer,PERSON,{'PERSON': 0.999275845542}
+14381,Baskerville,PERSON,{'PERSON': 0.87038983898195}
+14396,Oxford Street,LOCATION,{'LOCATION': 0.98174057533255}
+14417,Watson,PERSON,{'PERSON': 0.96972585336914}
+14450,He,PERSON,
+14452,his,PERSON,
+14479,Oxford Street,LOCATION,{'LOCATION': 0.58659405859265}
+14484,Regent Street,LOCATION,
+14500,Holmes,PERSON,{'PERSON': 0.98969080251667}
+14508,he,PERSON,
+14522,his,PERSON,
+14559,Watson,PERSON,{'PERSON': 0.93569487879275}
+14571,him,PERSON,
+14632,Regent Street,LOCATION,{'LOCATION': 0.59707658237811}
+14635,Holmes,PERSON,{'PERSON': 0.96295597110785}
+14651,he,PERSON,
+14685,Holmes,PERSON,{'PERSON': 0.99351435008797}
+14688,he,PERSON,
+14714,Watson,PERSON,{'PERSON': 0.9356443261242}
+14716,Watson,PERSON,{'PERSON': 0.91203397250645}
+14769,Baskerville,PERSON,{'PERSON': 0.92326575811924}
+14778,he,PERSON,
+14796,Northumberland Hotel,LOCATION,{'LOCATION': 0.90812593503766}
+14799,he,PERSON,
+14807,him,PERSON,
+14817,him,PERSON,
+14836,Mortimer,PERSON,{'PERSON': 0.9998896782833}
+14839,his,PERSON,
+14874,Watson,PERSON,{'PERSON': 0.95197710205841}
+14939,he,PERSON,
+14941,he,PERSON,
+14950,he,PERSON,
+14959,he,PERSON,
+14973,His,PERSON,
+14987,he,PERSON,
+15008,him,PERSON,
+15036,Watson,PERSON,{'PERSON': 0.98123823260116}
+15135,Northumberland Hotel,LOCATION,{'LOCATION': 0.87727687047323}
+15146,Baskerville,PERSON,{'PERSON': 0.89745303619643}
+15156,his,PERSON,
+15164,he,PERSON,
+15207,Regent Street,LOCATION,
+15215,Mortimer,PERSON,{'PERSON': 0.99919037507153}
+15218,his,PERSON,
+15241,Holmes,PERSON,{'PERSON': 0.96952631993406}
+15330,his,PERSON,
+15337,Watson,PERSON,{'PERSON': 0.92218757680361}
+15340,He,PERSON,
+15351,he,PERSON,
+15362,Wilson,PERSON,{'PERSON': 0.99202934736851}
+15420,Wilson,PERSON,{'PERSON': 0.99560999201815}
+15431,Cartwright,PERSON,{'PERSON': 0.95975810712153}
+15447,he,PERSON,
+15458,him,PERSON,
+15501,He,PERSON,
+15523,Holmes,PERSON,{'PERSON': 0.98273741048822}
+15531,Cartwright,PERSON,{'PERSON': 0.96547009002929}
+15550,Charing Cross,ORGANIZATION,{'ORGANIZATION': 0.93177232522842}
+15614,him,PERSON,
+15668,Times,ORGANIZATION,{'ORGANIZATION': 0.95280404868682}
+15684,Times,ORGANIZATION,{'ORGANIZATION': 0.91423778420399}
+15787,Times,ORGANIZATION,{'ORGANIZATION': 0.96003814743064}
+15818,Baker Street,LOCATION,{'LOCATION': 0.99350654499516}
+15821,evening,TIME,{'TIME': 0.58693550961863}
+15826,Watson,PERSON,{'PERSON': 0.91028550706577}
+15845,2704,DATE,{'DATE': 0.72871416763394}
+15874,Sherlock Holmes,PERSON,{'PERSON': 0.99918524631513}
+15888,his,PERSON,
+15921,Belgian,MISC,{'MISC': 0.99999168946962}
+15911,he,PERSON,
+15951,Northumberland Hotel,LOCATION,{'LOCATION': 0.95495653584382}
+15924,He,PERSON,
+15934,he,PERSON,
+15956,Henry Baskerville,PERSON,{'PERSON': 0.999943303512}
+15969,He,PERSON,
+15997,Holmes,PERSON,{'PERSON': 0.98964266940932}
+16018,Baskerville,PERSON,{'PERSON': 0.70588406707913}
+16022,Theophilus Johnson,PERSON,{'PERSON': 0.98349908791552}
+16028,Newcastle,ORGANIZATION,{'ORGANIZATION': 0.71844027029075}
+16032,Mrs. Oldmore,PERSON,
+16041,Alton,PERSON,{'PERSON': 0.78858883350817}
+16050,Johnson,PERSON,{'PERSON': 0.85076403419414}
+16059,Holmes,PERSON,{'PERSON': 0.99190262964943}
+16069,he,PERSON,
+16090,Mr. Johnson,PERSON,
+16115,his,PERSON,
+16124,he,PERSON,
+16134,he,PERSON,
+16150,Mrs. Oldmore,PERSON,
+16179,She,PERSON,
+16193,Gloucester,LOCATION,{'LOCATION': 0.99848506121533}
+16187,Her,PERSON,
+16195,She,PERSON,
+16201,she,PERSON,
+16218,her,PERSON,
+16232,Watson,PERSON,{'PERSON': 0.90807190168478}
+16235,he,PERSON,
+16266,his,PERSON,
+16286,him,PERSON,
+16293,he,PERSON,
+16349,Henry Baskerville,PERSON,{'PERSON': 0.9998320422546}
+16353,His,PERSON,
+16361,he,PERSON,
+16371,his,PERSON,
+16397,Western,MISC,{'MISC': 0.99975378167978}
+16409,morning,TIME,{'TIME': 0.59659426445979}
+16377,he,PERSON,
+16379,he,PERSON,
+16386,he,PERSON,
+16406,him,PERSON,
+16427,he,PERSON,
+16475,Mr. Holmes,PERSON,
+16637,German,MISC,{'MISC': 0.99999931608807}
+16687,him,PERSON,
+16751,Mr. Holmes,PERSON,
+16828,Holmes,PERSON,{'PERSON': 0.91765712241682}
+16863,Henry,PERSON,{'PERSON': 0.99386280536873}
+16980,Holmes,PERSON,{'PERSON': 0.99020090585789}
+16982,Baskerville,PERSON,{'PERSON': 0.99016802660095}
+16985,his,PERSON,
+16992,Baskerville Hall,LOCATION,{'LOCATION': 0.75881807350846}
+17017,Holmes,PERSON,{'PERSON': 0.98651677466682}
+17040,London,LOCATION,{'LOCATION': 0.99834236430394}
+17093,Mortimer,PERSON,{'PERSON': 0.99947781719191}
+17099,this morning,TIME,{'TIME': 0.91460485184582}
+17107,Mortimer,PERSON,{'PERSON': 0.99947955093923}
+17139,Dartmoor,MISC,{'MISC': 0.39132781103822}
+17163,Barrymore,PERSON,{'PERSON': 0.95830034203374}
+17166,Charles,PERSON,{'PERSON': 0.99875792543398}
+17186,Barrymore,PERSON,{'PERSON': 0.98559116262189}
+17190,He,PERSON,
+17219,London,LOCATION,{'LOCATION': 0.99907373490687}
+17205,he,PERSON,
+17215,he,PERSON,
+17243,Henry,PERSON,{'PERSON': 0.99916946904237}
+17252,Mr. Barrymore,PERSON,
+17255,Baskerville Hall,LOCATION,{'LOCATION': 0.71558786908723}
+17266,Grimpen,PERSON,{'PERSON': 0.60501649232595}
+17281,Grimpen,PERSON,{'PERSON': 0.88540498683497}
+17286,Mr. Barrymore,PERSON,
+17292,his,PERSON,
+17304,Henry Baskerville,PERSON,{'PERSON': 0.9998516184167}
+17307,Northumberland Hotel,LOCATION,{'LOCATION': 0.78724347044123}
+17319,Barrymore,PERSON,{'PERSON': 0.98733114124195}
+17325,Devonshire,LOCATION,{'LOCATION': 0.90165623494469}
+17322,his,PERSON,
+17337,Baskerville,PERSON,{'PERSON': 0.98484298535512}
+17344,Dr. Mortimer,PERSON,{'PERSON': 0.51321391636007}
+17350,Barrymore,PERSON,{'PERSON': 0.94500809345952}
+17363,caretaker,MISC,{'MISC': 0.6451415820104}
+17356,He,PERSON,
+17386,he,PERSON,
+17388,his,PERSON,
+17410,Baskerville,PERSON,{'PERSON': 0.96753705404802}
+17451,Barrymore,PERSON,{'PERSON': 0.7144202752737}
+17457,Charles,PERSON,{'PERSON': 0.99653755918912}
+17463,Holmes,PERSON,{'PERSON': 0.93669854806052}
+17466,He,PERSON,
+17468,his,PERSON,
+17494,Charles,PERSON,{'PERSON': 0.99945929244206}
+17504,his,PERSON,
+17522,Mortimer,PERSON,{'PERSON': 0.99761944677578}
+17541,Charles,PERSON,{'PERSON': 0.98988593780561}
+17586,Henry,PERSON,{'PERSON': 0.99641172355459}
+17607,Holmes,PERSON,{'PERSON': 0.99581885440347}
+17609,his,PERSON,
+17629,he,PERSON,
+17633,Charles,PERSON,{'PERSON': 0.99897281354786}
+17649,he,PERSON,
+17656,his,PERSON,
+17698,Mortimer,PERSON,{'PERSON': 0.99435222825965}
+17727,Rodger Baskerville,PERSON,{'PERSON': 0.99987815622493}
+17731,Charles,PERSON,{'PERSON': 0.99871347185799}
+17744,Desmonds,PERSON,{'PERSON': 0.68804213751018}
+17751,James Desmond,PERSON,{'PERSON': 0.9987269838526}
+17758,Westmoreland,LOCATION,{'LOCATION': 0.9110249784318}
+17776,Mr. James Desmond,PERSON,
+17791,Charles,PERSON,{'PERSON': 0.99747714419481}
+17784,he,PERSON,
+17793,He,PERSON,
+17816,Charles,PERSON,{'PERSON': 0.990798330299}
+17808,he,PERSON,
+17819,he,PERSON,
+17823,him,PERSON,
+17839,Charles,PERSON,{'PERSON': 0.99819041662328}
+17845,He,PERSON,
+17858,He,PERSON,
+17885,he,PERSON,
+17900,Henry,PERSON,{'PERSON': 0.99737105517532}
+17906,Mr. Holmes,PERSON,
+17967,Baskervilles,LOCATION,{'LOCATION': 0.43685108307139}
+17969,he,PERSON,
+17980,House,ORGANIZATION,{'ORGANIZATION': 0.85283786315414}
+17998,Henry,PERSON,{'PERSON': 0.99821884433176}
+18016,Devonshire,LOCATION,{'LOCATION': 0.79224235365658}
+18040,Mortimer,PERSON,{'PERSON': 0.99737911247612}
+18049,Mortimer,PERSON,{'PERSON': 0.99986397200247}
+18051,his,PERSON,
+18058,his,PERSON,
+18074,he,PERSON,
+18085,Henry,PERSON,{'PERSON': 0.99838196686011}
+18117,Mr. Holmes,PERSON,
+18169,London,LOCATION,{'LOCATION': 0.9980223544558}
+18186,England,LOCATION,{'LOCATION': 0.9999607554619}
+18227,Holmes,PERSON,{'PERSON': 0.99089844198259}
+18229,his,PERSON,
+18288,Baskerville,PERSON,{'PERSON': 0.97664142939748}
+18312,Watson,PERSON,{'PERSON': 0.99967034393788}
+18316,he,PERSON,
+18346,Baskerville Hall,LOCATION,{'LOCATION': 0.52026866489014}
+18378,Holmes,PERSON,{'PERSON': 0.90477020124695}
+18430,Holmes,PERSON,{'PERSON': 0.99000365775359}
+18455,Saturday,DATE,{'DATE': 0.98184625626567}
+18467,Watson,PERSON,{'PERSON': 0.99995218195202}
+18477,Saturday,DATE,{'DATE': 0.98985679838232}
+18494,Paddington,LOCATION,{'LOCATION': 0.82907080431721}
+18503,Baskerville,PERSON,{'PERSON': 0.97636638701467}
+18521,he,PERSON,
+18537,he,PERSON,
+18551,Sherlock Holmes,PERSON,{'PERSON': 0.99971059454336}
+18565,Mortimer,PERSON,{'PERSON': 0.9995892550406}
+18586,Baskerville,PERSON,{'PERSON': 0.988737197036}
+18624,German,MISC,{'MISC': 0.9999981972085}
+18676,Charles,PERSON,{'PERSON': 0.99775022662488}
+18739,Holmes,PERSON,{'PERSON': 0.97849424778491}
+18751,Baker Street,LOCATION,{'LOCATION': 0.9856532846521}
+18758,his,PERSON,
+18765,his,PERSON,
+18800,he,PERSON,
+18825,Barrymore,PERSON,{'PERSON': 0.98202766209711}
+18831,Baskerville,PERSON,{'PERSON': 0.77031349348373}
+18854,Times,ORGANIZATION,{'ORGANIZATION': 0.67143276785687}
+18856,Cartwright,PERSON,{'PERSON': 0.88774388760646}
+18866,Watson,PERSON,{'PERSON': 0.96341349072629}
+18911,his,PERSON,
+18990,2704,DATE,{'DATE': 0.94920802908449}
+18994,he,PERSON,
+19018,Yard,MISC,{'MISC': 0.37710559948609}
+19048,Holmes,PERSON,{'PERSON': 0.98026430027207}
+19127,John Clayton,PERSON,{'PERSON': 0.99990946006901}
+19131,Turpey Street,LOCATION,{'LOCATION': 0.95526702402121}
+19142,Shipley,PERSON,{'PERSON': 0.93906090739607}
+19147,Waterloo Station,LOCATION,{'LOCATION': 0.989720333569}
+19151,Sherlock Holmes,PERSON,{'PERSON': 0.99912608461218}
+19162,Clayton,PERSON,{'PERSON': 0.91760988758916}
+19177,ten o'clock this morning,TIME,{'TIME': 0.97660277194794}
+19188,Regent Street,LOCATION,
+19227,he,PERSON,
+19239,he,PERSON,
+19251,him,PERSON,
+19295,he,PERSON,
+19304,he,PERSON,
+19311,he,PERSON,
+19318,he,PERSON,
+19325,he,PERSON,
+19332,He,PERSON,
+19334,his,PERSON,
+19338,Holmes,PERSON,{'PERSON': 0.97038940846108}
+19351,he,PERSON,
+19353,his,PERSON,
+19357,he,PERSON,
+19368,he,PERSON,
+19383,Mr. Sherlock Holmes,PERSON,
+19373,His,PERSON,
+19408,he,PERSON,
+19415,he,PERSON,
+19426,Watson,PERSON,{'PERSON': 0.97739561273396}
+19434,he,PERSON,
+19449,He,PERSON,
+19463,Sherlock Holmes,PERSON,{'PERSON': 0.99913996263254}
+19460,his,PERSON,
+19491,him,PERSON,
+19509,Trafalgar Square,LOCATION,{'LOCATION': 0.9999130368108}
+19500,He,PERSON,
+19512,He,PERSON,
+19515,he,PERSON,
+19521,he,PERSON,
+19532,he,PERSON,
+19554,Northumberland Hotel,LOCATION,{'LOCATION': 0.94722124172381}
+19592,Holmes,PERSON,{'PERSON': 0.97905592995407}
+19646,Baker Street,LOCATION,{'LOCATION': 0.5737078387126}
+19658,Holmes,PERSON,{'PERSON': 0.97816331534697}
+19668,Regent Street,LOCATION,
+19689,Waterloo Station,LOCATION,{'LOCATION': 0.7376837815327}
+19680,he,PERSON,
+19713,he,PERSON,
+19716,his,PERSON,
+19727,he,PERSON,
+19758,Mr. Sherlock Holmes,PERSON,
+19736,he,PERSON,
+19739,he,PERSON,
+19743,he,PERSON,
+19784,him,PERSON,
+19790,he,PERSON,
+19803,Mr. Sherlock Holmes,PERSON,
+19811,his,PERSON,
+19817,he,PERSON,
+19831,him,PERSON,
+19839,he,PERSON,
+19856,He,PERSON,
+19864,he,PERSON,
+19897,his,PERSON,
+19970,John Clayton,PERSON,{'PERSON': 0.99994367416972}
+19976,Holmes,PERSON,{'PERSON': 0.9908195043961}
+19984,his,PERSON,
+20007,he,PERSON,
+20022,Henry Baskerville,PERSON,{'PERSON': 0.99981330283181}
+20033,Regent Street,LOCATION,{'LOCATION': 0.88667051644601}
+20014,He,PERSON,
+20067,Watson,PERSON,{'PERSON': 0.95846444197633}
+20088,London,LOCATION,{'LOCATION': 0.99920856385544}
+20098,Devonshire,LOCATION,{'LOCATION': 0.89125722107672}
+20128,Watson,PERSON,{'PERSON': 0.80752903316077}
+20178,Baker Street,LOCATION,{'LOCATION': 0.98633966853921}
+20185,Henry Baskerville,PERSON,{'PERSON': 0.99983570391184}
+20189,Mortimer,PERSON,{'PERSON': 0.99961610477384}
+20203,Devonshire,ORGANIZATION,{'ORGANIZATION': 0.52356521687041}
+20205,Mr. Sherlock Holmes,PERSON,
+20217,his,PERSON,
+20237,Watson,PERSON,{'PERSON': 0.9071245373331}
+20241,he,PERSON,
+20301,Baskerville,PERSON,{'PERSON': 0.98597421895412}
+20314,Charles,PERSON,{'PERSON': 0.99756963452167}
+20303,his,PERSON,
+20351,Mr. James Desmond,PERSON,
+20379,him,PERSON,
+20388,him,PERSON,
+20403,Henry Baskerville,PERSON,{'PERSON': 0.99927128457887}
+20425,Barrymore,PERSON,{'PERSON': 0.67513391616021}
+20511,Mortimer,PERSON,{'PERSON': 0.99806295489899}
+20524,his,PERSON,
+20538,Stapleton,PERSON,{'PERSON': 0.80300757628304}
+20543,his,PERSON,
+20559,Mr. Frankland,PERSON,
+20563,Lafter Hall,LOCATION,{'LOCATION': 0.9008167496103}
+20678,Mortimer,PERSON,{'PERSON': 0.99843404822988}
+20706,last two days,DATE,{'DATE': 0.76335391515167}
+20768,Museum of the College of Surgeons,ORGANIZATION,{'ORGANIZATION': 0.80398369347878}
+20791,Baskerville,PERSON,{'PERSON': 0.97538656807786}
+20815,Holmes,PERSON,{'PERSON': 0.98841777044521}
+20818,his,PERSON,
+20830,Henry,PERSON,{'PERSON': 0.99947331972467}
+20884,he,PERSON,
+20897,Bear,MISC,{'MISC': 0.39411911871236}
+20902,Henry,PERSON,{'PERSON': 0.98741382919938}
+20915,Mortimer,PERSON,{'PERSON': 0.99966000460639}
+20961,Holmes,PERSON,{'PERSON': 0.92052907458425}
+20997,Mortimer,PERSON,{'PERSON': 0.99752241252556}
+21049,Baskerville,PERSON,{'PERSON': 0.98806208621159}
+21063,he,PERSON,
+21090,Watson,PERSON,{'PERSON': 0.99963364232263}
+21094,he,PERSON,
+21115,Devonshire,ORGANIZATION,{'ORGANIZATION': 0.74939174698945}
+21122,his,PERSON,
+21148,Mortimer,PERSON,{'PERSON': 0.99762111683401}
+21163,Celt,MISC,{'MISC': 0.4354855206658}
+21179,Charles,PERSON,{'PERSON': 0.99846165998002}
+21193,Ivernian,MISC,{'MISC': 0.44506991522666}
+21207,Baskerville Hall,PERSON,{'PERSON': 0.90375512872002}
+21249,South Coast,LOCATION,{'LOCATION': 0.98129624982453}
+21241,he,PERSON,
+21260,America,LOCATION,{'LOCATION': 0.94491335670147}
+21277,Watson,PERSON,{'PERSON': 0.99513894827263}
+21316,Mortimer,PERSON,{'PERSON': 0.99914335027891}
+21371,Baskerville,PERSON,{'PERSON': 0.97626025568593}
+21378,his,PERSON,
+21388,his,PERSON,
+21396,him,PERSON,
+21409,his,PERSON,
+21433,American,MISC,{'MISC': 0.99974707661983}
+21424,he,PERSON,
+21428,his,PERSON,
+21432,his,PERSON,
+21452,his,PERSON,
+21466,he,PERSON,
+21492,his,PERSON,
+21496,his,PERSON,
+21501,his,PERSON,
+21540,he,PERSON,
+21659,Henry Baskerville,PERSON,{'PERSON': 0.99992510826699}
+21718,evening,TIME,{'TIME': 0.75283846499284}
+21841,Baskerville,PERSON,{'PERSON': 0.86890561796484}
+21851,him,PERSON,
+21858,his,PERSON,
+21929,Nature,MISC,{'MISC': 0.36679298317023}
+21941,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.58484982145427}
+21949,Mortimer,PERSON,{'PERSON': 0.99777154847264}
+22003,his,PERSON,
+22008,his,PERSON,
+22011,He,PERSON,
+22026,Perkins,PERSON,{'PERSON': 0.98429894720169}
+22031,Mortimer,PERSON,{'PERSON': 0.99716174540033}
+22038,his,PERSON,
+22048,Princetown,LOCATION,{'LOCATION': 0.9204281939661}
+22052,He,PERSON,
+22077,him,PERSON,
+22166,he,PERSON,
+22174,Selden,PERSON,{'PERSON': 0.95457398535319}
+22177,Notting,LOCATION,{'LOCATION': 0.57432708870134}
+22178,Hill,PERSON,{'LOCATION': 0.5784573830933}
+22194,Holmes,PERSON,{'PERSON': 0.94327393272574}
+22225,his,PERSON,
+22236,his,PERSON,
+22243,his,PERSON,
+22309,his,PERSON,
+22321,him,PERSON,
+22348,Baskerville,PERSON,{'PERSON': 0.94577714461214}
+22353,his,PERSON,
+22358,him,PERSON,
+22502,his,PERSON,
+22506,Baskerville Hall,PERSON,{'PERSON': 0.92815151476931}
+22511,he,PERSON,
+22568,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.73548316215883}
+22600,Charles,PERSON,{'PERSON': 0.97390069342024}
+22602,South African,MISC,{'MISC': 0.99994308753792}
+22640,Baskerville,PERSON,{'PERSON': 0.95254941080342}
+22643,he,PERSON,
+22670,he,PERSON,
+22683,Yew Alley,LOCATION,{'LOCATION': 0.9357463413917}
+22716,him,PERSON,
+22726,he,PERSON,
+22768,Edison,PERSON,{'PERSON': 0.47600694131945}
+22921,Henry,PERSON,{'PERSON': 0.99030231463251}
+22925,Baskerville Hall,PERSON,{'PERSON': 0.53108630957272}
+22963,She,PERSON,
+22987,Henry,PERSON,{'PERSON': 0.98905454229707}
+22992,Mortimer,PERSON,{'PERSON': 0.99804443376703}
+23040,Barrymore,PERSON,{'PERSON': 0.99193831387637}
+23079,Henry,PERSON,{'PERSON': 0.99705268875016}
+23143,Henry,PERSON,{'PERSON': 0.998261711613}
+23222,Henry,PERSON,{'PERSON': 0.9973288944957}
+23269,his,PERSON,
+23279,he,PERSON,
+23282,him,PERSON,
+23288,him,PERSON,
+23290,he,PERSON,
+23307,him,PERSON,
+23309,Barrymore,PERSON,{'PERSON': 0.9928882684174}
+23320,He,PERSON,
+23338,He,PERSON,
+23408,Henry,PERSON,{'PERSON': 0.99413792066775}
+23455,Charles,PERSON,{'PERSON': 0.99965938135124}
+23469,his,PERSON,
+23599,Charles,PERSON,{'PERSON': 0.99935946909644}
+23602,his,PERSON,
+23630,Baskerville Hall,LOCATION,{'LOCATION': 0.95738783143351}
+23664,Charles,PERSON,{'PERSON': 0.99673084765026}
+23741,Baskerville,PERSON,{'PERSON': 0.76918197895688}
+23934,Elizabethan,MISC,{'MISC': 0.95503290993627}
+24002,Henry,PERSON,{'PERSON': 0.99815862441773}
+24038,he,PERSON,
+24073,morning,TIME,{'TIME': 0.55197581628345}
+24243,night,TIME,{'TIME': 0.71769170449483}
+24372,Baskerville Hall,LOCATION,{'LOCATION': 0.56952356460513}
+24377,Henry,PERSON,{'PERSON': 0.99856720683632}
+24627,Barrymore,PERSON,{'PERSON': 0.98424128094339}
+24621,He,PERSON,
+24629,he,PERSON,
+24653,he,PERSON,
+24656,his,PERSON,
+24672,Henry,PERSON,{'PERSON': 0.99672309251448}
+24675,he,PERSON,
+24713,her,PERSON,
+24733,Mrs. Barrymore,PERSON,
+24718,he,PERSON,
+24721,he,PERSON,
+24744,her,PERSON,
+24747,She,PERSON,
+24767,her,PERSON,
+24793,night,TIME,{'TIME': 0.58519938937759}
+24785,she,PERSON,
+24797,she,PERSON,
+24800,her,PERSON,
+24807,he,PERSON,
+24825,he,PERSON,
+24832,she,PERSON,
+24875,Charles,PERSON,{'PERSON': 0.99791855071473}
+24863,he,PERSON,
+24881,his,PERSON,
+24903,Barrymore,PERSON,{'PERSON': 0.96157571501985}
+24914,Regent Street,LOCATION,{'LOCATION': 0.60754892223898}
+24963,Grimpen,PERSON,{'PERSON': 0.57028437918121}
+24977,Barrymore,PERSON,{'PERSON': 0.84246880995098}
+24998,Sherlock Holmes,PERSON,{'PERSON': 0.99710997133167}
+25002,Henry,PERSON,{'PERSON': 0.99874200746256}
+25063,Mortimer,PERSON,{'PERSON': 0.99432481177742}
+25105,Mr. Barrymore,PERSON,
+25096,he,PERSON,
+25123,James,PERSON,{'PERSON': 0.99317500470604}
+25130,Mr. Barrymore,PERSON,
+25134,Hall last week,DATE,{'DATE': 0.91599341200405}
+25155,his,PERSON,
+25193,Mrs. Barrymore,PERSON,
+25166,he,PERSON,
+25184,his,PERSON,
+25199,she,PERSON,
+25212,Mr. Barrymore,PERSON,
+25224,he,PERSON,
+25237,him,PERSON,
+25243,he,PERSON,
+25254,his,PERSON,
+25261,he,PERSON,
+25273,he,PERSON,
+25286,Mr. Barrymore,PERSON,
+25311,Holmes,PERSON,{'PERSON': 0.9209553443833}
+25319,Barrymore,PERSON,{'PERSON': 0.98595132438709}
+25324,London,LOCATION,{'LOCATION': 0.9981036634975}
+25348,Charles,PERSON,{'PERSON': 0.98518948404776}
+25363,England,LOCATION,{'LOCATION': 0.99976658487019}
+25360,he,PERSON,
+25369,he,PERSON,
+25376,he,PERSON,
+25381,his,PERSON,
+25392,Baskerville,PERSON,{'PERSON': 0.98567130064152}
+25387,he,PERSON,
+25409,Times,ORGANIZATION,{'ORGANIZATION': 0.87244338502073}
+25413,his,PERSON,
+25428,his,PERSON,
+25443,Henry,PERSON,{'PERSON': 0.99884585234269}
+25463,Barrymores,ORGANIZATION,{'ORGANIZATION': 0.82320112242873}
+25497,Holmes,PERSON,{'PERSON': 0.99505682637612}
+25509,him,PERSON,
+25516,his,PERSON,
+25542,his,PERSON,
+25590,Mortimer,PERSON,{'PERSON': 0.99892467427221}
+25605,He,PERSON,
+25656,his,PERSON,
+25659,he,PERSON,
+25669,his,PERSON,
+25685,Watson,PERSON,{'PERSON': 0.99962371142104}
+25689,he,PERSON,
+25692,he,PERSON,
+25730,Mortimer,PERSON,{'PERSON': 0.93134628132471}
+25734,Stapleton,PERSON,{'PERSON': 0.95476334004417}
+25737,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.75505275519266}
+25762,Mr. Stapleton,PERSON,
+25782,Mortimer,PERSON,{'PERSON': 0.90053456950058}
+25785,he,PERSON,
+25795,his,PERSON,
+25823,Henry,PERSON,{'PERSON': 0.99651677209872}
+25829,his,PERSON,
+25834,He,PERSON,
+25856,Charles,PERSON,{'PERSON': 0.98583679801654}
+25907,Henry,PERSON,{'PERSON': 0.99775189834364}
+25988,He,PERSON,
+26000,his,PERSON,
+26003,he,PERSON,
+26022,Charles,PERSON,{'PERSON': 0.99801089071143}
+26033,his,PERSON,
+26044,His,PERSON,
+26063,his,PERSON,
+26084,Yew Alley,LOCATION,{'LOCATION': 0.5332160788945}
+26070,he,PERSON,
+26109,his,PERSON,
+26126,Mortimer,PERSON,{'PERSON': 0.99905328274278}
+26142,Charles,PERSON,{'PERSON': 0.99800121713481}
+26146,he,PERSON,
+26174,Mr. Sherlock Holmes,PERSON,
+26225,Watson,PERSON,{'PERSON': 0.99968765435147}
+26229,he,PERSON,
+26247,him,PERSON,
+26254,Mortimer,PERSON,{'PERSON': 0.9988447175107}
+26259,he,PERSON,
+26275,Mr. Sherlock Holmes,PERSON,
+26294,he,PERSON,
+26317,he,PERSON,
+26330,He,PERSON,
+26338,He,PERSON,
+26344,his,PERSON,
+26353,He,PERSON,
+26447,Henry,PERSON,{'PERSON': 0.9994639812413}
+26465,Stapleton,PERSON,{'PERSON': 0.98975385468769}
+26566,brambles,ORGANIZATION,{'ORGANIZATION': 0.52156493250258}
+26597,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.94021359969958}
+26602,he,PERSON,
+26635,Henry,PERSON,{'PERSON': 0.99099925862324}
+26651,his,PERSON,
+26669,Holmes,PERSON,{'PERSON': 0.99804017504254}
+26685,Stapleton,PERSON,{'PERSON': 0.98146748906276}
+26709,he,PERSON,
+26797,Charles,PERSON,{'PERSON': 0.99519173472957}
+26928,Stapleton,PERSON,{'PERSON': 0.98671141633342}
+26936,Grimpen Mire,PERSON,{'PERSON': 0.78389307271296}
+26941,he,PERSON,
+26968,He,PERSON,
+26975,his,PERSON,
+26993,him,PERSON,
+27039,George,PERSON,{'PERSON': 0.95402552006703}
+27106,he,PERSON,
+27112,him,PERSON,
+27161,Grimpen Mire,LOCATION,{'LOCATION': 0.68710085919519}
+27279,He,PERSON,
+27304,he,PERSON,
+27417,Stapleton,PERSON,{'PERSON': 0.95197810685628}
+27426,his,PERSON,
+27438,he,PERSON,
+27457,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.52210600706332}
+27631,England,LOCATION,{'LOCATION': 0.99126231822554}
+27776,his,PERSON,
+27781,he,PERSON,
+27787,his,PERSON,
+27798,his,PERSON,
+27801,his,PERSON,
+27828,Neolithic,MISC,{'MISC': 0.93989377065575}
+27838,he,PERSON,
+27843,He,PERSON,
+27845,his,PERSON,
+27852,he,PERSON,
+27881,his,PERSON,
+27898,Watson,PERSON,{'PERSON': 0.99892926178504}
+27928,Stapleton,PERSON,{'PERSON': 0.89904620355472}
+27970,his,PERSON,
+27978,His,PERSON,
+27989,him,PERSON,
+28001,his,PERSON,
+28009,his,PERSON,
+28015,he,PERSON,
+28018,his,PERSON,
+28061,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.86649014689799}
+28045,She,PERSON,
+28072,her,PERSON,
+28074,she,PERSON,
+28087,Miss Stapleton,PERSON,
+28117,her,PERSON,
+28153,Stapleton,PERSON,{'PERSON': 0.9906082292058}
+28177,England,LOCATION,{'LOCATION': 0.9992688606508}
+28166,she,PERSON,
+28186,She,PERSON,
+28219,her,PERSON,
+28225,she,PERSON,
+28239,Her,PERSON,
+28243,her,PERSON,
+28251,she,PERSON,
+28253,her,PERSON,
+28273,her,PERSON,
+28290,she,PERSON,
+28298,London,LOCATION,{'LOCATION': 0.99621432640106}
+28308,her,PERSON,
+28313,Her,PERSON,
+28320,she,PERSON,
+28326,her,PERSON,
+28347,She,PERSON,
+28361,her,PERSON,
+28403,she,PERSON,
+28423,London,LOCATION,{'LOCATION': 0.98721953389944}
+28498,Stapleton,PERSON,{'PERSON': 0.9702276361449}
+28513,his,PERSON,
+28517,Halloa,PERSON,{'PERSON': 0.51661244106869}
+28519,Beryl,PERSON,{'PERSON': 0.8988265447078}
+28523,he,PERSON,
+28534,his,PERSON,
+28546,Jack,PERSON,{'PERSON': 0.99735421636951}
+28563,He,PERSON,
+28583,him,PERSON,
+28586,He,PERSON,
+28591,his,PERSON,
+28621,Henry,PERSON,{'PERSON': 0.99552661352605}
+28628,him,PERSON,
+28658,Henry Baskerville,PERSON,{'PERSON': 0.99970042252643}
+28677,his,PERSON,
+28684,Watson,PERSON,{'PERSON': 0.99978540155364}
+28693,her,PERSON,
+28708,she,PERSON,
+28723,her,PERSON,
+28738,Watson,PERSON,{'PERSON': 0.99985008828531}
+28751,she,PERSON,
+28760,him,PERSON,
+28783,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.45373637752517}
+28960,he,PERSON,
+28984,Beryl,PERSON,{'PERSON': 0.97820398634162}
+28993,she,PERSON,
+29003,her,PERSON,
+29014,Stapleton,PERSON,{'PERSON': 0.98527616342633}
+29173,Watson,PERSON,{'PERSON': 0.99706832904164}
+29234,she,PERSON,
+29255,Mortimer,PERSON,{'PERSON': 0.99779635027682}
+29262,his,PERSON,
+29268,Charles,PERSON,{'PERSON': 0.99806483934284}
+29277,him,PERSON,
+29282,him,PERSON,
+29301,this afternoon,TIME,{'TIME': 0.69002921278637}
+29309,Henry,PERSON,{'PERSON': 0.99529632228151}
+29317,he,PERSON,
+29350,him,PERSON,
+29352,he,PERSON,
+29356,his,PERSON,
+29366,Watson,PERSON,{'PERSON': 0.9993122009747}
+29389,England,LOCATION,{'LOCATION': 0.99984803642557}
+29444,Baskervilles,LOCATION,{'LOCATION': 0.36466866513405}
+29475,Miss Stapleton,PERSON,
+29561,Miss Stapleton,PERSON,
+29574,Her,PERSON,
+29580,her,PERSON,
+29584,she,PERSON,
+29586,her,PERSON,
+29589,her,PERSON,
+29607,Watson,PERSON,{'PERSON': 0.99946111087215}
+29611,she,PERSON,
+29659,Henry,PERSON,{'PERSON': 0.9966794614516}
+29685,Miss Stapleton,PERSON,
+29695,Henry,PERSON,{'PERSON': 0.99831405917363}
+29700,his,PERSON,
+29722,Henry,PERSON,{'PERSON': 0.99623917599691}
+29726,London,LOCATION,{'LOCATION': 0.99590967530204}
+29736,Watson,PERSON,{'PERSON': 0.99915675805366}
+29791,Miss Stapleton,PERSON,{'PERSON': 0.58973474082315}
+29859,Henry,PERSON,{'PERSON': 0.98958134504923}
+29871,her,PERSON,
+29875,her,PERSON,
+29881,she,PERSON,
+29894,Watson,PERSON,{'PERSON': 0.99813914837093}
+29898,she,PERSON,
+29914,Charles,PERSON,{'PERSON': 0.99851326853597}
+29918,him,PERSON,
+29923,his,PERSON,
+29934,He,PERSON,
+29965,he,PERSON,
+29989,he,PERSON,
+29997,he,PERSON,
+30050,Henry,PERSON,{'PERSON': 0.99637013132672}
+30053,him,PERSON,
+30064,his,PERSON,
+30074,he,PERSON,
+30097,Henry,PERSON,{'PERSON': 0.98648563412006}
+30121,him,PERSON,
+30152,Miss Stapleton,PERSON,
+30187,he,PERSON,
+30210,he,PERSON,
+30242,Henry,PERSON,{'PERSON': 0.99088616016232}
+30225,He,PERSON,
+30231,he,PERSON,
+30267,he,PERSON,
+30313,Baskerville Hall,LOCATION,{'LOCATION': 0.49657666207698}
+30284,She,PERSON,
+30333,Mr. Sherlock Holmes,PERSON,
+30384,Baskerville Hall,LOCATION,{'LOCATION': 0.51989802093215}
+30387,October 13th,DATE,{'DATE': 0.73646290960665}
+30392,Holmes,PERSON,{'PERSON': 0.96837273157029}
+30416,God-forsaken,MISC,{'MISC': 0.96173335830409}
+30467,England,LOCATION,{'LOCATION': 0.99912930445088}
+30575,his,PERSON,
+30582,his,PERSON,
+30703,Henry Baskerville,PERSON,{'PERSON': 0.99984166604385}
+30799,he,PERSON,
+30823,his,PERSON,
+30828,he,PERSON,
+30839,him,PERSON,
+30846,he,PERSON,
+30865,his,PERSON,
+30883,him,PERSON,
+30896,he,PERSON,
+30914,he,PERSON,
+31011,Hill,PERSON,
+31015,he,PERSON,
+31024,Henry,PERSON,{'PERSON': 0.99867681004297}
+31038,Perkins,PERSON,{'PERSON': 0.95647574459112}
+31049,Stapleton,PERSON,{'PERSON': 0.98147770497589}
+31098,him,PERSON,
+31101,she,PERSON,
+31117,her,PERSON,
+31124,her,PERSON,
+31131,he,PERSON,
+31140,He,PERSON,
+31148,her,PERSON,
+31154,her,PERSON,
+31158,him,PERSON,
+31160,she,PERSON,
+31168,she,PERSON,
+31174,he,PERSON,
+31178,her,PERSON,
+31186,his,PERSON,
+31194,his,PERSON,
+31212,him,PERSON,
+31223,Baskerville,PERSON,{'PERSON': 0.96979545913477}
+31217,He,PERSON,
+31234,he,PERSON,
+31352,Henry,PERSON,{'PERSON': 0.9996694691008}
+31358,Stapleton,PERSON,{'PERSON': 0.98487194310613}
+31363,he,PERSON,
+31382,He,PERSON,
+31391,he,PERSON,
+31398,Stapleton,PERSON,{'PERSON': 0.99749788117167}
+31402,his,PERSON,
+31412,he,PERSON,
+31416,he,PERSON,
+31421,he,PERSON,
+31425,his,PERSON,
+31438,He,PERSON,
+31455,he,PERSON,
+31462,he,PERSON,
+31480,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.96376214586374}
+31489,Henry,PERSON,{'PERSON': 0.99927974540255}
+31494,Miss Stapleton,PERSON,
+31502,he,PERSON,
+31504,her,PERSON,
+31505,he,PERSON,
+31512,her,PERSON,
+31526,He,PERSON,
+31529,her,PERSON,
+31590,Stapleton,PERSON,{'PERSON': 0.86583238970052}
+31611,Henry,PERSON,{'PERSON': 0.9941507948583}
+31607,his,PERSON,
+31618,his,PERSON,
+31621,He,PERSON,
+31626,her,PERSON,
+31638,her,PERSON,
+31649,he,PERSON,
+31657,her,PERSON,
+31669,he,PERSON,
+31687,he,PERSON,
+31714,Henry,PERSON,{'PERSON': 0.99690174299996}
+31767,Mortimer,PERSON,{'PERSON': 0.64028716060357}
+31779,Long Down,LOCATION,{'LOCATION': 0.59560708693667}
+31772,He,PERSON,
+31790,him,PERSON,
+31805,he,PERSON,
+31808,Stapletons,MISC,{'MISC': 0.54612656670615}
+31822,Yew Alley,LOCATION,{'LOCATION': 0.87020521044363}
+31827,Henry,PERSON,{'PERSON': 0.79539236821134}
+31852,Yew Alley,LOCATION,{'LOCATION': 0.91285738287994}
+31900,his,PERSON,
+31944,he,PERSON,
+31955,him,PERSON,
+31958,he,PERSON,
+31960,his,PERSON,
+31968,he,PERSON,
+31985,he,PERSON,
+32026,Barrymore,PERSON,{'PERSON': 0.89441614663602}
+32030,he,PERSON,
+32067,Mr. Frankland,PERSON,
+32071,Lafter Hall,LOCATION,{'LOCATION': 0.91840913814516}
+32085,He,PERSON,
+32107,British,MISC,{'MISC': 0.99999657092675}
+32102,His,PERSON,
+32111,he,PERSON,
+32120,He,PERSON,
+32148,he,PERSON,
+32157,he,PERSON,
+32171,him,PERSON,
+32177,he,PERSON,
+32180,his,PERSON,
+32207,him,PERSON,
+32233,Fernworthy,PERSON,{'PERSON': 0.53721251977456}
+32211,He,PERSON,
+32222,he,PERSON,
+32224,his,PERSON,
+32241,he,PERSON,
+32260,his,PERSON,
+32264,He,PERSON,
+32273,his,PERSON,
+32286,his,PERSON,
+32291,his,PERSON,
+32295,him,PERSON,
+32305,he,PERSON,
+32319,him,PERSON,
+32337,He,PERSON,
+32351,he,PERSON,
+32359,he,PERSON,
+32365,his,PERSON,
+32409,Mortimer,PERSON,{'PERSON': 0.99740903672515}
+32430,Neolithic,MISC,{'MISC': 0.95999309153871}
+32387,he,PERSON,
+32390,his,PERSON,
+32404,he,PERSON,
+32426,he,PERSON,
+32439,He,PERSON,
+32478,Mortimer,PERSON,{'PERSON': 0.99730975615916}
+32481,Frankland,PERSON,{'PERSON': 0.8013826491146}
+32484,Lafter Hall,LOCATION,{'LOCATION': 0.70004948070604}
+32502,Barrymores,ORGANIZATION,{'ORGANIZATION': 0.70935109984377}
+32511,last night,TIME,{'TIME': 0.98275320203666}
+32526,London,LOCATION,{'LOCATION': 0.99918262760844}
+32533,Barrymore,PERSON,{'PERSON': 0.98461852780258}
+32569,Henry,PERSON,{'PERSON': 0.99810887329376}
+32586,Barrymore,PERSON,{'PERSON': 0.91611593147287}
+32576,he,PERSON,
+32581,his,PERSON,
+32590,him,PERSON,
+32592,he,PERSON,
+32599,Barrymore,PERSON,{'PERSON': 0.98638016260304}
+32602,he,PERSON,
+32619,Henry,PERSON,{'PERSON': 0.99638621684225}
+32621,Barrymore,PERSON,{'PERSON': 0.97119367418921}
+32637,he,PERSON,
+32680,she,PERSON,
+32691,he,PERSON,
+32697,his,PERSON,
+32712,this morning,TIME,{'TIME': 0.68655352467565}
+32716,Henry,PERSON,{'PERSON': 0.99760096106615}
+32720,he,PERSON,
+32742,Henry,PERSON,{'PERSON': 0.9995486101838}
+32767,London,LOCATION,{'LOCATION': 0.99939810100613}
+32746,him,PERSON,
+32754,him,PERSON,
+32757,him,PERSON,
+32762,his,PERSON,
+32774,Mrs. Barrymore,PERSON,
+32782,She,PERSON,
+32826,her,PERSON,
+32843,her,PERSON,
+32852,her,PERSON,
+32872,Barrymore,PERSON,{'PERSON': 0.97335866396692}
+32859,she,PERSON,
+32866,her,PERSON,
+32900,last night,TIME,{'TIME': 0.95932891110769}
+32958,morning,TIME,{'TIME': 0.63226117239586}
+33009,his,PERSON,
+33012,He,PERSON,
+33023,his,PERSON,
+33041,Barrymore,PERSON,{'PERSON': 0.95631629091241}
+33034,his,PERSON,
+33043,He,PERSON,
+33059,his,PERSON,
+33094,he,PERSON,
+33104,him,PERSON,
+33112,he,PERSON,
+33136,he,PERSON,
+33156,his,PERSON,
+33170,he,PERSON,
+33194,Barrymore,PERSON,{'PERSON': 0.9891059072532}
+33208,His,PERSON,
+33217,his,PERSON,
+33226,he,PERSON,
+33239,he,PERSON,
+33245,he,PERSON,
+33255,he,PERSON,
+33378,Henry,PERSON,{'PERSON': 0.98813184035829}
+33379,this morning,TIME,{'TIME': 0.9868136904166}
+33395,last night,TIME,{'TIME': 0.98689489165623}
+33422,Baskerville Hall,LOCATION,{'LOCATION': 0.82478876998345}
+33425,Oct. 15th,DATE,{'DATE': 0.99165125016496}
+33430,Holmes,PERSON,{'PERSON': 0.98308069898832}
+33484,Barrymore,PERSON,{'PERSON': 0.99156881900619}
+33579,Barrymore,PERSON,{'PERSON': 0.965580623987}
+33584,night before,TIME,{'TIME': 0.77591359037373}
+33592,he,PERSON,
+33666,Barrymore,PERSON,{'PERSON': 0.95472094367055}
+33703,he,PERSON,
+33732,his,PERSON,
+33741,his,PERSON,
+33796,he,PERSON,
+33813,morning,TIME,{'TIME': 0.50970752756851}
+33843,Barrymore,PERSON,{'PERSON': 0.97344945989359}
+33879,his,PERSON,
+33887,him,PERSON,
+33894,He,PERSON,
+33907,Barrymore,PERSON,{'PERSON': 0.99709202247457}
+33920,him,PERSON,
+33926,he,PERSON,
+33936,his,PERSON,
+33957,he,PERSON,
+33974,he,PERSON,
+33986,him,PERSON,
+33994,he,PERSON,
+34003,Holmes,PERSON,{'PERSON': 0.99924430912904}
+34008,he,PERSON,
+34033,Barrymore,PERSON,{'PERSON': 0.96506167672477}
+34017,he,PERSON,
+34030,He,PERSON,
+34037,he,PERSON,
+34053,he,PERSON,
+34091,he,PERSON,
+34096,Henry,PERSON,{'PERSON': 0.9990237159749}
+34098,his,PERSON,
+34108,he,PERSON,
+34116,his,PERSON,
+34139,Charles,PERSON,{'PERSON': 0.99648634613974}
+34146,London,LOCATION,{'LOCATION': 0.99665098915426}
+34168,Plymouth,LOCATION,{'LOCATION': 0.57163453588688}
+34194,his,PERSON,
+34207,he,PERSON,
+34258,Miss Stapleton,PERSON,
+34251,he,PERSON,
+34317,Barrymore,PERSON,{'PERSON': 0.96248811665799}
+34320,Henry,PERSON,{'PERSON': 0.99932010712104}
+34323,his,PERSON,
+34348,Watson,PERSON,{'PERSON': 0.99602038522841}
+34351,he,PERSON,
+34405,Holmes,PERSON,{'PERSON': 0.99553007238756}
+34428,Henry,PERSON,{'PERSON': 0.99955660051132}
+34430,his,PERSON,
+34450,Holmes,PERSON,{'PERSON': 0.9250787381481}
+34447,he,PERSON,
+34454,his,PERSON,
+34536,he,PERSON,
+34539,his,PERSON,
+34565,him,PERSON,
+34635,Merripit House,LOCATION,{'LOCATION': 0.59613704690765}
+34623,him,PERSON,
+34654,Henry,PERSON,{'PERSON': 0.99538144347463}
+34710,him,PERSON,
+34740,Miss Stapleton,PERSON,
+34714,He,PERSON,
+34734,his,PERSON,
+34774,her,PERSON,
+34780,her,PERSON,
+34784,she,PERSON,
+34790,she,PERSON,
+34795,he,PERSON,
+34804,his,PERSON,
+34856,him,PERSON,
+34885,him,PERSON,
+34898,him,PERSON,
+34915,him,PERSON,
+34959,Henry,PERSON,{'PERSON': 0.99767282295928}
+35031,Stapleton,PERSON,{'PERSON': 0.99067559803244}
+35033,his,PERSON,
+35038,He,PERSON,
+35051,he,PERSON,
+35064,Henry,PERSON,{'PERSON': 0.99377559273894}
+35067,Miss Stapleton,PERSON,{'PERSON': 0.56222186222332}
+35070,his,PERSON,
+35073,His,PERSON,
+35077,her,PERSON,
+35085,she,PERSON,
+35090,him,PERSON,
+35092,her,PERSON,
+35096,He,PERSON,
+35098,his,PERSON,
+35101,hers,PERSON,
+35104,she,PERSON,
+35118,spring,DATE,{'DATE': 0.83413526471288}
+35125,Stapleton,PERSON,{'PERSON': 0.99001988441037}
+35133,He,PERSON,
+35140,his,PERSON,
+35145,him,PERSON,
+35147,He,PERSON,
+35175,Stapleton,PERSON,{'PERSON': 0.9898434253133}
+35179,Henry,PERSON,{'PERSON': 0.99926962193669}
+35206,Stapleton,PERSON,{'PERSON': 0.98989752860387}
+35229,Henry,PERSON,{'PERSON': 0.97625771997503}
+35209,his,PERSON,
+35218,his,PERSON,
+35237,her,PERSON,
+35252,his,PERSON,
+35267,he,PERSON,
+35274,he,PERSON,
+35278,his,PERSON,
+35329,His,PERSON,
+35336,his,PERSON,
+35346,his,PERSON,
+35357,Watson,PERSON,{'PERSON': 0.98061270434905}
+35367,he,PERSON,
+35391,him,PERSON,
+35407,him,PERSON,
+35422,his,PERSON,
+35432,his,PERSON,
+35436,he,PERSON,
+35469,he,PERSON,
+35528,her,PERSON,
+35540,him,PERSON,
+35556,he,PERSON,
+35567,hers,PERSON,
+35576,he,PERSON,
+35590,him,PERSON,
+35607,he,PERSON,
+35637,Watson,PERSON,{'PERSON': 0.95922422165954}
+35673,He,PERSON,
+35688,he,PERSON,
+35696,he,PERSON,
+35716,he,PERSON,
+35728,her,PERSON,
+35734,he,PERSON,
+35751,Watson,PERSON,{'PERSON': 0.97766014752106}
+35757,her,PERSON,
+35770,she,PERSON,
+35777,she,PERSON,
+35781,she,PERSON,
+35785,she,PERSON,
+35812,he,PERSON,
+35842,her,PERSON,
+35845,She,PERSON,
+35854,she,PERSON,
+35861,she,PERSON,
+35867,she,PERSON,
+35878,she,PERSON,
+35884,She,PERSON,
+35900,she,PERSON,
+35913,her,PERSON,
+35919,her,PERSON,
+35932,she,PERSON,
+35947,her,PERSON,
+35965,her,PERSON,
+35969,she,PERSON,
+35978,hers,PERSON,
+35987,him,PERSON,
+35992,He,PERSON,
+36004,his,PERSON,
+36022,her,PERSON,
+36028,her,PERSON,
+36047,he,PERSON,
+36051,her,PERSON,
+36061,him,PERSON,
+36068,him,PERSON,
+36073,his,PERSON,
+36089,she,PERSON,
+36118,him,PERSON,
+36129,she,PERSON,
+36138,his,PERSON,
+36142,her,PERSON,
+36171,Watson,PERSON,{'PERSON': 0.87542553077674}
+36210,his,PERSON,
+36213,his,PERSON,
+36216,his,PERSON,
+36220,his,PERSON,
+36225,his,PERSON,
+36233,him,PERSON,
+36243,his,PERSON,
+36247,his,PERSON,
+36291,Stapleton,PERSON,{'PERSON': 0.88156051881669}
+36308,morning,TIME,{'TIME': 0.65618798775258}
+36318,Henry,PERSON,{'PERSON': 0.9941372024161}
+36343,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.96599605769898}
+36346,Friday,DATE,{'DATE': 0.99594692696768}
+36297,He,PERSON,
+36304,his,PERSON,
+36320,his,PERSON,
+36370,Henry,PERSON,{'PERSON': 0.98422894324659}
+36387,this morning,TIME,{'TIME': 0.87856407750807}
+36360,he,PERSON,
+36380,his,PERSON,
+36383,he,PERSON,
+36404,he,PERSON,
+36411,he,PERSON,
+36416,his,PERSON,
+36421,His,PERSON,
+36426,his,PERSON,
+36429,he,PERSON,
+36442,he,PERSON,
+36445,her,PERSON,
+36457,his,PERSON,
+36459,he,PERSON,
+36468,her,PERSON,
+36479,her,PERSON,
+36484,him,PERSON,
+36486,He,PERSON,
+36491,he,PERSON,
+36500,her,PERSON,
+36504,he,PERSON,
+36507,his,PERSON,
+36518,she,PERSON,
+36524,him,PERSON,
+36528,him,PERSON,
+36536,he,PERSON,
+36542,he,PERSON,
+36547,He,PERSON,
+36558,he,PERSON,
+36568,he,PERSON,
+36572,he,PERSON,
+36579,his,PERSON,
+36584,her,PERSON,
+36589,she,PERSON,
+36593,him,PERSON,
+36594,he,PERSON,
+36618,him,PERSON,
+36624,him,PERSON,
+36628,he,PERSON,
+36636,He,PERSON,
+36642,his,PERSON,
+36671,her,PERSON,
+36717,Stapleton,PERSON,{'PERSON': 0.99636030454227}
+36738,Henry,PERSON,{'PERSON': 0.99359116492804}
+36722,his,PERSON,
+36765,night,TIME,{'TIME': 0.79229994977785}
+36774,Mrs. Barrymore,PERSON,
+36795,Holmes,PERSON,{'PERSON': 0.86106618027348}
+36879,Henry,PERSON,{'PERSON': 0.99559584426886}
+36889,morning,TIME,{'TIME': 0.56295104374461}
+36881,his,PERSON,
+36988,he,PERSON,
+36994,he,PERSON,
+37078,his,PERSON,
+37135,his,PERSON,
+37140,he,PERSON,
+37149,he,PERSON,
+37234,he,PERSON,
+37252,he,PERSON,
+37259,he,PERSON,
+37275,him,PERSON,
+37285,his,PERSON,
+37300,him,PERSON,
+37342,Barrymore,PERSON,{'PERSON': 0.9870900483689}
+37331,He,PERSON,
+37339,he,PERSON,
+37353,his,PERSON,
+37390,Henry,PERSON,{'PERSON': 0.96427563714722}
+37365,His,PERSON,
+37376,his,PERSON,
+37386,he,PERSON,
+37401,Barrymore,PERSON,{'PERSON': 0.99096305793559}
+37410,His,PERSON,
+37416,he,PERSON,
+37432,his,PERSON,
+37477,Barrymore,PERSON,{'PERSON': 0.96708260892569}
+37482,Henry,PERSON,{'PERSON': 0.99734202140929}
+37542,he,PERSON,
+37544,his,PERSON,
+37599,Henry,PERSON,{'PERSON': 0.95980076402762}
+37668,He,PERSON,
+37708,night,TIME,{'TIME': 0.6172391516159}
+37696,he,PERSON,
+37822,Watson,PERSON,{'PERSON': 0.97660418075459}
+37990,Mrs. Barrymore,PERSON,
+38000,her,PERSON,
+38009,Her,PERSON,
+38030,her,PERSON,
+38039,Eliza,PERSON,{'PERSON': 0.9693799510997}
+38062,John,PERSON,{'PERSON': 0.97268000388192}
+38064,John,PERSON,{'PERSON': 0.96498444978344}
+38079,Henry,PERSON,{'PERSON': 0.98053641343503}
+38084,He,PERSON,
+38096,him,PERSON,
+38125,him,PERSON,
+38138,him,PERSON,
+38144,him,PERSON,
+38147,his,PERSON,
+38193,Barrymore,PERSON,{'PERSON': 0.98266317238656}
+38259,Henry,PERSON,{'PERSON': 0.99948166350246}
+38302,Selden,PERSON,{'PERSON': 0.99020783854341}
+38305,he,PERSON,
+38313,him,PERSON,
+38317,he,PERSON,
+38324,him,PERSON,
+38325,his,PERSON,
+38331,he,PERSON,
+38341,his,PERSON,
+38346,he,PERSON,
+38350,he,PERSON,
+38357,he,PERSON,
+38360,he,PERSON,
+38370,him,PERSON,
+38372,he,PERSON,
+38390,he,PERSON,
+38407,him,PERSON,
+38418,he,PERSON,
+38444,he,PERSON,
+38450,He,PERSON,
+38464,him,PERSON,
+38467,he,PERSON,
+38483,his,PERSON,
+38493,him,PERSON,
+38497,him,PERSON,
+38501,him,PERSON,
+38513,he,PERSON,
+38532,he,PERSON,
+38546,he,PERSON,
+38573,him,PERSON,
+38580,he,PERSON,
+38588,he,PERSON,
+38595,him,PERSON,
+38608,Christian,MISC,{'MISC': 0.99993678783498}
+38638,he,PERSON,
+38643,he,PERSON,
+38667,Barrymore,PERSON,{'PERSON': 0.99296235448456}
+38674,Henry,PERSON,{'PERSON': 0.99630514723615}
+38721,morning,TIME,{'TIME': 0.60727892759905}
+38737,Henry,PERSON,{'PERSON': 0.99715631907049}
+38780,Henry,PERSON,{'PERSON': 0.99722022178682}
+38774,he,PERSON,
+38846,Barrymore,PERSON,{'PERSON': 0.99729573042039}
+38857,he,PERSON,
+38871,Watson,PERSON,{'PERSON': 0.98747973846765}
+38898,Barrymores,ORGANIZATION,{'ORGANIZATION': 0.87161962966814}
+38947,him,PERSON,
+38950,he,PERSON,
+38957,his,PERSON,
+38985,Stapletons,MISC,{'MISC': 0.60515587092144}
+39004,Henry,PERSON,{'PERSON': 0.96033250861749}
+38990,him,PERSON,
+39043,his,PERSON,
+39170,him,PERSON,
+39174,he,PERSON,
+39186,him,PERSON,
+39191,him,PERSON,
+39196,he,PERSON,
+39205,Watson,PERSON,{'PERSON': 0.97131385617066}
+39215,Holmes,PERSON,{'PERSON': 0.90017181676134}
+39268,Grimpen Mire,LOCATION,{'LOCATION': 0.55635263253508}
+39241,his,PERSON,
+39281,night,TIME,{'TIME': 0.70966676126199}
+39331,his,PERSON,
+39347,Watson,PERSON,{'PERSON': 0.99740849850762}
+39397,Watson,PERSON,{'PERSON': 0.85604993176648}
+39428,his,PERSON,
+39439,him,PERSON,
+39450,he,PERSON,
+39489,Watson,PERSON,{'PERSON': 0.96339991650482}
+39520,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.53673456923599}
+39523,He,PERSON,
+39540,he,PERSON,
+39613,Watson,PERSON,{'PERSON': 0.9682017715969}
+39646,Stapleton,PERSON,{'PERSON': 0.98638850521291}
+39656,He,PERSON,
+39717,Watson,PERSON,{'PERSON': 0.99535179581745}
+39738,London,LOCATION,{'LOCATION': 0.99959000309026}
+39775,him,PERSON,
+39777,he,PERSON,
+39795,Watson,PERSON,{'PERSON': 0.94484865592622}
+40060,Baskerville Hall,LOCATION,{'LOCATION': 0.95876911386975}
+40137,Henry,PERSON,{'PERSON': 0.99728163203672}
+40143,He,PERSON,
+40147,his,PERSON,
+40160,him,PERSON,
+40175,him,PERSON,
+40250,him,PERSON,
+40254,his,PERSON,
+40289,his,PERSON,
+40297,Barrymore,PERSON,{'PERSON': 0.94786815590777}
+40330,his,PERSON,
+40333,his,PERSON,
+40339,he,PERSON,
+40358,Henry,PERSON,{'PERSON': 0.99878084072401}
+40395,his,PERSON,
+40405,he,PERSON,
+40408,his,PERSON,
+40458,his,PERSON,
+40478,him,PERSON,
+40526,him,PERSON,
+40530,him,PERSON,
+40539,he,PERSON,
+40590,him,PERSON,
+40694,Holmes,PERSON,{'PERSON': 0.94536630294792}
+40729,He,PERSON,
+40732,his,PERSON,
+40738,his,PERSON,
+40742,his,PERSON,
+40748,he,PERSON,
+40762,him,PERSON,
+40764,He,PERSON,
+40797,he,PERSON,
+40811,him,PERSON,
+40828,his,PERSON,
+40849,moon,LOCATION,{'LOCATION': 0.58582120639348}
+40901,his,PERSON,
+40905,he,PERSON,
+40915,He,PERSON,
+40932,his,PERSON,
+40936,his,PERSON,
+40953,he,PERSON,
+40972,his,PERSON,
+41001,Princetown,LOCATION,{'LOCATION': 0.68595588474275}
+41027,him,PERSON,
+41039,last night,TIME,{'TIME': 0.96739465284062}
+41049,Holmes,PERSON,{'PERSON': 0.98018880397963}
+41128,Barrymores,ORGANIZATION,{'ORGANIZATION': 0.68814141790331}
+41233,Sherlock Holmes,PERSON,{'PERSON': 0.99163835225991}
+41326,October 16th,DATE,{'DATE': 0.7635571165084}
+41409,night,TIME,{'TIME': 0.67117561898733}
+41576,Stapleton,PERSON,{'PERSON': 0.86732595230727}
+41586,Mortimer,PERSON,{'PERSON': 0.97055630035561}
+41643,him,PERSON,
+41650,his,PERSON,
+41655,Holmes,PERSON,{'PERSON': 0.98469790542645}
+41666,his,PERSON,
+41772,London,LOCATION,{'LOCATION': 0.999627167567}
+41786,Henry,PERSON,{'PERSON': 0.99504379613745}
+41827,London,LOCATION,{'LOCATION': 0.99959186919967}
+41824,he,PERSON,
+41831,he,PERSON,
+41838,he,PERSON,
+41841,he,PERSON,
+41864,him,PERSON,
+41880,He,PERSON,
+41908,Stapleton,LOCATION,{'LOCATION': 0.44504490087892}
+41915,Frankland,PERSON,{'PERSON': 0.70047428892109}
+41928,him,PERSON,
+41937,he,PERSON,
+41959,London,LOCATION,{'LOCATION': 0.99918463080716}
+41965,him,PERSON,
+42012,Henry,PERSON,{'PERSON': 0.99341866307158}
+42037,He,PERSON,
+42043,His,PERSON,
+42063,his,PERSON,
+42084,this morning,TIME,{'TIME': 0.91047627799334}
+42089,Barrymore,PERSON,{'PERSON': 0.99049562126568}
+42096,Henry,PERSON,{'PERSON': 0.99542632857678}
+42103,his,PERSON,
+42148,his,PERSON,
+42156,Barrymore,PERSON,{'PERSON': 0.98684074506997}
+42159,he,PERSON,
+42165,he,PERSON,
+42169,He,PERSON,
+42180,his,PERSON,
+42188,he,PERSON,
+42191,his,PERSON,
+42227,he,PERSON,
+42262,this morning,TIME,{'TIME': 0.85189359215853}
+42271,Selden,PERSON,{'PERSON': 0.98286763871723}
+42286,his,PERSON,
+42356,Henry,PERSON,{'PERSON': 0.96963645288809}
+42382,he,PERSON,
+42400,his,PERSON,
+42408,Mr. Stapleton,PERSON,
+42432,he,PERSON,
+42441,He,PERSON,
+42460,he,PERSON,
+42475,Henry,PERSON,{'PERSON': 0.99935530444333}
+42498,South America,LOCATION,{'LOCATION': 0.99701210224035}
+42491,he,PERSON,
+42495,his,PERSON,
+42519,he,PERSON,
+42535,he,PERSON,
+42545,him,PERSON,
+42552,him,PERSON,
+42582,Watson,PERSON,{'PERSON': 0.99818170519568}
+42592,he,PERSON,
+42618,his,PERSON,
+42623,he,PERSON,
+42628,He,PERSON,
+42641,him,PERSON,
+42645,he,PERSON,
+42658,he,PERSON,
+42671,Henry,PERSON,{'PERSON': 0.99331552371711}
+42676,Barrymore,PERSON,{'PERSON': 0.93564044922031}
+42701,he,PERSON,
+42718,Watson,PERSON,{'PERSON': 0.99296989213669}
+42751,Barrymore,PERSON,{'PERSON': 0.98749808197285}
+42770,he,PERSON,
+42808,Henry,PERSON,{'PERSON': 0.99818571922496}
+42850,Charles,PERSON,{'PERSON': 0.9982149839082}
+42870,he,PERSON,
+42895,he,PERSON,
+42918,He,PERSON,
+42967,Barrymore,PERSON,{'PERSON': 0.99331370264264}
+42954,Her,PERSON,
+42974,Henry,PERSON,{'PERSON': 0.99672528116247}
+42984,He,PERSON,
+42993,he,PERSON,
+43002,his,PERSON,
+43018,him,PERSON,
+43047,Coombe Tracey,PERSON,{'PERSON': 0.91644019107738}
+43101,Charles,PERSON,{'PERSON': 0.99859028373963}
+43096,she,PERSON,
+43111,his,PERSON,
+43115,she,PERSON,
+43251,Charles,PERSON,{'PERSON': 0.9978243888912}
+43273,his,PERSON,
+43299,L. L.,PERSON,{'PERSON': 0.94844184396488}
+43333,Charles,PERSON,{'PERSON': 0.99652333842464}
+43344,Barrymore,PERSON,{'PERSON': 0.98992249331311}
+43388,Charles,PERSON,{'PERSON': 0.99729724522597}
+43398,he,PERSON,
+43444,his,PERSON,
+43499,Barrymore,PERSON,{'PERSON': 0.97178914495891}
+43513,Henry,PERSON,{'PERSON': 0.99500467916653}
+43521,Watson,PERSON,{'PERSON': 0.96931158712539}
+43557,L. L.,PERSON,{'PERSON': 0.73394888270332}
+43588,her,PERSON,
+43601,Holmes,PERSON,{'PERSON': 0.98789093412879}
+43612,him,PERSON,
+43617,he,PERSON,
+43631,him,PERSON,
+43653,Holmes,PERSON,{'PERSON': 0.7531470277466}
+43676,Baker Street,LOCATION,{'LOCATION': 0.98407845248429}
+43661,he,PERSON,
+43703,his,PERSON,
+43709,his,PERSON,
+43720,his,PERSON,
+43724,his,PERSON,
+43730,he,PERSON,
+43734,October 17th,DATE,{'DATE': 0.76578586044745}
+43777,his,PERSON,
+43780,he,PERSON,
+43811,he,PERSON,
+43965,Baskerville Hall,ORGANIZATION,{'ORGANIZATION': 0.43749319466019}
+44030,Mortimer,PERSON,{'PERSON': 0.99911553042718}
+44049,Foulmire,LOCATION,{'LOCATION': 0.5194175685668}
+44033,his,PERSON,
+44051,He,PERSON,
+44066,he,PERSON,
+44081,He,PERSON,
+44087,his,PERSON,
+44093,he,PERSON,
+44102,him,PERSON,
+44109,his,PERSON,
+44143,Grimpen Mire,MISC,{'MISC': 0.60940552779123}
+44128,him,PERSON,
+44152,he,PERSON,
+44155,his,PERSON,
+44165,Mortimer,PERSON,{'PERSON': 0.98268435251136}
+44222,L. L.,PERSON,{'PERSON': 0.53182366163725}
+44226,He,PERSON,
+44238,he,PERSON,
+44277,he,PERSON,
+44286,Laura Lyons,PERSON,{'PERSON': 0.99919591615504}
+44292,L. L.--but,PERSON,{'PERSON': 0.63113067297304}
+44299,Coombe Tracey,PERSON,{'PERSON': 0.94955280323397}
+44289,her,PERSON,
+44296,she,PERSON,
+44306,she,PERSON,
+44315,Frankland,PERSON,{'PERSON': 0.99142205137918}
+44313,She,PERSON,
+44324,Frankland,PERSON,{'PERSON': 0.77238452229408}
+44337,Lyons,PERSON,{'PERSON': 0.99766645692669}
+44332,She,PERSON,
+44346,He,PERSON,
+44354,her,PERSON,
+44371,Her,PERSON,
+44380,her,PERSON,
+44382,she,PERSON,
+44386,his,PERSON,
+44423,she,PERSON,
+44431,Frankland,PERSON,{'PERSON': 0.97696649089841}
+44433,her,PERSON,
+44445,his,PERSON,
+44453,she,PERSON,
+44461,her,PERSON,
+44469,Her,PERSON,
+44484,her,PERSON,
+44491,Stapleton,PERSON,{'PERSON': 0.99350013975447}
+44498,Charles,PERSON,{'PERSON': 0.99672914964895}
+44512,her,PERSON,
+44520,He,PERSON,
+44535,his,PERSON,
+44539,him,PERSON,
+44567,Coombe Tracey,PERSON,{'PERSON': 0.99818662767451}
+44576,Mrs. Laura Lyons,PERSON,
+44613,Mortimer,PERSON,{'PERSON': 0.98771429806633}
+44628,Frankland,PERSON,{'PERSON': 0.96293162478095}
+44615,his,PERSON,
+44623,him,PERSON,
+44653,Sherlock Holmes,PERSON,{'PERSON': 0.99852726090289}
+44678,Barrymore,PERSON,{'PERSON': 0.9579449026061}
+44697,Mortimer,PERSON,{'PERSON': 0.98456007514497}
+44704,he,PERSON,
+44729,him,PERSON,
+44752,he,PERSON,
+44772,he,PERSON,
+44777,he,PERSON,
+44790,him,PERSON,
+44797,him,PERSON,
+44812,him,PERSON,
+44836,he,PERSON,
+44875,Barrymore,PERSON,{'PERSON': 0.77466031222881}
+44906,him,PERSON,
+44921,him,PERSON,
+44926,Selden,PERSON,{'PERSON': 0.9986257097836}
+44930,him,PERSON,
+44940,He,PERSON,
+44948,he,PERSON,
+44968,Watson,PERSON,{'PERSON': 0.9974930895393}
+44985,He,PERSON,
+45001,Barrymore,PERSON,{'PERSON': 0.95549174568775}
+45026,him,PERSON,
+45043,Barrymore,PERSON,{'PERSON': 0.98117735150523}
+45051,he,PERSON,
+45053,his,PERSON,
+45062,his,PERSON,
+45080,he,PERSON,
+45086,his,PERSON,
+45130,Henry,PERSON,{'PERSON': 0.99793864141896}
+45136,London,LOCATION,{'LOCATION': 0.99847237987231}
+45132,his,PERSON,
+45154,Charles,PERSON,{'PERSON': 0.99736339142762}
+45191,he,PERSON,
+45212,he,PERSON,
+45231,Baskerville,PERSON,{'PERSON': 0.8426770965662}
+45250,Henry,PERSON,{'PERSON': 0.98187110812959}
+45279,him,PERSON,
+45283,Selden,PERSON,{'PERSON': 0.9959898497506}
+45287,he,PERSON,
+45291,he,PERSON,
+45296,he,PERSON,
+45302,He,PERSON,
+45304,him,PERSON,
+45310,he,PERSON,
+45323,he,PERSON,
+45326,he,PERSON,
+45333,he,PERSON,
+45336,he,PERSON,
+45341,his,PERSON,
+45348,he,PERSON,
+45354,he,PERSON,
+45360,he,PERSON,
+45363,he,PERSON,
+45374,he,PERSON,
+45377,he,PERSON,
+45406,his,PERSON,
+45411,Selden,PERSON,{'PERSON': 0.99318888483554}
+45415,he,PERSON,
+45423,him,PERSON,
+45426,him,PERSON,
+45428,he,PERSON,
+45437,Coombe Tracey,PERSON,{'PERSON': 0.99961801149415}
+45434,he,PERSON,
+45441,he,PERSON,
+45449,Barrymore,PERSON,{'PERSON': 0.97939024469511}
+45547,he,PERSON,
+45625,18th of October,DATE,{'DATE': 0.9992762327441}
+45696,Mrs. Laura Lyons,PERSON,
+45700,Coombe Tracey,PERSON,{'PERSON': 0.98995694775774}
+45706,Charles Baskerville,PERSON,{'PERSON': 0.99963688981716}
+45713,him,PERSON,
+45721,he,PERSON,
+45723,his,PERSON,
+45794,Mrs. Lyons,PERSON,
+45803,Mortimer,PERSON,{'PERSON': 0.99970151975253}
+45806,him,PERSON,
+45838,Coombe Tracey,PERSON,{'PERSON': 0.99285995204666}
+45822,him,PERSON,
+45829,him,PERSON,
+45831,he,PERSON,
+45843,he,PERSON,
+45888,Henry,PERSON,{'PERSON': 0.99395421474461}
+45911,Coombe Tracey,PERSON,{'PERSON': 0.9896493870413}
+45915,Perkins,PERSON,{'PERSON': 0.96255259554974}
+45942,her,PERSON,
+45976,Remington,MISC,{'MISC': 0.93848360743643}
+45988,Her,PERSON,
+45995,she,PERSON,
+46004,she,PERSON,
+46022,Mrs. Lyons,PERSON,
+46030,Her,PERSON,
+46043,her,PERSON,
+46153,she,PERSON,
+46221,she,PERSON,
+46227,him,PERSON,
+46231,his,PERSON,
+46245,Charles Baskerville,PERSON,{'PERSON': 0.99960520006451}
+46271,Charles Baskerville,PERSON,{'PERSON': 0.99979833585586}
+46300,him,PERSON,
+46303,she,PERSON,
+46307,her,PERSON,
+46315,her,PERSON,
+46321,him,PERSON,
+46340,his,PERSON,
+46358,he,PERSON,
+46371,him,PERSON,
+46384,her,PERSON,
+46398,she,PERSON,
+46432,She,PERSON,
+46436,her,PERSON,
+46445,she,PERSON,
+46454,her,PERSON,
+46465,she,PERSON,
+46481,Charles,PERSON,{'PERSON': 0.99898180296115}
+46489,him,PERSON,
+46495,his,PERSON,
+46498,his,PERSON,
+46521,him,PERSON,
+46535,Coombe Tracey,PERSON,{'PERSON': 0.98083592147822}
+46532,he,PERSON,
+46538,He,PERSON,
+46546,he,PERSON,
+46560,him,PERSON,
+46570,he,PERSON,
+46587,he,PERSON,
+46592,She,PERSON,
+46619,Mr. Stapleton,PERSON,
+46629,Charles,PERSON,{'PERSON': 0.99651097120394}
+46644,Charles,PERSON,{'PERSON': 0.99801453822305}
+46632,He,PERSON,
+46641,him,PERSON,
+46656,Charles Baskerville,PERSON,{'PERSON': 0.99990267830098}
+46660,Stapleton,PERSON,{'PERSON': 0.96577111768035}
+46661,his,PERSON,
+46687,Charles,PERSON,{'PERSON': 0.99865301093105}
+46689,him,PERSON,
+46698,Mrs. Lyons,PERSON,
+46749,Charles,PERSON,{'PERSON': 0.99620204562924}
+46770,Her,PERSON,
+46839,she,PERSON,
+46844,she,PERSON,
+46863,she,PERSON,
+46870,Charles,PERSON,{'PERSON': 0.98521237118605}
+46874,He,PERSON,
+46909,she,PERSON,
+46914,her,PERSON,
+46946,him,PERSON,
+46962,his,PERSON,
+46968,him,PERSON,
+46995,London,LOCATION,{'LOCATION': 0.99862937597158}
+46991,he,PERSON,
+47072,Mrs. Lyons,PERSON,
+47133,Charles,PERSON,{'PERSON': 0.99798607181815}
+47142,he,PERSON,
+47144,his,PERSON,
+47169,her,PERSON,
+47181,Mrs. Lyons,PERSON,
+47265,Charles,PERSON,{'PERSON': 0.99549393551801}
+47305,Charles,PERSON,{'PERSON': 0.99833084866052}
+47384,Charles,PERSON,{'PERSON': 0.98908773398096}
+47390,he,PERSON,
+47396,his,PERSON,
+47484,his,PERSON,
+47497,he,PERSON,
+47504,him,PERSON,
+47516,Charles,PERSON,{'PERSON': 0.99760273506316}
+47558,Charles,PERSON,{'PERSON': 0.99895324626782}
+47567,he,PERSON,
+47575,he,PERSON,
+47616,Charles,PERSON,{'PERSON': 0.99884595027934}
+47632,his,PERSON,
+47667,she,PERSON,
+47676,her,PERSON,
+47702,Baskerville Hall,LOCATION,{'LOCATION': 0.9301981038656}
+47727,Coombe Tracey,PERSON,{'PERSON': 0.97766258310218}
+47691,she,PERSON,
+47697,she,PERSON,
+47705,she,PERSON,
+47718,her,PERSON,
+47753,she,PERSON,
+47819,her,PERSON,
+47836,she,PERSON,
+47843,she,PERSON,
+47853,her,PERSON,
+47857,she,PERSON,
+47881,she,PERSON,
+47949,Barrymore,PERSON,{'PERSON': 0.97256731133451}
+48047,his,PERSON,
+48061,he,PERSON,
+48065,he,PERSON,
+48082,Regent Street,LOCATION,{'LOCATION': 0.92520023315151}
+48072,He,PERSON,
+48089,him,PERSON,
+48128,he,PERSON,
+48131,Holmes,PERSON,{'PERSON': 0.98359139188283}
+48136,London,LOCATION,{'LOCATION': 0.99887484512148}
+48134,him,PERSON,
+48150,him,PERSON,
+48192,Mr. Frankland,PERSON,
+48211,his,PERSON,
+48232,Watson,PERSON,{'PERSON': 0.9997944412339}
+48236,he,PERSON,
+48295,Perkins,PERSON,{'PERSON': 0.96100186382276}
+48270,him,PERSON,
+48283,his,PERSON,
+48286,his,PERSON,
+48317,Henry,PERSON,{'PERSON': 0.99641198985828}
+48331,Frankland,PERSON,{'PERSON': 0.99454685738985}
+48333,his,PERSON,
+48361,he,PERSON,
+48416,Middleton,PERSON,{'PERSON': 0.74601471322709}
+48431,his,PERSON,
+48472,Fernworthy,MISC,{'MISC': 0.39244911997718}
+48511,Dr. Watson,PERSON,{'PERSON': 0.54009321969878}
+48531,John Morland,PERSON,{'PERSON': 0.99994404481359}
+48537,he,PERSON,
+48540,his,PERSON,
+48572,Morland,PERSON,{'PERSON': 0.37464396932574}
+48574,Court of Queen's Bench,ORGANIZATION,{'ORGANIZATION': 0.56590214989865}
+48699,Frankland,PERSON,{'PERSON': 0.89097345757555}
+48701,Regina,PERSON,{'PERSON': 0.96333997755566}
+48797,his,PERSON,
+48839,his,PERSON,
+48897,he,PERSON,
+48910,he,PERSON,
+48929,him,PERSON,
+48948,he,PERSON,
+48950,his,PERSON,
+48958,him,PERSON,
+48961,He,PERSON,
+48987,he,PERSON,
+49011,him,PERSON,
+49012,his,PERSON,
+49020,Barrymore,PERSON,{'PERSON': 0.94231525948517}
+49039,his,PERSON,
+49057,his,PERSON,
+49062,him,PERSON,
+49069,him,PERSON,
+49079,He,PERSON,
+49094,he,PERSON,
+49120,Barrymore,PERSON,{'PERSON': 0.98631755510961}
+49146,Frankland,PERSON,{'PERSON': 0.98704606626937}
+49135,his,PERSON,
+49154,his,PERSON,
+49199,his,PERSON,
+49218,His,PERSON,
+49226,his,PERSON,
+49244,he,PERSON,
+49260,Black Tor,PERSON,{'PERSON': 0.79232828339418}
+49302,his,PERSON,
+49333,him,PERSON,
+49336,him,PERSON,
+49371,his,PERSON,
+49394,Watson,PERSON,{'PERSON': 0.99896863309971}
+49449,Frankland,PERSON,{'PERSON': 0.90982523717725}
+49488,Frankland,PERSON,{'PERSON': 0.98391197601668}
+49490,his,PERSON,
+49505,Watson,PERSON,{'PERSON': 0.9996945569295}
+49510,he,PERSON,
+49518,he,PERSON,
+49532,his,PERSON,
+49542,he,PERSON,
+49562,He,PERSON,
+49565,him,PERSON,
+49580,he,PERSON,
+49642,Watson,PERSON,{'PERSON': 0.99904781562501}
+49674,Frankland,LOCATION,{'LOCATION': 0.55854422979283}
+49676,Regina,PERSON,{'PERSON': 0.96761430308493}
+49753,his,PERSON,
+49759,him,PERSON,
+49761,his,PERSON,
+49777,his,PERSON,
+49893,Belliver,LOCATION,{'LOCATION': 0.56790531577836}
+49895,Vixen Tor,PERSON,{'PERSON': 0.61908237448789}
+49927,He,PERSON,
+50054,his,PERSON,
+50058,his,PERSON,
+50075,Stapleton,PERSON,{'PERSON': 0.98699384206789}
+50082,he,PERSON,
+50133,he,PERSON,
+50220,Neolithic,MISC,{'MISC': 0.97838413857177}
+50410,Watson,PERSON,{'PERSON': 0.9998739905408}
+50414,Coombe Tracey,PERSON,{'PERSON': 0.94887502187793}
+50447,Henry,PERSON,{'PERSON': 0.99963419869715}
+50458,He,PERSON,
+50466,he,PERSON,
+50484,his,PERSON,
+50617,Spartan,MISC,{'MISC': 0.91559812841629}
+50613,he,PERSON,
+50654,him,PERSON,
+50661,he,PERSON,
+50668,he,PERSON,
+50730,Baskerville Hall,LOCATION,{'LOCATION': 0.80324090374066}
+50745,Grimpen,LOCATION,{'LOCATION': 0.93306739901593}
+50845,him,PERSON,
+50913,he,PERSON,
+50943,Watson,PERSON,{'PERSON': 0.93843643868446}
+51031,Holmes,PERSON,{'PERSON': 0.68988723896988}
+51047,he,PERSON,
+51068,he,PERSON,
+51075,his,PERSON,
+51089,He,PERSON,
+51100,his,PERSON,
+51168,Baker Street,LOCATION,{'LOCATION': 0.99898717777383}
+51114,his,PERSON,
+51120,he,PERSON,
+51131,he,PERSON,
+51148,his,PERSON,
+51152,his,PERSON,
+51159,his,PERSON,
+51165,he,PERSON,
+51191,him,PERSON,
+51270,Watson,PERSON,{'PERSON': 0.98719789188879}
+51314,Bradley,PERSON,{'PERSON': 0.88101432384646}
+51316,Oxford Street,LOCATION,{'LOCATION': 0.86515658537528}
+51324,Watson,PERSON,{'PERSON': 0.99568895521551}
+51429,Watson,PERSON,{'PERSON': 0.98062444613621}
+51543,He,PERSON,
+51557,Cartwright,PERSON,{'PERSON': 0.98728595799474}
+51574,Coombe Tracey,PERSON,{'PERSON': 0.99376706745278}
+51588,Mrs. Laura Lyons,PERSON,
+51686,Baker Street,LOCATION,{'LOCATION': 0.95234975774135}
+51739,Holmes,PERSON,{'PERSON': 0.93995750502025}
+51824,Henry,PERSON,{'PERSON': 0.99748807576051}
+51973,Cartwright,PERSON,{'PERSON': 0.94032163863266}
+51989,he,PERSON,
+52012,He,PERSON,
+52065,Holmes,PERSON,{'PERSON': 0.98264808811058}
+52072,his,PERSON,
+52151,Holmes,PERSON,{'PERSON': 0.91659172943164}
+52168,he,PERSON,
+52173,he,PERSON,
+52191,he,PERSON,
+52204,he,PERSON,
+52225,Mrs. Laura Lyons,PERSON,
+52260,Coombe Tracey,PERSON,{'PERSON': 0.85966208247762}
+52242,her,PERSON,
+52254,she,PERSON,
+52334,Holmes,PERSON,{'PERSON': 0.99436429220347}
+52345,he,PERSON,
+52356,he,PERSON,
+52368,he,PERSON,
+52411,Stapleton,PERSON,{'PERSON': 0.98788382966629}
+52469,his,PERSON,
+52474,His,PERSON,
+52504,Miss Stapleton,PERSON,
+52509,his,PERSON,
+52517,Holmes,PERSON,{'PERSON': 0.95868813521606}
+52533,Henry,PERSON,{'PERSON': 0.99522993753976}
+52529,he,PERSON,
+52539,her,PERSON,
+52544,Henry,PERSON,{'PERSON': 0.99187209723029}
+52557,Henry,PERSON,{'PERSON': 0.99704383686612}
+52565,Henry,PERSON,{'PERSON': 0.99952458469396}
+52559,He,PERSON,
+52571,her,PERSON,
+52585,his,PERSON,
+52589,his,PERSON,
+52603,he,PERSON,
+52606,she,PERSON,
+52614,him,PERSON,
+52650,his,PERSON,
+52654,his,PERSON,
+52702,London,LOCATION,{'LOCATION': 0.99917891541958}
+52686,he,PERSON,
+52697,he,PERSON,
+52723,her,PERSON,
+52762,Holmes,PERSON,{'PERSON': 0.99442166594618}
+52772,his,PERSON,
+52778,he,PERSON,
+52796,he,PERSON,
+52805,he,PERSON,
+52823,England,LOCATION,{'LOCATION': 0.9999388405819}
+52814,He,PERSON,
+52890,his,PERSON,
+52940,Mrs. Laura Lyons,PERSON,
+52935,his,PERSON,
+52990,her,PERSON,
+52998,Stapleton,PERSON,{'PERSON': 0.97045668820578}
+53004,she,PERSON,
+53010,his,PERSON,
+53017,she,PERSON,
+53042,her,PERSON,
+53057,Watson,PERSON,{'PERSON': 0.9720292183658}
+53074,Baskerville Hall,LOCATION,{'LOCATION': 0.97298656428892}
+53112,Holmes,PERSON,{'PERSON': 0.87832635237428}
+53145,he,PERSON,
+53149,Holmes,PERSON,{'PERSON': 0.98649693781118}
+53163,Watson,PERSON,{'PERSON': 0.9559217847479}
+53154,he,PERSON,
+53194,Henry,PERSON,{'PERSON': 0.99848485967706}
+53186,him,PERSON,
+53190,his,PERSON,
+53200,he,PERSON,
+53221,he,PERSON,
+53261,her,PERSON,
+53285,his,PERSON,
+53345,Holmes,PERSON,{'PERSON': 0.99325544357812}
+53349,his,PERSON,
+53355,his,PERSON,
+53367,his,PERSON,
+53371,his,PERSON,
+53376,his,PERSON,
+53387,he,PERSON,
+53441,Holmes,PERSON,{'PERSON': 0.99141418039717}
+53451,his,PERSON,
+53454,he,PERSON,
+53472,Watson,PERSON,{'PERSON': 0.99617167570765}
+53549,Holmes,PERSON,{'PERSON': 0.93346979648552}
+53554,Watson,PERSON,{'PERSON': 0.92782986714479}
+53568,He,PERSON,
+53582,his,PERSON,
+53632,Holmes,PERSON,{'PERSON': 0.99881774935814}
+53634,his,PERSON,
+53637,his,PERSON,
+53644,He,PERSON,
+53646,his,PERSON,
+53658,Watson,PERSON,{'PERSON': 0.88311075029723}
+53653,He,PERSON,
+53688,Watson,PERSON,{'PERSON': 0.91930673288191}
+53712,him,PERSON,
+53756,Holmes,PERSON,{'PERSON': 0.8823669258714}
+53760,him,PERSON,
+53880,him,PERSON,
+53925,his,PERSON,
+53947,Holmes,PERSON,{'PERSON': 0.99109870418712}
+53949,his,PERSON,
+53952,him,PERSON,
+53972,he,PERSON,
+53976,his,PERSON,
+54015,Henry Baskerville,PERSON,{'PERSON': 0.99978104674369}
+54042,first morning,TIME,{'TIME': 0.57016363448412}
+54050,Baker Street,LOCATION,{'LOCATION': 0.99839325828355}
+54037,he,PERSON,
+54048,him,PERSON,
+54082,Holmes,PERSON,{'PERSON': 0.9935066580746}
+54086,his,PERSON,
+54110,Holmes,PERSON,{'PERSON': 0.75987191902189}
+54120,him,PERSON,
+54122,his,PERSON,
+54135,Watson,PERSON,{'PERSON': 0.95194878217117}
+54183,he,PERSON,
+54186,his,PERSON,
+54207,his,PERSON,
+54224,him,PERSON,
+54235,him,PERSON,
+54237,his,PERSON,
+54252,Stapleton,PERSON,{'PERSON': 0.9465523917486}
+54256,he,PERSON,
+54258,He,PERSON,
+54267,He,PERSON,
+54296,he,PERSON,
+54306,his,PERSON,
+54309,his,PERSON,
+54352,Henry,PERSON,{'PERSON': 0.99345669066578}
+54358,fall,DATE,{'DATE': 0.72093124093162}
+54367,he,PERSON,
+54469,Grimpen,LOCATION,{'LOCATION': 0.62151639853454}
+54511,him,PERSON,
+54646,Holmes,PERSON,{'PERSON': 0.96913107691593}
+54652,him,PERSON,
+54668,He,PERSON,
+54680,he,PERSON,
+54812,Selden,PERSON,{'PERSON': 0.7103934461333}
+54844,Barrymore,PERSON,{'PERSON': 0.97805134538576}
+54837,he,PERSON,
+54840,his,PERSON,
+54846,Barrymore,PERSON,{'PERSON': 0.96806241716208}
+54855,Selden,PERSON,{'PERSON': 0.99422305039149}
+54857,his,PERSON,
+54870,Henry,PERSON,{'PERSON': 0.99184214231615}
+54892,his,PERSON,
+54897,Holmes,PERSON,{'PERSON': 0.99455196624641}
+54926,he,PERSON,
+54945,Henry,PERSON,{'PERSON': 0.69053011659762}
+54979,Selden,PERSON,{'PERSON': 0.8767808679592}
+54992,his,PERSON,
+54997,He,PERSON,
+54999,him,PERSON,
+55026,he,PERSON,
+55037,his,PERSON,
+55039,he,PERSON,
+55047,he,PERSON,
+55053,his,PERSON,
+55058,he,PERSON,
+55116,Stapleton,PERSON,{'PERSON': 0.98785610475081}
+55130,Henry,PERSON,{'PERSON': 0.99736854409059}
+55123,he,PERSON,
+55237,Halloa,PERSON,{'PERSON': 0.6697485360027}
+55239,Watson,PERSON,{'PERSON': 0.93055953614442}
+55304,him,PERSON,
+55320,He,PERSON,
+55323,he,PERSON,
+55337,Watson,PERSON,{'PERSON': 0.99992469428078}
+55364,this time of night,TIME,{'TIME': 0.69723074899304}
+55393,Henry,PERSON,{'PERSON': 0.97943445095782}
+55396,He,PERSON,
+55413,his,PERSON,
+55420,his,PERSON,
+55431,he,PERSON,
+55437,Selden,PERSON,{'PERSON': 0.98258700442262}
+55444,Princetown,LOCATION,{'LOCATION': 0.43052046185389}
+55447,Stapleton,PERSON,{'PERSON': 0.99186181631675}
+55460,he,PERSON,
+55463,his,PERSON,
+55466,his,PERSON,
+55473,Holmes,PERSON,{'PERSON': 0.75998489432327}
+55469,He,PERSON,
+55489,he,PERSON,
+55494,He,PERSON,
+55499,his,PERSON,
+55542,Henry,PERSON,{'PERSON': 0.99813922860741}
+55549,Henry,PERSON,{'PERSON': 0.98563372357369}
+55566,he,PERSON,
+55572,he,PERSON,
+55586,his,PERSON,
+55609,Holmes,PERSON,{'PERSON': 0.96932599640456}
+55601,his,PERSON,
+55628,Holmes,PERSON,{'PERSON': 0.98178694348736}
+55733,him,PERSON,
+55735,his,PERSON,
+55738,He,PERSON,
+55755,his,PERSON,
+55769,Stapleton,PERSON,{'PERSON': 0.94475390933909}
+55772,he,PERSON,
+55781,his,PERSON,
+55792,Mr. Sherlock Holmes,PERSON,
+55800,his,PERSON,
+55812,he,PERSON,
+55825,Watson,PERSON,{'PERSON': 0.99992626970935}
+55866,London,LOCATION,{'LOCATION': 0.99927563038357}
+55909,Holmes,PERSON,{'PERSON': 0.99522069950111}
+55911,his,PERSON,
+55951,his,PERSON,
+55958,Stapleton,PERSON,{'PERSON': 0.96712608014278}
+55963,him,PERSON,
+55966,he,PERSON,
+56010,his,PERSON,
+56012,he,PERSON,
+56027,Stapleton,PERSON,{'PERSON': 0.95388413143797}
+56033,Holmes,PERSON,{'PERSON': 0.989072508075}
+56039,Baskerville Hall,LOCATION,{'LOCATION': 0.75775194089484}
+56065,him,PERSON,
+56087,his,PERSON,
+56101,Holmes,PERSON,{'PERSON': 0.99820141552733}
+56119,he,PERSON,
+56135,he,PERSON,
+56146,his,PERSON,
+56153,London,LOCATION,{'LOCATION': 0.99849169173234}
+56155,Watson,PERSON,{'PERSON': 0.85436781084413}
+56183,he,PERSON,
+56217,his,PERSON,
+56221,he,PERSON,
+56232,him,PERSON,
+56242,him,PERSON,
+56254,he,PERSON,
+56260,his,PERSON,
+56266,he,PERSON,
+56279,him,PERSON,
+56287,Watson,PERSON,{'PERSON': 0.98667323642703}
+56319,him,PERSON,
+56342,him,PERSON,
+56353,he,PERSON,
+56440,Charles,PERSON,{'PERSON': 0.99455305733978}
+56452,him,PERSON,
+56459,he,PERSON,
+56471,him,PERSON,
+56518,Charles,PERSON,{'PERSON': 0.9989666822779}
+56526,him,PERSON,
+56675,Mrs. Laura Lyons,PERSON,
+56691,her,PERSON,
+56749,Baskerville,PERSON,{'PERSON': 0.422876736625}
+56735,him,PERSON,
+56738,he,PERSON,
+56775,Watson,PERSON,{'PERSON': 0.94802503202094}
+56784,Henry,PERSON,{'PERSON': 0.98811978200335}
+56790,Selden,PERSON,{'PERSON': 0.99934827296395}
+56795,Stapleton,PERSON,{'PERSON': 0.99425201218812}
+56787,him,PERSON,
+56801,He,PERSON,
+56811,he,PERSON,
+56821,he,PERSON,
+56852,he,PERSON,
+56887,Henry,PERSON,{'PERSON': 0.99952315468638}
+56895,Sherlock Holmes,PERSON,{'PERSON': 0.99751614585234}
+56914,London,LOCATION,{'LOCATION': 0.99400411226077}
+56899,he,PERSON,
+56911,him,PERSON,
+56916,He,PERSON,
+56919,his,PERSON,
+56925,he,PERSON,
+56946,his,PERSON,
+56970,he,PERSON,
+56986,Barrymore,PERSON,{'PERSON': 0.98953968933926}
+56988,his,PERSON,
+56992,him,PERSON,
+57002,she,PERSON,
+57006,her,PERSON,
+57013,he,PERSON,
+57028,her,PERSON,
+57029,he,PERSON,
+57037,her,PERSON,
+57047,her,PERSON,
+57062,him,PERSON,
+57075,Watson,PERSON,{'PERSON': 0.9782070280526}
+57128,Stapleton,PERSON,{'PERSON': 0.7060577963916}
+57152,Holmes,PERSON,{'PERSON': 0.98791572699399}
+57181,Henry,PERSON,{'PERSON': 0.99955832162041}
+57183,his,PERSON,
+57210,him,PERSON,
+57246,him,PERSON,
+57294,Watson,PERSON,{'PERSON': 0.95440185642841}
+57330,Watson,PERSON,{'PERSON': 0.98699909703244}
+57404,Watson,PERSON,{'PERSON': 0.98032546409286}
+57442,West,LOCATION,{'LOCATION': 0.66111933532235}
+57461,him,PERSON,
+57487,him,PERSON,
+57490,him,PERSON,
+57569,He,PERSON,
+57587,his,PERSON,
+57633,he,PERSON,
+57637,he,PERSON,
+57644,His,PERSON,
+57651,his,PERSON,
+57668,he,PERSON,
+57670,he,PERSON,
+57672,his,PERSON,
+57686,Watson,PERSON,{'PERSON': 0.97626333054709}
+57739,Henry,PERSON,{'PERSON': 0.99793537226465}
+57864,Barrymore,PERSON,{'PERSON': 0.93660721914701}
+57897,Rear-Admiral Baskerville,PERSON,{'PERSON': 0.52203187110454}
+57905,Rodney,PERSON,{'PERSON': 0.97400488819742}
+57908,West Indies,LOCATION,{'LOCATION': 0.79353711752959}
+57924,William Baskerville,PERSON,{'PERSON': 0.99999166437062}
+57934,House of Commons,ORGANIZATION,{'ORGANIZATION': 0.96760202107472}
+57938,Pitt,PERSON,{'PERSON': 0.92886796374264}
+57970,him,PERSON,
+57991,Baskervilles,ORGANIZATION,{'ORGANIZATION': 0.71519186387711}
+57999,him,PERSON,
+58019,Holmes,PERSON,{'PERSON': 0.988737753515}
+58022,he,PERSON,
+58044,his,PERSON,
+58050,him,PERSON,
+58076,1647,DATE,{'DATE': 0.942703747022}
+58087,Holmes,PERSON,{'PERSON': 0.99347833156128}
+58116,supper,DATE,{'DATE': 0.86962551915993}
+58105,him,PERSON,
+58108,his,PERSON,
+58126,Henry,PERSON,{'PERSON': 0.99976515389018}
+58130,his,PERSON,
+58142,his,PERSON,
+58145,He,PERSON,
+58155,his,PERSON,
+58159,his,PERSON,
+58163,he,PERSON,
+58265,Henry,PERSON,{'PERSON': 0.97492802417999}
+58284,He,PERSON,
+58297,his,PERSON,
+58301,he,PERSON,
+58303,his,PERSON,
+58330,Stapleton,PERSON,{'PERSON': 0.88081851468946}
+58369,he,PERSON,
+58386,his,PERSON,
+58471,Watson,PERSON,{'PERSON': 0.96539765510736}
+58469,him,PERSON,
+58475,him,PERSON,
+58487,he,PERSON,
+58499,his,PERSON,
+58519,Baker Street,LOCATION,{'LOCATION': 0.59038401519507}
+58516,him,PERSON,
+58524,He,PERSON,
+58529,his,PERSON,
+58535,he,PERSON,
+58546,him,PERSON,
+58565,morning,TIME,{'TIME': 0.49845763479133}
+58568,Holmes,PERSON,{'PERSON': 0.98137867993271}
+58577,him,PERSON,
+58601,he,PERSON,
+58605,he,PERSON,
+58607,his,PERSON,
+58653,he,PERSON,
+58678,Grimpen,LOCATION,{'LOCATION': 0.58787068499393}
+58680,Princetown,LOCATION,{'LOCATION': 0.73633632905246}
+58686,Selden,PERSON,{'PERSON': 0.92575493016275}
+58712,Cartwright,PERSON,{'PERSON': 0.98805437339559}
+58732,his,PERSON,
+58742,his,PERSON,
+58763,Henry,PERSON,{'PERSON': 0.99406298085194}
+58768,he,PERSON,
+58776,Holmes,PERSON,{'PERSON': 0.8398487754588}
+58795,his,PERSON,
+58809,Watson,PERSON,{'PERSON': 0.99288697340229}
+58840,Stapletons,MISC,{'MISC': 0.70180088674833}
+58880,Watson,PERSON,{'PERSON': 0.99688025383535}
+58886,London,LOCATION,{'LOCATION': 0.99384153152751}
+58891,London,LOCATION,{'LOCATION': 0.96666453519755}
+59002,Devonshire,LOCATION,{'LOCATION': 0.57112406082447}
+59042,he,PERSON,
+59048,he,PERSON,
+59063,he,PERSON,
+59077,Coombe Tracey,PERSON,{'PERSON': 0.88424898881368}
+59081,Watson,PERSON,{'PERSON': 0.99169568467785}
+59084,his,PERSON,
+59090,he,PERSON,
+59097,Watson,PERSON,{'PERSON': 0.95124260919183}
+59105,Stapleton,PERSON,{'PERSON': 0.88118256935336}
+59108,him,PERSON,
+59128,London,LOCATION,{'LOCATION': 0.99681118339104}
+59200,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.88658884899335}
+59323,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.52192833127013}
+59327,Grimpen Road,LOCATION,{'LOCATION': 0.98949941733507}
+59370,London,LOCATION,{'LOCATION': 0.99857341337888}
+59373,afternoon,TIME,{'TIME': 0.59345586911904}
+59388,Holmes,PERSON,{'PERSON': 0.98286572019126}
+59392,Stapleton,PERSON,{'PERSON': 0.90145621117679}
+59395,night,TIME,{'TIME': 0.58999275292644}
+59398,his,PERSON,
+59415,he,PERSON,
+59422,him,PERSON,
+59438,he,PERSON,
+59480,Coombe Tracey,PERSON,{'PERSON': 0.90398819444889}
+59517,Cartwright,PERSON,{'PERSON': 0.84403053712864}
+59530,Henry Baskerville,PERSON,{'PERSON': 0.99909518475339}
+59560,Baker Street,LOCATION,{'LOCATION': 0.96580494318482}
+59541,he,PERSON,
+59551,he,PERSON,
+59594,Holmes,PERSON,{'PERSON': 0.96086048103713}
+59616,Lestrade,PERSON,
+59626,this morning,TIME,{'TIME': 0.96395080884709}
+59629,He,PERSON,
+59644,his,PERSON,
+59649,Watson,PERSON,{'PERSON': 0.97398048884813}
+59668,Mrs. Laura Lyons,PERSON,
+59673,His,PERSON,
+59693,Stapletons,MISC,{'MISC': 0.69612577934958}
+59683,He,PERSON,
+59719,London,LOCATION,{'LOCATION': 0.99702282928441}
+59725,Henry,PERSON,{'PERSON': 0.99068576632037}
+59728,Stapletons,PERSON,{'PERSON': 0.44194183862968}
+59755,Mrs. Laura Lyons,PERSON,
+59764,Sherlock Holmes,PERSON,{'PERSON': 0.99938086208182}
+59760,her,PERSON,
+59767,his,PERSON,
+59777,her,PERSON,
+59793,Charles Baskerville,PERSON,{'PERSON': 0.99994047949429}
+59798,he,PERSON,
+59806,Watson,PERSON,{'PERSON': 0.99407701055628}
+59838,she,PERSON,
+59850,Charles,PERSON,{'PERSON': 0.99635590628691}
+59870,his,PERSON,
+59928,Mrs. Lyons,PERSON,
+59949,Mr. Stapleton,PERSON,
+59953,his,PERSON,
+59963,her,PERSON,
+59967,His,PERSON,
+59971,she,PERSON,
+59989,his,PERSON,
+59993,his,PERSON,
+59997,Mrs. Lyons,PERSON,
+60001,her,PERSON,
+60004,Her,PERSON,
+60011,her,PERSON,
+60028,her,PERSON,
+60032,His,PERSON,
+60036,she,PERSON,
+60041,His,PERSON,
+60044,He,PERSON,
+60052,Sherlock Holmes,PERSON,{'PERSON': 0.99962477489975}
+60055,his,PERSON,
+60082,her,PERSON,
+60101,Holmes,PERSON,{'PERSON': 0.98222174402955}
+60107,his,PERSON,
+60120,York four years ago,DATE,{'DATE': 0.97454646035732}
+60131,Mrs. Vandeleur,PERSON,
+60143,him,PERSON,
+60146,her,PERSON,
+60152,her,PERSON,
+60167,Mrs. Vandeleur,PERSON,
+60176,Oliver,PERSON,{'PERSON': 0.71309549091079}
+60196,She,PERSON,
+60219,Mr. Holmes,PERSON,
+60223,she,PERSON,
+60245,He,PERSON,
+60265,he,PERSON,
+60298,his,PERSON,
+60307,him,PERSON,
+60321,him,PERSON,
+60326,his,PERSON,
+60392,Sherlock Holmes,PERSON,{'PERSON': 0.99943382517472}
+60444,Stapleton,PERSON,{'PERSON': 0.99615041318697}
+60448,He,PERSON,
+60469,Charles,PERSON,{'PERSON': 0.98980937442603}
+60459,he,PERSON,
+60493,he,PERSON,
+60503,He,PERSON,
+60510,his,PERSON,
+60530,he,PERSON,
+60536,he,PERSON,
+60539,his,PERSON,
+60552,He,PERSON,
+60597,Charles,PERSON,{'PERSON': 0.99935205643872}
+60585,he,PERSON,
+60601,He,PERSON,
+60604,He,PERSON,
+60628,He,PERSON,
+60647,She,PERSON,
+60656,him,PERSON,
+60659,she,PERSON,
+60665,he,PERSON,
+60678,him,PERSON,
+60697,Sherlock Holmes,PERSON,{'PERSON': 0.99923742824921}
+60704,him,PERSON,
+60709,he,PERSON,
+60744,Mrs. Lyons,PERSON,
+60782,Holmes,PERSON,{'PERSON': 0.99704655866961}
+60835,Godno,LOCATION,{'LOCATION': 0.89856621340201}
+60838,Little Russia,LOCATION,{'LOCATION': 0.7900446383649}
+60844,'66,DATE,{'DATE': 0.96733631788542}
+60853,Anderson,PERSON,{'PERSON': 0.89027980612821}
+60856,North Carolina,LOCATION,{'LOCATION': 0.99957674274662}
+60902,this night,TIME,{'TIME': 0.91468136505594}
+60907,London,LOCATION,{'LOCATION': 0.94712279591937}
+60950,Lestrade,PERSON,{'PERSON': 0.50606187626326}
+60956,he,PERSON,
+60998,he,PERSON,
+61010,Holmes,PERSON,{'PERSON': 0.99064481865413}
+61037,Lestrade,PERSON,{'LOCATION': 0.50884194855018}
+61043,London,LOCATION,{'LOCATION': 0.97369727174881}
+61084,Sherlock Holmes,PERSON,{'PERSON': 0.98726374963156}
+61102,he,PERSON,
+61108,his,PERSON,
+61128,his,PERSON,
+61143,him,PERSON,
+61148,his,PERSON,
+61154,him,PERSON,
+61175,his,PERSON,
+61222,Holmes,PERSON,{'PERSON': 0.98735376797886}
+61233,his,PERSON,
+61351,Frankland,PERSON,{'PERSON': 0.99251307061963}
+61399,Coombe Tracey,PERSON,{'PERSON': 0.98379121325116}
+61409,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.92128427810937}
+61417,Lestrade,PERSON,{'PERSON': 0.57896870706417}
+61480,Mr. Holmes,PERSON,
+61519,him,PERSON,
+61557,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.85944032443283}
+61599,Holmes,PERSON,{'PERSON': 0.99123062210102}
+61619,he,PERSON,
+61657,Lestrade,PERSON,{'LOCATION': 0.36595869526147}
+61670,Watson,PERSON,{'PERSON': 0.99777890671733}
+61809,Henry,PERSON,{'PERSON': 0.99666794456674}
+61811,Stapleton,PERSON,{'PERSON': 0.91843974371539}
+61845,Stapleton,PERSON,{'PERSON': 0.9942133041352}
+61876,his,PERSON,
+61883,Stapleton,PERSON,{'PERSON': 0.89196701593567}
+61892,Henry,PERSON,{'PERSON': 0.99611776480122}
+61894,his,PERSON,
+61901,his,PERSON,
+61906,his,PERSON,
+61975,he,PERSON,
+61987,He,PERSON,
+62006,he,PERSON,
+62016,him,PERSON,
+62018,his,PERSON,
+62044,Watson,PERSON,{'PERSON': 0.98849385261631}
+62054,Holmes,PERSON,{'PERSON': 0.98954382655545}
+62071,she,PERSON,
+62096,she,PERSON,
+62177,Holmes,PERSON,{'PERSON': 0.96970047982709}
+62186,he,PERSON,
+62190,he,PERSON,
+62203,Watson,PERSON,{'PERSON': 0.97304857668252}
+62230,He,PERSON,
+62249,his,PERSON,
+62254,his,PERSON,
+62489,Holmes,PERSON,{'PERSON': 0.99196537378295}
+62491,his,PERSON,
+62503,his,PERSON,
+62506,his,PERSON,
+62511,he,PERSON,
+62622,Holmes,PERSON,{'PERSON': 0.97636936512392}
+62632,his,PERSON,
+62636,he,PERSON,
+62654,He,PERSON,
+62657,his,PERSON,
+62661,his,PERSON,
+62669,God,PERSON,{'PERSON': 0.52219083528621}
+62676,him,PERSON,
+62734,He,PERSON,
+62737,him,PERSON,
+62741,he,PERSON,
+62751,he,PERSON,
+62776,he,PERSON,
+62778,he,PERSON,
+62799,Holmes,PERSON,{'PERSON': 0.94512549891816}
+62876,Holmes,PERSON,{'PERSON': 0.90745835017305}
+62887,his,PERSON,
+62896,his,PERSON,
+62917,his,PERSON,
+62927,Lestrade,PERSON,{'PERSON': 0.34920856001221}
+63097,him,PERSON,
+63108,Holmes,PERSON,{'PERSON': 0.99480894737374}
+63131,him,PERSON,
+63133,He,PERSON,
+63152,Henry,PERSON,{'PERSON': 0.99825862317539}
+63156,his,PERSON,
+63163,his,PERSON,
+63178,him,PERSON,
+63199,he,PERSON,
+63202,he,PERSON,
+63211,him,PERSON,
+63215,him,PERSON,
+63225,Holmes,PERSON,{'PERSON': 0.99558439135927}
+63238,he,PERSON,
+63267,Henry,PERSON,{'PERSON': 0.99732580613276}
+63284,spring,DATE,{'DATE': 0.89384188751506}
+63290,him,PERSON,
+63298,his,PERSON,
+63305,Holmes,PERSON,{'PERSON': 0.9074275170037}
+63311,his,PERSON,
+63384,Henry,PERSON,{'PERSON': 0.99814289631874}
+63388,he,PERSON,
+63399,Holmes,PERSON,{'PERSON': 0.99153961675769}
+63395,his,PERSON,
+63432,he,PERSON,
+63440,Lestrade,PERSON,{'PERSON': 0.55692494618348}
+63442,his,PERSON,
+63467,he,PERSON,
+63497,Holmes,PERSON,{'PERSON': 0.98164340890039}
+63641,Holmes,PERSON,{'PERSON': 0.9669996246111}
+63659,his,PERSON,
+63672,Henry,PERSON,{'PERSON': 0.99629594258053}
+63707,him,PERSON,
+63804,He,PERSON,
+63809,his,PERSON,
+63813,he,PERSON,
+63826,him,PERSON,
+63832,he,PERSON,
+63836,his,PERSON,
+63840,his,PERSON,
+63852,Holmes,PERSON,{'PERSON': 0.99369481917835}
+63894,him,PERSON,
+63900,he,PERSON,
+63918,him,PERSON,
+63943,He,PERSON,
+63949,him,PERSON,
+63963,he,PERSON,
+64025,Holmes,PERSON,{'PERSON': 0.97710470800009}
+64076,Lestrade,PERSON,
+64099,Holmes,PERSON,{'PERSON': 0.97509586686131}
+64111,his,PERSON,
+64359,Mrs. Stapleton,PERSON,
+64371,her,PERSON,
+64376,her,PERSON,
+64388,her,PERSON,
+64397,Holmes,PERSON,{'PERSON': 0.93346979648552}
+64402,Lestrade,PERSON,{'PERSON': 0.82446453373962}
+64410,her,PERSON,
+64415,She,PERSON,
+64426,She,PERSON,
+64428,her,PERSON,
+64434,he,PERSON,
+64438,she,PERSON,
+64443,he,PERSON,
+64448,He,PERSON,
+64470,Henry,PERSON,{'PERSON': 0.99868297538022}
+64473,he,PERSON,
+64493,She,PERSON,
+64515,he,PERSON,
+64521,She,PERSON,
+64523,her,PERSON,
+64527,her,PERSON,
+64558,he,PERSON,
+64596,his,PERSON,
+64610,his,PERSON,
+64613,his,PERSON,
+64617,She,PERSON,
+64623,she,PERSON,
+64638,Holmes,PERSON,{'PERSON': 0.9815651169919}
+64629,him,PERSON,
+64648,him,PERSON,
+64655,him,PERSON,
+64674,he,PERSON,
+64680,she,PERSON,
+64704,he,PERSON,
+64706,his,PERSON,
+64711,he,PERSON,
+64717,he,PERSON,
+64726,he,PERSON,
+64743,Holmes,PERSON,{'PERSON': 0.92104298890184}
+64755,he,PERSON,
+64766,Grimpen Mire,MISC,{'MISC': 0.90907520457066}
+64762,his,PERSON,
+64773,She,PERSON,
+64777,her,PERSON,
+64780,Her,PERSON,
+64790,He,PERSON,
+64793,his,PERSON,
+64802,she,PERSON,
+64808,he,PERSON,
+64822,he,PERSON,
+64854,him,PERSON,
+64880,Lestrade,PERSON,{'PERSON': 0.49977589957196}
+64887,Holmes,PERSON,{'PERSON': 0.9931291514107}
+64896,Baskerville Hall,LOCATION,{'LOCATION': 0.82801404345678}
+64903,Stapletons,MISC,{'MISC': 0.76405365014463}
+64910,him,PERSON,
+64913,he,PERSON,
+64919,he,PERSON,
+64927,he,PERSON,
+64936,night,TIME,{'TIME': 0.52217438527348}
+64960,Mortimer,PERSON,{'PERSON': 0.98850211038411}
+64941,his,PERSON,
+64947,he,PERSON,
+64976,Henry,PERSON,{'PERSON': 0.99822314546245}
+64987,he,PERSON,
+64991,he,PERSON,
+65062,Mrs. Stapleton,PERSON,
+65098,she,PERSON,
+65102,her,PERSON,
+65109,her,PERSON,
+65304,Holmes,PERSON,{'PERSON': 0.92600655173699}
+65307,his,PERSON,
+65310,he,PERSON,
+65327,him,PERSON,
+65329,he,PERSON,
+65334,his,PERSON,
+65341,He,PERSON,
+65352,Meyers,PERSON,{'PERSON': 0.65252333851748}
+65354,Toronto,LOCATION,{'LOCATION': 0.96174659790295}
+65374,he,PERSON,
+65382,Henry,PERSON,{'PERSON': 0.9815625713244}
+65392,Stapleton,PERSON,{'PERSON': 0.9907822078912}
+65394,his,PERSON,
+65401,He,PERSON,
+65405,his,PERSON,
+65418,He,PERSON,
+65421,he,PERSON,
+65433,he,PERSON,
+65441,his,PERSON,
+65449,he,PERSON,
+65536,Stapleton,PERSON,{'PERSON': 0.89361790318847}
+65552,last night,TIME,{'TIME': 0.9332591980054}
+65545,he,PERSON,
+65562,Grimpen Mire,PERSON,{'PERSON': 0.4735106708431}
+65577,him,PERSON,
+65596,him,PERSON,
+65604,he,PERSON,
+65607,his,PERSON,
+65702,Holmes,PERSON,{'PERSON': 0.98964266940932}
+65706,Jove,PERSON,{'PERSON': 0.62441638751548}
+65715,Mortimer,PERSON,{'PERSON': 0.91755524356894}
+65719,his,PERSON,
+65742,He,PERSON,
+65745,his,PERSON,
+65749,he,PERSON,
+65785,Merripit,LOCATION,{'LOCATION': 0.85200029154342}
+65774,he,PERSON,
+65804,he,PERSON,
+65811,his,PERSON,
+65815,he,PERSON,
+65863,Charles,PERSON,{'PERSON': 0.99775863174254}
+65894,he,PERSON,
+65907,his,PERSON,
+65927,his,PERSON,
+65943,he,PERSON,
+65962,London,LOCATION,{'LOCATION': 0.99959011315997}
+65964,Watson,LOCATION,{'LOCATION': 0.54981994906264}
+65987,he,PERSON,
+65994,he,PERSON,
+65996,his,PERSON,
+66028,November,DATE,{'DATE': 0.9982253028026}
+66030,Holmes,PERSON,{'PERSON': 0.9896037559612}
+66055,Baker Street,LOCATION,{'LOCATION': 0.99786297943229}
+66066,Devonshire,LOCATION,{'LOCATION': 0.48325575557337}
+66092,Upwood,PERSON,{'PERSON': 0.61076758151145}
+66102,Nonpareil Club,ORGANIZATION,{'ORGANIZATION': 0.9855756973892}
+66115,Montpensier,PERSON,{'PERSON': 0.733283918452}
+66136,Mlle. Carere,LOCATION,{'LOCATION': 0.40205901022655}
+66159,New York,LOCATION,{'LOCATION': 0.99377488176861}
+66067,he,PERSON,
+66084,he,PERSON,
+66109,he,PERSON,
+66124,her,PERSON,
+66131,her,PERSON,
+66196,Baskerville,PERSON,{'PERSON': 0.50476944629536}
+66189,him,PERSON,
+66212,he,PERSON,
+66222,his,PERSON,
+66244,Henry,PERSON,{'PERSON': 0.99725425743484}
+66247,Mortimer,PERSON,{'PERSON': 0.99960106004061}
+66253,London,LOCATION,{'LOCATION': 0.99977143226256}
+66270,his,PERSON,
+66306,Holmes,PERSON,{'PERSON': 0.9748490114531}
+66320,Stapleton,PERSON,{'PERSON': 0.98543950575319}
+66342,his,PERSON,
+66368,Mrs. Stapleton,PERSON,
+66473,his,PERSON,
+66476,his,PERSON,
+66490,his,PERSON,
+66508,his,PERSON,
+66530,Baskerville Hall,LOCATION,{'LOCATION': 0.83762933537474}
+66553,French,MISC,{'MISC': 0.99999948112426}
+66558,Upwood,LOCATION,{'LOCATION': 0.67342532388695}
+66619,Baskerville,LOCATION,{'LOCATION': 0.371958405571}
+66627,Rodger Baskerville,PERSON,{'PERSON': 0.99994079801044}
+66635,Charles,PERSON,{'PERSON': 0.9994931358961}
+66644,South America,LOCATION,{'LOCATION': 0.99901672006516}
+66621,He,PERSON,
+66648,he,PERSON,
+66656,He,PERSON,
+66682,his,PERSON,
+66688,Beryl Garcia,PERSON,{'PERSON': 0.99986409053854}
+66696,Costa Rica,LOCATION,{'LOCATION': 0.99825396132519}
+66715,Vandeleur,PERSON,{'PERSON': 0.57740664819418}
+66719,England,LOCATION,{'LOCATION': 0.99954099552571}
+66730,Yorkshire,LOCATION,{'LOCATION': 0.94702065005931}
+66686,He,PERSON,
+66710,he,PERSON,
+66712,his,PERSON,
+66722,he,PERSON,
+66732,His,PERSON,
+66743,he,PERSON,
+66760,he,PERSON,
+66774,Fraser,PERSON,{'PERSON': 0.96930270801497}
+66805,Stapleton,PERSON,{'PERSON': 0.84006042891399}
+66831,England,LOCATION,{'LOCATION': 0.99988959808853}
+66808,he,PERSON,
+66813,his,PERSON,
+66816,his,PERSON,
+66823,his,PERSON,
+66837,British,MISC,{'MISC': 0.95089377472893}
+66854,Vandeleur,LOCATION,{'LOCATION': 0.72278057043986}
+66869,Yorkshire,LOCATION,{'LOCATION': 0.62901587048813}
+66840,he,PERSON,
+66864,he,PERSON,
+66868,his,PERSON,
+66886,his,PERSON,
+66914,him,PERSON,
+66924,Devonshire,LOCATION,{'LOCATION': 0.35365079436549}
+66921,he,PERSON,
+66925,his,PERSON,
+66937,he,PERSON,
+66950,he,PERSON,
+66952,his,PERSON,
+66955,him,PERSON,
+66960,his,PERSON,
+66967,her,PERSON,
+66975,his,PERSON,
+66979,he,PERSON,
+66989,his,PERSON,
+66996,He,PERSON,
+67007,he,PERSON,
+67049,Charles Baskerville,PERSON,{'PERSON': 0.99994448128248}
+67022,His,PERSON,
+67032,his,PERSON,
+67036,he,PERSON,
+67040,his,PERSON,
+67061,him,PERSON,
+67073,his,PERSON,
+67077,Stapleton,PERSON,{'PERSON': 0.93443392652584}
+67085,him,PERSON,
+67102,him,PERSON,
+67111,Mortimer,PERSON,{'PERSON': 0.99475009981892}
+67106,he,PERSON,
+67119,Charles,PERSON,{'PERSON': 0.99879476972004}
+67113,He,PERSON,
+67131,His,PERSON,
+67170,he,PERSON,
+67210,his,PERSON,
+67218,London,LOCATION,{'LOCATION': 0.99518445197074}
+67220,Ross,PERSON,{'PERSON': 0.95703615027056}
+67227,Fulham Road,LOCATION,{'LOCATION': 0.99256589434773}
+67215,he,PERSON,
+67247,North Devon,LOCATION,{'LOCATION': 0.59619314815696}
+67241,He,PERSON,
+67269,He,PERSON,
+67273,his,PERSON,
+67297,he,PERSON,
+67302,his,PERSON,
+67322,his,PERSON,
+67329,Stapleton,PERSON,{'PERSON': 0.99187012802059}
+67333,his,PERSON,
+67347,he,PERSON,
+67351,his,PERSON,
+67381,Charles,PERSON,{'PERSON': 0.99939555029239}
+67372,He,PERSON,
+67376,his,PERSON,
+67383,his,PERSON,
+67388,she,PERSON,
+67393,She,PERSON,
+67409,him,PERSON,
+67412,his,PERSON,
+67429,her,PERSON,
+67444,Stapleton,PERSON,{'PERSON': 0.98208972250131}
+67431,She,PERSON,
+67464,Charles,PERSON,{'PERSON': 0.99877588462563}
+67489,Mrs. Laura Lyons,PERSON,
+67451,He,PERSON,
+67457,his,PERSON,
+67472,him,PERSON,
+67475,him,PERSON,
+67479,his,PERSON,
+67500,he,PERSON,
+67505,her,PERSON,
+67508,he,PERSON,
+67510,her,PERSON,
+67518,her,PERSON,
+67523,her,PERSON,
+67525,he,PERSON,
+67528,her,PERSON,
+67543,Charles,PERSON,{'PERSON': 0.99962575267003}
+67555,Mortimer,PERSON,{'PERSON': 0.99802528841477}
+67530,His,PERSON,
+67539,his,PERSON,
+67560,he,PERSON,
+67566,He,PERSON,
+67573,his,PERSON,
+67578,his,PERSON,
+67586,Mrs. Lyons,PERSON,
+67609,London,LOCATION,{'LOCATION': 0.98762015621676}
+67581,He,PERSON,
+67599,her,PERSON,
+67606,his,PERSON,
+67611,He,PERSON,
+67620,her,PERSON,
+67631,he,PERSON,
+67640,evening,TIME,{'TIME': 0.59257202269849}
+67642,Coombe Tracey,PERSON,{'PERSON': 0.96785680516921}
+67644,he,PERSON,
+67650,his,PERSON,
+67657,his,PERSON,
+67672,he,PERSON,
+67678,he,PERSON,
+67744,He,PERSON,
+67789,him,PERSON,
+67800,him,PERSON,
+67804,him,PERSON,
+67825,Mortimer,PERSON,{'PERSON': 0.99758533591253}
+67840,Grimpen Mire,LOCATION,{'LOCATION': 0.63063001535187}
+67879,Charles Baskerville,PERSON,{'PERSON': 0.99981618788511}
+67906,His,PERSON,
+67915,him,PERSON,
+67944,Mrs. Stapleton,PERSON,
+67947,Mrs. Laura Lyons,PERSON,
+67958,Stapleton,PERSON,{'PERSON': 0.93511916453931}
+67960,Mrs. Stapleton,PERSON,
+67964,he,PERSON,
+67981,Mrs. Lyons,PERSON,
+68009,him,PERSON,
+68018,his,PERSON,
+68022,he,PERSON,
+68034,his,PERSON,
+68051,Stapleton,PERSON,{'PERSON': 0.99037897122724}
+68062,Canada,LOCATION,{'LOCATION': 0.99836556734362}
+68077,Mortimer,PERSON,{'PERSON': 0.99954653365153}
+68092,Henry Baskerville,PERSON,{'PERSON': 0.99842442682697}
+68067,he,PERSON,
+68074,his,PERSON,
+68080,he,PERSON,
+68095,Stapleton,PERSON,{'PERSON': 0.97572848689562}
+68105,Canada,LOCATION,{'LOCATION': 0.99832393734616}
+68113,London,LOCATION,{'LOCATION': 0.99982628507708}
+68118,Devonshire,LOCATION,{'LOCATION': 0.48065427573731}
+68122,He,PERSON,
+68124,his,PERSON,
+68128,she,PERSON,
+68133,him,PERSON,
+68144,he,PERSON,
+68148,her,PERSON,
+68152,his,PERSON,
+68156,he,PERSON,
+68159,his,PERSON,
+68162,her,PERSON,
+68174,London,LOCATION,{'LOCATION': 0.99653445115899}
+68170,he,PERSON,
+68172,her,PERSON,
+68176,him,PERSON,
+68191,Craven Street,LOCATION,{'LOCATION': 0.96149790320099}
+68229,Mortimer,PERSON,{'PERSON': 0.97818944429842}
+68231,Baker Street,LOCATION,{'LOCATION': 0.96941488917045}
+68241,Northumberland Hotel,LOCATION,{'LOCATION': 0.8394331133751}
+68211,he,PERSON,
+68213,his,PERSON,
+68217,her,PERSON,
+68220,he,PERSON,
+68244,His,PERSON,
+68250,his,PERSON,
+68254,she,PERSON,
+68260,her,PERSON,
+68273,she,PERSON,
+68282,she,PERSON,
+68295,Stapleton,PERSON,{'PERSON': 0.98534031088616}
+68298,her,PERSON,
+68312,she,PERSON,
+68343,him,PERSON,
+68348,his,PERSON,
+68357,Stapleton,PERSON,{'PERSON': 0.97619610153858}
+68364,Henry,PERSON,{'PERSON': 0.92298422281813}
+68372,he,PERSON,
+68380,he,PERSON,
+68388,him,PERSON,
+68390,his,PERSON,
+68398,he,PERSON,
+68425,him,PERSON,
+68427,his,PERSON,
+68442,him,PERSON,
+68453,his,PERSON,
+68456,He,PERSON,
+68568,Stapleton,PERSON,{'PERSON': 0.89518453164628}
+68598,Stapleton,PERSON,{'PERSON': 0.99015128451493}
+68612,Baskerville,PERSON,{'PERSON': 0.67824689669493}
+68574,his,PERSON,
+68588,his,PERSON,
+68632,West Country,LOCATION,{'LOCATION': 0.98306517997112}
+68651,Folkestone Court,ORGANIZATION,{'ORGANIZATION': 0.94110573587168}
+68655,May,DATE,{'DATE': 0.99475158609391}
+68682,Stapleton,PERSON,{'PERSON': 0.99835952496923}
+68684,his,PERSON,
+68695,he,PERSON,
+68710,his,PERSON,
+68717,he,PERSON,
+68728,his,PERSON,
+68755,London,LOCATION,{'LOCATION': 0.99905409812345}
+68745,he,PERSON,
+68765,him,PERSON,
+68768,He,PERSON,
+68823,London,LOCATION,{'LOCATION': 0.99927790952596}
+68848,Stapleton,PERSON,{'PERSON': 0.98996217314887}
+68858,he,PERSON,
+68863,his,PERSON,
+68868,his,PERSON,
+68871,him,PERSON,
+68879,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.96619121241633}
+68885,Anthony,PERSON,{'PERSON': 0.9929875452265}
+68891,Stapletons,MISC,{'MISC': 0.47358754513288}
+68887,His,PERSON,
+68909,he,PERSON,
+68915,his,PERSON,
+68940,Anthony,PERSON,{'PERSON': 0.99705158061625}
+68947,England,LOCATION,{'LOCATION': 0.99993911557264}
+68950,Antonio,PERSON,{'PERSON': 0.77106201225619}
+68955,Spanish,MISC,{'MISC': 0.99999219948485}
+68957,Spanish-American,MISC,{'MISC': 0.96945960077978}
+68966,Mrs. Stapleton,PERSON,
+68972,English,MISC,{'MISC': 0.99993255779}
+68996,Stapleton,PERSON,{'PERSON': 0.9799153460401}
+69013,his,PERSON,
+69017,he,PERSON,
+69025,he,PERSON,
+69041,Stapletons,PERSON,{'PERSON': 0.50665746824505}
+69046,Devonshire,LOCATION,{'LOCATION': 0.88194840908103}
+69055,Henry,PERSON,{'PERSON': 0.99848423122802}
+69224,Stapleton,PERSON,{'PERSON': 0.94989279245136}
+69245,he,PERSON,
+69250,his,PERSON,
+69274,London,LOCATION,{'LOCATION': 0.99935317397038}
+69307,Coombe Tracey,ORGANIZATION,{'ORGANIZATION': 0.74000442919401}
+69330,Cartwright,PERSON,{'PERSON': 0.99382884397778}
+69339,his,PERSON,
+69345,he,PERSON,
+69357,him,PERSON,
+69368,Stapleton,PERSON,{'PERSON': 0.9390913414327}
+69370,Cartwright,PERSON,{'PERSON': 0.99869027673917}
+69407,Baker Street,LOCATION,{'LOCATION': 0.91218630332707}
+69410,Coombe Tracey,PERSON,{'PERSON': 0.9801088275373}
+69431,Stapleton,PERSON,{'PERSON': 0.88315637920539}
+69476,Barrymores,ORGANIZATION,{'ORGANIZATION': 0.65429994977421}
+69473,him,PERSON,
+69538,Stapleton,PERSON,{'PERSON': 0.94068520273903}
+69543,Henry,PERSON,{'PERSON': 0.9885988039584}
+69590,Henry,PERSON,{'PERSON': 0.99525849258738}
+69576,him,PERSON,
+69624,Stapleton,PERSON,{'PERSON': 0.99095084703511}
+69626,his,PERSON,
+69631,Henry,PERSON,{'PERSON': 0.99663523287849}
+69678,him,PERSON,
+69702,Mortimer,PERSON,{'PERSON': 0.98994109373861}
+69723,his,PERSON,
+69729,his,PERSON,
+69733,His,PERSON,
+69745,him,PERSON,
+69756,he,PERSON,
+69762,her,PERSON,
+69773,she,PERSON,
+69784,Stapleton,PERSON,{'PERSON': 0.99697499308813}
+69789,her,PERSON,
+69825,his,PERSON,
+69827,she,PERSON,
+69832,his,PERSON,
+69836,he,PERSON,
+69841,his,PERSON,
+69844,her,PERSON,
+69846,he,PERSON,
+69850,her,PERSON,
+69863,Henry,PERSON,{'PERSON': 0.99365808730105}
+69857,She,PERSON,
+69867,she,PERSON,
+69871,her,PERSON,
+69878,she,PERSON,
+69884,Stapleton,PERSON,{'PERSON': 0.9884731493016}
+69896,he,PERSON,
+69912,his,PERSON,
+69917,he,PERSON,
+69932,his,PERSON,
+69951,Henry,PERSON,{'PERSON': 0.99729140589237}
+69956,Merripit House,ORGANIZATION,{'ORGANIZATION': 0.97059970459345}
+69945,he,PERSON,
+69960,he,PERSON,
+69969,he,PERSON,
+69981,his,PERSON,
+69986,him,PERSON,
+70015,evening,TIME,{'TIME': 0.71274541041847}
+70018,Henry,PERSON,{'PERSON': 0.99921504441562}
+69988,She,PERSON,
+70000,she,PERSON,
+70024,She,PERSON,
+70026,her,PERSON,
+70029,his,PERSON,
+70041,he,PERSON,
+70043,her,PERSON,
+70049,she,PERSON,
+70054,his,PERSON,
+70057,Her,PERSON,
+70067,he,PERSON,
+70070,she,PERSON,
+70073,him,PERSON,
+70091,Henry,PERSON,{'PERSON': 0.99857327342479}
+70075,He,PERSON,
+70077,her,PERSON,
+70083,she,PERSON,
+70094,he,PERSON,
+70117,his,PERSON,
+70126,he,PERSON,
+70129,his,PERSON,
+70143,she,PERSON,
+70154,he,PERSON,
+70169,his,PERSON,
+70182,Spanish,MISC,{'MISC': 0.99999087903954}
+70198,Watson,PERSON,{'PERSON': 0.93648766147056}
+70241,Henry,PERSON,{'PERSON': 0.99874161255584}
+70234,He,PERSON,
+70245,he,PERSON,
+70252,his,PERSON,
+70302,Stapleton,PERSON,{'PERSON': 0.99154017138059}
+70310,he,PERSON,
+70315,he,PERSON,
+70335,he,PERSON,
+70397,Mrs. Stapleton,PERSON,
+70401,her,PERSON,
+70422,South America,LOCATION,{'LOCATION': 0.9998895281976}
+70430,British,MISC,{'MISC': 0.99999927274602}
+70442,England,LOCATION,{'LOCATION': 0.9994587537369}
+70462,London,LOCATION,{'LOCATION': 0.99836893460445}
+70416,He,PERSON,
+70426,his,PERSON,
+70447,he,PERSON,
+70458,he,PERSON,
+70468,he,PERSON,
+70480,him,PERSON,
+70493,his,PERSON,
+70505,him,PERSON,
+70507,he,PERSON,
+70523,Watson,PERSON,{'PERSON': 0.92848046790583}
+70587,Marcini,PERSON,{'PERSON': 0.53734470820933}

@@ -3,6 +3,9 @@ import os
 import json
 import pandas as pd
 
+DEBUG_MODE = False
+FOLDER_INPUT = "output"
+FOLDER_OUTPUT = "output_parsed"
 
 def extract_named_entities(annots):
     """
@@ -12,11 +15,29 @@ def extract_named_entities(annots):
     for sentence in annots['sentences']:
         for entity in sentence['entitymentions']:
             entities.append([
+                entity['docTokenBegin'],
                 entity['text'],
-                entity['ner']
+                entity['ner'],
+                entity.get('nerConfidences', None)
             ])
 
     return entities
+
+
+def extract_tokens(annots):
+    """
+    Extract tokens and POS tags to return a list
+    """
+    tokens = []
+    for sentence in annots['sentences']:
+        for token in sentence['tokens']:
+            tokens.append([
+                token['lemma'],
+                token['pos'],
+                token['ner']
+            ])
+
+    return tokens
 
 
 def extract_relations(annots):
@@ -55,8 +76,10 @@ def extract_quotes(annots):
 
 if __name__ == "__main__":
 
-    folder = os.path.join("output", "novel_a_study_in_scarlet")
-    output_folder = os.path.join("output_parsed", "novel_a_study_in_scarlet")
+    #folder = os.path.join(FOLDER_INPUT, "novel_a_study_in_scarlet")
+    #output_folder = os.path.join(FOLDER_OUTPUT, "novel_a_study_in_scarlet")
+    folder = os.path.join(FOLDER_INPUT)
+    output_folder = os.path.join(FOLDER_OUTPUT)
     os.makedirs(output_folder, exist_ok=True)
 
     all_relations = []
@@ -79,7 +102,19 @@ if __name__ == "__main__":
                 os.makedirs(output_path, exist_ok=True)
                 pd.DataFrame(
                     data=entities,
-                    columns="text,ner".split(","),
+                    columns="docTokenBegin,text,ner,nerConfidences".split(","),
+                ).to_csv(
+                    os.path.join(output_path, f"{story}.csv"),
+                    index=False
+                )
+
+                # extract tokens
+                tokens = extract_tokens(annots)
+                output_path = os.path.join(output_folder, "tokens")
+                os.makedirs(output_path, exist_ok=True)
+                pd.DataFrame(
+                    data=tokens,
+                    columns="lemma,pos,ner".split(","),
                 ).to_csv(
                     os.path.join(output_path, f"{story}.csv"),
                     index=False
@@ -102,6 +137,8 @@ if __name__ == "__main__":
                         os.path.join(output_path, f"{story}.csv"),
                         index=False
                     )
+        if DEBUG_MODE:
+            break
 
 
     if all_relations:
@@ -116,4 +153,24 @@ if __name__ == "__main__":
         )
 
 
+# %%
+
+# concat all dataframes
+
+def concat_csvs(folder_path):
+    frames = []
+    for filename in os.listdir(folder_path):
+        filepath = os.path.join(folder_path, filename)
+
+        if os.path.isfile(filepath) & filepath.endswith(".csv"):
+            df_sub = pd.read_csv(filepath)
+            df_sub['title'] = filename.replace(".csv", "")
+            frames.append(df_sub)
+
+    df = pd.concat(frames)
+    df.to_csv(os.path.join(folder_path, "_merged_.csv"), index=False)
+
+
+concat_csvs(os.path.join(FOLDER_OUTPUT, "ner"))
+concat_csvs(os.path.join(FOLDER_OUTPUT, "tokens"))
 # %%
