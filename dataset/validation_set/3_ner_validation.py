@@ -3,16 +3,11 @@ import os
 import nltk
 import pandas as pd
 
-PATH_DATASET = "dataset"
-PATH_VALIDATION = "validation_set"
-PATH_STANFORD_NER = os.path.join('..',"libraries","stanford-ner-4.2.0","stanford-ner-2020-11-17")
+from nltk.parse import CoreNLPParser, corenlp
 
-#define the Stanford NER tagger
-classifier = os.path.join(PATH_STANFORD_NER,"classifiers","english.muc.7class.distsim.crf.ser.gz")
-jar = os.path.join(PATH_STANFORD_NER,"stanford-ner.jar")
-st = nltk.tag.StanfordNERTagger(classifier, jar, encoding='utf-8')
+SERVER_URL = 'http://localhost:9000'
 
-#%%
+
 def get_entities(tree):
     """
     Finds named entities of the tree created from the tagged content.
@@ -35,7 +30,6 @@ def get_entities(tree):
     return person, location, time
 
 
-#%%
 def IOB_to_tree(iob_tagged):
     """
     From the given tuples (entity name, POS tag, entity type) creates a tree.
@@ -58,6 +52,7 @@ def IOB_to_tree(iob_tagged):
 
 
 #%%
+
 PATH_TAGTOG_DOCS = os.path.join('..',PATH_DATASET,PATH_VALIDATION,"tagtog_docs")
 sentences = []
 #get sentences of the validation set
@@ -84,6 +79,39 @@ for sentence in df_stanford["sentences"]:
 
 df_stanford["nltk_characters"] = tagtog_characters
 print(df_stanford.shape)
+
+
+# %%
+
+if __name__ == "__main__":
+    # Lexical Parser
+    parser = CoreNLPParser(url=SERVER_URL)
+    # POS tagger
+    pos_tagger = CoreNLPParser(url=SERVER_URL, tagtype='pos')
+    # NER Tagger
+    ner_tagger = CoreNLPParser(url=SERVER_URL, tagtype='ner')
+
+
+    df = pd.read_csv("output_person.csv")
+    corenlp_tags = []
+    for sentence in df['sentences']:
+        tokens = list(parser.tokenize(sentence))
+        pos_tags = list(pos_tagger.tag(tokens))
+        ner_tags = list(ner_tagger.tag(tokens))
+        triples = [[name, pos, tp[1]] for (name,pos), tp in zip(pos_tags, ner_tags)]
+        tree = IOB_to_tree(triples)
+        [person,location,time] = get_entities(tree)
+        person = " | ".join(sorted(person))
+        corenlp_tags.append(person)
+
+    df['coreNLP'] = corenlp_tags
+    df['coreNLP'].replace("", np.nan, inplace=True)
+    df['coreNLP'].fillna('no_entity', inplace=True)
+    
+    
+    
+    # location = " | ".join(sorted(location))
+
 
 
 # %%
@@ -123,3 +151,5 @@ print(f"recall: {recall:.3f}")
 print(f"f1 score: {f1_score:.3f}")
 
 # %%
+
+
