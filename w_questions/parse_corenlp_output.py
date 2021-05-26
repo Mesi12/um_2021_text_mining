@@ -74,6 +74,51 @@ def extract_quotes(annots):
     return quotes
 
 
+def concat_csvs(folder_path):
+    print(f"merge csv files for {folder_path}")
+    frames = []
+    for filename in os.listdir(folder_path):
+        filepath = os.path.join(folder_path, filename)
+
+        if os.path.isfile(filepath) and filepath.endswith(".csv") and filename != "_merged_.csv":
+            df_sub = pd.read_csv(filepath)
+            df_sub['title'] = filename.replace(".csv", "")
+            frames.append(df_sub)
+
+    df = pd.concat(frames)
+    df.to_csv(os.path.join(folder_path, "_merged_.csv"), index=False)
+
+    return os.path.join(folder_path, "_merged_.csv")
+
+
+def clean_names(filepath):
+    print(f"clean dataframe for {filepath}")
+
+    # normalize persons
+    import pandas as pd
+    df_mapping = pd.read_csv(os.path.join("name_normalization", "mapping_character_normalization.csv"))
+    df_mapping = df_mapping[['dirty_character', 'final_decision']].rename(
+        {"dirty_character":"from", "final_decision":"clean_text"},
+        axis=1)
+
+    ### NER dataset
+    df_ner = pd.read_csv(filepath)
+    # clean dataset from pronouns
+    pronouns = "he,him,his,she,her".split(",")
+    df_ner = df_ner[~df_ner['text'].str.lower().isin(pronouns)].reset_index(drop=True)
+    # join with mapping dataset to get clean name, remove "from" column -> adds column "clean_text"
+    df_ner = df_ner.merge(df_mapping, left_on="text", right_on="from", how="left")
+    df_ner = df_ner.drop(columns="from")
+    # duplicate clean_text for others and fill remaining PERSON with others
+    df_ner['clean_text_others'] = df_ner['clean_text'].copy()
+    df_ner.loc[df_ner.ner == "PERSON", "clean_text_others"] = df_ner.loc[df_ner.ner == "PERSON", "clean_text_others"].fillna("other")
+    # fill remaining NaNs from original text
+    df_ner['clean_text'] = df_ner['clean_text'].fillna(df_ner['text'])
+    df_ner['clean_text_others'] = df_ner['clean_text_others'].fillna(df_ner['text'])
+    df_ner.to_csv(filepath, index=False)
+
+
+
 if __name__ == "__main__":
 
     #folder = os.path.join(FOLDER_INPUT, "novel_a_study_in_scarlet")
@@ -152,25 +197,13 @@ if __name__ == "__main__":
             index=False
         )
 
+    # concat all dataframes
+    ner_merged_file = concat_csvs(os.path.join(FOLDER_OUTPUT, "ner"))
+    token_merged_file = concat_csvs(os.path.join(FOLDER_OUTPUT, "tokens"))
 
-# %%
+    # clean names
+    clean_names(ner_merged_file)
 
-# concat all dataframes
+    print("done")
 
-def concat_csvs(folder_path):
-    frames = []
-    for filename in os.listdir(folder_path):
-        filepath = os.path.join(folder_path, filename)
-
-        if os.path.isfile(filepath) & filepath.endswith(".csv"):
-            df_sub = pd.read_csv(filepath)
-            df_sub['title'] = filename.replace(".csv", "")
-            frames.append(df_sub)
-
-    df = pd.concat(frames)
-    df.to_csv(os.path.join(folder_path, "_merged_.csv"), index=False)
-
-
-concat_csvs(os.path.join(FOLDER_OUTPUT, "ner"))
-concat_csvs(os.path.join(FOLDER_OUTPUT, "tokens"))
 # %%
