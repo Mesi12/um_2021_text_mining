@@ -3,7 +3,8 @@ import os
 import json
 import subprocess
 import pandas as pd
-from pandas.core.arrays import boolean
+from datetime import date
+
 
 
 class HolmesReader:
@@ -106,5 +107,35 @@ class HolmesReader:
 
         return novels
 
-    def get_metadata(self):
+    def _metadata_to_df(self):
+        # df novels
+        df_novels = pd.DataFrame.from_dict(self.metadata['novels'], orient="index")
+        df_novels = df_novels.reset_index()
+        df_novels = df_novels.rename({"index":"i_title"}, axis=1)
+        df_novels['i_collection'] = "novel"
+        df_novels = df_novels["i_collection,i_title,title,year,month".split(",")]
+
+        # df collection stories
+        coll_ids = []
+        frames = []
+        for coll_id, coll in self.metadata['collections'].items():
+            coll_ids.append(coll_id)
+            frames.append(pd.DataFrame.from_dict(coll['stories'], orient="index"))
+        df_stories = pd.concat(frames, keys=coll_ids)
+        df_stories = df_stories.reset_index()
+        df_stories = df_stories.rename({"level_0":"i_collection", "level_1":"i_title"}, axis=1).drop("plot", axis=1)
+
+        df = pd.concat([df_novels, df_stories])
+        df['publish_date'] = df['year'].apply(lambda y: date(int(y), 1, 1))
+
+        return df
+
+    def get_metadata(self, as_dataframe=False):
+        """
+        Returns the metadata object as dictionary or as a pandas dataframe.
+        """
+
+        if as_dataframe:
+            return self._metadata_to_df()
+
         return self.metadata
