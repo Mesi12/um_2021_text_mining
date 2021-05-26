@@ -1,0 +1,14 @@
+('judge1', 'judge2')
+agreed: 0.9000, by chance 0.0847, kappa: 0.8907
+('judge1', 'judge3')
+agreed: 0.9100, by chance 0.0935, kappa: 0.9007
+('judge1', 'judge4')
+agreed: 0.8600, by chance 0.0923, kappa: 0.8458
+('judge2', 'judge3')
+agreed: 0.9100, by chance 0.0876, kappa: 0.9014
+('judge2', 'judge4')
+agreed: 0.8500, by chance 0.0862, kappa: 0.8359
+('judge3', 'judge4')
+agreed: 0.9000, by chance 0.0957, kappa: 0.8894
+
+total: 0.8773089738776464

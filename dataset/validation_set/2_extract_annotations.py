@@ -1,10 +1,12 @@
 #%%
 from sklearn.metrics import cohen_kappa_score
+from itertools import combinations
 import zipfile
 import json
 import os
 import re
 import pandas as pd
+import numpy as np
 
 PATH_ANNOT = "tagtog_annotations"
 PATH_TAGTOG_DOCS = "tagtog_docs"
@@ -50,7 +52,7 @@ def load_annotations():
     return (legend, annotations)
 
 
-def transform_to_dataframe(legend, annotations):
+def transform_to_dataframe(legend, annotations, annotators):
     flatten = []
     for member, docs in annotations.items():
         for doc, metadata in docs.items():
@@ -67,7 +69,7 @@ def transform_to_dataframe(legend, annotations):
         df_entity_class = df_entity_class.pivot_table(index='doc', columns='judge', values='entity', aggfunc=(lambda x: " | ".join(sorted(x, reverse=False))))
         df_entity_class.columns.name = None
         df_entity_class = df_entity_class.reset_index()
-        df_entity_class = df_entity_class.rename(columns={"Mesi":"judge1", "accordionmonkey":"judge2"})
+        df_entity_class = df_entity_class.rename(columns=annotators)
         dfs[entity_class] = df_entity_class
 
     return dfs
@@ -115,29 +117,49 @@ def calculate_kappa(col1, col2):
     k = (p_a - p_e) / (1 - p_e)
 
     k_measure = f"agreed: {p_a:.4f}, by chance {p_e:.4f}, kappa: {k:.4f}"
-    print(k_measure)
-    print(f"For comparison with cohen sklearn: {cohen_kappa_score(df_characters.judge1, df_characters.judge2):.4f}")
-    return k_measure
+    #print(f"For comparison with cohen sklearn: {cohen_kappa_score(col1, col2):.4f}")
+    return (k, k_measure)
+
+
 
 
 if __name__ == "__main__":
 
+    annotators = {
+        "MerlinKoehler": "judge1",
+        "Mesi":"judge2",
+        "accordionmonkey":"judge3",
+        "gecco": "judge4"
+    }
+
     extract_zip()
     (legend, annotations) = load_annotations()
-    dfs = transform_to_dataframe(legend, annotations)
+    dfs = transform_to_dataframe(legend, annotations, annotators)
     dfs_output = add_sentences(dfs)
 
     # kappa measure
-    df_characters = dfs_output['character']
-    df_characters[['judge1', 'judge2']] = df_characters[['judge1', 'judge2']].fillna("no_entity")
-    df_locations = dfs_output['location']
+    pairs = list(combinations(list(annotators.values()), 2))
+    for entity in dfs_output.keys():
+        print(f"# entity: {entity}")
+        df = dfs_output[entity]
+        df[list(annotators.values())] = df[list(annotators.values())].fillna("no_entity")
 
-    k_measure_character = calculate_kappa(df_characters.judge1, df_characters.judge2)
-    
-    # todo add location entity type to tagtog
-    #k_measure_location = calculate_kappa(df_locations.judge1, df_locations.judge2)
+        k_measures = []
+        k_outputs = []
+        for pair in pairs:
+            k, k_output = calculate_kappa(df[pair[0]], df[pair[1]])
+            k_measures.append(k)
+            k_outputs.append(str(pair))
+            k_outputs.append(k_output)
+            print(pair)
+            print(k_output)
+        
+        print(np.mean(k_measures))
+        k_outputs.append(f"\ntotal: {np.mean(k_measures)}")
 
-    print("export to output_characters.csv")
-    df_characters.to_csv("output_characters.csv", index=False)
-    with open("output_characters_kappa.txt", "w") as fp:
-        fp.write(k_measure_character)
+        print(f"export to output_{entity}.csv")
+        df.to_csv(f"output_{entity}.csv", index=False)
+        with open(f"output_{entity}_kappa.txt", "w") as fp:
+            fp.write("\n".join(k_outputs))
+
+# %%
