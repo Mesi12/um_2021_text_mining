@@ -1,0 +1,374 @@
+{
+  "docId": "doc_096.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 10,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "Gorot",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 57,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.99966817902927
+          }
+        },
+        {
+          "docTokenBegin": 25,
+          "docTokenEnd": 26,
+          "tokenBegin": 25,
+          "tokenEnd": 26,
+          "text": "night",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 126,
+          "ner": "TIME",
+          "normalizedNER": "TNI",
+          "nerConfidences": {
+            "TIME": -1
+          },
+          "timex": {
+            "tid": "t1",
+            "type": "TIME",
+            "value": "TNI"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "lemma": "the",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "pos": "DT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "suspicions",
+          "originalText": "suspicions",
+          "lemma": "suspicion",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 14,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 17,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 21,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "police",
+          "originalText": "police",
+          "lemma": "police",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 28,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "then",
+          "originalText": "then",
+          "lemma": "then",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 33,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "rested",
+          "originalText": "rested",
+          "lemma": "rest",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 40,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "upon",
+          "originalText": "upon",
+          "lemma": "upon",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 45,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "young",
+          "originalText": "young",
+          "lemma": "young",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 51,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Gorot",
+          "originalText": "Gorot",
+          "lemma": "Gorot",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 57,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 58,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "who",
+          "originalText": "who",
+          "lemma": "who",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 62,
+          "pos": "WP",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 63,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "as",
+          "originalText": "as",
+          "lemma": "as",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "you",
+          "originalText": "you",
+          "lemma": "you",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 70,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "may",
+          "originalText": "may",
+          "lemma": "may",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 74,
+          "pos": "MD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "remember",
+          "originalText": "remember",
+          "lemma": "remember",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 83,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 84,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "stayed",
+          "originalText": "stayed",
+          "lemma": "stay",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 91,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "over",
+          "originalText": "over",
+          "lemma": "over",
+          "characterOffsetBegin": 92,
+          "characterOffsetEnd": 96,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "time",
+          "originalText": "time",
+          "lemma": "time",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 101,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 104,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 108,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "office",
+          "originalText": "office",
+          "lemma": "office",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 115,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "that",
+          "originalText": "that",
+          "lemma": "that",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 120,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "night",
+          "originalText": "night",
+          "lemma": "night",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 126,
+          "pos": "NN",
+          "ner": "TIME",
+          "normalizedNER": "TNI",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "TIME",
+            "value": "TNI"
+          }
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 127,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

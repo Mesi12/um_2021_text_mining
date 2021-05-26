@@ -1,0 +1,345 @@
+{
+  "docId": "doc_073.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 7,
+          "tokenBegin": 4,
+          "tokenEnd": 7,
+          "text": "Mr. Morse Hudson",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 32,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 12,
+          "tokenBegin": 10,
+          "tokenEnd": 12,
+          "text": "Kennington Road",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 56,
+          "ner": "LOCATION",
+          "nerConfidences": {
+            "LOCATION": 0.98752832387227
+          }
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "he",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 71,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Let",
+          "originalText": "Let",
+          "lemma": "let",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "pos": "VB",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "us",
+          "originalText": "us",
+          "lemma": "we",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 6,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "make",
+          "originalText": "make",
+          "lemma": "make",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 11,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 15,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Mr.",
+          "originalText": "Mr.",
+          "lemma": "Mr.",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 19,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Morse",
+          "originalText": "Morse",
+          "lemma": "Morse",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 25,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Hudson",
+          "originalText": "Hudson",
+          "lemma": "Hudson",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 32,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 33,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 36,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 40,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Kennington",
+          "originalText": "Kennington",
+          "lemma": "Kennington",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 51,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Road",
+          "originalText": "Road",
+          "lemma": "Road",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 56,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 57,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 61,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "see",
+          "originalText": "see",
+          "lemma": "see",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 65,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "if",
+          "originalText": "if",
+          "lemma": "if",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 68,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "he",
+          "originalText": "he",
+          "lemma": "he",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 71,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "can",
+          "originalText": "can",
+          "lemma": "can",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 75,
+          "pos": "MD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "throw",
+          "originalText": "throw",
+          "lemma": "throw",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 81,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "any",
+          "originalText": "any",
+          "lemma": "any",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 85,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "light",
+          "originalText": "light",
+          "lemma": "light",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 91,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "upon",
+          "originalText": "upon",
+          "lemma": "upon",
+          "characterOffsetBegin": 92,
+          "characterOffsetEnd": 96,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 100,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "problem",
+          "originalText": "problem",
+          "lemma": "problem",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 108,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 109,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

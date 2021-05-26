@@ -1,0 +1,357 @@
+{
+  "docId": "doc_024.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 4,
+          "tokenBegin": 2,
+          "tokenEnd": 4,
+          "text": "Clapham Junction",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 24,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.53294988338016
+          }
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Victoria",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 75,
+          "ner": "LOCATION",
+          "nerConfidences": {
+            "LOCATION": 0.99136423223004
+          }
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 22,
+          "tokenBegin": 18,
+          "tokenEnd": 22,
+          "text": "less than ten minutes",
+          "characterOffsetBegin": 79,
+          "characterOffsetEnd": 100,
+          "ner": "DURATION",
+          "normalizedNER": "PT10M",
+          "nerConfidences": {
+            "DURATION": -1
+          },
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "PT10M"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "This",
+          "originalText": "This",
+          "lemma": "this",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "DT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 7,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Clapham",
+          "originalText": "Clapham",
+          "lemma": "Clapham",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 15,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Junction",
+          "originalText": "Junction",
+          "lemma": "Junction",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 24,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 25,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "if",
+          "originalText": "if",
+          "lemma": "if",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 28,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "I",
+          "originalText": "I",
+          "lemma": "I",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 30,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "am",
+          "originalText": "am",
+          "lemma": "be",
+          "characterOffsetBegin": 31,
+          "characterOffsetEnd": 33,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "not",
+          "originalText": "not",
+          "lemma": "not",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 37,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "mistaken",
+          "originalText": "mistaken",
+          "lemma": "mistaken",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 46,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 47,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 51,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "we",
+          "originalText": "we",
+          "lemma": "we",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 54,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "shall",
+          "originalText": "shall",
+          "lemma": "shall",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 60,
+          "pos": "MD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "be",
+          "originalText": "be",
+          "lemma": "be",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 63,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Victoria",
+          "originalText": "Victoria",
+          "lemma": "Victoria",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 75,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 78,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "less",
+          "originalText": "less",
+          "lemma": "less",
+          "characterOffsetBegin": 79,
+          "characterOffsetEnd": 83,
+          "pos": "JJR",
+          "ner": "DURATION",
+          "normalizedNER": "PT10M",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "PT10M"
+          }
+        },
+        {
+          "index": 20,
+          "word": "than",
+          "originalText": "than",
+          "lemma": "than",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 88,
+          "pos": "IN",
+          "ner": "DURATION",
+          "normalizedNER": "PT10M",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "PT10M"
+          }
+        },
+        {
+          "index": 21,
+          "word": "ten",
+          "originalText": "ten",
+          "lemma": "ten",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 92,
+          "pos": "CD",
+          "ner": "DURATION",
+          "normalizedNER": "PT10M",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "PT10M"
+          }
+        },
+        {
+          "index": 22,
+          "word": "minutes",
+          "originalText": "minutes",
+          "lemma": "minute",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 100,
+          "pos": "NNS",
+          "ner": "DURATION",
+          "normalizedNER": "PT10M",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "PT10M"
+          }
+        },
+        {
+          "index": 23,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 101,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "docId": "doc_065.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 3,
+          "docTokenEnd": 4,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "Paris",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 26,
+          "ner": "LOCATION",
+          "nerConfidences": {
+            "LOCATION": 0.99758663029379
+          }
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 7,
+          "tokenBegin": 5,
+          "tokenEnd": 7,
+          "text": "three months",
+          "characterOffsetBegin": 31,
+          "characterOffsetEnd": 43,
+          "ner": "DURATION",
+          "normalizedNER": "P3M",
+          "nerConfidences": {
+            "DURATION": -1
+          },
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "P3M"
+          }
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 12,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "Mitton",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 62,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.99790297380525
+          }
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 20,
+          "tokenBegin": 18,
+          "tokenEnd": 20,
+          "text": "Godolphin Street",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 105,
+          "ner": "LOCATION",
+          "nerConfidences": {
+            "LOCATION": 0.81734604549116
+          }
+        },
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 2,
+          "tokenBegin": 1,
+          "tokenEnd": 2,
+          "text": "he",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 12,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Sometimes",
+          "originalText": "Sometimes",
+          "lemma": "sometimes",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 9,
+          "pos": "RB",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "he",
+          "originalText": "he",
+          "lemma": "he",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 12,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "visited",
+          "originalText": "visited",
+          "lemma": "visit",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 20,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Paris",
+          "originalText": "Paris",
+          "lemma": "Paris",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 26,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 30,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "three",
+          "originalText": "three",
+          "lemma": "three",
+          "characterOffsetBegin": 31,
+          "characterOffsetEnd": 36,
+          "pos": "CD",
+          "ner": "DURATION",
+          "normalizedNER": "P3M",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "P3M"
+          }
+        },
+        {
+          "index": 7,
+          "word": "months",
+          "originalText": "months",
+          "lemma": "month",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 43,
+          "pos": "NNS",
+          "ner": "DURATION",
+          "normalizedNER": "P3M",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "P3M"
+          }
+        },
+        {
+          "index": 8,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 46,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "end",
+          "originalText": "end",
+          "lemma": "end",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 50,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 51,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "but",
+          "originalText": "but",
+          "lemma": "but",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 55,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Mitton",
+          "originalText": "Mitton",
+          "lemma": "Mitton",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 62,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "was",
+          "originalText": "was",
+          "lemma": "be",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 66,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "left",
+          "originalText": "left",
+          "lemma": "leave",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 71,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 74,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "charge",
+          "originalText": "charge",
+          "lemma": "charge",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 81,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 84,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 88,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Godolphin",
+          "originalText": "Godolphin",
+          "lemma": "Godolphin",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 98,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Street",
+          "originalText": "Street",
+          "lemma": "Street",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 105,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "house",
+          "originalText": "house",
+          "lemma": "house",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 111,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 112,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "docId": "doc_054.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Frank",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.62248793223618
+          }
+        },
+        {
+          "docTokenBegin": 6,
+          "docTokenEnd": 8,
+          "tokenBegin": 6,
+          "tokenEnd": 8,
+          "text": "'84",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 27,
+          "ner": "DATE",
+          "normalizedNER": "XX84",
+          "nerConfidences": {
+            "DATE": 0.96023598705926
+          },
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "XX84"
+          }
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 11,
+          "tokenBegin": 10,
+          "tokenEnd": 11,
+          "text": "McQuire",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 39,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.71078497622676
+          }
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Rockies",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 64,
+          "ner": "LOCATION",
+          "nerConfidences": {
+            "LOCATION": 0.98895245093788
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Frank",
+          "originalText": "Frank",
+          "lemma": "Frank",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "here",
+          "originalText": "here",
+          "lemma": "here",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 10,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 14,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "I",
+          "originalText": "I",
+          "lemma": "I",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 16,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "met",
+          "originalText": "met",
+          "lemma": "meet",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 20,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 23,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "'",
+          "originalText": "'",
+          "lemma": "'",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 25,
+          "pos": "``",
+          "ner": "DATE",
+          "normalizedNER": "XX84",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "XX84"
+          }
+        },
+        {
+          "index": 8,
+          "word": "84",
+          "originalText": "84",
+          "lemma": "84",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 27,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "XX84",
+          "before": "",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "XX84"
+          }
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 28,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 31,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "McQuire",
+          "originalText": "McQuire",
+          "lemma": "McQuire",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 39,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 41,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "camp",
+          "originalText": "camp",
+          "lemma": "camp",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 46,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 47,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "near",
+          "originalText": "near",
+          "lemma": "near",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 52,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 56,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Rockies",
+          "originalText": "Rockies",
+          "lemma": "Rockies",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 64,
+          "pos": "NNPS",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 65,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "where",
+          "originalText": "where",
+          "lemma": "where",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 71,
+          "pos": "WRB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "pa",
+          "originalText": "pa",
+          "lemma": "pa",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 74,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "was",
+          "originalText": "was",
+          "lemma": "be",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 78,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "working",
+          "originalText": "working",
+          "lemma": "work",
+          "characterOffsetBegin": 79,
+          "characterOffsetEnd": 86,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 88,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "claim",
+          "originalText": "claim",
+          "lemma": "claim",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 94,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 95,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}
