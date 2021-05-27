@@ -3,12 +3,12 @@ agreed: 0.9300, by chance 0.0878, kappa: 0.9233
 ('judge1', 'judge3')
 agreed: 0.9300, by chance 0.0938, kappa: 0.9228
 ('judge1', 'judge4')
-agreed: 0.8900, by chance 0.0900, kappa: 0.8791
+agreed: 0.9100, by chance 0.0908, kappa: 0.9010
 ('judge2', 'judge3')
 agreed: 0.9200, by chance 0.0905, kappa: 0.9120
 ('judge2', 'judge4')
-agreed: 0.8900, by chance 0.0868, kappa: 0.8795
+agreed: 0.9100, by chance 0.0876, kappa: 0.9014
 ('judge3', 'judge4')
-agreed: 0.9300, by chance 0.0932, kappa: 0.9228
+agreed: 0.9500, by chance 0.0940, kappa: 0.9448
 
-total: 0.9065878652409793
+total: 0.9175399461914019

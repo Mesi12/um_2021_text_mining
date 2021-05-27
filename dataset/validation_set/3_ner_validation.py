@@ -67,6 +67,8 @@ if __name__ == "__main__":
     df_person = df_person.rename({"person": "corenlp"}, axis=1)
     df_person = df_person[(df_person.judge1 == df_person.judge2) & (df_person.judge2 == df_person.judge3) & (df_person.judge3 == df_person.judge4)]
     # analysis: df_person[(df_person.judge1 != df_person.judge2) | (df_person.judge2 != df_person.judge3) | (df_person.judge3 != df_person.judge4)]
+    df_person['agreement'] = ((df_person.judge1 == df_person.judge2) & (df_person.judge2 == df_person.judge3) & (df_person.judge3 == df_person.judge4) & (df_person.judge4 == df_person.corenlp))
+    df_person.to_csv("output_person_with_corenlp.csv", index=False)
 
     # location
     df_location = pd.read_csv("output_location.csv")
@@ -74,6 +76,8 @@ if __name__ == "__main__":
     df_location = df_location.rename({"location": "corenlp"}, axis=1)
     df_location = df_location[(df_location.judge1 == df_location.judge2) & (df_location.judge2 == df_location.judge3) & (df_location.judge3 == df_location.judge4)]
     # analysis: df_location[(df_location.judge1 != df_location.judge2) | (df_location.judge2 != df_location.judge3) | (df_location.judge3 != df_location.judge4)]
+    df_location['agreement'] = ((df_location.judge1 == df_location.judge2) & (df_location.judge2 == df_location.judge3) & (df_location.judge3 == df_location.judge4) & (df_location.judge4 == df_location.corenlp))
+    df_location.to_csv("output_location_with_corenlp.csv", index=False)
 
 
     # calcuate measures
