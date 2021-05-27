@@ -82,6 +82,7 @@ def generate_nodes_edges(df):
 
         MU = 0
         SIGMA = df_dist_group.distance.median()
+        #SIGMA = df_dist_group.distance.quantile(q=0.25)
         DIST_PEAK = stats.norm.pdf(0, MU, SIGMA)
         df_dist_group["distanceNorm"] = df_dist_group['distance'].apply(lambda x: smooth_metric(x, MU, SIGMA, DIST_PEAK))
 
@@ -148,6 +149,12 @@ if __name__ == "__main__":
 
     print("done")
 
+
+# %%
+
+# Analyse distibution of norm distance
+import seaborn as sns
+sns.histplot(df_edges.distanceNorm)
 
 
 """
