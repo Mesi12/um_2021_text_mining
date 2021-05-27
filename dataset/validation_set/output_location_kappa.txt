@@ -11,4 +11,8 @@ agreed: 0.9100, by chance 0.4408, kappa: 0.8391
 ('judge3', 'judge4')
 agreed: 0.8900, by chance 0.4540, kappa: 0.7985
 
-total: 0.8161250174439213
+total p_a: 0.8983333333333333
+
+total p_e: 0.44734999999999997
+
+total k: 0.8161250174439213

@@ -118,7 +118,7 @@ def calculate_kappa(col1, col2):
 
     k_measure = f"agreed: {p_a:.4f}, by chance {p_e:.4f}, kappa: {k:.4f}"
     #print(f"For comparison with cohen sklearn: {cohen_kappa_score(col1, col2):.4f}")
-    return (k, k_measure)
+    return (p_a, p_e, k, k_measure)
 
 
 
@@ -144,10 +144,14 @@ if __name__ == "__main__":
         df = dfs_output[entity]
         df[list(annotators.values())] = df[list(annotators.values())].fillna("no_entity")
 
+        p_a_measures = []
+        p_e_measures = []
         k_measures = []
         k_outputs = []
         for pair in pairs:
-            k, k_output = calculate_kappa(df[pair[0]], df[pair[1]])
+            p_a, p_e, k, k_output = calculate_kappa(df[pair[0]], df[pair[1]])
+            p_a_measures.append(p_a)
+            p_e_measures.append(p_e)
             k_measures.append(k)
             k_outputs.append(str(pair))
             k_outputs.append(k_output)
@@ -155,7 +159,9 @@ if __name__ == "__main__":
             print(k_output)
         
         print(np.mean(k_measures))
-        k_outputs.append(f"\ntotal: {np.mean(k_measures)}")
+        k_outputs.append(f"\ntotal p_a: {np.mean(p_a_measures)}")
+        k_outputs.append(f"\ntotal p_e: {np.mean(p_e_measures)}")
+        k_outputs.append(f"\ntotal k: {np.mean(k_measures)}")
 
         print(f"export to output_{entity}.csv")
         df.to_csv(f"output_{entity}.csv", index=False)
