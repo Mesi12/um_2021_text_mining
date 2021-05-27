@@ -1,4 +1,4 @@
-#%%
+# %%
 import os
 import pandas as pd
 import numpy as np
@@ -6,38 +6,9 @@ import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
 
 
-
-#%%
-
-# all stories
-data = []
-for story_name in df_grouped.groups.keys():
-    df_story = df_grouped.get_group(story_name)
-    position = list(df_story["docTokenBegin"])
-    max_token = max(position)
-    characters = list(df_story["clean_text"])
-    for i in range(len(position)):
-        for j in range(i+1,len(position)):
-            if (characters[i] != characters[j]):
-                dist = abs(position[i]-position[j])
-                data.append([characters[i],characters[j],dist,story_name,max_token])
-df_distances = pd.DataFrame(data, columns = ["character1", "character2","distance","story","max_token"])
-df_distances
-
-
-#%%
-
-
-
-
-#%%
-#df_distances2["distance"].hist(bins=100)
-#plt.show()
-
-#%%
-
-
-#%%
+def plot_hist(df_distances2):
+    df_distances2["distance"].hist(bins=100)
+    plt.show()
 
 
 def plot_half_gaussian():
@@ -52,24 +23,7 @@ def plot_half_gaussian():
     plt.show()
 
 
-
-# %%
-
-
-
-
-if __name__ == "__main__":
-
-    """
-    nodes.csv -> index, label (, modularity)
-    edges.csv -> id, source, target, type (undirected), weigth
-    """
-
-    COL_FOR_GRAPH = "clean_text_others" # clean_text, clean_text_others
-    REMOVE_OTHERS = True
-
-    file = os.path.join('..', 'w_questions', 'output_parsed', 'ner', '_merged_.csv')
-    df = pd.read_csv(file)
+def generate_nodes_edges(df):
 
     #extract characters
     df_person = df[df["ner"]=="PERSON"].drop_duplicates(subset=COL_FOR_GRAPH)
@@ -127,10 +81,27 @@ if __name__ == "__main__":
         right_on=COL_FOR_GRAPH)
     df_edges = df_edges.rename(columns={"index": "target"}).drop(COL_FOR_GRAPH, axis=1)
 
+    return (df_person, df_edges)
+
+
+if __name__ == "__main__":
+
+    """
+    nodes.csv -> index, label (, modularity)
+    edges.csv -> id, source, target, type (undirected), weigth
+    """
+
+    COL_FOR_GRAPH = "clean_text_others" # clean_text, clean_text_others
+    REMOVE_OTHERS = True
+
+    file = os.path.join('..', 'w_questions', 'output_parsed', 'ner', '_merged_.csv')
+    df = pd.read_csv(file)
+
+    df_person, df_edges = generate_nodes_edges(df)
 
 
     # export
-    if REMOVE_OTHERS:
+    if REMOVE_OTHERS and COL_FOR_GRAPH == "clean_text_others":
         index_other = df_person[df_person[COL_FOR_GRAPH].str.lower() == "other"].iloc[0]['index']
         print(f"removing 'other' with index: {index_other}")
         df_person = df_person[df_person[COL_FOR_GRAPH].str.lower() != "other"]
@@ -147,6 +118,20 @@ if __name__ == "__main__":
 
 
 
-
-
+"""
+# all stories
+data = []
+for story_name in df_grouped.groups.keys():
+    df_story = df_grouped.get_group(story_name)
+    position = list(df_story["docTokenBegin"])
+    max_token = max(position)
+    characters = list(df_story["clean_text"])
+    for i in range(len(position)):
+        for j in range(i+1,len(position)):
+            if (characters[i] != characters[j]):
+                dist = abs(position[i]-position[j])
+                data.append([characters[i],characters[j],dist,story_name,max_token])
+df_distances = pd.DataFrame(data, columns = ["character1", "character2","distance","story","max_token"])
+df_distances
+"""
 # %%
