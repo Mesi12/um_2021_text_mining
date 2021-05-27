@@ -3,100 +3,112 @@
         "1_the_adventures_of_sherlock_holmes": {
             "stories": {
                 "a_case_of_identity": {
-                    "title": "A CASE OF IDENTITY",
-                    "year": "1891",
                     "month": "September",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-10"
-                    }
+                    },
+                    "publish_date": "1891-09-01",
+                    "title": "A CASE OF IDENTITY",
+                    "year": "1891"
                 },
                 "a_scandal_in_bohemia": {
-                    "title": "A SCANDAL IN BOHEMIA",
-                    "year": "1891",
                     "month": "June",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-05"
-                    }
+                    },
+                    "publish_date": "1891-06-01",
+                    "title": "A SCANDAL IN BOHEMIA",
+                    "year": "1891"
                 },
                 "the_adventure_of_the_beryl_coronet": {
-                    "title": "THE ADVENTURE OF THE BERYL CORONET",
-                    "year": "1892",
                     "month": "May",
-                    "plot":{
+                    "plot": {
                         "start_date": "1890-12"
-                    }
+                    },
+                    "publish_date": "1892-05-01",
+                    "title": "THE ADVENTURE OF THE BERYL CORONET",
+                    "year": "1892"
                 },
                 "the_adventure_of_the_blue_carbuncle": {
-                    "title": "THE ADVENTURE OF THE BLUE CARBUNCLE",
-                    "year": "1892",
                     "month": "January",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-12"
-                    }
+                    },
+                    "publish_date": "1892-01-01",
+                    "title": "THE ADVENTURE OF THE BLUE CARBUNCLE",
+                    "year": "1892"
                 },
                 "the_adventure_of_the_copper_beeches": {
-                    "title": "THE ADVENTURE OF THE COPPER BEECHES",
-                    "year": "1892",
                     "month": "June",
-                    "plot":{
+                    "plot": {
                         "start_date": "1889-04"
-                    }
+                    },
+                    "publish_date": "1892-06-01",
+                    "title": "THE ADVENTURE OF THE COPPER BEECHES",
+                    "year": "1892"
                 },
                 "the_adventure_of_the_engineers_thumb": {
-                    "title": "THE ADVENTURE OF THE ENGINEER'S THUMB",
-                    "year": "1892",
                     "month": "March",
-                    "plot":{
+                    "plot": {
                         "start_date": "1889-09"
-                    }
+                    },
+                    "publish_date": "1892-03-01",
+                    "title": "THE ADVENTURE OF THE ENGINEER'S THUMB",
+                    "year": "1892"
                 },
                 "the_adventure_of_the_noble_bachelor": {
-                    "title": "THE ADVENTURE OF THE NOBLE BACHELOR",
-                    "year": "1892",
                     "month": "April",
-                    "plot":{
+                    "plot": {
                         "start_date": "1886-10"
-                    }
+                    },
+                    "publish_date": "1892-04-01",
+                    "title": "THE ADVENTURE OF THE NOBLE BACHELOR",
+                    "year": "1892"
                 },
                 "the_adventure_of_the_speckled_band": {
-                    "title": "THE ADVENTURE OF THE SPECKLED BAND",
-                    "year": "1892",
                     "month": "February",
-                    "plot":{
+                    "plot": {
                         "start_date": "1883-04"
-                    }
+                    },
+                    "publish_date": "1892-02-01",
+                    "title": "THE ADVENTURE OF THE SPECKLED BAND",
+                    "year": "1892"
                 },
                 "the_boscombe_valley_mystery": {
-                    "title": "THE BOSCOMBE VALLEY MYSTERY",
-                    "year": "1891",
                     "month": "October",
-                    "plot":{
+                    "plot": {
                         "start_date": "1889-06"
-                    }
+                    },
+                    "publish_date": "1891-10-01",
+                    "title": "THE BOSCOMBE VALLEY MYSTERY",
+                    "year": "1891"
                 },
                 "the_five_orange_pips": {
-                    "title": "THE FIVE ORANGE PIPS",
-                    "year": "1891",
                     "month": "November",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-09"
-                    }
+                    },
+                    "publish_date": "1891-11-01",
+                    "title": "THE FIVE ORANGE PIPS",
+                    "year": "1891"
                 },
                 "the_man_with_the_twisted_lip": {
-                    "title": "THE MAN WITH THE TWISTED LIP",
-                    "year": "1891",
                     "month": "December",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-06"
-                    }
+                    },
+                    "publish_date": "1891-12-01",
+                    "title": "THE MAN WITH THE TWISTED LIP",
+                    "year": "1891"
                 },
                 "the_red_headed_league": {
-                    "title": "THE RED-HEADED LEAGUE",
-                    "year": "1891",
                     "month": "August",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-10"
-                    }
+                    },
+                    "publish_date": "1891-08-01",
+                    "title": "THE RED-HEADED LEAGUE",
+                    "year": "1891"
                 }
             },
             "title": "The Adventures of Sherlock Holmes"
@@ -104,95 +116,106 @@
         "2_the_memoirs_of_sherlock_holmes": {
             "stories": {
                 "silver_blaze": {
-                    "title": "SILVER BLAZE",
-                    "year": "1892",
                     "month": "December",
-                    "plot":{
+                    "plot": {
                         "start_date": "1890-09"
-                    }
+                    },
+                    "publish_date": "1892-12-01",
+                    "title": "SILVER BLAZE",
+                    "year": "1892"
                 },
                 "the_crooked_man": {
-                    "title": "THE CROOKED MAN",
-                    "year": "1893",
                     "month": "July",
-                    "plot":{
+                    "plot": {
                         "start_date": "1889-09"
-                    }
+                    },
+                    "publish_date": "1893-07-01",
+                    "title": "THE CROOKED MAN",
+                    "year": "1893"
                 },
                 "the_final_problem": {
-                    "title": "THE FINAL PROBLEM",
-                    "year": "1893",
                     "month": "December",
-                    "plot":{
-                        "start_date": "1891-04",
-                        "end_date": "1891-05"
-                    }
+                    "plot": {
+                        "end_date": "1891-05",
+                        "start_date": "1891-04"
+                    },
+                    "publish_date": "1893-12-01",
+                    "title": "THE FINAL PROBLEM",
+                    "year": "1893"
                 },
                 "the_gloria_scott": {
-                    "title": "THE \"GLORIA SCOTT\"",
-                    "year": "1893",
                     "month": "April",
-                    "plot":{
-                        "start_date": "1874-07",
-                        "end_date": "1874-09"
-                    }
+                    "plot": {
+                        "end_date": "1874-09",
+                        "start_date": "1874-07"
+                    },
+                    "publish_date": "1893-04-01",
+                    "title": "THE \"GLORIA SCOTT\"",
+                    "year": "1893"
                 },
                 "the_greek_interpreter": {
-                    "title": "THE GREEK INTERPRETER",
-                    "year": "1893",
                     "month": "September",
-                    "plot":{
+                    "plot": {
                         "start_date": "1888-09"
-                    }
+                    },
+                    "publish_date": "1893-09-01",
+                    "title": "THE GREEK INTERPRETER",
+                    "year": "1893"
                 },
                 "the_musgrave_ritual": {
-                    "title": "THE MUSGRAVE RITUAL",
-                    "year": "1893",
                     "month": "May",
-                    "plot":{
+                    "plot": {
                         "start_date": "1879-10"
-                    }
+                    },
+                    "publish_date": "1893-05-01",
+                    "title": "THE MUSGRAVE RITUAL",
+                    "year": "1893"
                 },
                 "the_naval_treaty": {
-                    "title": "THE NAVAL TREATY",
-                    "year": "1893",
                     "month": "November",
-                    "plot":{
-                        "start_date": "1889-07",
-                        "end_date": "1889-08"
-                    }
+                    "plot": {
+                        "end_date": "1889-08",
+                        "start_date": "1889-07"
+                    },
+                    "publish_date": "1893-11-01",
+                    "title": "THE NAVAL TREATY",
+                    "year": "1893"
                 },
                 "the_reigate_squires": {
-                    "title": "THE REIGATE SQUIRES",
-                    "year": "1893",
                     "month": "June",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-04"
-                    }
+                    },
+                    "publish_date": "1893-06-01",
+                    "title": "THE REIGATE SQUIRES",
+                    "year": "1893"
                 },
                 "the_resident_patient": {
-                    "title": "THE RESIDENT PATIENT",
-                    "year": "1893",
                     "month": "August",
-                    "plot":{
+                    "plot": {
                         "start_date": "1886-10"
-                    }
+                    },
+                    "publish_date": "1893-08-01",
+                    "title": "THE RESIDENT PATIENT",
+                    "year": "1893"
                 },
                 "the_stock_brokers_clerk": {
-                    "title": "THE STOCK-BROKER'S CLERK",
-                    "year": "1893",
                     "month": "March",
-                    "plot":{
+                    "plot": {
                         "start_date": "1889-06"
-                    }
+                    },
+                    "publish_date": "1893-03-01",
+                    "title": "THE STOCK-BROKER'S CLERK",
+                    "year": "1893"
                 },
                 "the_yellow_face": {
-                    "title": "THE YELLOW FACE",
-                    "year": "1893",
                     "month": "February",
-                    "plot":{
+                    "plot": {
                         "start_date": "1888-04"
-                    }
+                    },
+                    "publish_date": "1893-02-01",
+                    "title": "THE YELLOW FACE",
+                    "year": "1893"
                 }
             },
             "title": "The Memoirs of Sherlock Holmes"
@@ -200,109 +223,122 @@
         "3_the_return_of_sherlock_holmes": {
             "stories": {
                 "the_adventure_of_black_peter": {
-                    "title": "THE ADVENTURE OF BLACK PETER",
-                    "year": "1904",
                     "month": "March",
-                    "plot":{
+                    "plot": {
                         "start_date": "1895-07"
-                    }
+                    },
+                    "publish_date": "1904-03-01",
+                    "title": "THE ADVENTURE OF BLACK PETER",
+                    "year": "1904"
                 },
                 "the_adventure_of_charles_augustus_milverton": {
-                    "title": "THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON",
-                    "year": "1904",
                     "month": "April",
-                    "plot":{
+                    "plot": {
                         "start_date": "1899-01"
-                    }
+                    },
+                    "publish_date": "1904-04-01",
+                    "title": "THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_abbey_grange": {
-                    "title": "THE ADVENTURE OF THE ABBEY GRANGE",
-                    "year": "1904",
                     "month": "September",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-01"
-                    }
+                    },
+                    "publish_date": "1904-09-01",
+                    "title": "THE ADVENTURE OF THE ABBEY GRANGE",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_dancing_men": {
-                    "title": "THE ADVENTURE OF THE DANCING MEN",
-                    "year": "1903",
                     "month": "December",
-                    "plot":{
-                        "start_date": "1898-07",
-                        "end_date": "1898-08"
-                    }
+                    "plot": {
+                        "end_date": "1898-08",
+                        "start_date": "1898-07"
+                    },
+                    "publish_date": "1903-12-01",
+                    "title": "THE ADVENTURE OF THE DANCING MEN",
+                    "year": "1903"
                 },
                 "the_adventure_of_the_empty_house": {
-                    "title": "THE ADVENTURE OF THE EMPTY HOUSE",
-                    "year": "1903",
                     "month": "October",
-                    "plot":{
+                    "plot": {
                         "start_date": "1894-04"
-                    }
+                    },
+                    "publish_date": "1903-10-01",
+                    "title": "THE ADVENTURE OF THE EMPTY HOUSE",
+                    "year": "1903"
                 },
                 "the_adventure_of_the_golden_pince_nez": {
-                    "title": "THE ADVENTURE OF THE GOLDEN PINCE-NEZ",
-                    "year": "1904",
                     "month": "July",
-                    "plot":{
+                    "plot": {
                         "start_date": "1894-11"
-                    }
+                    },
+                    "publish_date": "1904-07-01",
+                    "title": "THE ADVENTURE OF THE GOLDEN PINCE-NEZ",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_missing_three_quarter": {
-                    "title": "THE ADVENTURE OF THE MISSING THREE-QUARTER",
-                    "year": "1904",
                     "month": "August",
-                    "plot":{
+                    "plot": {
                         "start_date": "1896-12"
-                    }
+                    },
+                    "publish_date": "1904-08-01",
+                    "title": "THE ADVENTURE OF THE MISSING THREE-QUARTER",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_norwood_builder": {
-                    "title": "THE ADVENTURE OF THE NORWOOD BUILDER",
-                    "year": "1903",
                     "month": "November",
-                    "plot":{
+                    "plot": {
                         "start_date": "1895-08"
-                    }
+                    },
+                    "publish_date": "1903-11-01",
+                    "title": "THE ADVENTURE OF THE NORWOOD BUILDER",
+                    "year": "1903"
                 },
                 "the_adventure_of_the_priory_school": {
-                    "title": "THE ADVENTURE OF THE PRIORY SCHOOL",
-                    "year": "1904",
                     "month": "February",
-                    "plot":{
+                    "plot": {
                         "start_date": "1901-05"
-                    }
+                    },
+                    "publish_date": "1904-02-01",
+                    "title": "THE ADVENTURE OF THE PRIORY SCHOOL",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_second_stain": {
-                    "title": "THE ADVENTURE OF THE SECOND STAIN",
-                    "year": "1904",
                     "month": "December",
-                    "plot":{
+                    "plot": {
                         "start_date": "1886-10"
-                    }
+                    },
+                    "publish_date": "1904-12-01",
+                    "title": "THE ADVENTURE OF THE SECOND STAIN",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_six_napoleons": {
-                    "title": "THE ADVENTURE OF THE SIX NAPOLEONS",
-                    "year": "1904",
                     "month": "May",
-                    "plot":{
+                    "plot": {
                         "start_date": "1900-06"
-                    }
+                    },
+                    "publish_date": "1904-05-01",
+                    "title": "THE ADVENTURE OF THE SIX NAPOLEONS",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_solitary_cyclist": {
-                    "title": "THE ADVENTURE OF THE SOLITARY CYCLIST",
-                    "year": "1904",
                     "month": "January",
-                    "plot":{
+                    "plot": {
                         "start_date": "1895-04"
-                    }
+                    },
+                    "publish_date": "1904-01-01",
+                    "title": "THE ADVENTURE OF THE SOLITARY CYCLIST",
+                    "year": "1904"
                 },
                 "the_adventure_of_the_three_students": {
-                    "title": "THE ADVENTURE OF THE THREE STUDENTS",
-                    "year": "1904",
                     "month": "June",
-                    "plot":{
+                    "plot": {
                         "start_date": "1895-04"
-                    }
+                    },
+                    "publish_date": "1904-06-01",
+                    "title": "THE ADVENTURE OF THE THREE STUDENTS",
+                    "year": "1904"
                 }
             },
             "title": "The Return of Sherlock Holmes"
@@ -310,69 +346,77 @@
         "4_his_last_bow": {
             "stories": {
                 "his_last_bow_an_epilogue_of_sherlock_holmes": {
-                    "title": "HIS LAST BOW An Epilogue of Sherlock Holmes",
-                    "year": "1917",
-                    "month": "September ",
-                    "plot":{
+                    "month": "September",
+                    "plot": {
                         "start_date": "1914-08"
-                    }
+                    },
+                    "publish_date": "1917-09-01",
+                    "title": "HIS LAST BOW An Epilogue of Sherlock Holmes",
+                    "year": "1917"
                 },
                 "the_adventure_of_the_bruce_partington_plans": {
-                    "title": "THE ADVENTURE OF THE BRUCE-PARTINGTON PLANS",
-                    "year": "1908",
                     "month": "December",
-                    "plot":{
+                    "plot": {
                         "start_date": "1895-11"
-                    }
+                    },
+                    "publish_date": "1908-12-01",
+                    "title": "THE ADVENTURE OF THE BRUCE-PARTINGTON PLANS",
+                    "year": "1908"
                 },
                 "the_adventure_of_the_cardboard_box": {
-                    "title": "THE ADVENTURE OF THE CARDBOARD BOX",
-                    "year": "1893",
                     "month": "January",
-                    "plot":{
-                        "start_date": "1889-08",
-                        "end_date": "1889-09"
-                    }
+                    "plot": {
+                        "end_date": "1889-09",
+                        "start_date": "1889-08"
+                    },
+                    "publish_date": "1893-01-01",
+                    "title": "THE ADVENTURE OF THE CARDBOARD BOX",
+                    "year": "1893"
                 },
                 "the_adventure_of_the_devils_foot": {
-                    "title": "THE ADVENTURE OF THE DEVIL'S FOOT",
-                    "year": "1910",
                     "month": "December",
-                    "plot":{
+                    "plot": {
                         "start_date": "1897-03"
-                    }
+                    },
+                    "publish_date": "1910-12-01",
+                    "title": "THE ADVENTURE OF THE DEVIL'S FOOT",
+                    "year": "1910"
                 },
                 "the_adventure_of_the_dying_detective": {
-                    "title": "THE ADVENTURE OF THE DYING DETECTIVE",
-                    "year": "1913",
                     "month": "November",
-                    "plot":{
+                    "plot": {
                         "start_date": "1887-11"
-                    }
+                    },
+                    "publish_date": "1913-11-01",
+                    "title": "THE ADVENTURE OF THE DYING DETECTIVE",
+                    "year": "1913"
                 },
                 "the_adventure_of_the_red_circle": {
-                    "title": "THE ADVENTURE OF THE RED CIRCLE",
-                    "year": "1911",
                     "month": "April",
-                    "plot":{
+                    "plot": {
                         "start_date": "1902-09"
-                    }
+                    },
+                    "publish_date": "1911-04-01",
+                    "title": "THE ADVENTURE OF THE RED CIRCLE",
+                    "year": "1911"
                 },
                 "the_adventure_of_wisteria_lodge": {
-                    "title": "THE ADVENTURE OF WISTERIA LODGE",
-                    "year": "1908",
                     "month": "August",
-                    "plot":{
+                    "plot": {
                         "start_date": "1890-03"
-                    }
+                    },
+                    "publish_date": "1908-08-01",
+                    "title": "THE ADVENTURE OF WISTERIA LODGE",
+                    "year": "1908"
                 },
                 "the_disappearance_of_lady_frances_carfax": {
-                    "title": "THE DISAPPEARANCE OF LADY FRANCES CARFAX",
-                    "year": "1911",
                     "month": "December",
-                    "plot":{
+                    "plot": {
                         "start_date": "1902-07"
-                    }
+                    },
+                    "publish_date": "1911-12-01",
+                    "title": "THE DISAPPEARANCE OF LADY FRANCES CARFAX",
+                    "year": "1911"
                 }
             },
             "title": "His Last Bow"
@@ -380,102 +424,114 @@
         "5_the_case_book_of_sherlock_holmes": {
             "stories": {
                 "the_adventure_of_shoscombe_old_place": {
-                    "title": "THE ADVENTURE OF SHOSCOMBE OLD PLACE",
-                    "year": "1927",
                     "month": "March",
-                    "plot":{
+                    "plot": {
                         "start_date": "1902-05"
-                    }
+                    },
+                    "publish_date": "1927-03-01",
+                    "title": "THE ADVENTURE OF SHOSCOMBE OLD PLACE",
+                    "year": "1927"
                 },
                 "the_adventure_of_the_creeping_man": {
-                    "title": "THE ADVENTURE OF THE CREEPING MAN",
-                    "year": "1923",
                     "month": "March",
-                    "plot":{
+                    "plot": {
                         "start_date": "1903-09"
-                    }
+                    },
+                    "publish_date": "1923-03-01",
+                    "title": "THE ADVENTURE OF THE CREEPING MAN",
+                    "year": "1923"
                 },
                 "the_adventure_of_the_lions_mane": {
-                    "title": "THE ADVENTURE OF THE LION'S MANE",
-                    "year": "1926",
                     "month": "November",
-                    "plot":{
-                        "start_date": "1909-07",
-                        "end_date": "1909-08"
-                    }
+                    "plot": {
+                        "end_date": "1909-08",
+                        "start_date": "1909-07"
+                    },
+                    "publish_date": "1926-11-01",
+                    "title": "THE ADVENTURE OF THE LION'S MANE",
+                    "year": "1926"
                 },
                 "the_adventure_of_the_mazarin_stone": {
-                    "title": "THE ADVENTURE OF THE MAZARIN STONE",
-                    "year": "1921",
                     "month": "October",
-                    "plot":{
-                        "start_date": "1903-06",
-                        "end_date": "1903-08"
-                    }  
+                    "plot": {
+                        "end_date": "1903-08",
+                        "start_date": "1903-06"
+                    },
+                    "publish_date": "1921-10-01",
+                    "title": "THE ADVENTURE OF THE MAZARIN STONE",
+                    "year": "1921"
                 },
                 "the_adventure_of_the_retired_colourman": {
-                    "title": "THE ADVENTURE OF THE RETIRED COLOURMAN",
-                    "year": "1926",
                     "month": "December",
-                    "plot":{
+                    "plot": {
                         "start_date": "1898-07"
-                    }
+                    },
+                    "publish_date": "1926-12-01",
+                    "title": "THE ADVENTURE OF THE RETIRED COLOURMAN",
+                    "year": "1926"
                 },
                 "the_adventure_of_the_sussex_vampire": {
-                    "title": "THE ADVENTURE OF THE SUSSEX VAMPIRE",
-                    "year": "1924",
                     "month": "January",
-                    "plot":{
+                    "plot": {
                         "start_date": "1896-11"
-                    }
+                    },
+                    "publish_date": "1924-01-01",
+                    "title": "THE ADVENTURE OF THE SUSSEX VAMPIRE",
+                    "year": "1924"
                 },
                 "the_adventure_of_the_three_gables": {
-                    "title": "THE ADVENTURE OF THE THREE GABLES",
-                    "year": "1926",
                     "month": "September",
-                    "plot":{
+                    "plot": {
                         "start_date": "1903-05"
-                    }
+                    },
+                    "publish_date": "1926-09-01",
+                    "title": "THE ADVENTURE OF THE THREE GABLES",
+                    "year": "1926"
                 },
                 "the_adventure_of_the_three_garridebs": {
-                    "title": "THE ADVENTURE OF THE THREE GARRIDEBS",
-                    "year": "1924",
                     "month": "October",
-                    "plot":{
+                    "plot": {
                         "start_date": "1902-06"
-                    }
+                    },
+                    "publish_date": "1924-10-01",
+                    "title": "THE ADVENTURE OF THE THREE GARRIDEBS",
+                    "year": "1924"
                 },
                 "the_adventure_of_the_veiled_lodger": {
-                    "title": "THE ADVENTURE OF THE VEILED LODGER",
-                    "year": "1927",
                     "month": "January",
-                    "plot":{
+                    "plot": {
                         "start_date": "1896-10"
-                    }
+                    },
+                    "publish_date": "1927-01-01",
+                    "title": "THE ADVENTURE OF THE VEILED LODGER",
+                    "year": "1927"
                 },
                 "the_blanched_soldier": {
-                    "title": "THE BLANCHED SOLDIER",
-                    "year": "1926",
                     "month": "October",
-                    "plot":{
+                    "plot": {
                         "start_date": "1903-01"
-                    }
+                    },
+                    "publish_date": "1926-10-01",
+                    "title": "THE BLANCHED SOLDIER",
+                    "year": "1926"
                 },
                 "the_illustrious_client": {
-                    "title": "THE ILLUSTRIOUS CLIENT",
-                    "year": "1924",
                     "month": "November",
-                    "plot":{
+                    "plot": {
                         "start_date": "1902-09"
-                    }
+                    },
+                    "publish_date": "1924-11-01",
+                    "title": "THE ILLUSTRIOUS CLIENT",
+                    "year": "1924"
                 },
                 "the_problem_of_thor_bridge": {
-                    "title": "THE PROBLEM OF THOR BRIDGE",
-                    "year": "1922",
                     "month": "February",
-                    "plot":{
+                    "plot": {
                         "start_date": "1900-10"
-                    }
+                    },
+                    "publish_date": "1922-02-01",
+                    "title": "THE PROBLEM OF THOR BRIDGE",
+                    "year": "1922"
                 }
             },
             "title": "The Case-Book of Sherlock Holmes"
@@ -483,37 +539,41 @@
     },
     "novels": {
         "a_study_in_scarlet": {
-            "title": "A STUDY IN SCARLET",
-            "year": "1887",
             "month": "December",
-            "plot":{
+            "plot": {
                 "start_date": "1881-03"
-            }
+            },
+            "publish_date": "1887-12-01",
+            "title": "A STUDY IN SCARLET",
+            "year": "1887"
         },
         "the_hound_of_the_baskervilles": {
-            "title": "THE HOUND OF THE BASKERVILLES",
-            "year": "1902",
             "month": "April",
-            "plot":{
-                "start_date": "1888-09",
-                "end_date": "1888-10"
-            }
+            "plot": {
+                "end_date": "1888-10",
+                "start_date": "1888-09"
+            },
+            "publish_date": "1902-04-01",
+            "title": "THE HOUND OF THE BASKERVILLES",
+            "year": "1902"
         },
         "the_sign_of_the_four": {
-            "title": "THE SIGN OF THE FOUR",
-            "year": "1890",
             "month": "February",
-            "plot":{
+            "plot": {
                 "start_date": "1888-09"
-            }
+            },
+            "publish_date": "1890-02-01",
+            "title": "THE SIGN OF THE FOUR",
+            "year": "1890"
         },
         "the_valley_of_fear": {
-            "title": "THE VALLEY OF FEAR",
-            "year": "1915",
             "month": "May",
-            "plot":{
+            "plot": {
                 "start_date": "1888-01"
-            }
+            },
+            "publish_date": "1915-05-01",
+            "title": "THE VALLEY OF FEAR",
+            "year": "1915"
         }
     }
 }

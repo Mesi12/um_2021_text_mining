@@ -113,7 +113,7 @@ class HolmesReader:
         df_novels = df_novels.reset_index()
         df_novels = df_novels.rename({"index":"i_title"}, axis=1)
         df_novels['i_collection'] = "novel"
-        df_novels = df_novels["i_collection,i_title,title,year,month".split(",")]
+        df_novels = df_novels["i_collection,i_title,title,publish_date".split(",")]
 
         # df collection stories
         coll_ids = []
@@ -123,10 +123,9 @@ class HolmesReader:
             frames.append(pd.DataFrame.from_dict(coll['stories'], orient="index"))
         df_stories = pd.concat(frames, keys=coll_ids)
         df_stories = df_stories.reset_index()
-        df_stories = df_stories.rename({"level_0":"i_collection", "level_1":"i_title"}, axis=1).drop("plot", axis=1)
+        df_stories = df_stories.rename({"level_0":"i_collection", "level_1":"i_title"}, axis=1).drop("plot,year,month".split(","), axis=1)
 
         df = pd.concat([df_novels, df_stories])
-        df['publish_date'] = df['year'].apply(lambda y: date(int(y), 1, 1))
 
         return df
 
