@@ -4,6 +4,13 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
+import scipy.stats as stats
+
+
+MU = 0
+SIGMA = 200
+DIST_PEAK = stats.norm.pdf(0, MU, SIGMA)
+
 
 
 def plot_hist(df_distances2):
@@ -24,7 +31,16 @@ def plot_half_gaussian():
 
 
 def smooth_metric(distance):
-    return distance
+    """
+    # plot
+    x = np.linspace(mu - 3*sigma, mu + 3*sigma, 100)
+    plt.plot(x, stats.norm.pdf(x, mu, sigma) / stats.norm.pdf(0, mu, sigma))
+    plt.show()
+
+    #variance = 100
+    #sigma = math.sqrt(variance)
+    """
+    return stats.norm.pdf(distance, MU, SIGMA) / DIST_PEAK
 
 
 def generate_nodes_edges(df):
@@ -103,6 +119,7 @@ if __name__ == "__main__":
     nodes.csv -> index, label (, modularity)
     edges.csv -> id, source, target, type (undirected), weigth
     """
+
 
     COL_FOR_GRAPH = "clean_text_others" # clean_text, clean_text_others
     REMOVE_OTHERS = True
