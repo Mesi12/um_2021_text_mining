@@ -9,12 +9,14 @@ Questions:
 
 Example: "Sherlock entered the flat in Bakerstreet."
 
-- Either
+1. Either
     - character: sherlock
     - location: Bakerstreet
-- Or
+2. Or
     - character in sentence at index 0 to 7
     - location in sentence at index 29 to 39
+
+Decision: option 1
 
 
 
