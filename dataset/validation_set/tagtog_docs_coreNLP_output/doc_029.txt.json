@@ -15,17 +15,14 @@
           "ner": "PERSON"
         },
         {
-          "docTokenBegin": 14,
+          "docTokenBegin": 13,
           "docTokenEnd": 15,
-          "tokenBegin": 14,
+          "tokenBegin": 13,
           "tokenEnd": 15,
-          "text": "Huxtable",
-          "characterOffsetBegin": 50,
+          "text": "Dr. Huxtable",
+          "characterOffsetBegin": 46,
           "characterOffsetEnd": 58,
-          "ner": "PERSON",
-          "nerConfidences": {
-            "PERSON": 0.99986514424664
-          }
+          "ner": "PERSON"
         },
         {
           "docTokenBegin": 17,
@@ -203,7 +200,7 @@
           "characterOffsetBegin": 46,
           "characterOffsetEnd": 49,
           "pos": "NNP",
-          "ner": "O",
+          "ner": "PERSON",
           "before": " ",
           "after": " "
         },

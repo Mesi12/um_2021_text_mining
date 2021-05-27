@@ -33,17 +33,14 @@
           }
         },
         {
-          "docTokenBegin": 12,
+          "docTokenBegin": 11,
           "docTokenEnd": 13,
-          "tokenBegin": 12,
+          "tokenBegin": 11,
           "tokenEnd": 13,
-          "text": "Trevelyan",
-          "characterOffsetBegin": 45,
+          "text": "Dr. Trevelyan",
+          "characterOffsetBegin": 41,
           "characterOffsetEnd": 54,
-          "ner": "PERSON",
-          "nerConfidences": {
-            "PERSON": 0.99896376757902
-          }
+          "ner": "PERSON"
         }
       ],
       "tokens": [
@@ -189,7 +186,7 @@
           "characterOffsetBegin": 41,
           "characterOffsetEnd": 44,
           "pos": "NNP",
-          "ner": "O",
+          "ner": "PERSON",
           "before": " ",
           "after": " "
         },

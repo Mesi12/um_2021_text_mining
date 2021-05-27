@@ -5,17 +5,14 @@
       "index": 0,
       "entitymentions": [
         {
-          "docTokenBegin": 11,
+          "docTokenBegin": 10,
           "docTokenEnd": 12,
-          "tokenBegin": 11,
+          "tokenBegin": 10,
           "tokenEnd": 12,
-          "text": "Watson",
-          "characterOffsetBegin": 42,
+          "text": "Dr. Watson",
+          "characterOffsetBegin": 38,
           "characterOffsetEnd": 48,
-          "ner": "PERSON",
-          "nerConfidences": {
-            "PERSON": 0.99728368256365
-          }
+          "ner": "PERSON"
         },
         {
           "docTokenBegin": 29,
@@ -218,7 +215,7 @@
           "characterOffsetBegin": 38,
           "characterOffsetEnd": 41,
           "pos": "NNP",
-          "ner": "O",
+          "ner": "PERSON",
           "before": " ",
           "after": " "
         },
