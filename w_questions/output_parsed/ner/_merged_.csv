@@ -4689,7 +4689,6 @@ docTokenBegin,text,ner,nerConfidences,title,clean_text,clean_text_others
 1595,America,LOCATION,{'LOCATION': 0.96116572689317},the_adventure_of_the_dancing_men,America,America
 1600,American,MISC,{'MISC': 0.99995913246119},the_adventure_of_the_dancing_men,American,American
 1708,Mr. Holmes,PERSON,,the_adventure_of_the_dancing_men,Sherlock Holmes,Sherlock Holmes
-1728,hers,PERSON,,the_adventure_of_the_dancing_men,hers,other
 1735,Norfolk,LOCATION,{'LOCATION': 0.84898867076126},the_adventure_of_the_dancing_men,Norfolk,Norfolk
 1745,England,LOCATION,{'LOCATION': 0.9990453653837},the_adventure_of_the_dancing_men,England,England
 1809,Tuesday,DATE,{'DATE': 0.99424565623671},the_adventure_of_the_dancing_men,Tuesday,Tuesday
@@ -5843,7 +5842,6 @@ docTokenBegin,text,ner,nerConfidences,title,clean_text,clean_text_others
 35031,Stapleton,PERSON,{'PERSON': 0.99067559803244},the_hound_of_the_baskervilles,Stapleton,Stapleton
 35064,Henry,PERSON,{'PERSON': 0.99377559273894},the_hound_of_the_baskervilles,Henry,Henry
 35067,Miss Stapleton,PERSON,{'PERSON': 0.56222186222332},the_hound_of_the_baskervilles,Miss Stapleton,Miss Stapleton
-35101,hers,PERSON,,the_hound_of_the_baskervilles,hers,other
 35118,spring,DATE,{'DATE': 0.83413526471288},the_hound_of_the_baskervilles,spring,spring
 35125,Stapleton,PERSON,{'PERSON': 0.99001988441037},the_hound_of_the_baskervilles,Stapleton,Stapleton
 35175,Stapleton,PERSON,{'PERSON': 0.9898434253133},the_hound_of_the_baskervilles,Stapleton,Stapleton
@@ -5851,10 +5849,8 @@ docTokenBegin,text,ner,nerConfidences,title,clean_text,clean_text_others
 35206,Stapleton,PERSON,{'PERSON': 0.98989752860387},the_hound_of_the_baskervilles,Stapleton,Stapleton
 35229,Henry,PERSON,{'PERSON': 0.97625771997503},the_hound_of_the_baskervilles,Henry,Henry
 35357,Watson,PERSON,{'PERSON': 0.98061270434905},the_hound_of_the_baskervilles,John H. Watson,John H. Watson
-35567,hers,PERSON,,the_hound_of_the_baskervilles,hers,other
 35637,Watson,PERSON,{'PERSON': 0.95922422165954},the_hound_of_the_baskervilles,John H. Watson,John H. Watson
 35751,Watson,PERSON,{'PERSON': 0.97766014752106},the_hound_of_the_baskervilles,John H. Watson,John H. Watson
-35978,hers,PERSON,,the_hound_of_the_baskervilles,hers,other
 36171,Watson,PERSON,{'PERSON': 0.87542553077674},the_hound_of_the_baskervilles,John H. Watson,John H. Watson
 36291,Stapleton,PERSON,{'PERSON': 0.88156051881669},the_hound_of_the_baskervilles,Stapleton,Stapleton
 36308,morning,TIME,{'TIME': 0.65618798775258},the_hound_of_the_baskervilles,morning,morning
@@ -8058,7 +8054,6 @@ docTokenBegin,text,ner,nerConfidences,title,clean_text,clean_text_others
 9850,1882,DATE,{'DATE': 0.93898142863543},the_sign_of_the_four,1882,1882
 9857,India,LOCATION,{'LOCATION': 0.99657811850586},the_sign_of_the_four,India,India
 9938,end of April,DATE,{'DATE': 0.99636789752363},the_sign_of_the_four,end of April,end of April
-10097,hers,PERSON,,the_sign_of_the_four,hers,other
 10192,Agra,LOCATION,{'LOCATION': 0.76658171765315},the_sign_of_the_four,Agra,Agra
 10264,India,LOCATION,{'LOCATION': 0.99856690594137},the_sign_of_the_four,India,India
 10290,England,LOCATION,{'LOCATION': 0.99975598229772},the_sign_of_the_four,England,England
@@ -10468,7 +10463,6 @@ Holmes",other
 9107,last night,TIME,{'TIME': 0.94075232362967},the_adventure_of_the_abbey_grange,last night,last night
 9279,Mary--Mary Fraser,PERSON,{'PERSON': 0.97878492828563},the_adventure_of_the_abbey_grange,Mary--Mary Fraser,other
 9405,Gibraltar,LOCATION,{'LOCATION': 0.91643274546494},the_adventure_of_the_abbey_grange,Gibraltar,Gibraltar
-9507,hers,PERSON,,the_adventure_of_the_abbey_grange,hers,other
 9623,Mary Fraser,PERSON,{'PERSON': 0.99991226715735},the_adventure_of_the_abbey_grange,Mary,Mary
 9667,Sydenham,LOCATION,{'LOCATION': 0.99351350297752},the_adventure_of_the_abbey_grange,Sydenham,Sydenham
 9678,Theresa Wright,PERSON,{'PERSON': 0.99976415610043},the_adventure_of_the_abbey_grange,Theresa Wright,other
@@ -10478,7 +10472,6 @@ Holmes",other
 9798,Mary,PERSON,{'PERSON': 0.997252983068},the_adventure_of_the_abbey_grange,Mary Watson,Mary Watson
 9820,Mary,PERSON,{'PERSON': 0.98150003116141},the_adventure_of_the_abbey_grange,Mary Watson,Mary Watson
 9837,last night,TIME,{'TIME': 0.97266071219727},the_adventure_of_the_abbey_grange,last night,last night
-10073,hers,PERSON,,the_adventure_of_the_abbey_grange,hers,other
 10132,Theresa,PERSON,{'PERSON': 0.82926841041922},the_adventure_of_the_abbey_grange,Theresa,Theresa
 10158,Mary,PERSON,{'PERSON': 0.98191501146297},the_adventure_of_the_abbey_grange,Mary Watson,Mary Watson
 10178,Theresa,PERSON,{'PERSON': 0.9867693042821},the_adventure_of_the_abbey_grange,Theresa,Theresa
@@ -12224,9 +12217,7 @@ Holmes",other
 9675,Mrs. Toller,PERSON,,the_adventure_of_the_copper_beeches,Mrs. Toller,Mrs. Toller
 9779,Miss Alice Rucastle,PERSON,,the_adventure_of_the_copper_beeches,Miss Alice Rucastle,other
 9795,America,LOCATION,{'LOCATION': 0.98200770220805},the_adventure_of_the_copper_beeches,America,America
-9818,Hers,PERSON,,the_adventure_of_the_copper_beeches,Hers,other
 9910,Miss Rucastle,PERSON,,the_adventure_of_the_copper_beeches,Miss Rucastle,other
-9868,hers,PERSON,,the_adventure_of_the_copper_beeches,hers,other
 9981,Watson,PERSON,{'PERSON': 0.97232593871518},the_adventure_of_the_copper_beeches,John H. Watson,John H. Watson
 10092,Mr. Holmes,PERSON,,the_adventure_of_the_copper_beeches,Sherlock Holmes,Sherlock Holmes
 10242,Miss Hunter,MISC,{'MISC': 0.97550223128296},the_adventure_of_the_copper_beeches,Miss Hunter,Miss Hunter
@@ -12537,7 +12528,6 @@ Holmes",other
 10528,Lucas,PERSON,{'PERSON': 0.99424349922656},the_adventure_of_the_second_stain,Lucas,Lucas
 10613,Lucas,PERSON,{'PERSON': 0.99381344534794},the_adventure_of_the_second_stain,Lucas,Lucas
 10666,French,MISC,{'MISC': 0.9999597337336},the_adventure_of_the_second_stain,French,French
-10709,hers,PERSON,,the_adventure_of_the_second_stain,hers,other
 10874,Lucas,PERSON,{'PERSON': 0.98889975738988},the_adventure_of_the_second_stain,Lucas,Lucas
 11001,European,MISC,{'MISC': 0.99731799291469},the_adventure_of_the_second_stain,European,European
 11013,Mr. Holmes,PERSON,,the_adventure_of_the_second_stain,Sherlock Holmes,Sherlock Holmes
@@ -13188,7 +13178,6 @@ Holmes",other
 4197,Maria Pinto,PERSON,{'PERSON': 0.99926480704654},the_problem_of_thor_bridge,Maria Pinto,other
 4207,Manaos,LOCATION,{'LOCATION': 0.52335102422347},the_problem_of_thor_bridge,Manaos,Manaos
 4279,American,MISC,{'MISC': 0.9999689623957},the_problem_of_thor_bridge,American,American
-4337,hers,PERSON,,the_problem_of_thor_bridge,hers,other
 4423,English,MISC,{'MISC': 0.99995262116066},the_problem_of_thor_bridge,English,English
 4438,Amazon,LOCATION,{'LOCATION': 0.92693946075342},the_problem_of_thor_bridge,Amazon,Amazon
 4455,Miss Grace Dunbar,PERSON,,the_problem_of_thor_bridge,Miss Grace Dunbar,other
@@ -14101,7 +14090,6 @@ Holmes",other
 2235,Allahabad,LOCATION,{'LOCATION': 0.71005145606207},the_adventure_of_the_veiled_lodger,Allahabad,Allahabad
 2342,Ronder,PERSON,{'PERSON': 0.5349565706421},the_adventure_of_the_veiled_lodger,Ronder,Ronder
 2344,Ronder,PERSON,{'PERSON': 0.53294282976503},the_adventure_of_the_veiled_lodger,Ronder,Ronder
-2408,hers,PERSON,,the_adventure_of_the_veiled_lodger,hers,other
 2492,Ronder,PERSON,{'PERSON': 0.97352604936634},the_adventure_of_the_veiled_lodger,Ronder,Ronder
 2678,Coward,PERSON,{'PERSON': 0.79804141966482},the_adventure_of_the_veiled_lodger,Coward,other
 2685,Watson,PERSON,{'PERSON': 0.98062704890308},the_adventure_of_the_veiled_lodger,John H. Watson,John H. Watson
@@ -14332,7 +14320,6 @@ Holmes",other
 7401,Jim Browner,PERSON,{'PERSON': 0.99965386251278},the_adventure_of_the_cardboard_box,Jim Browner,other
 7417,Montgomery,PERSON,{'PERSON': 0.99035404679405},the_adventure_of_the_cardboard_box,Montgomery,Montgomery
 7420,Shadwell Police Station,ORGANIZATION,{'ORGANIZATION': 0.92599875211214},the_adventure_of_the_cardboard_box,Shadwell Police Station,Shadwell Police Station
-7527,hers,PERSON,,the_adventure_of_the_cardboard_box,hers,other
 7594,Sarah,PERSON,{'PERSON': 0.99591670595716},the_adventure_of_the_cardboard_box,Sarah,Sarah
 7677,Sarah Cushing,PERSON,{'PERSON': 0.99980181417932},the_adventure_of_the_cardboard_box,Sarah Cushing,other
 7756,Sarah,PERSON,{'PERSON': 0.99955296126215},the_adventure_of_the_cardboard_box,Sarah,Sarah
@@ -14346,7 +14333,6 @@ Holmes",other
 8065,Mary,PERSON,{'PERSON': 0.9555578058723},the_adventure_of_the_cardboard_box,Mary Watson,Mary Watson
 8104,Mary,PERSON,{'PERSON': 0.98117839599437},the_adventure_of_the_cardboard_box,Mary Watson,Mary Watson
 8106,Jim,PERSON,{'PERSON': 0.99887273071789},the_adventure_of_the_cardboard_box,James Jim Moriarty,James Jim Moriarty
-8166,hers,PERSON,,the_adventure_of_the_cardboard_box,hers,other
 8244,Jim,PERSON,{'PERSON': 0.97050936009815},the_adventure_of_the_cardboard_box,James Jim Moriarty,James Jim Moriarty
 8273,Sarah,PERSON,{'PERSON': 0.99668901147273},the_adventure_of_the_cardboard_box,Sarah,Sarah
 8318,Mary,PERSON,{'PERSON': 0.96654749734471},the_adventure_of_the_cardboard_box,Mary Watson,Mary Watson

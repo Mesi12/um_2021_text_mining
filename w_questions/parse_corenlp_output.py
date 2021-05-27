@@ -104,7 +104,7 @@ def clean_names(filepath):
     ### NER dataset
     df_ner = pd.read_csv(filepath)
     # clean dataset from pronouns
-    pronouns = "he,him,his,she,her".split(",")
+    pronouns = "he,him,his,she,her,hers".split(",")
     df_ner = df_ner[~df_ner['text'].str.lower().isin(pronouns)].reset_index(drop=True)
     # join with mapping dataset to get clean name, remove "from" column -> adds column "clean_text"
     df_ner = df_ner.merge(df_mapping, left_on="text", right_on="from", how="left")
