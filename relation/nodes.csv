@@ -1,1470 +1,344 @@
-index,clean_text
-0,--you
-1,ABE SLANEY
-2,Abdullah Khan
-3,Abe
-4,Abe Slaney
-5,Abelwhite
-6,Aberdonian
-7,Abernetty
-8,Abraham Lincoln
-9,Abrahams
-10,Achmet
-11,Adams
-12,Adelbert
-13,Adelbert Gruner
-14,Adolph Mayer
-15,Agatha
-16,Aldrige
-17,Alec
-18,Alec Cunningham
-19,Alec Fairbairn
-20,Alec MacDonald
-21,Alexander Hamilton Garrideb
-22,Alexander Holder
-23,Alexis
-24,Algar
-25,Alice
-26,Alice Morphy
-27,Alicia
-28,Alicia Whittington
-29,Alison
-30,Allan Water
-31,Allardyce
-32,Aloysius Doran
-33,Alton
-34,America Gennaro
-35,Ames
-36,Anderson
-37,Andrew Rae
-38,Andrews
-39,Anna
-40,Anne
-41,Annie
-42,Annie Morrison
-43,Anstruther
-44,Anthony
-45,Antonio
-46,Archie
-47,Armitage
-48,Armitage--Percy Armitage
-49,Armour
-50,Armstrong
-51,Arthur
-52,Arthur Cadogan West
-53,Arthur Charpentier
-54,Arthur H. Staunton
-55,Arthur Morstan
-56,Arthur Pinner
-57,Arthur Willaby
-58,Athelney Jones
-59,Athelney Jones 
-60,Athene
-61,Atkinson
-62,Atwood
-63,Audley Court
-64,Augusto Barelli
-65,Augustus Moran
-66,Baden
-67,Baker
-68,Baldwin
-69,Baldy Simpson
-70,Balzac
-71,Bannister
-72,Barclay
-73,Bardle
-74,Barker
-75,Barnes
-76,Barney
-77,Barney Stockdale
-78,Barnicot
-79,Baron
-80,Baron Adelbert Gruner
-81,Baron Beverley
-82,Baron Dowson
-83,Baron Gruner
-84,Baron Maupertuis
-85,Baron Von Herling
-86,Barraud
-87,Barrymore
-88,Bartholomew Sholto
-89,Bartholomew Wilson
-90,Barton
-91,Barton 
-92,Baskerville
-93,Baskerville Hall
-94,Bates
-95,Baxter
-96,Bayard
-97,Baynes
-98,Beatrice
-99,Beatrice Falder
-100,Becher
-101,Beddington
-102,Beecher
-103,Bellamy
-104,Bellinger
-105,Ben
-106,Bennett
-107,Bentley
-108,Beppo
-109,Bert Stevens
-110,Bertillon
-111,Beryl
-112,Beryl Garcia
-113,Bhurtee
-114,Biddle
-115,Bill
-116,Billy
-117,Billy James
-118,Birdy Edwards
-119,Birlstone
-120,Black Gorgiano
-121,Black Jack of Ballarat
-122,Black Peter
-123,Black Tor
-124,Blackheath
-125,Blessington
-126,Blondin
-127,Blount
-128,Bob
-129,Bob Carruthers
-130,Bob Ferguson
-131,Boccaccio
-132,Bodymaster
-133,Bodymaster J. H. Scott
-134,Bodymaster McGinty
-135,Boer
-136,Boone
-137,Borgia
-138,Boss McGinty
-139,Boswell
-140,Bouguereau
-141,Bovington
-142,Bradley
-143,Bradshaw
-144,Bradstreet
-145,Breckinridge
-146,Brenda
-147,Brenda Tregennis
-148,Brethren
-149,Broderick
-150,Bromley Brown
-151,Brooks
-152,Brother McMurdo
-153,Brother Stangerson
-154,Browner
-155,Browners
-156,Bruce Pinkerton
-157,Bruce-Partington
-158,Brunton
-159,Buda-Pesth
-160,Buddha
-161,Bushman
-162,C.B.
-163,Cadogan
-164,Cadogan West
-165,Cadogen West
-166,Cantlemere
-167,Capus
-168,Carey
-169,Carina
-170,Carlo
-171,Carlton Club
-172,Carlyle
-173,Carnaway
-174,Carrie Evans
-175,Carruthers
-176,Carson
-177,Carstairs
-178,Carter
-179,Cartwright
-180,Castalotte
-181,Cathcart Soames
-182,Catherine Cusack
-183,Caunter
-184,Cavendish
-185,Cawnpore
-186,Cecil
-187,Cecil Barker
-188,Cecil James Barker
-189,Charles
-190,Charles Appledore
-191,Charles Augustus Milverton
-192,Charles Baskerville
-193,Charles Chandos
-194,Charles Gorot
-195,Charles Hardy
-196,Charles Milverton
-197,Charles the First
-198,Charles the Second
-199,Charlie Peace
-200,Charlie Williams
-201,Charlington Hall
-202,Charlington Heath
-203,Charpentier
-204,Cheeseman
-205,Chester Wilcox
-206,Chesterton
-207,Chiltern Grange
-208,Chiswick
-209,Chopin
-210,Christ
-211,Christie
-212,Clapham Junction
-213,Clarendon
-214,Claridge
-215,Clayton
-216,Clotilde Lothman von Saxe-Meningen
-217,Cocks
-218,Colin
-219,Colonel Lysander Stark
-220,Colonna
-221,Cook
-222,Coombe Tracey
-223,Coram
-224,Cormac
-225,Cornelius
-226,Cornish
-227,Count Sylvius
-228,Coward
-229,Cowper
-230,Coxon
-231,Crabbe
-232,Crockford
-233,Croker
-234,Culverton Smith
-235,Cunningham
-236,Cusack
-237,Cyril
-238,Cyril Overton
-239,Damery
-240,Dane
-241,Danton
-242,Dantzig
-243,Darwin
-244,Daulat Ras
-245,David
-246,Dawson
-247,De Merville
-248,Deep Dene House
-249,Denis Falder
-250,Denn
-251,Dennis
-252,Desborough
-253,Desmonds
-254,Devine
-255,Devon
-256,Dingle
-257,Diogenes Club
-258,Dodd
-259,Dolores
-260,Dolsky
-261,Don Juan
-262,Don Murillo
-263,Donnithorpe
-264,Dorak
-265,Dost Akbar
-266,Douglas
-267,Douglas Maberley
-268,Dovercourt
-269,Dr. Ainstree
-270,Dr. Lysander Starr
-271,Dr. Mortimer
-272,Draper
-273,Drebber
-274,Duchess of Devonshire
-275,Duke
-276,Duke of Lomond
-277,Duncan Ross
-278,Dundas
-279,Dunlop
-280,Dunn
-281,Dupin
-282,E. J. Drebber
-283,ELSIE
-284,Earl of Carston
-285,Earl of Maynooth
-286,Earl of Rufton
-287,Eccles
-288,Edgar Allen Poe
-289,Edison
-290,Edith
-291,Edith Baxter
-292,Edmunds
-293,Eduardo Lucas
-294,Edward
-295,Edward Holly
-296,Edwards
-297,Effie
-298,Egan
-299,Eley
-300,Elias Openshaw
-301,Elias Openshaw 
-302,Elias Whitney
-303,Elise
-304,Eliza
-305,Elizabeth
-306,Elman
-307,Elrige
-308,Elsie
-309,Emilia Lucca
-310,Eminent Bodymaster
-311,Emsworth
-312,Englischer Hof
-313,Enoch Drebber
-314,Enoch J. Drebber
-315,Ernest
-316,Escott
-317,Esher
-318,Ettie
-319,Ettie Edwards
-320,Ettie Shafter
-321,Eugenia Ronder
-322,Eustace
-323,Eustace Brackenstall
-324,Eva
-325,Eva Brackwell
-326,Evans
-327,Evans Pott
-328,Ezekiah Hopkins
-329,Fairbairn
-330,Fairbank
-331,Ferguson
-332,Fernworthy
-333,Ferrier
-334,Fitzroy
-335,Fitzroy McPherson
-336,Fitzroy Simpson
-337,Flora
-338,Flora Millar
-339,Forbes
-340,Fordham
-341,Foreman Blaker
-342,Forrester
-343,Fournaye
-344,Frances
-345,Frances Carfax
-346,Francis H. Moulton
-347,Francis Prosper
-348,Francois Le Villard
-349,Frank
-350,Frankland
-351,Franz Josef
-352,Fraser
-353,Fratton
-354,Fred
-355,Fred Porlock
-356,Freebody
-357,Freeman
-358,Friend MacDonald
-359,Friend McMurdo
-360,Fritz
-361,Fritz von Waldbaum
-362,Frédéric Cuvier
-363,G. Dunbar
-364,Gabriel
-365,Gar
-366,Garcia
-367,Garrideb
-368,Garridebs
-369,Gelder
-370,Gennaro
-371,Gennaro Lucca
-372,Gentile
-373,George Burnwell
-374,George Ffolliott
-375,George Lewis
-376,George Meredith
-377,George Sand
-378,Ghazis
-379,Gibson
-380,Gilchrist
-381,Giuseppe Gorgiano
-382,Gladstone
-383,Gloria Scott
-384,God
-385,Godfrey Emsworth
-386,Godfrey Milner
-387,Godfrey Norton
-388,Godfrey Staunton
-389,Goethe
-390,Gordon
-391,Gorgiano
-392,Gorot
-393,Gower
-394,Grace
-395,Graham
-396,Grand Duke of Cassel-Felstein
-397,Grant Munro
-398,Gray
-399,Grecian
-400,Gregory
-401,Greuze
-402,Griggs
-403,Grimesby Roylott
-404,Grimpen
-405,Grimpen Mire
-406,Groat
-407,Guliolmi Whyte
-408,Gustave Flaubert
-409,H. Lowenstein
-410,Hafiz
-411,Hall Pycroft
-412,Halle
-413,Halliday
-414,Halloa
-415,Hampstead Heath
-416,Hankey
-417,Hans Sloane
-418,Hargrave
-419,Harker
-420,Harley Street
-421,Harold
-422,Harold Latimer
-423,Harold Stackhurst
-424,Harraway
-425,Harringby
-426,Harris
-427,Harrow
-428,Harrow Weald
-429,Harry
-430,Harry Murcher
-431,Harry Pinner
-432,Harry Wood
-433,Harvey
-434,Hatherley
-435,Hatherley Farm-house
-436,Hayes
-437,Hayter
-438,Hayward
-439,Heath
-440,Heber C Kemball
-441,Heidegger
-442,Heinrich
-443,Helen
-444,Helen Stoner
-445,Helston
-446,Henderson
-447,Henri Fournaye
-448,Henri Murger
-449,Henry
-450,Henry Baker
-451,Henry Bakers
-452,Henry Baskerville
-453,Henry Peters
-454,Henry Staunton
-455,Henry Ward Beecher
-456,Henry Wood
-457,Herman Strauss
-458,Herr Heidegger
-459,Higgins
-460,High Gable
-461,High Holborn
-462,Hilda Adair
-463,Hilda Adair 
-464,Hilda Trelawney Hope
-465,Hill
-466,Hilton Cubitt
-467,Hindoo
-468,Hindoos
-469,Hobson
-470,Hoffman
-471,Holdernesse
-472,Holdhurst
-473,Hollis
-474,Holloway
-475,Holy Peters
-476,Honourable Trelawney Hope
-477,Hope
-478,Horace
-479,Horner
-480,Horsom
-481,Hosmer
-482,Hosmer Angel
-483,Houndsditch
-484,Howells
-485,Hugh Boone
-486,Hugh Pattins
-487,Hugo
-488,Hugo Baskerville
-489,Hugo Oberstein
-490,Hugo de Capus
-491,Hunter
-492,Huxtable
-493,Hyams
-494,I. Lal Chowdar
-495,Ian
-496,Ian Murdoch
-497,Ikey
-498,Ikey Sanders
-499,Inspector Gregson
-500,Inspector Lestrade
-501,Ionides
-502,Irene Adler
-503,Irene Norton
-504,Iris
-505,Isa
-506,Isa Whitney
-507,Isadora Klein
-508,Isadora Persano
-509,Ivy Lane
-510,J. C. Elman
-511,J. Davenport
-512,J. G. Wood
-513,J. Neil Gibson
-514,"J. W. Windle D. M. A. O. F.
-
-""Windle"
-515,JOHN FERRIER
-516,Jabez Gilchrist
-517,Jabez Wilson
-518,Jack
-519,Jack Douglas
-520,Jack James
-521,Jack Knox
-522,Jack McGinty
-523,Jack McMurdo
-524,Jack McMurdo--see
-525,Jack Woodley
-526,Jacky
-527,Jacob Shafter
-528,Jacobs
-529,Jacobson
-530,James Armitage
-531,James Barclay
-532,James Browner
-533,James Calhoun
-534,James Calhoun 
-535,James Damery
-536,James Desmond
-537,James H. Scott
-538,James Jim Moriarty
-539,James Lancaster
-540,James McCarthy
-541,James Mortimer
-542,James Murdoch
-543,James Ryder
-544,James Saunders
-545,James Smith
-546,James Stanger
-547,James Walter
-548,James Wilder
-549,James Windibank
-550,James Winter
-551,Jane Stewart
-552,Janet Tregellis
-553,Jasper Meek
-554,Jean Baptiste Greuze
-555,Jean Paul
-556,Jefferson
-557,Jefferson Hope
-558,Jem
-559,Jenkins
-560,Jephro
-561,Jephro Rucastle
-562,Jeremy Dixon
-563,Jim Browner
-564,Jim Carnaway
-565,Jimmie
-566,Jimmie--even
-567,Jimmy
-568,Jimmy Griggs
-569,Johann
-570,Johann Faber
-571,John Bull
-572,John Clay
-573,John Cobb
-574,John Douglas
-575,John Ferrier
-576,John Garrideb
-577,John H. Watson
-578,John Hare
-579,John Hare 
-580,John Hebron
-581,John Hector McFarlane
-582,John Holder
-583,John Hopley Neligan
-584,John Horner
-585,John Mason
-586,John McFarlane
-587,John McGinty
-588,John McMurdo
-589,John Mitton
-590,John Morland
-591,John Openshaw
-592,John Rance
-593,John Robinson
-594,John Sholto
-595,John Straker
-596,John Swain
-597,John Underwood
-598,John Vincent Harden
-599,John Warner
-600,Johnnie
-601,Johnny Hones
-602,Johnson
-603,Johnston
-604,Jonas Oldacre
-605,Jonas Pinto
-606,Jonathan Small
-607,Jonathan Wild
-608,Joseph Harrison
-609,Joseph Openshaw 
-610,Joseph Smith
-611,Joseph Stangerson
-612,Joshua Stone
-613,Josiah Amberley
-614,Josiah Barnes
-615,Josiah H. Dunn
-616,Jove
-617,Juan Murillo
-618,Jules
-619,Jules Vibart
-620,Julia
-621,Junker
-622,K. K. K.
-623,Kaiser
-624,Kate
-625,Kate Whitney
-626,Kemball
-627,Keswick
-628,Khalifa
-629,Kilburn
-630,Killer Evans
-631,King
-632,King of Scandinavia
-633,Kitty Winter
-634,Klein
-635,Ku Klux Klan
-636,L. L.
-637,L. L.--but
-638,Lady Beatrice
-639,Lady Beatrice Falder
-640,Lady Brackenstall
-641,Lady Clara St. Simon
-642,Lady Eva
-643,Lady Frances
-644,Lady Frances Carfax
-645,Lady Hilda
-646,Lady Maynooth
-647,Lady St. Simon
-648,Lafter Hall
-649,Lal Chowdar
-650,Lal Rao
-651,Lamberley
-652,Langdale
-653,Langdale Pike
-654,Langham
-655,Lanner
-656,Lascar
-657,Lassus
-658,Latimer
-659,Lauder
-660,Laura Lyons
-661,Lauriston Gardens
-662,Lawler
-663,Le Brun
-664,Lefevre
-665,Leon Sterndale
-666,Leonardo
-667,Leslie Armstrong
-668,Leslie Oakshott
-669,Lestrade
-670,Leverstoke
-671,Lhassa
-672,Llama
-673,Lomax
-674,Long
-675,Lookin
-676,Lopez
-677,Louis La Rothiere
-678,Lowenstein
-679,Lucas
-680,Lucretia Venucci
-681,Lucy
-682,Lucy Ferrier
-683,Lucy Parr
-684,Lucy adieu
-685,Lynch
-686,Lyons
-687,M. Henri Fournaye
-688,M. Moser
-689,Maberley
-690,Mac
-691,MacKinnon
-692,MacNamara
-693,MacPherson
-694,Mackleton
-695,Macphail
-696,Madam Derbyshire
-697,Madame Charpentier
-698,Madame Lesurier
-699,Mademoiselle
-700,Maggie
-701,Mahomet Singh
-702,Mahratta
-703,Malthus
-704,Manders
-705,Mansel
-706,Manson
-707,Marcini
-708,Maria Pinto
-709,Marie
-710,Marie Devine
-711,Mark
-712,Marley Creek
-713,Martha
-714,Martin
-715,Marvin
-716,Marvin of the Chicago Central
-717,Marvin--he
-718,Marx
-719,Mary
-720,Mary 
-721,Mary Maberley
-722,Mary Sutherland
-723,Mary Watson
-724,Mary herself--and
-725,Mary--Mary Fraser
-726,Marylebone Lane
-727,Mason
-728,Masser Perkins
-729,Master Godfrey
-730,Master Holmes
-731,Mathews
-732,Matilda Briggs
-733,Maud
-734,Maud Bellamy
-735,Maudie
-736,Maudsley
-737,Mawson
-738,McCarthy
-739,McCauley
-740,McFarlane
-741,McGinty
-742,McMurdo
-743,McMurdo the Scowrer
-744,McPherson
-745,McQuire
-746,Melas
-747,Melville
-748,Menzies
-749,Mercer
-750,Merivale
-751,Merrow
-752,Merton
-753,Meyers
-754,Michael
-755,Middleton
-756,Mike Scanlan
-757,Miles McLaren
-758,Millar
-759,Milman
-760,Milverton
-761,Mincing Lane
-762,Miss Adler
-763,Miss Alice
-764,Miss Alice Rucastle
-765,Miss Bellamy
-766,Miss Brenda Tregennis
-767,Miss Burnet
-768,Miss Cushing
-769,Miss Dobney
-770,Miss Doran
-771,Miss Dunbar
-772,Miss Edith Woodley
-773,Miss Ettie
-774,Miss Ettie Shafter
-775,Miss Flora Millar
-776,Miss Fraser
-777,Miss Grace Dunbar
-778,Miss Harrison
-779,Miss Hatty Doran
-780,Miss Helen Stoner
-781,Miss Honoria Westphail
-782,Miss Hunter
-783,Miss Irene
-784,Miss Kitty Winter
-785,Miss Marie Devine
-786,Miss Mary Fraser
-787,Miss Mary Holder
-788,Miss Mary Morstan
-789,Miss Maud Bellamy
-790,Miss Minnie Warrender
-791,Miss Morrison
-792,Miss Nancy Devoy
-793,Miss Presbury
-794,Miss Rachel
-795,Miss Roylott
-796,Miss Rucastle
-797,Miss S. Cushing
-798,Miss Sarah
-799,Miss Sarah Cushing
-800,Miss Smith
-801,Miss Stapleton
-802,Miss Stoner
-803,Miss Stoper
-804,Miss Susan Cushing
-805,Miss Turner
-806,Miss Violet Hunter
-807,Miss Violet Smith
-808,Miss Violet Westbury
-809,Miss Violet de Merville
-810,Miss Winter
-811,Miss de Merville
-812,Mister Von Bork
-813,Mitton
-814,Moffat
-815,Monaghan
-816,Monsieur Bertillon
-817,Monsieur Dubugue
-818,Monsieur Lecoq
-819,Monsieur Oscar Meunier
-820,Montgomery
-821,Montpensier
-822,Moonlight
-823,Moore Agar
-824,Moran
-825,Morcar
-826,Mordecai Smith
-827,Morecroft
-828,Morland
-829,Mormon Prophet
-830,Morphy
-831,Morrison
-832,Morse Hudson
-833,Morstan
-834,Mortimer
-835,Mortimer Maberley
-836,Mortimer Tregennis
-837,Morton
-838,Morton 
-839,Mother
-840,Mount-James
-841,Mr. Abe Slaney
-842,Mr. Abelwhite
-843,Mr. Acton
-844,Mr. Alec
-845,Mr. Alec Cunningham
-846,Mr. Aloysius Doran
-847,Mr. Aloysius Garcia
-848,Mr. Altamont
-849,Mr. Amberley
-850,Mr. Ames
-851,Mr. Angel
-852,Mr. Armitage
-853,Mr. Arthur Harry Pinner
-854,Mr. Baker
-855,Mr. Baldwin
-856,Mr. Barker
-857,Mr. Barnes
-858,Mr. Barrymore
-859,Mr. Bates
-860,Mr. Beddoes
-861,Mr. Bellamy
-862,Mr. Bender
-863,Mr. Bennett
-864,Mr. Blessington
-865,Mr. Boarder
-866,Mr. Breckinridge
-867,Mr. Brown
-868,Mr. Browner
-869,Mr. Busybody Holmes
-870,Mr. Carruthers
-871,Mr. Cecil Barker
-872,Mr. Chairman
-873,Mr. Chairman--yourself
-874,Mr. Charles McCarthy
-875,Mr. Cocksure
-876,Mr. Cornelius
-877,Mr. Crooked McMurdo
-878,Mr. Cubitt
-879,Mr. Culverton Smith
-880,Mr. Cummings
-881,Mr. Cunningham
-882,Mr. Cyril Overton
-883,Mr. Detective
-884,Mr. Dodd
-885,Mr. Doran
-886,Mr. Douglas
-887,Mr. Drebber
-888,Mr. Eccles
-889,Mr. Edmunds
-890,Mr. Eduardo Lucas
-891,Mr. Enoch Drebber
-892,Mr. Enoch J. Drebber
-893,Mr. Evans
-894,Mr. Fairdale Hobbs
-895,Mr. Farquhar
-896,Mr. Ferguson
-897,Mr. Fowler
-898,Mr. Frankland
-899,Mr. Garcia
-900,Mr. Garrideb
-901,Mr. Gibson
-902,Mr. Gilchrist
-903,Mr. Godfrey
-904,Mr. Godfrey Staunton
-905,Mr. Grant Munro
-906,Mr. Green
-907,Mr. Gregson
-908,Mr. Hall Pycroft
-909,Mr. Hardy
-910,Mr. Harker
-911,Mr. Harris
-912,Mr. Harrison
-913,Mr. Harry Pinner
-914,Mr. Hatherley
-915,Mr. Hayes
-916,Mr. Heath Newton
-917,Mr. Henderson
-918,Mr. Henry Baker
-919,Mr. Henry Baskerville
-920,Mr. Henry Wood
-921,Mr. Hilton Cubitt
-922,Mr. Hilton Soames
-923,Mr. Holder
-924,Mr. Holmes [
-925,Mr. Homes
-926,Mr. Hope
-927,Mr. Hopkins
-928,Mr. Hosmer Angel
-929,Mr. Hugo Oberstein
-930,Mr. Huxtable
-931,Mr. Hyam
-932,Mr. Hynes Hynes
-933,Mr. Ian Murdoch
-934,Mr. Inspector
-935,Mr. Isa Whitney
-936,Mr. Jack Croker
-937,Mr. James Baker Williams
-938,Mr. James Desmond
-939,Mr. James M. Dodd
-940,Mr. James McCarthy
-941,Mr. James Phillimore
-942,Mr. James Wilder
-943,Mr. Jefferson Hope
-944,Mr. Jeremiah Hayling
-945,Mr. Jeremy Dixon
-946,Mr. John Bull
-947,Mr. John Douglas
-948,Mr. John Garrideb
-949,Mr. John Hector McFarlane
-950,Mr. John Mason
-951,Mr. John Scott Eccles
-952,Mr. John Straker
-953,Mr. John Turner
-954,Mr. Johnson
-955,Mr. Jonas Oldacre
-956,Mr. Jones
-957,Mr. Joseph Harrison
-958,Mr. Joseph Stangerson
-959,Mr. Josiah Amberley
-960,Mr. Josiah Brown
-961,Mr. Joyce Cummings
-962,Mr. Latimer
-963,Mr. Leverton
-964,Mr. Lucas
-965,Mr. Mac
-966,Mr. MacDonald
-967,Mr. Marlow Bates
-968,Mr. Mason
-969,Mr. McCarthy
-970,Mr. McFarlane
-971,Mr. McGinty
-972,Mr. McMurdo
-973,Mr. McPherson
-974,Mr. Melas
-975,Mr. Merryweather
-976,Mr. Merton
-977,Mr. Milverton
-978,Mr. Mordecai Smith
-979,Mr. Moriarty
-980,Mr. Morris
-981,Mr. Mortimer Tregennis
-982,Mr. Moulton
-983,Mr. Munro
-984,Mr. Murdoch
-985,Mr. Musgrave
-986,Mr. Nathan
-987,Mr. Nathan Garrideb
-988,Mr. Neil Gibson
-989,Mr. Neville St. Clair
-990,Mr. Neville St.--Oh
-991,Mr. Oberstein
-992,Mr. Oldacre
-993,Mr. Overton
-994,Mr. Patrick Cairns
-995,Mr. Percy Phelps
-996,Mr. Peters
-997,Mr. Phelps
-998,Mr. Pickwick
-999,Mr. Pinner
-1000,Mr. Price
-1001,Mr. Pycroft
-1002,Mr. Reuben Hayes
-1003,Mr. Robert Ferguson
-1004,Mr. Roundhay
-1005,Mr. Rucastle
-1006,Mr. Ryder
-1007,Mr. Sandeford
-1008,Mr. Scott Eccles
-1009,Mr. Shafter
-1010,Mr. Sherlock
-1011,Mr. Sherman
-1012,Mr. Sholto
-1013,Mr. Sidney Johnson
-1014,Mr. Silas Brown
-1015,Mr. Slaney
-1016,Mr. Smith
-1017,Mr. Soames
-1018,Mr. St. Clair
-1019,Mr. Standback
-1020,Mr. Stanger
-1021,Mr. Stangerson
-1022,Mr. Stapleton
-1023,Mr. Staunton
-1024,Mr. Sutro
-1025,Mr. Thaddeus
-1026,Mr. Thaddeus Sholto
-1027,Mr. Theorist
-1028,Mr. Treasurer
-1029,Mr. Tregennis
-1030,Mr. Trelawney Hope
-1031,Mr. Trevor
-1032,Mr. Trevor Bennett
-1033,Mr. Victor Hatherley
-1034,Mr. Von Bork
-1035,Mr. Warren
-1036,Mr. White Mason
-1037,Mr. Wilder
-1038,Mr. Williamson
-1039,Mr. Willoughby Smith
-1040,Mr. Wilson
-1041,Mr. Windibank
-1042,Mr. Windigate
-1043,Mr. Woodley
-1044,Mrs. Allen
-1045,Mrs. Amberley
-1046,Mrs. Barclay
-1047,Mrs. Barrymore
-1048,Mrs. Bernstone
-1049,Mrs. Browner
-1050,Mrs. Carey
-1051,Mrs. Charpentier
-1052,Mrs. Dixon
-1053,Mrs. Douglas
-1054,Mrs. Etherege
-1055,Mrs. Farintosh
-1056,Mrs. Francis Hay Moulton
-1057,Mrs. Gibson
-1058,Mrs. Harold
-1059,Mrs. Hayes
-1060,Mrs. Henry Baker
-1061,Mrs. Hilton Cubitt
-1062,Mrs. Hudson
-1063,Mrs. King
-1064,Mrs. Larbey
-1065,Mrs. Laura Lyons
-1066,Mrs. Lexington
-1067,Mrs. Lucca
-1068,Mrs. Lyons
-1069,Mrs. Maberley
-1070,Mrs. Marker
-1071,Mrs. Mason
-1072,Mrs. McGregor
-1073,Mrs. Merrilow
-1074,Mrs. Moulton
-1075,Mrs. Norlett
-1076,Mrs. Oakshott
-1077,Mrs. Oldmore
-1078,Mrs. Peters
-1079,Mrs. Porter
-1080,Mrs. Pringle
-1081,Mrs. Ronder
-1082,Mrs. Rucastle
-1083,Mrs. Saunders
-1084,Mrs. Sawyer
-1085,Mrs. Shlessinger
-1086,Mrs. Smith
-1087,Mrs. St. Clair
-1088,Mrs. Stapleton
-1089,Mrs. Stewart
-1090,Mrs. Stoner
-1091,Mrs. Straker
-1092,Mrs. Tangey
-1093,Mrs. Toller
-1094,Mrs. Turner
-1095,Mrs. Vandeleur
-1096,Mrs. Warren
-1097,Mrs. Woodley
-1098,Muirhead
-1099,Muller
-1100,Murcher
-1101,Murdoch
-1102,Murillo
-1103,Murphy
-1104,Murray
-1105,Musgrave
-1106,Musgrave Ritual
-1107,Musgraves
-1108,Mycroft Holmes
-1109,N. W. Got
-1110,Nana Sahib
-1111,Nancy
-1112,Nancy Devoy
-1113,Napoleon
-1114,Nathan Garrideb
-1115,Near
-1116,Ned
-1117,Ned Hunter
-1118,Neil Gibson
-1119,Neill
-1120,Neligan
-1121,Nelson
-1122,Neville
-1123,Neville St. Clair
-1124,Nicholson
-1125,Nihilist Klopman
-1126,Norah Creina
-1127,Norbury
-1128,Norlett
-1129,Norman Conquest
-1130,Norman Hugos
-1131,Norman Neruda
-1132,Norwood
-1133,Oakshott
-1134,Oberstein
-1135,Odley
-1136,Oldacre
-1137,Oliver
-1138,Overton
-1139,Owen
-1140,Paganini
-1141,Palladio
-1142,Palmer
-1143,Pancras
-1144,Paramore
-1145,Park Lane
-1146,Parker
-1147,Patch
-1148,Pathan
-1149,Patience Moran
-1150,Patrick
-1151,Patrick Cairns
-1152,Patterson 
-1153,Paul
-1154,Paul Kratides
-1155,Peckham
-1156,Penrose Fisher
-1157,Percy
-1158,Percy Phelps
-1159,Percy Trevelyan
-1160,Perkins
-1161,Peter Carey
-1162,Peter Jones
-1163,Peter Steiler
-1164,Peters
-1165,Peterson
-1166,Phelps
-1167,Philip Green
-1168,Philippe de Croy
-1169,Pierrot
-1170,Pietro
-1171,Pietro Venucci
-1172,Pinchin Lane
-1173,Pinkerton
-1174,Pinner
-1175,Pinto
-1176,Pitt
-1177,Poe
-1178,Police-Constable Cook
-1179,Pollack
-1180,Pompey
-1181,Poor Alice
-1182,Pope
-1183,Porky
-1184,Porky Shinwell
-1185,Porlock
-1186,Port Blair
-1187,Potter
-1188,Prendergast
-1189,Presbury
-1190,Prescott
-1191,Prince Albert
-1192,Pritchard
-1193,Professor Coram
-1194,Prophet
-1195,Pycroft
-1196,Queen Anne
-1197,Rachel
-1198,Rachel Howells
-1199,Rachel--who
-1200,Rajpootana
-1201,Ralph
-1202,Ralph Musgrave
-1203,Ralph Smith
-1204,Rance
-1205,Randall
-1206,Raphael
-1207,Ray Ernest
-1208,Rear-Admiral Baskerville
-1209,Regina
-1210,Reginald Musgrave
-1211,Reichenbach
-1212,Reilly
-1213,Reuben Hayes
-1214,Richard Brunton
-1215,Richards
-1216,Ricoletti
-1217,Ridling Thorpe
-1218,Ridling Thorpe Manor
-1219,Robert E. Lee
-1220,Robert Ferguson
-1221,Robert Norberton
-1222,Robert St. Simon
-1223,Robert Street
-1224,Robert Walsingham de Vere St. Simon
-1225,Roberts
-1226,Rochester Row
-1227,Rodger
-1228,Rodger Baskerville
-1229,Rodger Prescott
-1230,Rodney
-1231,Ronald Adair
-1232,Ronder
-1233,Roy
-1234,Roylott
-1235,Rucastle
-1236,Rucastles
-1237,Rudge-Whitworth
-1238,Rue de Trajan
-1239,Ruffian
-1240,Rumour
-1241,S.H
-1242,SLANE
-1243,Sahib
-1244,Sally
-1245,Saltire
-1246,Salvator Rosa
-1247,Sam
-1248,Sam Brewer
-1249,Sam Brown
-1250,Sam Merton
-1251,Samson
-1252,Samuel
-1253,Sandy Bain
-1254,Sanger
-1255,Sarah
-1256,Sarah Cushing
-1257,Sarasate
-1258,Saunders
-1259,Savage
-1260,Sawyer
-1261,Saxon
-1262,Scanlan
-1263,Schade
-1264,Schelmen der Stoff
-1265,Scotchman
-1266,Scott Eccles
-1267,Sebastian
-1268,Sebastian Moran
-1269,Selden
-1270,Sergius
-1271,Sherlock Holmes
-1272,Sherman
-1273,Shinwell Johnson
-1274,Shipley
-1275,Shlessinger
-1276,Shomu
-1277,Shoscombe
-1278,Shoscombe Prince
-1279,Shuman
-1280,Sidney Johnson
-1281,Sierra Blanco
-1282,Sigerson
-1283,Signor Castalotte
-1284,Signor Rulli
-1285,Signor Zamba
-1286,Signora Victor Durando
-1287,Silas Brown
-1288,Silver Blaze
-1289,Silvester
-1290,Simon
-1291,Simon Bird
-1292,Simpson
-1293,Sinclair
-1294,Singleford
-1295,Slaney
-1296,Slater
-1297,Soames
-1298,Somerton
-1299,Sophy
-1300,Sophy Kratides
-1301,Southerton
-1302,Spaulding
-1303,Spence Munro
-1304,Spencer John
-1305,St. James
-1306,St. Luke
-1307,St. Simon
-1308,Stackhurst
-1309,Stanger
-1310,Stangerson
-1311,Stanley Hopkins
-1312,Stapleton
-1313,Stapletons
-1314,Stark
-1315,Starr
-1316,Staunton
-1317,Steele
-1318,Steiler
-1319,Steiner
-1320,Stephens
-1321,Stepney
-1322,Sterndale
-1323,Steve
-1324,Steve Dixie
-1325,Steve Wilson
-1326,Stevenson
-1327,Stimson
-1328,Stoner
-1329,Straker
-1330,Strasburg
-1331,Straubenzee
-1332,Susan
-1333,Susan Dobney
-1334,Susan Tarlton
-1335,Sutton
-1336,Swandam Lane
-1337,Sylvius
-1338,Tavernier
-1339,Ted
-1340,Ted Baldwin
-1341,Teddy
-1342,Teddy Baldwin
-1343,Teddy Marvin
-1344,Thaddeus
-1345,Thaddeus Sholto
-1346,Theophilus Johnson
-1347,Theresa
-1348,Theresa Wright
-1349,Thomas Carlyle
-1350,Thomas De Quincey
-1351,Thomas J. Jackson
-1352,Thor Mere
-1353,Thor Place
-1354,Thoreau
-1355,Thorneycroft Huxtable
-1356,Thurston
-1357,Tiger Cormac
-1358,Tito Castalotte
-1359,Tobias Gregson
-1360,Tobin
-1361,Toby
-1362,Todman
-1363,Toller
-1364,Tom Bellamy
-1365,Tom Dennis
-1366,Tredannick Wartha
-1367,Tregennis
-1368,Trelawney Hope
-1369,Trevelyan
-1370,Trevor
-1371,Trpoff
-1372,Tudor
-1373,Tuson
-1374,Tut
-1375,U. S. A.
-1376,"U. S. A.""
-
-Holmes"
-1377,Uncle
-1378,Uncle Ralph
-1379,Uncle Sam
-1380,Underwood
-1381,Upwood
-1382,Uriah
-1383,Valentine
-1384,Valentine Walter
-1385,Van Deher
-1386,Van Jansen
-1387,Van Seddar
-1388,Van Shorst
-1389,Vandeleur
-1390,Vermissa
-1391,Verner
-1392,Victor
-1393,Victor Lynch
-1394,Victor Savage
-1395,Victor Trevor
-1396,Victoria
-1397,Vincent Spaulding
-1398,Vincent Square
-1399,Violet
-1400,Violet Hunter
-1401,Vittoria
-1402,Vixen Tor
-1403,Von Bischoff
-1404,Von Bork
-1405,Von Herder
-1406,Von Kramm
-1407,W. Long
-1408,Wainwright
-1409,Waldron
-1410,Wallenstein
-1411,Wallington
-1412,Walter
-1413,Walters
-1414,Warburton
-1415,Wardlaw
-1416,Waylight
-1417,West
-1418,Westaway
-1419,Whereat Hugo
-1420,Whitaker
-1421,White Hart
-1422,White Mason
-1423,Whitney
-1424,Wiggins
-1425,Wilcox
-1426,Wilder
-1427,Wilhelm Gottsreich Sigismond von Ormstein
-1428,Willaby
-1429,William Baskerville
-1430,William Clark Russell
-1431,William Crowder
-1432,William Derbyshire
-1433,William Hales
-1434,William Kirwan
-1435,William Morris
-1436,William Morris 
-1437,William Whyte
-1438,William the coachman
-1439,Williams
-1440,Williamson
-1441,Willoughby Smith
-1442,Willows
-1443,Wilson Hargreave
-1444,Wilson Kemp
-1445,Winchester
-1446,Windle
-1447,Winwood Reade
-1448,Wood
-1449,Woodhouse
-1450,Woodley
-1451,Woodman
-1452,Wordsworth Road
-1453,Ye
-1454,Yew Alley
-1455,Yough
-1456,Young
-1457,Young Overton
-1458,Young Smith
-1459,Young West
-1460,Yoxley
-1461,Zamba
-1462,Zu Grafenstein
-1463,de Merville
-1464,Émile Gaboriau
+index,clean_text_others
+0,Abdullah Khan
+1,Abernetty
+2,Abrahams
+3,Achmet
+4,Adams
+5,Agatha
+6,Alec Cunningham
+7,Alec MacDonald
+8,Alice
+9,Ames
+10,Archie
+11,Armstrong
+12,Arthur
+13,Athelney Jones
+14,Athelney Jones 
+15,Atkinson
+16,Baden
+17,Baldwin
+18,Bannister
+19,Barclay
+20,Bardle
+21,Barker
+22,Barnicot
+23,Baron Gruner
+24,Barrymore
+25,Bartholomew Sholto
+26,Barton
+27,Barton 
+28,Baskerville
+29,Baynes
+30,Bennett
+31,Beppo
+32,Billy
+33,Birdy Edwards
+34,Black Peter
+35,Blessington
+36,Boss McGinty
+37,Boswell
+38,Bradstreet
+39,Breckinridge
+40,Brunton
+41,Cadogan West
+42,Cantlemere
+43,Carruthers
+44,Cartwright
+45,Cecil Barker
+46,Charles
+47,Charles Baskerville
+48,Clotilde Lothman von Saxe-Meningen
+49,Colonel Lysander Stark
+50,Cook
+51,Coombe Tracey
+52,Coram
+53,Cunningham
+54,Dawson
+55,Dolores
+56,Dost Akbar
+57,Douglas
+58,Dr. Ainstree
+59,Dr. Lysander Starr
+60,Drebber
+61,Duchess of Devonshire
+62,Duke
+63,Duncan Ross
+64,Dundas
+65,Elias Openshaw
+66,Elias Openshaw 
+67,Elsie
+68,Emsworth
+69,Ettie
+70,Eustace
+71,Evans
+72,Ezekiah Hopkins
+73,Ferguson
+74,Ferrier
+75,Fitzroy Simpson
+76,Forbes
+77,Fordham
+78,Forrester
+79,Frances
+80,Frank
+81,Frankland
+82,Freebody
+83,Freeman
+84,Frédéric Cuvier
+85,Gar
+86,Garcia
+87,Gennaro
+88,George Burnwell
+89,George Sand
+90,Gilchrist
+91,Gladstone
+92,Gloria Scott
+93,Godfrey Norton
+94,Godfrey Staunton
+95,Gorgiano
+96,Gregory
+97,Grimesby Roylott
+98,Gustave Flaubert
+99,Hafiz
+100,Hall Pycroft
+101,Hayes
+102,Henderson
+103,Henry
+104,Henry Baskerville
+105,Hilda Adair
+106,Hilda Adair 
+107,Hill
+108,Hilton Cubitt
+109,Hobson
+110,Holdhurst
+111,Horace
+112,Horner
+113,Hosmer
+114,Hugo Baskerville
+115,Hunter
+116,Huxtable
+117,Ian Murdoch
+118,Inspector Gregson
+119,Inspector Lestrade
+120,Irene Adler
+121,Jabez Wilson
+122,Jack
+123,Jacky
+124,James Calhoun
+125,James Calhoun 
+126,James Jim Moriarty
+127,James Windibank
+128,Jefferson Hope
+129,John Clay
+130,John Douglas
+131,John Ferrier
+132,John H. Watson
+133,John Hare
+134,John Hare 
+135,John Openshaw
+136,John Straker
+137,John Swain
+138,Johnson
+139,Jonathan Small
+140,Joseph Openshaw 
+141,Joseph Smith
+142,Jove
+143,King of Scandinavia
+144,Lady Brackenstall
+145,Lady Frances
+146,Lady Hilda
+147,Lanner
+148,Lawler
+149,Leonardo
+150,Leslie Armstrong
+151,Lestrade
+152,Lucas
+153,Lucy
+154,Lucy Ferrier
+155,MacKinnon
+156,Mahomet Singh
+157,Martha
+158,Martin
+159,Marvin
+160,Mary
+161,Mary 
+162,Mary Sutherland
+163,Mary Watson
+164,Mawson
+165,McCarthy
+166,McCauley
+167,McFarlane
+168,McGinty
+169,McMurdo
+170,McPherson
+171,Merivale
+172,Milverton
+173,Miss Cushing
+174,Miss Dunbar
+175,Miss Harrison
+176,Miss Hunter
+177,Miss Morrison
+178,Miss Stapleton
+179,Miss Stoner
+180,Monsieur Lecoq
+181,Montgomery
+182,Moore Agar
+183,Moran
+184,Mordecai Smith
+185,Mortimer
+186,Mortimer Tregennis
+187,Morton
+188,Morton 
+189,Mount-James
+190,Mr. Acton
+191,Mr. Alec
+192,Mr. Barker
+193,Mr. Barrymore
+194,Mr. Bennett
+195,Mr. Blessington
+196,Mr. Carruthers
+197,Mr. Culverton Smith
+198,Mr. Cunningham
+199,Mr. Douglas
+200,Mr. Drebber
+201,Mr. Ferguson
+202,Mr. Fowler
+203,Mr. Garrideb
+204,Mr. Gibson
+205,Mr. Gregson
+206,Mr. Hardy
+207,Mr. Henry Baker
+208,Mr. Hilton Cubitt
+209,Mr. Holder
+210,Mr. Hosmer Angel
+211,Mr. James Wilder
+212,Mr. Jonas Oldacre
+213,Mr. Mac
+214,Mr. Mason
+215,Mr. McCarthy
+216,Mr. McFarlane
+217,Mr. McMurdo
+218,Mr. Melas
+219,Mr. Merryweather
+220,Mr. Mortimer Tregennis
+221,Mr. Nathan Garrideb
+222,Mr. Neil Gibson
+223,Mr. Neville St. Clair
+224,Mr. Phelps
+225,Mr. Rucastle
+226,Mr. Scott Eccles
+227,Mr. Sholto
+228,Mr. Smith
+229,Mr. Soames
+230,Mr. Stapleton
+231,Mr. Staunton
+232,Mr. Thaddeus
+233,Mr. Thaddeus Sholto
+234,Mr. Trevor
+235,Mr. White Mason
+236,Mr. Wilder
+237,Mr. Wilson
+238,Mr. Windibank
+239,Mr. Woodley
+240,Mrs. Allen
+241,Mrs. Barclay
+242,Mrs. Bernstone
+243,Mrs. Douglas
+244,Mrs. Etherege
+245,Mrs. Hilton Cubitt
+246,Mrs. Hudson
+247,Mrs. Laura Lyons
+248,Mrs. Lyons
+249,Mrs. Maberley
+250,Mrs. Marker
+251,Mrs. Mason
+252,Mrs. Merrilow
+253,Mrs. Oakshott
+254,Mrs. Porter
+255,Mrs. Rucastle
+256,Mrs. Smith
+257,Mrs. St. Clair
+258,Mrs. Stapleton
+259,Mrs. Straker
+260,Mrs. Toller
+261,Mrs. Turner
+262,Mrs. Warren
+263,Murdoch
+264,Murphy
+265,Musgrave
+266,Mycroft Holmes
+267,Napoleon
+268,Neligan
+269,Neville St. Clair
+270,Norbury
+271,Norwood
+272,Oberstein
+273,Paramore
+274,Patterson 
+275,Perkins
+276,Peter Carey
+277,Peter Jones
+278,Peters
+279,Peterson
+280,Phelps
+281,Pompey
+282,Porlock
+283,Prendergast
+284,Presbury
+285,Prescott
+286,Prince Albert
+287,Ralph
+288,Robert E. Lee
+289,Ronald Adair
+290,Ronder
+291,Roy
+292,Roylott
+293,Sahib
+294,Sam
+295,Sam Brown
+296,Sarah
+297,Sarasate
+298,Scanlan
+299,Scott Eccles
+300,Selden
+301,Sherlock Holmes
+302,Shlessinger
+303,Simpson
+304,Soames
+305,St. Simon
+306,Stackhurst
+307,Stangerson
+308,Stanley Hopkins
+309,Stapleton
+310,Sterndale
+311,Steve
+312,Straker
+313,Susan
+314,Ted Baldwin
+315,Thaddeus
+316,Thaddeus Sholto
+317,Theresa
+318,Thomas De Quincey
+319,Thomas J. Jackson
+320,Tobias Gregson
+321,Toby
+322,Toller
+323,Trevelyan
+324,Trevor
+325,Trpoff
+326,Vermissa
+327,Von Bork
+328,Wallenstein
+329,Walters
+330,White Mason
+331,Wiggins
+332,Wilhelm Gottsreich Sigismond von Ormstein
+333,William Clark Russell
+334,William Kirwan
+335,William Morris
+336,William Morris 
+337,Williamson
+338,Willoughby Smith
+339,Wood
+340,Woodley
+341,Yough
+343,Émile Gaboriau

@@ -65,14 +65,16 @@ if __name__ == "__main__":
     edges.csv -> id, source, target, type (undirected), weigth
     """
 
+    COL_FOR_GRAPH = "clean_text_others" # clean_text, clean_text_others
+    REMOVE_OTHERS = True
+
     file = os.path.join('..', 'w_questions', 'output_parsed', 'ner', '_merged_.csv')
     df = pd.read_csv(file)
 
     #extract characters
-    df_person = df[df["ner"]=="PERSON"].drop_duplicates(subset="clean_text")
-    df_person = df_person.sort_values(by="clean_text", ascending=True)
+    df_person = df[df["ner"]=="PERSON"].drop_duplicates(subset=COL_FOR_GRAPH)
+    df_person = df_person.sort_values(by=COL_FOR_GRAPH, ascending=True)
     df_person = df_person.reset_index(drop=True).reset_index()
-    df_person[['index','clean_text']].to_csv("nodes.csv", index=False)
 
     #group by stories
     df_grouped = df[df["ner"]=="PERSON"].groupby(by="title",sort="False")
@@ -81,7 +83,7 @@ if __name__ == "__main__":
     df_story = df_grouped.get_group(story_name)
     position = list(df_story["docTokenBegin"])
     max_token = max(position)
-    characters = list(df_story["clean_text"])
+    characters = list(df_story[COL_FOR_GRAPH])
     for i in range(len(position)):
         for j in range(i+1,len(position)):
             if (characters[i] != characters[j]):
@@ -114,23 +116,34 @@ if __name__ == "__main__":
     df_edges['target_name'] = df_edges['target_name'].str.strip()
 
     df_edges = df_edges.merge(
-        df_person[['index', 'clean_text']],
+        df_person[['index', COL_FOR_GRAPH]],
         left_on="source_name",
-        right_on="clean_text")
-    df_edges = df_edges.rename(columns={"index": "source"}).drop("clean_text", axis=1)
+        right_on=COL_FOR_GRAPH)
+    df_edges = df_edges.rename(columns={"index": "source"}).drop(COL_FOR_GRAPH, axis=1)
 
     df_edges = df_edges.merge(
-        df_person[['index', 'clean_text']],
+        df_person[['index', COL_FOR_GRAPH]],
         left_on="target_name",
-        right_on="clean_text")
-    df_edges = df_edges.rename(columns={"index": "target"}).drop("clean_text", axis=1)
+        right_on=COL_FOR_GRAPH)
+    df_edges = df_edges.rename(columns={"index": "target"}).drop(COL_FOR_GRAPH, axis=1)
+
+
 
     # export
+    if REMOVE_OTHERS:
+        index_other = df_person[df_person[COL_FOR_GRAPH].str.lower() == "other"].iloc[0]['index']
+        print(f"removing 'other' with index: {index_other}")
+        df_person = df_person[df_person[COL_FOR_GRAPH].str.lower() != "other"]
+        df_edges = df_edges[(df_edges["source"] != index_other) & (df_edges["target"] != index_other)]
+    # nodes
+    df_person[['index',COL_FOR_GRAPH]].to_csv("nodes.csv", index=False)
+    # edges
     df_edges = df_edges.reset_index()
     df_edges[['index', 'source', 'target', 'distanceNorm']].to_csv(
         "edges.csv", index=False
     )
 
+    print("done")
 
 
 
