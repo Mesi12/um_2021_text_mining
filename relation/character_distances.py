@@ -7,9 +7,7 @@ import matplotlib.mlab as mlab
 import scipy.stats as stats
 
 
-MU = 0
-SIGMA = 200
-DIST_PEAK = stats.norm.pdf(0, MU, SIGMA)
+
 
 
 
@@ -25,12 +23,12 @@ def plot_half_gaussian():
     variance = np.var(df_distances2["distance"])
     sigma = np.sqrt(variance)
     x = np.linspace(0,max_token,1000)
-    plt.plot(x,mlab.normpdf(x,mean,sigma))
+    plt.plot(x, mlab.normpdf(x,mean,sigma))
 
     plt.show()
 
 
-def smooth_metric(distance):
+def smooth_metric(distance, MU, SIGMA, DIST_PEAK):
     """
     # plot
     x = np.linspace(mu - 3*sigma, mu + 3*sigma, 100)
@@ -82,10 +80,13 @@ def generate_nodes_edges(df):
         df_dist_group = df_distances2.groupby(["story","merged"]).agg({"distance": "sum"})
         df_dist_group = df_dist_group.reset_index()
 
-        df_dist_group["distanceNorm"] = df_dist_group['distance'].apply(lambda x: smooth_metric(x))
+        MU = 0
+        SIGMA = df_dist_group.distance.median()
+        DIST_PEAK = stats.norm.pdf(0, MU, SIGMA)
+        df_dist_group["distanceNorm"] = df_dist_group['distance'].apply(lambda x: smooth_metric(x, MU, SIGMA, DIST_PEAK))
 
         
-        df_edges = df_dist_group.groupby(by="merged").agg({"distanceNorm": np.mean})
+        df_edges = df_dist_group.groupby(by="merged").agg({"distanceNorm": np.sum})
         df_edges = df_edges.reset_index()
         df_edges[['source_name', 'target_name']] = pd.DataFrame(
             df_edges['merged'].str.split('|').tolist(),
