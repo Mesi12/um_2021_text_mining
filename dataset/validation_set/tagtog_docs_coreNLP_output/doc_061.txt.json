@@ -1,0 +1,402 @@
+{
+  "docId": "doc_061.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 13,
+          "tokenBegin": 10,
+          "tokenEnd": 13,
+          "text": "Mr. Silas Brown",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 57,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 22,
+          "tokenBegin": 20,
+          "tokenEnd": 22,
+          "text": "five o'clock",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 92,
+          "ner": "TIME",
+          "normalizedNER": "T05:00",
+          "nerConfidences": {
+            "TIME": -1
+          },
+          "timex": {
+            "tid": "t1",
+            "type": "TIME",
+            "value": "T05:00"
+          }
+        },
+        {
+          "docTokenBegin": 25,
+          "docTokenEnd": 26,
+          "tokenBegin": 25,
+          "tokenEnd": 26,
+          "text": "morning",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 110,
+          "ner": "TIME",
+          "normalizedNER": "TMO",
+          "nerConfidences": {
+            "TIME": -1
+          },
+          "timex": {
+            "tid": "t2",
+            "type": "TIME",
+            "value": "TMO"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Should",
+          "originalText": "Should",
+          "lemma": "should",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "MD",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "I",
+          "originalText": "I",
+          "lemma": "I",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 8,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "be",
+          "originalText": "be",
+          "lemma": "be",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 11,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "too",
+          "originalText": "too",
+          "lemma": "too",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 15,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "early",
+          "originalText": "early",
+          "lemma": "early",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 21,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 24,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "see",
+          "originalText": "see",
+          "lemma": "see",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 28,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "your",
+          "originalText": "your",
+          "lemma": "you",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 33,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "master",
+          "originalText": "master",
+          "lemma": "master",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 40,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 41,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Mr.",
+          "originalText": "Mr.",
+          "lemma": "Mr.",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 45,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Silas",
+          "originalText": "Silas",
+          "lemma": "Silas",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 51,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Brown",
+          "originalText": "Brown",
+          "lemma": "Brown",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 57,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 58,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "if",
+          "originalText": "if",
+          "lemma": "if",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 61,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "I",
+          "originalText": "I",
+          "lemma": "I",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 63,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "were",
+          "originalText": "were",
+          "lemma": "be",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 68,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 71,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "call",
+          "originalText": "call",
+          "lemma": "call",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 76,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 79,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "five",
+          "originalText": "five",
+          "lemma": "five",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 84,
+          "pos": "CD",
+          "ner": "TIME",
+          "normalizedNER": "T05:00",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "TIME",
+            "value": "T05:00"
+          }
+        },
+        {
+          "index": 22,
+          "word": "o'clock",
+          "originalText": "o'clock",
+          "lemma": "o'clock",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 92,
+          "pos": "NN",
+          "ner": "TIME",
+          "normalizedNER": "T05:00",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "TIME",
+            "value": "T05:00"
+          }
+        },
+        {
+          "index": 23,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 95,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 96,
+          "pos": "HYPH",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": "morrow",
+          "originalText": "morrow",
+          "lemma": "morrow",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 102,
+          "pos": "NN",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "morning",
+          "originalText": "morning",
+          "lemma": "morning",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 110,
+          "pos": "NN",
+          "ner": "TIME",
+          "normalizedNER": "TMO",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t2",
+            "type": "TIME",
+            "value": "TMO"
+          }
+        },
+        {
+          "index": 27,
+          "word": "?",
+          "originalText": "?",
+          "lemma": "?",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 111,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+text,ner
+next day,DATE
+Brixton Mystery,ORGANIZATION
+Daily Telegraph,ORGANIZATION
+German,MISC
+America,LOCATION
+Darwinian,MISC
+Malthus,PERSON
+Ratcliff Highway,LOCATION
+England,LOCATION
+Standard,ORGANIZATION
+American,MISC
+weeks,DURATION
+Charpentier,PERSON
+Torquay Terrace,LOCATION
+Camberwell,LOCATION
+He,PERSON
+Mr. Joseph Stangerson,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+two,NUMBER
+Tuesday,DATE
+4th,ORDINAL
+Euston Station,LOCATION
+Liverpool,ORGANIZATION
+Mr. Drebber,PERSON
+Brixton Road,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+Stangerson,LOCATION
+Mr. Lestrade,PERSON
+Mr. Gregson,PERSON
+Scotland Yard,LOCATION
+Daily News,ORGANIZATION
+one,NUMBER
+Liberalism,MISC
+Stangerson,LOCATION
+Mr. Gregson,PERSON
+Scotland Yard,LOCATION
+he,PERSON
+Sherlock Holmes,PERSON
+him,PERSON
+Lestrade,PERSON
+Gregson,PERSON
+he,PERSON
+Baker Street,LOCATION
+dozen,NUMBER
+Arabs,MISC
+he,PERSON
+Holmes,PERSON
+six,NUMBER
+future,DATE
+Wiggins,PERSON
+Wiggins,PERSON
+one,NUMBER
+He,PERSON
+Now,DATE
+He,PERSON
+his,PERSON
+one,NUMBER
+dozen,NUMBER
+Holmes,PERSON
+Brixton,LOCATION
+now,DATE
+Gregson,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+a few seconds,DURATION
+three,NUMBER
+Holmes,PERSON
+he,PERSON
+day,DURATION
+he,PERSON
+his,PERSON
+Arthur Charpentier,PERSON
+Gregson,PERSON
+Her,PERSON
+his,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+one,NUMBER
+he,PERSON
+the last day,DATE
+two,NUMBER
+Mr. Sherlock Holmes,PERSON
+Holmes,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Lestrade,PERSON
+he,PERSON
+Stangerson,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Gregson,PERSON
+he,PERSON
+he,PERSON
+Watson,PERSON
+first,ORDINAL
+American,MISC
+Tobias Gregson,PERSON
+Holmes,PERSON
+John Underwood,PERSON
+129,NUMBER
+Camberwell Road,LOCATION
+Gregson,PERSON
+he,PERSON
+Gregson,PERSON
+Holmes,PERSON
+Underwood,PERSON
+him,PERSON
+he,PERSON
+once,DATE
+He,PERSON
+his,PERSON
+Mr. Drebber,PERSON
+Charpentier,PERSON
+Torquay Terrace,ORGANIZATION
+He,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+her,PERSON
+Her,PERSON
+she,PERSON
+she,PERSON
+her,PERSON
+her,PERSON
+Mr. Sherlock Holmes,PERSON
+Mr. Enoch J. Drebber,PERSON
+Cleveland,LOCATION
+She,PERSON
+Mr. Drebber,PERSON
+eight o'clock,TIME
+she,PERSON
+her,PERSON
+her,PERSON
+Mr. Stangerson,PERSON
+two,NUMBER
+9.15,NUMBER
+one,NUMBER
+11,NUMBER
+His,PERSON
+first,ORDINAL
+He,PERSON
+him,PERSON
+Her,PERSON
+seconds,DURATION
+she,PERSON
+she,PERSON
+Mr. Drebber,PERSON
+Madame Charpentier,PERSON
+her,PERSON
+her,PERSON
+now,DATE
+Alice,PERSON
+her,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+His,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Alice,PERSON
+she,PERSON
+her,PERSON
+Now,DATE
+she,PERSON
+once,DATE
+Mr. Drebber,PERSON
+nearly three weeks,DURATION
+Mr. Stangerson,PERSON
+He,PERSON
+his,PERSON
+Copenhagen,LOCATION
+Stangerson,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+night,TIME
+twelve o'clock in the day,DATE
+his,PERSON
+he,PERSON
+he,PERSON
+His,PERSON
+Alice,PERSON
+once,DATE
+he,PERSON
+her,PERSON
+she,PERSON
+one,NUMBER
+he,PERSON
+her,PERSON
+his,PERSON
+her,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+Mrs. Charpentier,PERSON
+day,DURATION
+him,PERSON
+he,PERSON
+she,PERSON
+a day,DURATION
+a week,DURATION
+Navy,ORGANIZATION
+him,PERSON
+his,PERSON
+him,PERSON
+now,DATE
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+less than an hour,DURATION
+Mr. Drebber,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Alice,PERSON
+He,PERSON
+her,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+now,DATE
+Poor Alice,PERSON
+she,PERSON
+him,PERSON
+he,PERSON
+her,PERSON
+her,PERSON
+Arthur,PERSON
+Arthur,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+The next morning,DATE
+Mr. Drebber,PERSON
+Mrs. Charpentier,PERSON
+she,PERSON
+she,PERSON
+Sherlock Holmes,PERSON
+Mrs. Charpentier,PERSON
+one,NUMBER
+hour,DURATION
+her,PERSON
+her,PERSON
+her,PERSON
+she,PERSON
+he,PERSON
+he,PERSON
+eleven,NUMBER
+at least two hours,DURATION
+four,NUMBER
+five,NUMBER
+he,PERSON
+she,PERSON
+her,PERSON
+Charpentier,PERSON
+two,NUMBER
+him,PERSON
+Drebber,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+his,PERSON
+Holmes,PERSON
+Drebber,PERSON
+He,PERSON
+him,PERSON
+him,PERSON
+he,PERSON
+Drebber,PERSON
+Brixton Road,LOCATION
+he,PERSON
+Drebber,PERSON
+him,PERSON
+night,TIME
+one,NUMBER
+Charpentier,PERSON
+his,PERSON
+Holmes,PERSON
+Gregson,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Lestrade,PERSON
+Jove,PERSON
+he,PERSON
+Lestrade,PERSON
+now,DATE
+his,PERSON
+His,PERSON
+his,PERSON
+Sherlock Holmes,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Mr. Lestrade,PERSON
+Gregson,PERSON
+Mr. Joseph Stangerson,PERSON
+Mr. Joseph Stangerson,PERSON
+Lestrade,PERSON
+Halliday,PERSON
+Private Hotel,ORGANIZATION
+about six,DATE
+o'clock this morning,TIME

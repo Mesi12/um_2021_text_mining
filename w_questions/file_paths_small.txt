@@ -1,0 +1,14 @@
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/0_1.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/0_2.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/0_3.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/0_4.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/0_5.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/0_6.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/0_7.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/1_1.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/1_2.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/1_3.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/1_4.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/1_5.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/1_6.txt
+/Users/arthur/git/um_2021_text_mining/dataset/processed/novels/a_study_in_scarlet/1_7.txt

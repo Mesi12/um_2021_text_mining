@@ -1,3 +1,14 @@
+# project
+dataset/validation_set/tagtog_annotations/
+libraries
+vocab/output
+
+# editor
+.vscode/
+
+# mac
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

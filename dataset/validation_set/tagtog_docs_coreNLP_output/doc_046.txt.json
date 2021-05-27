@@ -1,0 +1,312 @@
+{
+  "docId": "doc_046.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 13,
+          "tokenBegin": 11,
+          "tokenEnd": 13,
+          "text": "Daily Telegraph",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 80,
+          "ner": "ORGANIZATION",
+          "nerConfidences": {
+            "ORGANIZATION": 0.70315127919815
+          },
+          "timex": {
+            "tid": "t1",
+            "type": "SET",
+            "value": "P1D"
+          }
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 19,
+          "tokenBegin": 18,
+          "tokenEnd": 19,
+          "text": "Holmes",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 109,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.95556066620625
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Our",
+          "originalText": "Our",
+          "lemma": "we",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "visitor",
+          "originalText": "visitor",
+          "lemma": "visitor",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 11,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "stretched",
+          "originalText": "stretched",
+          "lemma": "stretch",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 21,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "forward",
+          "originalText": "forward",
+          "lemma": "forward",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 29,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 31,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "quivering",
+          "originalText": "quivering",
+          "lemma": "quiver",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 41,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "hand",
+          "originalText": "hand",
+          "lemma": "hand",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 46,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 50,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "picked",
+          "originalText": "picked",
+          "lemma": "pick",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 57,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "up",
+          "originalText": "up",
+          "lemma": "up",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 60,
+          "pos": "RP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 64,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Daily",
+          "originalText": "Daily",
+          "lemma": "Daily",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 70,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "SET",
+            "value": "P1D"
+          }
+        },
+        {
+          "index": 13,
+          "word": "Telegraph",
+          "originalText": "Telegraph",
+          "lemma": "Telegraph",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 80,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 81,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "which",
+          "originalText": "which",
+          "lemma": "which",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 87,
+          "pos": "WDT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "still",
+          "originalText": "still",
+          "lemma": "still",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 93,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "lay",
+          "originalText": "lay",
+          "lemma": "lay",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 97,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "upon",
+          "originalText": "upon",
+          "lemma": "upon",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 102,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Holmes",
+          "originalText": "Holmes",
+          "lemma": "Holmes",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 109,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 111,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "knee",
+          "originalText": "knee",
+          "lemma": "knee",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 116,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 117,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

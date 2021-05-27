@@ -1,0 +1,392 @@
+text,ner
+night,TIME
+once,DATE
+Hope,PERSON
+once,DATE
+morning,TIME
+one,NUMBER
+three,NUMBER
+Lucy,PERSON
+Jefferson Hope,PERSON
+her,PERSON
+he,PERSON
+Once,DATE
+Carson,PERSON
+day,DURATION
+evening,TIME
+thirty,NUMBER
+a few hours,DURATION
+once,DATE
+Jefferson Hope,PERSON
+He,PERSON
+About the middle of the second day,DATE
+he,PERSON
+his,PERSON
+now,DATE
+five thousand,NUMBER
+he,PERSON
+his,PERSON
+Lucy adieu,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+three,NUMBER
+he,PERSON
+his,PERSON
+one,NUMBER
+He,PERSON
+he,PERSON
+two,NUMBER
+three hours,DURATION
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+three,NUMBER
+four hundred,NUMBER
+him,PERSON
+him,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+one,NUMBER
+evening,TIME
+his,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+past,DATE
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+one,NUMBER
+he,PERSON
+one,NUMBER
+He,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+Night,TIME
+he,PERSON
+him,PERSON
+Lucy,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+now,DATE
+He,PERSON
+he,PERSON
+he,PERSON
+nearly five hours,DURATION
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Jefferson Hope,PERSON
+his,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+Salt Lake City,LOCATION
+his,PERSON
+Jefferson Hope,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+one,NUMBER
+he,PERSON
+JOHN FERRIER,PERSON
+Salt Lake City,LOCATION
+"August 4th, 1860",DATE
+he,PERSON
+his,PERSON
+Jefferson Hope,PERSON
+a second,DURATION
+one,NUMBER
+Lucy,PERSON
+one,NUMBER
+her,PERSON
+her,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+springs,SET
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Jefferson Hope,PERSON
+Indians,MISC
+he,PERSON
+he,PERSON
+one,NUMBER
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+one,NUMBER
+His,PERSON
+he,PERSON
+a few days,DURATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+five days,DURATION
+he,PERSON
+he,PERSON
+night,TIME
+a few hours,DURATION
+he,PERSON
+he,PERSON
+his,PERSON
+the sixth day,DATE
+Eagle Cañon,ORGANIZATION
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+he,PERSON
+He,PERSON
+he,PERSON
+him,PERSON
+Mormon,MISC
+Cowper,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+Lucy Ferrier,PERSON
+He,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+Jefferson Hope,PERSON
+he,PERSON
+Mormon,MISC
+days,DURATION
+him,PERSON
+his,PERSON
+he,PERSON
+Four,NUMBER
+Hope,PERSON
+Cowper,PERSON
+Mormon,MISC
+Lucy Ferrier,PERSON
+yesterday,DATE
+Drebber,PERSON
+She,PERSON
+He,PERSON
+he,PERSON
+yesterday,DATE
+Endowment House,ORGANIZATION
+Drebber,PERSON
+Stangerson,PERSON
+her,PERSON
+Stangerson,PERSON
+Drebber,PERSON
+Prophet,PERSON
+her,PERSON
+him,PERSON
+her,PERSON
+him,PERSON
+one,NUMBER
+yesterday,DATE
+her,PERSON
+her,PERSON
+She,PERSON
+Jefferson Hope,PERSON
+his,PERSON
+His,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+Mormon,MISC
+Lucy,PERSON
+a month,DURATION
+her,PERSON
+she,PERSON
+her,PERSON
+John Ferrier,PERSON
+night before,TIME
+Mormon,MISC
+Her,PERSON
+her,PERSON
+his,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+the early hours,DURATION
+morning,TIME
+once,DATE
+Lucy Ferrier,PERSON
+he,PERSON
+her,PERSON
+he,PERSON
+his,PERSON
+her,PERSON
+her,PERSON
+he,PERSON
+her,PERSON
+She,PERSON
+he,PERSON
+her,PERSON
+months,DURATION
+Jefferson Hope,PERSON
+his,PERSON
+him,PERSON
+Once,DATE
+Stangerson,PERSON
+him,PERSON
+Drebber,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+two,NUMBER
+Mormons,MISC
+his,PERSON
+He,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+Nevada,LOCATION
+He,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+his,PERSON
+a year,DURATION
+five,NUMBER
+His,PERSON
+his,PERSON
+memorable,TIME
+night,TIME
+John Ferrier,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Salt Lake City,LOCATION
+he,PERSON
+his,PERSON
+he,PERSON
+he,PERSON
+he,PERSON
+him,PERSON
+a few months,DURATION
+Church,ORGANIZATION
+Utah,LOCATION
+Gentiles,MISC
+Drebber,PERSON
+Stangerson,LOCATION
+one,NUMBER
+Rumour,PERSON
+Drebber,PERSON
+Stangerson,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Jefferson Hope,PERSON
+United States,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+his,PERSON
+Year,DURATION
+year,DURATION
+one,NUMBER
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+one,NUMBER
+Cleveland,LOCATION
+Ohio,LOCATION
+him,PERSON
+he,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+Drebber,PERSON
+his,PERSON
+his,PERSON
+Stangerson,PERSON
+He,PERSON
+his,PERSON
+him,PERSON
+evening,TIME
+Jefferson Hope,PERSON
+weeks,DURATION
+Drebber,PERSON
+Europe,LOCATION
+he,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+his,PERSON
+Europe,LOCATION
+him,PERSON
+he,PERSON
+his,PERSON
+his,PERSON
+St. Petersburg,LOCATION
+Paris,LOCATION
+Copenhagen,LOCATION
+he,PERSON
+he,PERSON
+he,PERSON
+Danish,MISC
+a few days,DURATION
+London,LOCATION
+he,PERSON
+he,PERSON
+Watson,PERSON
+Journal,ORGANIZATION

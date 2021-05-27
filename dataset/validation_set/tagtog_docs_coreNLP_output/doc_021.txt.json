@@ -1,0 +1,384 @@
+{
+  "docId": "doc_021.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 2,
+          "tokenBegin": 0,
+          "tokenEnd": 2,
+          "text": "Sherlock Holmes",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 15,
+          "ner": "PERSON",
+          "nerConfidences": {
+            "PERSON": 0.99964039437072
+          }
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 20,
+          "tokenBegin": 18,
+          "tokenEnd": 20,
+          "text": "Harding Brothers",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 106,
+          "ner": "ORGANIZATION",
+          "nerConfidences": {
+            "ORGANIZATION": 0.68123971776664
+          }
+        },
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 13,
+          "tokenBegin": 12,
+          "tokenEnd": 13,
+          "text": "he",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Sherlock",
+          "originalText": "Sherlock",
+          "lemma": "Sherlock",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 8,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Holmes",
+          "originalText": "Holmes",
+          "lemma": "Holmes",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 15,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 19,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "I",
+          "originalText": "I",
+          "lemma": "I",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 21,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "walked",
+          "originalText": "walked",
+          "lemma": "walk",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 28,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "together",
+          "originalText": "together",
+          "lemma": "together",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 37,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 40,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 44,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "High",
+          "originalText": "High",
+          "lemma": "High",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 49,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Street",
+          "originalText": "Street",
+          "lemma": "Street",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 56,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 57,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "where",
+          "originalText": "where",
+          "lemma": "where",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 63,
+          "pos": "WRB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "he",
+          "originalText": "he",
+          "lemma": "he",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "stopped",
+          "originalText": "stopped",
+          "lemma": "stop",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 74,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 77,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 81,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "shop",
+          "originalText": "shop",
+          "lemma": "shop",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 86,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 89,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Harding",
+          "originalText": "Harding",
+          "lemma": "Harding",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 97,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Brothers",
+          "originalText": "Brothers",
+          "lemma": "Brothers",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 106,
+          "pos": "NNPS",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 107,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "whence",
+          "originalText": "whence",
+          "lemma": "whence",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 114,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 118,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "bust",
+          "originalText": "bust",
+          "lemma": "bust",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 123,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "had",
+          "originalText": "had",
+          "lemma": "have",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 127,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "been",
+          "originalText": "been",
+          "lemma": "be",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 132,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "purchased",
+          "originalText": "purchased",
+          "lemma": "purchase",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 142,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 28,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 142,
+          "characterOffsetEnd": 143,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

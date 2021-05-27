@@ -1,0 +1,11 @@
+ner = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$NamedEntityTagAnnotation" }
+tokens = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$TokensAnnotation" }
+
+$INIT = "/(Mr|Mister|Miss|Mrs|Dr).?/"
+
+{
+    ruleType: "tokens",
+    pattern: ([{word: $INIT}] [ner:"PERSON"]+),
+    action: Annotate($0, ner, "PERSON"),
+    result: "joined_name"
+}

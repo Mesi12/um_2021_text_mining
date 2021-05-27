@@ -1,0 +1,344 @@
+index,clean_text_others
+0,Abdullah Khan
+1,Abernetty
+2,Abrahams
+3,Achmet
+4,Adams
+5,Agatha
+6,Alec Cunningham
+7,Alec MacDonald
+8,Alice
+9,Ames
+10,Archie
+11,Armstrong
+12,Arthur
+13,Athelney Jones
+14,Athelney Jones 
+15,Atkinson
+16,Baden
+17,Baldwin
+18,Bannister
+19,Barclay
+20,Bardle
+21,Barker
+22,Barnicot
+23,Baron Gruner
+24,Barrymore
+25,Bartholomew Sholto
+26,Barton
+27,Barton 
+28,Baskerville
+29,Baynes
+30,Bennett
+31,Beppo
+32,Billy
+33,Birdy Edwards
+34,Black Peter
+35,Blessington
+36,Boss McGinty
+37,Boswell
+38,Bradstreet
+39,Breckinridge
+40,Brunton
+41,Cadogan West
+42,Cantlemere
+43,Carruthers
+44,Cartwright
+45,Cecil Barker
+46,Charles
+47,Charles Baskerville
+48,Clotilde Lothman von Saxe-Meningen
+49,Colonel Lysander Stark
+50,Cook
+51,Coombe Tracey
+52,Coram
+53,Cunningham
+54,Dawson
+55,Dolores
+56,Dost Akbar
+57,Douglas
+58,Dr. Ainstree
+59,Dr. Lysander Starr
+60,Drebber
+61,Duchess of Devonshire
+62,Duke
+63,Duncan Ross
+64,Dundas
+65,Elias Openshaw
+66,Elias Openshaw 
+67,Elsie
+68,Emsworth
+69,Ettie
+70,Eustace
+71,Evans
+72,Ezekiah Hopkins
+73,Ferguson
+74,Ferrier
+75,Fitzroy Simpson
+76,Forbes
+77,Fordham
+78,Forrester
+79,Frances
+80,Frank
+81,Frankland
+82,Freebody
+83,Freeman
+84,Frédéric Cuvier
+85,Gar
+86,Garcia
+87,Gennaro
+88,George Burnwell
+89,George Sand
+90,Gilchrist
+91,Gladstone
+92,Gloria Scott
+93,Godfrey Norton
+94,Godfrey Staunton
+95,Gorgiano
+96,Gregory
+97,Grimesby Roylott
+98,Gustave Flaubert
+99,Hafiz
+100,Hall Pycroft
+101,Hayes
+102,Henderson
+103,Henry
+104,Henry Baskerville
+105,Hilda Adair
+106,Hilda Adair 
+107,Hill
+108,Hilton Cubitt
+109,Hobson
+110,Holdhurst
+111,Horace
+112,Horner
+113,Hosmer
+114,Hugo Baskerville
+115,Hunter
+116,Huxtable
+117,Ian Murdoch
+118,Inspector Gregson
+119,Inspector Lestrade
+120,Irene Adler
+121,Jabez Wilson
+122,Jack
+123,Jacky
+124,James Calhoun
+125,James Calhoun 
+126,James Jim Moriarty
+127,James Windibank
+128,Jefferson Hope
+129,John Clay
+130,John Douglas
+131,John Ferrier
+132,John H. Watson
+133,John Hare
+134,John Hare 
+135,John Openshaw
+136,John Straker
+137,John Swain
+138,Johnson
+139,Jonathan Small
+140,Joseph Openshaw 
+141,Joseph Smith
+142,Jove
+143,King of Scandinavia
+144,Lady Brackenstall
+145,Lady Frances
+146,Lady Hilda
+147,Lanner
+148,Lawler
+149,Leonardo
+150,Leslie Armstrong
+151,Lestrade
+152,Lucas
+153,Lucy
+154,Lucy Ferrier
+155,MacKinnon
+156,Mahomet Singh
+157,Martha
+158,Martin
+159,Marvin
+160,Mary
+161,Mary 
+162,Mary Sutherland
+163,Mary Watson
+164,Mawson
+165,McCarthy
+166,McCauley
+167,McFarlane
+168,McGinty
+169,McMurdo
+170,McPherson
+171,Merivale
+172,Milverton
+173,Miss Cushing
+174,Miss Dunbar
+175,Miss Harrison
+176,Miss Hunter
+177,Miss Morrison
+178,Miss Stapleton
+179,Miss Stoner
+180,Monsieur Lecoq
+181,Montgomery
+182,Moore Agar
+183,Moran
+184,Mordecai Smith
+185,Mortimer
+186,Mortimer Tregennis
+187,Morton
+188,Morton 
+189,Mount-James
+190,Mr. Acton
+191,Mr. Alec
+192,Mr. Barker
+193,Mr. Barrymore
+194,Mr. Bennett
+195,Mr. Blessington
+196,Mr. Carruthers
+197,Mr. Culverton Smith
+198,Mr. Cunningham
+199,Mr. Douglas
+200,Mr. Drebber
+201,Mr. Ferguson
+202,Mr. Fowler
+203,Mr. Garrideb
+204,Mr. Gibson
+205,Mr. Gregson
+206,Mr. Hardy
+207,Mr. Henry Baker
+208,Mr. Hilton Cubitt
+209,Mr. Holder
+210,Mr. Hosmer Angel
+211,Mr. James Wilder
+212,Mr. Jonas Oldacre
+213,Mr. Mac
+214,Mr. Mason
+215,Mr. McCarthy
+216,Mr. McFarlane
+217,Mr. McMurdo
+218,Mr. Melas
+219,Mr. Merryweather
+220,Mr. Mortimer Tregennis
+221,Mr. Nathan Garrideb
+222,Mr. Neil Gibson
+223,Mr. Neville St. Clair
+224,Mr. Phelps
+225,Mr. Rucastle
+226,Mr. Scott Eccles
+227,Mr. Sholto
+228,Mr. Smith
+229,Mr. Soames
+230,Mr. Stapleton
+231,Mr. Staunton
+232,Mr. Thaddeus
+233,Mr. Thaddeus Sholto
+234,Mr. Trevor
+235,Mr. White Mason
+236,Mr. Wilder
+237,Mr. Wilson
+238,Mr. Windibank
+239,Mr. Woodley
+240,Mrs. Allen
+241,Mrs. Barclay
+242,Mrs. Bernstone
+243,Mrs. Douglas
+244,Mrs. Etherege
+245,Mrs. Hilton Cubitt
+246,Mrs. Hudson
+247,Mrs. Laura Lyons
+248,Mrs. Lyons
+249,Mrs. Maberley
+250,Mrs. Marker
+251,Mrs. Mason
+252,Mrs. Merrilow
+253,Mrs. Oakshott
+254,Mrs. Porter
+255,Mrs. Rucastle
+256,Mrs. Smith
+257,Mrs. St. Clair
+258,Mrs. Stapleton
+259,Mrs. Straker
+260,Mrs. Toller
+261,Mrs. Turner
+262,Mrs. Warren
+263,Murdoch
+264,Murphy
+265,Musgrave
+266,Mycroft Holmes
+267,Napoleon
+268,Neligan
+269,Neville St. Clair
+270,Norbury
+271,Norwood
+272,Oberstein
+273,Paramore
+274,Patterson 
+275,Perkins
+276,Peter Carey
+277,Peter Jones
+278,Peters
+279,Peterson
+280,Phelps
+281,Pompey
+282,Porlock
+283,Prendergast
+284,Presbury
+285,Prescott
+286,Prince Albert
+287,Ralph
+288,Robert E. Lee
+289,Ronald Adair
+290,Ronder
+291,Roy
+292,Roylott
+293,Sahib
+294,Sam
+295,Sam Brown
+296,Sarah
+297,Sarasate
+298,Scanlan
+299,Scott Eccles
+300,Selden
+301,Sherlock Holmes
+302,Shlessinger
+303,Simpson
+304,Soames
+305,St. Simon
+306,Stackhurst
+307,Stangerson
+308,Stanley Hopkins
+309,Stapleton
+310,Sterndale
+311,Steve
+312,Straker
+313,Susan
+314,Ted Baldwin
+315,Thaddeus
+316,Thaddeus Sholto
+317,Theresa
+318,Thomas De Quincey
+319,Thomas J. Jackson
+320,Tobias Gregson
+321,Toby
+322,Toller
+323,Trevelyan
+324,Trevor
+325,Trpoff
+326,Vermissa
+327,Von Bork
+328,Wallenstein
+329,Walters
+330,White Mason
+331,Wiggins
+332,Wilhelm Gottsreich Sigismond von Ormstein
+333,William Clark Russell
+334,William Kirwan
+335,William Morris
+336,William Morris 
+337,Williamson
+338,Willoughby Smith
+339,Wood
+340,Woodley
+341,Yough
+343,Émile Gaboriau

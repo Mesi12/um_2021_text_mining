@@ -1,0 +1,68 @@
+occurence,speaker,canonicalSpeaker,text
+0,Unknown,His,"It was magnificent,"
+1,his,he,Do you remember what Darwin says about music? He claims that the power of producing and appreciating it existed among the human race long before the power of speech was arrived at. Perhaps that is why we are so subtly influenced by it. There are vague memories in our souls of those misty centuries when the world was in its childhood.
+2,Unknown,he,"That's rather a broad idea,"
+3,Unknown,he,"One's ideas must be as broad as Nature if they are to interpret Nature,"
+4,Unknown,he,What's the matter? You're not looking quite yourself. This Brixton Road affair has upset you.
+5,Unknown,he,"To tell the truth, it has,"
+6,Unknown,he,I ought to be more case-hardened after my Afghan experiences. I saw my own comrades hacked to pieces at Maiwand without losing my nerve.
+7,Unknown,he,I can understand. There is a mystery about this which stimulates the imagination; where there is no imagination there is no horror. Have you seen the evening paper?
+8,Unknown,he,No.
+9,Unknown,he,"It gives a fairly good account of the affair. It does not mention the fact that when the man was raised up, a woman's wedding ring fell upon the floor. It is just as well it does not."
+10,Unknown,he,Why?
+11,Unknown,he,"Look at this advertisement,"
+12,Unknown,he,I had one sent to every paper this morning immediately after the affair.
+13,Watson,he,Found
+14,Watson,he,"In Brixton Road, this morning,"
+15,Unknown,he,"a plain gold wedding ring, found in the roadway between the 'White Hart' Tavern and Holland Grove. Apply Dr. Watson, 221b, Baker Street, between eight and nine this evening."
+16,Watson,he,"Excuse my using your name,"
+17,Unknown,he,"If I used my own some of these dunderheads would recognize it, and want to meddle in the affair."
+18,Unknown,he,"That is all right,"
+19,Unknown,he,"But supposing anyone applies, I have no ring."
+20,Unknown,he,"Oh yes, you have,"
+21,Unknown,he,This will do very well. It is almost a facsimile.
+22,Unknown,he,And who do you expect will answer this advertisement.
+23,Unknown,he,"Why, the man in the brown coat--our florid friend with the square toes. If he does not come himself he will send an accomplice."
+24,Unknown,he,Would he not consider it as too dangerous?
+25,him,he,"Not at all. If my view of the case is correct, and I have every reason to believe that it is, this man would rather risk anything than lose the ring. According to my notion he dropped it while stooping over Drebber's body, and did not miss it at the time. After leaving the house he discovered his loss and hurried back, but found the police already in possession, owing to his own folly in leaving the candle burning. He had to pretend to be drunk in order to allay the suspicions which might have been aroused by his appearance at the gate. Now put yourself in that man's place. On thinking the matter over, it must have occurred to him that it was possible that he had lost the ring in the road after leaving the house. What would he do, then? He would eagerly look out for the evening papers in the hope of seeing it among the articles found. His eye, of course, would light upon this. He would be overjoyed. Why should he fear a trap? There would be no reason in his eyes why the finding of the ring should be connected with the murder. He would come. He will come. You shall see him within an hour."
+26,him,he,And then?
+27,him,he,"Oh, you can leave me to deal with him then. Have you any arms?"
+28,him,he,I have my old service revolver and a few cartridges.
+29,him,he,"You had better clean it and load it. He will be a desperate man, and though I shall take him unawares, it is as well to be ready for anything."
+30,his,Sherlock Holmes,"The plot thickens,"
+31,Unknown,Sherlock Holmes,I have just had an answer to my American telegram. My view of the case is the correct one.
+32,Unknown,Sherlock Holmes,And that is?
+33,Unknown,Sherlock Holmes,"My fiddle would be the better for new strings,"
+34,Unknown,Sherlock Holmes,Put your pistol in your pocket. When the fellow comes speak to him in an ordinary way. Leave the rest to me. Don't frighten him by looking at him too hard.
+35,his,Sherlock Holmes,"It is eight o'clock now,"
+36,his,Sherlock Holmes,"Yes. He will probably be here in a few minutes. Open the door slightly. That will do. Now put the key on the inside. Thank you! This is a queer old book I picked up at a stall yesterday--De Jure inter Gentes--published in Latin at Liege in the Lowlands, in 1642. Charles' head was still firm on his shoulders when this little brown-backed volume was struck off."
+37,Charles,Sherlock Holmes,Who is the printer?
+38,Charles,Sherlock Holmes,"Philippe de Croy, whoever he may have been. On the fly-leaf, in very faded ink, is written 'Ex libris Guliolmi Whyte.' I wonder who William Whyte was. Some pragmatical seventeenth century lawyer, I suppose. His writing has a legal twist about it. Here comes our man, I think."
+39,Unknown,Unknown,Does Dr. Watson live here?
+40,Unknown,Unknown,"Come in,"
+41,her,Sally,"It's this as has brought me, good gentlemen,"
+42,her,Sally,"a gold wedding ring in the Brixton Road. It belongs to my girl Sally, as was married only this time twelvemonth, which her husband is steward aboard a Union boat, and what he'd say if he comes 'ome and found her without her ring is more than I can think, he being short enough at the best o' times, but more especially when he has the drink. If it please you, she went to the circus last night along with--"
+43,Houndsditch,Sally,Is that her ring?
+44,her,Sally,The Lord be thanked!
+45,her,Sally,Sally will be a glad woman this night. That's the ring.
+46,her,Sally,And what may your address be?
+47,Sherlock Holmes,Sherlock Holmes,"13, Duncan Street, Houndsditch. A weary way from here."
+48,Sherlock Holmes,Sherlock Holmes,"The Brixton Road does not lie between any circus and Houndsditch,"
+49,her,her,"The gentleman asked me for my address,"
+50,her,her,"Sally lives in lodgings at 3, Mayfield Place, Peckham."
+51,Peckham,Peckham,And your name is--?
+52,her,her,"My name is Sawyer--her's is Dennis, which Tom Dennis married her--and a smart, clean lad, too, as long as he's at sea, and no steward in the company more thought of; but when on shore, what with the women and what with liquor shops--"
+53,her,her,"Here is your ring, Mrs. Sawyer,"
+54,her,her,"it clearly belongs to your daughter, and I am glad to be able to restore it to the rightful owner."
+55,Unknown,Sherlock Holmes,"I'll follow her,"
+56,her,Sherlock Holmes,"she must be an accomplice, and will lead me to him. Wait up for me."
+57,her,Unknown,"Either his whole theory is incorrect,"
+58,her,Unknown,or else he will be led now to the heart of the mystery.
+59,Unknown,his,"I wouldn't have the Scotland Yarders know it for the world,"
+60,his,his,"I have chaffed them so much that they would never have let me hear the end of it. I can afford to laugh, because I know that I will be even with them in the long run."
+61,his,his,What is it then?
+62,his,his,"Oh, I don't mind telling a story against myself. That creature had gone a little way when she began to limp and show every sign of being foot-sore. Presently she came to a halt, and hailed a four-wheeler which was passing. I managed to be close to her so as to hear the address, but I need not have been so anxious, for she sang it out loud enough to be heard at the other side of the street, 'Drive to 13, Duncan Street, Houndsditch,' she cried. This begins to look genuine, I thought, and having seen her safely inside, I perched myself behind. That's an art which every detective should be an expert at. Well, away we rattled, and never drew rein until we reached the street in question. I hopped off before we came to the door, and strolled down the street in an easy, lounging way. I saw the cab pull up. The driver jumped down, and I saw him open the door and stand expectantly. Nothing came out though. When I reached him he was groping about frantically in the empty cab, and giving vent to the finest assorted collection of oaths that ever I listened to. There was no sign or trace of his passenger, and I fear it will be some time before he gets his fare. On inquiring at Number 13 we found that the house belonged to a respectable paperhanger, named Keswick, and that no one of the name either of Sawyer or Dennis had ever been heard of there."
+63,his,his,"You don't mean to say,"
+64,his,his,"that that tottering, feeble old woman was able to get out of the cab while it was in motion, without either you or the driver seeing her?"
+65,Sherlock Holmes,Sherlock Holmes,Old woman be damned!
+66,Sherlock Holmes,Sherlock Holmes,"We were the old women to be so taken in. It must have been a young man, and an active one, too, besides being an incomparable actor. The get-up was inimitable. He saw that he was followed, no doubt, and used this means of giving me the slip. It shows that the man we are after is not as lonely as I imagined he was, but has friends who are ready to risk something for him. Now, Doctor, you are looking done-up. Take my advice and turn in."

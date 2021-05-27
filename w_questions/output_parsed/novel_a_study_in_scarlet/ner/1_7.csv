@@ -1,0 +1,121 @@
+text,ner
+Thursday,DATE
+Thursday,DATE
+Jefferson Hope,PERSON
+him,PERSON
+night,TIME
+morning,TIME
+his,PERSON
+he,PERSON
+his,PERSON
+he,PERSON
+his,PERSON
+Gregson,PERSON
+Lestrade,PERSON
+Holmes,PERSON
+next evening,DATE
+his,PERSON
+now,DATE
+his,PERSON
+he,PERSON
+Sherlock Holmes,PERSON
+three days,DURATION
+one,NUMBER
+fifty,NUMBER
+one,NUMBER
+Now,DATE
+Now,DATE
+night,TIME
+London,LOCATION
+first,ORDINAL
+second,ORDINAL
+two,NUMBER
+first,ORDINAL
+second,ORDINAL
+two,NUMBER
+one,NUMBER
+his,PERSON
+his,PERSON
+his,PERSON
+one,NUMBER
+his,PERSON
+he,PERSON
+his,PERSON
+him,PERSON
+he,PERSON
+him,PERSON
+him,PERSON
+his,PERSON
+Dolsky,PERSON
+Odessa,LOCATION
+Montpellier,LOCATION
+once,DATE
+now,DATE
+first,ORDINAL
+his,PERSON
+he,PERSON
+one,NUMBER
+his,PERSON
+Gregson,PERSON
+Cleveland,LOCATION
+Mr. Drebber,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+his,PERSON
+his,PERSON
+he,PERSON
+Gregson,PERSON
+Cleveland,LOCATION
+Enoch Drebber,PERSON
+Drebber,PERSON
+Jefferson Hope,PERSON
+present,DATE
+Europe,LOCATION
+now,DATE
+he,PERSON
+third,ORDINAL
+him,PERSON
+one,NUMBER
+London,LOCATION
+he,PERSON
+Jefferson Hope,PERSON
+one,NUMBER
+he,PERSON
+he,PERSON
+his,PERSON
+He,PERSON
+his,PERSON
+he,PERSON
+one,NUMBER
+one,NUMBER
+he,PERSON
+his,PERSON
+his,PERSON
+Arab,MISC
+London,LOCATION
+Stangerson,LOCATION
+he,PERSON
+he,PERSON
+Echo,MISC
+the day,DATE
+he,PERSON
+Hope,PERSON
+Mr. Enoch Drebber,PERSON
+Mr. Joseph Stangerson,PERSON
+now,DATE
+Mormonism,MISC
+days,DURATION
+Latter,MISC
+Day,DURATION
+Saints,MISC
+Salt Lake City,LOCATION
+British,MISC
+Scotland Yard,LOCATION
+Messrs. Lestrade,PERSON
+Gregson,PERSON
+Mr. Sherlock Holmes,PERSON
+two,NUMBER
+Sherlock Holmes,PERSON
+Roman,MISC

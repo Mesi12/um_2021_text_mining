@@ -1,0 +1,477 @@
+,character1,character2,similarity,normalized
+0,Sherlock Holmes,Mister Sherlock Holmes,2.681575946007091,No
+1,Sherlock Holmes,Mr. Sherlock Holmes,2.807843029614123,No
+2,Sherlock Holmes,Sherlock,2.6071067811865474,No
+3,Irene Adler,Miss Irene Adler,2.7053854698166147,No
+4,Irene Adler,Irene,2.512455532033676,No
+5,Miss Mary Sutherland,Miss Sutherland,2.8057634963315836,No
+6,Mr. Holmes,Mr. Homes,2.630513466939861,No
+7,Mr. Holmes,Mr. Holmes [,2.8681703973696546,No
+8,Mr. Hosmer Angel,Hosmer Angel,2.7674599496887864,No
+9,Mr. Windibank,Mr. James Windibank,2.7387188031499483,No
+10,Mr. Windibank,Windibank,2.705385469816615,No
+11,Mr. Hardy,Mr. Harding,2.5726237921249266,No
+12,Hosmer,Hosmer Angel,2.565108953372333,No
+13,Mr. James Windibank,James Windibank,2.807843029614123,No
+14,Windibank,James Windibank,2.6130718031613114,No
+15,Horace,Horace Harker,2.528830557701236,No
+16,John,Johnson,2.540440114519881,No
+17,John,Johnnie,2.540440114519881,No
+18,Miss Irene Adler,Miss Adler,2.6945966692414833,No
+19,Miss Irene Adler,Miss Irene,2.6945966692414833,No
+20,Mr. Godfrey Norton,Godfrey Norton,2.7960432596461864,No
+21,Mr. Godfrey Norton,Mr. Godfrey,2.6846120476708997,No
+22,Godfrey Norton,Godfrey,2.57167391279445,No
+23,Mrs. Turner,Mr. Turner,2.6388295982671233,No
+24,Mr. Sherlock Holmes,Mr. Sherlock,2.703958182192794,No
+25,Bart,Barton,2.64126333590815,No
+26,Mr. Lestrade,Lestrade,2.6765119140053444,No
+27,Mr. Lestrade,G. Lestrade,2.664176936381639,No
+28,Lestrade,G. Lestrade,2.7366600265340755,No
+29,Enoch J. Drebber,Mr. Enoch J. Drebber,2.7294589891532586,No
+30,Enoch J. Drebber,Enoch Drebber,2.8544271909999157,No
+31,Enoch J. Drebber,Mr. Enoch Drebber,2.521945536977419,No
+32,Gregson,Mr. Gregson,2.64126333590815,No
+33,Joseph Stangerson,Stangerson,2.6041666666666665,No
+34,Joseph Stangerson,Mr. Joseph Stangerson,2.827760524333249,No
+35,Stangerson,Mr. Stangerson,2.729486191773741,No
+36,Stangerson,Stanger,2.7498299142610594,No
+37,Rachel,Rachel--who,2.6071067811865474,No
+38,Drebber,Mr. Drebber,2.64126333590815,No
+39,Charles,Charles Hardy,2.6071067811865474,No
+40,Charles,Charles Gorot,2.6071067811865474,No
+41,Charles,Charles Chandos,2.540367956422263,No
+42,William Whyte,William,2.6071067811865474,No
+43,Dennis,Denn,2.64126333590815,No
+44,Charpentier,Arthur Charpentier,2.629710086886586,No
+45,Charpentier,Madame Charpentier,2.629710086886586,No
+46,Charpentier,Mrs. Charpentier,2.7053854698166147,No
+47,Mr. Joseph Stangerson,Mr. Stangerson,2.7245591081631884,No
+48,Mr. Joseph Stangerson,Mr. Stanger,2.5904401145198808,No
+49,Mr. Drebber,Mr. Enoch Drebber,2.7030694150420946,No
+50,Wiggins,Higgins,2.555555555555556,No
+51,John Underwood,Underwood,2.656259412347608,No
+52,Mr. Enoch J. Drebber,Enoch Drebber,2.671912396695167,No
+53,Mr. Enoch J. Drebber,Mr. Enoch Drebber,2.886083988113826,No
+54,Mr. Stangerson,Mr. Stanger,2.8309041731531828,No
+55,Arthur,Arthur Pinner,2.528830557701236,No
+56,Mr. Jefferson Hope,Jefferson Hope,2.7960432596461864,No
+57,Mr. Jefferson Hope,Jefferson,2.5095237523347413,No
+58,Enoch Drebber,Mr. Enoch Drebber,2.7826920704511053,No
+59,Pete,Peter,2.7826920704511053,No
+60,Pete,Peters,2.64126333590815,No
+61,Joseph Smith,Joseph,2.565108953372333,No
+62,Johnston,Johnson,2.5143738926676025,No
+63,Jefferson Hope,Jefferson,2.707541463629659,No
+64,Young,Young West,2.5555555555555554,No
+65,Young,Young Smith,2.512455532033676,No
+66,Von Bork,Mr. Von Bork,2.6765119140053444,No
+67,Mr. John Bull,John Bull,2.705385469816615,No
+68,Uncle Sam,Uncle,2.6071067811865474,No
+69,James,James Ryder,2.512455532033676,No
+70,James,James Smith,2.512455532033676,No
+71,Moriarty,Mr. Moriarty,2.6765119140053444,No
+72,Sebastian Moran,Sebastian,2.6702146603041688,No
+73,John Straker,Mr. John Straker,2.7674599496887864,No
+74,Fitzroy Simpson,Fitzroy,2.540367956422263,No
+75,Silas Brown,Mr. Silas Brown,2.749916159490421,No
+76,Mr. Silas Brown,Mr. Brown,2.6559289460184545,No
+77,Mr. Brown,Mr. Browner,2.8544271909999157,No
+78,Wilson,Wilson Kemp,2.6071067811865474,No
+79,Woodman,Wood,2.540440114519881,No
+80,Peter Carey,Peter,2.512455532033676,No
+81,Hopkins,Mr. Hopkins,2.64126333590815,No
+82,Peter,Peterson,2.6702146603041688,No
+83,Peter,Peters,2.8544271909999157,No
+84,Peter,Peter Jones,2.512455532033676,No
+85,Patrick Cairns,Mr. Patrick Cairns,2.7960432596461864,No
+86,Patrick Cairns,Patrick,2.57167391279445,No
+87,Charles Augustus Milverton,Charles Milverton,2.728,No
+88,Milverton,Mr. Milverton,2.705385469816615,No
+89,Eva,Evans,2.540440114519881,No
+90,Mr. Milverton,Mr. Merton,2.569800358919501,No
+91,John Mason,Mr. John Mason,2.729486191773741,No
+92,Shoscombe,Shoscombe Prince,2.636963410006888,No
+93,Robert,Roberts,2.879537595841944,No
+94,Robert,Robert Street,2.528830557701236,No
+95,Lady Beatrice Falder,Lady Beatrice,2.7210352037127103,No
+96,Lady Beatrice Falder,Beatrice Falder,2.7706757770333383,No
+97,Mr. John Mason,Mr. Mason,2.6947209508091463,No
+98,Mr. John Mason,Mr. Johnson,2.6078137558378645,No
+99,Lady Beatrice,Beatrice,2.6248737269370848,No
+100,Barnes,Barney,2.52,No
+101,Mr. Mason,Mrs. Mason,2.595791244717639,No
+102,Mr. Mason,Mr. White Mason,2.6559289460184545,No
+103,Beatrice Falder,Beatrice,2.6071067811865474,No
+104,William,Williamson,2.7498299142610594,No
+105,William,William Crowder,2.540367956422263,No
+106,William,William Morris,2.57167391279445,No
+107,William,William Kirwan,2.57167391279445,No
+108,William,Williams,2.897248671201123,No
+109,William,William Hales,2.6071067811865474,No
+110,Evans,Evans Pott,2.5555555555555554,No
+111,Theresa,Theresa Wright,2.57167391279445,No
+112,Miss Mary Fraser,Miss Fraser,2.7498299142610594,No
+113,Miss Mary Fraser,Mary Fraser,2.7053854698166147,No
+114,Mary--Mary Fraser,Mary Fraser,2.7030694150420946,No
+115,Uncle,Uncle Ralph,2.512455532033676,No
+116,George,George Lewis,2.565108953372333,No
+117,George,George Sand,2.6071067811865474,No
+118,Peterson,Peters,2.7880113975856595,No
+119,Mrs. Henry Baker,Henry Bakers,2.714934697163534,No
+120,Mrs. Henry Baker,Mr. Henry Baker,2.7642280842879177,No
+121,Mrs. Henry Baker,Henry Baker,2.7053854698166147,No
+122,Henry Bakers,Mr. Henry Baker,2.5893727475751636,No
+123,Henry Bakers,Henry Baker,2.9352807710637743,No
+124,Mr. Henry Baker,Henry Baker,2.749916159490421,No
+125,Mr. Henry Baker,Mr. Baker,2.6559289460184545,No
+126,Mr. Henry Baker,Mr. Henry Baskerville,2.62118431035307,No
+127,Henry Baker,Henry,2.512455532033676,No
+128,Henry Baker,Henry Baskerville,2.5040124735378853,No
+129,Mr. Baker,Mr. Barker,2.630513466939861,No
+130,Breckinridge,Mr. Breckinridge,2.7674599496887864,No
+131,Bill,Billy,2.7826920704511053,No
+132,Mrs. Oakshott,Oakshott,2.6248737269370848,No
+133,Christ,Christie,2.7880113975856595,No
+134,Mycroft,Mycroft Holmes,2.57167391279445,No
+135,Mycroft,Pycroft,2.555555555555556,No
+136,Cadogen West,Cadogan West,2.563636363636364,No
+137,Cadogan West,Arthur Cadogan West,2.652106330340942,No
+138,Cadogan West,Cadogan,2.6476398549669056,No
+139,Mycroft Holmes,Mr. Mycroft Holmes,2.7960432596461864,No
+140,Sherlock,Mr. Sherlock,2.6765119140053444,No
+141,Valentine Walter,Valentine,2.636963410006888,No
+142,Mr. Sidney Johnson,Sidney Johnson,2.7960432596461864,No
+143,Mr. Sidney Johnson,Mr. Johnson,2.6708865574748213,No
+144,Hugo Oberstein,Mr. Hugo Oberstein,2.7960432596461864,No
+145,Hugo Oberstein,Oberstein,2.656259412347608,No
+146,Mr. Hugo Oberstein,Mr. Oberstein,2.7715405994364137,No
+147,Oberstein,Mr. Oberstein,2.705385469816615,No
+148,Walter,Walters,2.879537595841944,No
+149,Beecher,Becher,2.862870929175277,No
+150,Miss Cushing,Miss Susan Cushing,2.715629613063908,No
+151,Miss Cushing,Miss S. Cushing,2.8435481175707755,No
+152,Miss Cushing,Miss Sarah Cushing,2.7338114312457265,No
+153,Miss Susan Cushing,Miss S. Cushing,2.5309257007555943,No
+154,Brown,Browners,2.6702146603041688,No
+155,Brown,Browner,2.74982991426106,No
+156,Miss S. Cushing,Miss Sarah Cushing,2.547592367422261,No
+157,Mr. Browner,Browner,2.64126333590815,No
+158,Mr. Browner,Mrs. Browner,2.6735708757755785,No
+159,Jim,Jimmy,2.540440114519881,No
+160,Jim Browner,Browner,2.64126333590815,No
+161,Miss Sarah Cushing,Miss Sarah,2.6334892280501756,No
+162,Miss Sarah Cushing,Sarah Cushing,2.7421288347305315,No
+163,Browners,Browner,2.897248671201123,No
+164,Alec Fairbairn,Fairbairn,2.656259412347608,No
+165,Violet Hunter,Miss Violet Hunter,2.7421288347305315,No
+166,Violet Hunter,Violet,2.528830557701236,No
+167,Miss Hunter,Miss Violet Hunter,2.6846120476708997,No
+168,Miss Stoper,Miss Stoner,2.52,No
+169,Mr. Rucastle,Mrs. Rucastle,2.7022064615966706,No
+170,Mr. Rucastle,Rucastle,2.6765119140053444,No
+171,Mrs. Rucastle,Rucastle,2.6248737269370848,No
+172,Edward,Edward Holly,2.565108953372333,No
+173,Edward,Edwards,2.879537595841944,No
+174,Rucastles,Rucastle,2.9104143466934853,No
+175,Miss Alice Rucastle,Miss Rucastle,2.7498299142610594,No
+176,Miss Alice Rucastle,Miss Alice,2.6071067811865474,No
+177,Miss Rucastle,Rucastle,2.6248737269370848,No
+178,Presbury,Miss Presbury,2.6248737269370848,No
+179,Mr. Bennett,Mr. Trevor Bennett,2.6708865574748213,No
+180,Mr. Bennett,Bennett,2.64126333590815,No
+181,Mr. Trevor Bennett,Mr. Trevor,2.6334892280501756,No
+182,Jack,Jacky,2.7826920704511053,No
+183,Jack,Jackson,2.540440114519881,No
+184,H. Lowenstein,Lowenstein,2.7826920704511053,No
+185,Mr. Hilton Cubitt,Mr. Cubitt,2.6479166666666667,No
+186,Mr. Hilton Cubitt,Hilton Cubitt,2.7826920704511053,No
+187,Mr. Hilton Cubitt,Mrs. Hilton Cubitt,2.79296447623919,No
+188,Ridling Thorpe,Ridling Thorpe Manor,2.7640122971316687,No
+189,Hilton Cubitt,Mrs. Hilton Cubitt,2.7421288347305315,No
+190,Mr. Abe Slaney,Abe Slaney,2.729486191773741,No
+191,Mr. Abe Slaney,Mr. Slaney,2.760255422542972,No
+192,Mr. Mortimer Tregennis,Mr. Tregennis,2.6559289460184545,No
+193,Mr. Mortimer Tregennis,Mortimer Tregennis,2.836243347350374,No
+194,Mr. Tregennis,Tregennis,2.705385469816615,No
+195,Mortimer Tregennis,Mortimer,2.5240418890962184,No
+196,Miss Brenda Tregennis,Brenda Tregennis,2.7826920704511053,No
+197,Leon Sterndale,Sterndale,2.656259412347608,No
+198,Mortimer,Mortimer Maberley,2.5489378277661476,No
+199,Mortimer,Dr. Mortimer,2.6765119140053444,No
+200,Mr. Culverton Smith,Culverton Smith,2.807843029614123,No
+201,Mr. Homes,Mr. Holmes [,2.5234752345173637,No
+202,Mr. Smith,Mrs. Smith,2.595791244717639,No
+203,Victor,Victor Savage,2.528830557701236,No
+204,Victor,Victor Lynch,2.565108953372333,No
+205,Victor,Victor Trevor,2.528830557701236,No
+206,Victor,Victoria,2.7880113975856595,No
+207,Ronald Adair,Ronald,2.565108953372333,No
+208,Baldwin,Ted Baldwin,2.64126333590815,No
+209,Baldwin,Mr. Baldwin,2.64126333590815,No
+210,Godfrey Milner,Godfrey,2.57167391279445,No
+211,Mr. Hatherley,Mr. Victor Hatherley,2.7087545019583246,No
+212,Mr. Hatherley,Hatherley,2.705385469816615,No
+213,Mr. Ferguson,Ferguson,2.6765119140053444,No
+214,Mr. Ferguson,Mr. Robert Ferguson,2.6697830980177097,No
+215,Ferguson,Bob Ferguson,2.6765119140053444,No
+216,Hatherley,Hatherley Farm-house,2.5330962108388397,No
+217,Willoughby Smith,Mr. Willoughby Smith,2.8183478780421476,No
+218,Harold Stackhurst,Stackhurst,2.6041666666666665,No
+219,McPherson,Mr. McPherson,2.705385469816615,No
+220,McPherson,MacPherson,2.584217170643565,No
+221,Ian Murdoch,Murdoch,2.64126333590815,No
+222,Ian Murdoch,Mr. Ian Murdoch,2.749916159490421,No
+223,Murdoch,Mr. Murdoch,2.64126333590815,No
+224,Anderson,Henderson,2.5279742019277496,No
+225,Maudie,Maud,2.64126333590815,No
+226,Miss Maud Bellamy,Maud Bellamy,2.7249895309221834,No
+227,Miss Maud Bellamy,Miss Bellamy,2.76665619758885,No
+228,Tom Bellamy,Bellamy,2.64126333590815,No
+229,Bellamy,Mr. Bellamy,2.64126333590815,No
+230,Mr. Murdoch,Mr. Ian Murdoch,2.77848758806185,No
+231,Mr. Murdoch,Mr. McMurdo,2.52,No
+232,Wood,Woodley,2.540440114519881,No
+233,Billy,Billy James,2.512455532033676,No
+234,Overton,Mr. Overton,2.64126333590815,No
+235,Mr. Overton,Mr. Cyril Overton,2.7030694150420946,No
+236,Mr. Cyril Overton,Cyril Overton,2.7826920704511053,No
+237,Godfrey Staunton,Godfrey,2.512455532033676,No
+238,Godfrey Staunton,Mr. Godfrey Staunton,2.8183478780421476,No
+239,Godfrey,Godfrey Emsworth,2.512455532033676,No
+240,Godfrey,Mr. Godfrey,2.64126333590815,No
+241,Johnson,Mr. Johnson,2.64126333590815,No
+242,Stevenson,Steve,2.6071067811865474,No
+243,Staunton,Mr. Staunton,2.6765119140053444,No
+244,Mr. Staunton,Mr. Godfrey Staunton,2.6626402962175946,No
+245,Mr. Godfrey Staunton,Mr. Godfrey,2.6307394080047484,No
+246,Jeremy Dixon,Mr. Jeremy Dixon,2.7674599496887864,No
+247,St. Simon,Lady St. Simon,2.5729260790142745,No
+248,Simon,Simon Bird,2.5555555555555554,No
+249,Miss Hatty Doran,Miss Doran,2.6945966692414833,No
+250,Aloysius Doran,Mr. Aloysius Doran,2.7960432596461864,No
+251,Lady Clara St. Simon,Lady St. Simon,2.7640122971316687,No
+252,Miss Flora Millar,Flora Millar,2.6340804400130926,No
+253,Master Holmes,Masser Holmes,2.577777777777778,No
+254,Mrs. Francis Hay Moulton,Francis H. Moulton,2.545940798634006,No
+255,Frank,Frankland,2.6071067811865474,No
+256,Mrs. Moulton,Mr. Moulton,2.6735708757755785,No
+257,Murillo,Don Murillo,2.64126333590815,No
+258,John Hector McFarlane,Mr. John Hector McFarlane,2.8573153736197217,No
+259,John Hector McFarlane,John McFarlane,2.7362257748298546,No
+260,Mr. McFarlane,McFarlane,2.705385469816615,No
+261,Mr. Jonas Oldacre,Mr. Oldacre,2.7030694150420946,No
+262,Mr. Jonas Oldacre,Jonas Oldacre,2.7826920704511053,No
+263,Mr. Oldacre,Oldacre,2.64126333590815,No
+264,McFarlane,John McFarlane,2.656259412347608,No
+265,Mr. John Hector McFarlane,John McFarlane,2.5832022944162096,No
+266,Mr. Cornelius,Cornelius,2.705385469816615,No
+267,Huxtable,Mr. Huxtable,2.6765119140053444,No
+268,Mr. James Wilder,Mr. Wilder,2.68126333590815,No
+269,Mr. James Wilder,James Wilder,2.7674599496887864,No
+270,Heidegger,Herr Heidegger,2.6690799251681208,No
+271,Mr. Reuben Hayes,Reuben Hayes,2.7674599496887864,No
+272,Mr. Hayes,Mrs. Hayes,2.595791244717639,No
+273,Mrs. Warren,Mr. Warren,2.6388295982671233,No
+274,Gennaro,Gennaro Lucca,2.6071067811865474,No
+275,Tito Castalotte,Castalotte,2.6827361066896542,No
+276,Castalotte,Signor Castalotte,2.6041666666666665,No
+277,Josiah Amberley,Mr. Josiah Amberley,2.807843029614123,No
+278,Mrs. Amberley,Mr. Amberley,2.7022064615966706,No
+279,Mr. Josiah Amberley,Mr. Amberley,2.6909952192298308,No
+280,Mr. Barker,Mr. Cecil Barker,2.68126333590815,No
+281,Trelawney Hope,Mr. Trelawney Hope,2.7960432596461864,No
+282,Trelawney Hope,Hilda Trelawney Hope,2.7219070339737743,No
+283,Eduardo Lucas,Mr. Eduardo Lucas,2.7826920704511053,No
+284,Henri Fournaye,M. Henri Fournaye,2.8388878188659974,No
+285,Jacobs,Jacobson,2.7880113975856595,No
+286,Morse Hudson,Mr. Morse Hudson,2.7674599496887864,No
+287,Horace Harker,Mr. Horace Harker,2.6993587371177723,No
+288,Mr. Harker,Mr. Horace Harker,2.6625,No
+289,Miss Violet Smith,Miss Smith,2.6625,No
+290,Ralph Smith,Ralph,2.512455532033676,No
+291,Mr. Carruthers,Carruthers,2.729486191773741,No
+292,Mr. Woodley,Woodley,2.64126333590815,No
+293,Mr. Woodley,Mrs. Woodley,2.6735708757755785,No
+294,Carruthers,Bob Carruthers,2.729486191773741,No
+295,Mr. Williamson,Williamson,2.729486191773741,No
+296,Mr. Williamson,Mr. Wilson,2.5293438513772286,No
+297,Mr. Williamson,Williams,2.579953231859189,No
+298,Williamson,Williams,2.8374726592437525,No
+299,Helen Stoner,Miss Helen Stoner,2.7249895309221834,No
+300,Mr. Armitage,Armitage,2.6765119140053444,No
+301,Miss Helen Stoner,Miss Stoner,2.715569415042095,No
+302,Mr. Robert Ferguson,Robert Ferguson,2.807843029614123,No
+303,Morrison,Miss Morrison,2.5296356316989894,No
+304,Morrison,Morris,2.7880113975856595,No
+305,Harrow,Harrow Weald,2.565108953372333,No
+306,Steve Dixie,Steve,2.512455532033676,No
+307,Mrs. Maberley,Maberley,2.6248737269370848,No
+308,Mary Maberley,Maberley,2.638762615825973,No
+309,Douglas,Douglas Maberley,2.512455532033676,No
+310,Douglas,Mr. Douglas,2.64126333590815,No
+311,Langdale Pike,Langdale,2.68042928249264,No
+312,Garrideb,John Garrideb,2.6248737269370848,No
+313,Garrideb,Mr. Garrideb,2.6765119140053444,No
+314,Garrideb,Garridebs,2.9104143466934853,No
+315,John Garrideb,Mr. John Garrideb,2.7826920704511053,No
+316,"U. S. A.""
+
+Holmes",U. S. A.,2.5013873422401014,No
+317,Mr. John Garrideb,Mr. Garrideb,2.7562395309221834,No
+318,Mr. Nathan Garrideb,Mr. Garrideb,2.6909952192298308,No
+319,Mr. Nathan Garrideb,Mr. Nathan,2.6071067811865474,No
+320,Mr. Nathan Garrideb,Nathan Garrideb,2.807843029614123,No
+321,Mr. Hilton Soames,Mr. Soames,2.6479166666666667,No
+322,Johann Faber,Johann,2.565108953372333,No
+323,Gilchrist,Jabez Gilchrist,2.6130718031613114,No
+324,Gilchrist,Mr. Gilchrist,2.705385469816615,No
+325,Edmunds,Mr. Edmunds,2.64126333590815,No
+326,Mr. John Scott Eccles,Scott Eccles,2.5916198487095663,No
+327,Mr. John Scott Eccles,Mr. Scott Eccles,2.8076920704511052,No
+328,Scott Eccles,Mr. Scott Eccles,2.7674599496887864,No
+329,Mr. Scott Eccles,Mr. Eccles,2.68126333590815,No
+330,Mr. Henderson,Henderson,2.705385469816615,No
+331,Jose,Joseph,2.64126333590815,No
+332,Jimmie,Jimmie--even,2.565108953372333,No
+333,Mr. John Turner,Mr. Turner,2.71845039240394,No
+334,Mr. Charles McCarthy,Mr. McCarthy,2.620216053793352,No
+335,McCarthy,Mr. McCarthy,2.6765119140053444,No
+336,Mr. McCarthy,Mr. James McCarthy,2.722046725363373,No
+337,Mr. James McCarthy,James McCarthy,2.7960432596461864,No
+338,Miss Nancy Devoy,Nancy Devoy,2.7053854698166147,No
+339,Nancy,Nancy Devoy,2.512455532033676,No
+340,Henry,Henry Wood,2.5555555555555554,No
+341,Henry Wood,Mr. Henry Wood,2.729486191773741,No
+342,Harry Wood,Harry,2.5555555555555554,No
+343,Teddy,Ted,2.540440114519881,No
+344,Latimer,Mr. Latimer,2.64126333590815,No
+345,Frances Carfax,Frances,2.57167391279445,No
+346,Frances Carfax,Lady Frances Carfax,2.7572439930062047,No
+347,Lady Frances,Lady Frances Carfax,2.703958182192794,No
+348,Miss Marie Devine,Marie Devine,2.7249895309221834,No
+349,Shlessinger,Mrs. Shlessinger,2.7053854698166147,No
+350,Mr. Peters,Mrs. Peters,2.6388295982671233,No
+351,Prendergast,Jack Prendergast,2.7053854698166147,No
+352,Prendergast,Predergast,2.6491999686374936,No
+353,John Openshaw,Openshaw,2.6248737269370848,No
+354,Fordham,Mr. Fordham,2.64126333590815,No
+355,Grimpen,Grimpen Mire,2.6476398549669056,No
+356,Baskerville Hall,Baskerville,2.7498299142610594,No
+357,Baskerville,Hugo Baskerville,2.7053854698166147,No
+358,Baskerville,Henry Baskerville,2.6655694150420945,No
+359,Baskerville,Rodger Baskerville,2.5630434202199197,No
+360,Elizabeth,Eliza,2.6071067811865474,No
+361,Barrymore,Mr. Barrymore,2.705385469816615,No
+362,Barrymore,Mrs. Barrymore,2.656259412347608,No
+363,Mr. Henry Baskerville,Henry Baskerville,2.827760524333249,No
+364,Mr. Frankland,Frankland,2.705385469816615,No
+365,Mr. Stapleton,Stapleton,2.705385469816615,No
+366,Mr. Stapleton,Stapletons,2.5105410996602417,No
+367,Mr. Stapleton,Mrs. Stapleton,2.7262176664407995,No
+368,Mr. Barrymore,Mrs. Barrymore,2.7262176664407995,No
+369,James Desmond,Mr. James Desmond,2.7826920704511053,No
+370,John Clayton,John Clay,2.798257410876987,No
+371,Clayton,Clay,2.540440114519881,No
+372,Stapleton,Miss Stapleton,2.656259412347608,No
+373,Stapleton,Stapletons,2.9205868193598414,No
+374,Stapleton,Mrs. Stapleton,2.656259412347608,No
+375,L. L.,L. L.--but,2.5555555555555554,No
+376,Laura Lyons,Mrs. Laura Lyons,2.605385469816615,No
+377,Mrs. Laura Lyons,Mrs. Lyons,2.6945966692414833,No
+378,Mrs. Vandeleur,Vandeleur,2.656259412347608,No
+379,Baron Gruner,Baron Adelbert Gruner,2.5970743941641117,No
+380,de Merville,De Merville,2.7333333333333334,No
+381,de Merville,Miss de Merville,2.7053854698166147,No
+382,Miss Violet de Merville,Miss de Merville,2.69541979354174,No
+383,Baron Adelbert Gruner,Adelbert Gruner,2.7366600265340755,No
+384,Miss Kitty Winter,Miss Winter,2.715569415042095,No
+385,Miss Kitty Winter,Kitty Winter,2.7249895309221834,No
+386,Adelbert Gruner,Adelbert,2.6071067811865474,No
+387,Isa Whitney,Mr. Isa Whitney,2.749916159490421,No
+388,Isa Whitney,Whitney,2.64126333590815,No
+389,Neville St. Clair,Mr. Neville St. Clair,2.7235938576665824,No
+390,Mr. St. Clair,Mr. Neville St. Clair,2.68126333590815,No
+391,Mr. St. Clair,Mrs. St. Clair,2.7262176664407995,No
+392,Musgrave,Mr. Musgrave,2.6765119140053444,No
+393,Musgrave,Musgrave Ritual,2.6071067811865474,No
+394,Musgrave,Musgraves,2.9104143466934853,No
+395,Percy Phelps,Mr. Percy Phelps,2.6765508587796956,No
+396,Joseph Harrison,Mr. Joseph Harrison,2.807843029614123,No
+397,Mr. Harrison,Mr. Joseph Harrison,2.6909952192298308,No
+398,Mr. Harrison,Mr. Harris,2.8681703973696546,No
+399,Mr. Phelps,Mr. Percy Phelps,2.6945966692414833,No
+400,Mr. Joseph Harrison,Mr. Harris,2.5904401145198808,No
+401,Neil Gibson,J. Neil Gibson,2.800134942383952,No
+402,Neil Gibson,Mr. Neil Gibson,2.749916159490421,No
+403,Miss Dunbar,Miss Grace Dunbar,2.715569415042095,No
+404,J. Neil Gibson,Mr. Neil Gibson,2.7393160298101713,No
+405,Mr. Gibson,Mr. Neil Gibson,2.71845039240394,No
+406,Mr. Gibson,Mrs. Gibson,2.6388295982671233,No
+407,Mr. Joyce Cummings,Mr. Cummings,2.722046725363373,No
+408,Mr. Wilson,Mr. Jabez Wilson,2.68126333590815,No
+409,Mr. Jabez Wilson,Jabez Wilson,2.7674599496887864,No
+410,Duncan Ross,Mr. Duncan Ross,2.749916159490421,No
+411,William Morris,Mr. William Morris,2.7960432596461864,No
+412,Mr. Merryweather,Merryweather,2.7674599496887864,No
+413,John Clay,Mr. John Clay,2.705385469816615,No
+414,Cunningham,Mr. Cunningham,2.729486191773741,No
+415,Cunningham,Alec Cunningham,2.6827361066896542,No
+416,Forrester,Mrs. Forrester,2.656259412347608,No
+417,Mr. Cunningham,Mr. Alec Cunningham,2.7850217707839824,No
+418,Mr. Alec Cunningham,Mr. Alec,2.5013873422401014,No
+419,Mr. Alec Cunningham,Alec Cunningham,2.807843029614123,No
+420,Percy Trevelyan,Trevelyan,2.6130718031613114,No
+421,Bruce Pinkerton,Pinkerton,2.6130718031613114,No
+422,Blessington,Mr. Blessington,2.749916159490421,No
+423,Athelney Jones,Mr. Athelney Jones,2.7960432596461864,No
+424,Miss Mary Morstan,Mary Morstan,2.664383470316123,No
+425,Mrs. Cecil Forrester,Mrs. Forrester,2.7640122971316687,No
+426,Mahomet Singh,Mahomet,2.6071067811865474,No
+427,Abdullah Khan,Abdullah,2.68042928249264,No
+428,Mr. Thaddeus Sholto,Thaddeus Sholto,2.807843029614123,No
+429,Mr. Thaddeus Sholto,Mr. Thaddeus,2.703958182192794,No
+430,Bartholomew,Mr. Bartholomew Sholto,2.51546238473918,No
+431,Bartholomew,Bartholomew Sholto,2.6846120476708997,No
+432,Bartholomew,Bartholomew Wilson,2.6846120476708997,No
+433,Lal Chowdar,I. Lal Chowdar,2.800134942383952,No
+434,Thaddeus Sholto,Thaddeus,2.6071067811865474,No
+435,Mr. Thaddeus,Thaddeus,2.6765119140053444,No
+436,Mr. Bartholomew Sholto,Bartholomew Sholto,2.836243347350374,No
+437,Jonathan Small,Jonathan,2.6414916933976507,No
+438,Sherman,Mr. Sherman,2.64126333590815,No
+439,Hindoos,Hindoo,2.879537595841944,No
+440,Jonathan,Jonathan Wild,2.68042928249264,No
+441,Mordecai Smith,Mr. Mordecai Smith,2.7960432596461864,No
+442,Abelwhite,Mr. Abelwhite,2.705385469816615,No
+443,Mr. Hall Pycroft,Mr. Pycroft,2.7387188031499483,No
+444,Mr. Hall Pycroft,Hall Pycroft,2.7674599496887864,No
+445,Mr. Pycroft,Pycroft,2.64126333590815,No
+446,Arthur Pinner,Mr. Arthur Harry Pinner,2.587033794360845,No
+447,Mr. Pinner,Mr. Harry Pinner,2.68126333590815,No
+448,Harry Pinner,Mr. Harry Pinner,2.7674599496887864,No
+449,Mr. Harry Pinner,Mr. Arthur Harry Pinner,2.7514803996023462,No
+450,MacDonald,Alec MacDonald,2.656259412347608,No
+451,MacDonald,Mr. MacDonald,2.705385469816615,No
+452,Mr. Mac,Mr. MacDonald,2.6071067811865474,No
+453,Mr. Douglas,Mrs. Douglas,2.6735708757755785,No
+454,Mr. Douglas,Mr. John Douglas,2.7387188031499483,No
+455,White Mason,Mr. White Mason,2.749916159490421,No
+456,John Douglas,Mr. John Douglas,2.7674599496887864,No
+457,Cecil James Barker,Cecil Barker,2.7338114312457265,No
+458,Cecil Barker,Mr. Cecil Barker,2.7674599496887864,No
+459,McGinty,Mr. McGinty,2.64126333590815,No
+460,Bodymaster McGinty,Bodymaster,2.6334892280501756,No
+461,Ted Baldwin,Teddy Baldwin,2.628250502924416,No
+462,Bodymaster J. H. Scott,Bodymaster,2.540367956422263,No
+463,McMurdo,Mr. McMurdo,2.64126333590815,No
+464,Jack McMurdo--see,Jack McMurdo,2.76665619758885,No
+465,Miss Ettie Shafter,Miss Ettie,2.6334892280501756,No
+466,Miss Ettie Shafter,Ettie Shafter,2.7421288347305315,No
+467,Mr. McMurdo,Mr. Crooked McMurdo,2.641652288796226,No
+468,Marvin,Marvin--he,2.6564671036110408,No
+469,Jim Carnaway,Carnaway,2.6765119140053444,No
+470,Stanger,Mr. Stanger,2.64126333590815,No
+471,Mr. Chairman,Mr. Chairman--yourself,2.6285087692176505,No
+472,Mr. Grant Munro,Mr. Munro,2.6559289460184545,No
+473,Mr. Grant Munro,Grant Munro,2.749916159490421,No
